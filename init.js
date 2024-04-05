@@ -8,9 +8,9 @@ const fs = require('fs');
 const path = require('path');
 
 // ------------------------------------------------------------------------------------------- 以下内容需要自己替换
-const subSiteAuthor = 'Nova';
-const subSiteKeywords = `` + ','; // 关键字，多个关键字用逗号分隔
-const indexNowKey = 'ec9c9516ea82433086d979e16e1960e0'; // 替换为你的API密钥
+const subSiteAuthor = 'Marry';
+const subSiteKeywords = `unlock android phone, unlock android tool, android unlock tool` + ','; // 关键字，多个关键字用逗号分隔
+const indexNowKey = '13d79bf42d004a0e8fb87dc63ea28011'; // 替换为你的API密钥
 
 
 
