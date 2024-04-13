@@ -331,6 +331,12 @@ Step 10: On the Xiaomi Redmi Note 12R , one message will appear asking if you wa
 
 Use volume keys to select and power button to confirm. Once this is done, the Xiaomi Redmi Note 12R  device will restart once and it’s done. The device is now bootloader unlocked.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

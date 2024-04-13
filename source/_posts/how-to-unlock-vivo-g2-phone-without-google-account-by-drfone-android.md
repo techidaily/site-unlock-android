@@ -485,6 +485,12 @@ Forgetting your Vivo G2  screen unlock password, PIN, or pattern is quite common
 
 If you’re looking for ways that are time-effective and reliable, you can use your Google account or other ways to unlock Vivo G2  and set a new screen lock. However, with these methods, you can lose your data, so we only recommend using them if your device is backed up.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

@@ -394,6 +394,12 @@ The Android Device Manager is an excellent initiative taken by Google to give pe
 
 So, make use of this guide and get back command over your Android phone.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
