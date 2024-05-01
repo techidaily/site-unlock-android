@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo Y36i Phone Pattern Lock without Factory Reset
-date: 2024-04-12T02:29:49.692Z
-updated: 2024-04-13T02:29:49.692Z
+date: 2024-04-30T02:51:50.821Z
+updated: 2024-05-01T02:51:50.821Z
 tags: 
   - unlock
   - remove screen lock
@@ -374,3 +374,4 @@ Now, to sum up, we would say that in this article, we tried to bring out the bes
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-note-12-proplus-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi Note 12 Pro+ 5G Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-11-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone 11 Pro Max If Youve Tried Everything</u></a></li>
 </ul></div>
+

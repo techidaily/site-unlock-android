@@ -594,3 +594,4 @@ When you know about all the popular options for the fingerprint screen lock app,
 <li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-infinix-by-fonelab-android-recover-data/" ><u>Solutions to restore deleted files from Infinix</u></a></li>
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-google-pixel-8-pro-by-fonelab-android-recover-video/" ><u>Undeleted lost videos from Google Pixel 8 Pro</u></a></li>
 </ul></div>
+

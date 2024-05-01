@@ -594,3 +594,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-y100-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/" ><u>The Ultimate Guide to Vivo Y100 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-v30-pro-fingerprint-not-working-solutions-by-drfone-android/" ><u>Top 12 Prominent Vivo V30 Pro Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+

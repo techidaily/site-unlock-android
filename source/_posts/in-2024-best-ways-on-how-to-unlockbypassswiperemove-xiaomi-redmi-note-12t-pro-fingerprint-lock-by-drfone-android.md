@@ -1,7 +1,7 @@
 ---
 title: In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 12T Pro Fingerprint Lock
-date: 2024-04-02 22:40:29
-updated: 2024-04-05 16:11:21
+date: 2024-04-30T03:02:31.039Z
+updated: 2024-05-01T03:02:31.039Z
 tags: 
   - unlock
   - remove screen lock
@@ -352,4 +352,96 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30i-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30i Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-magic-5-lite-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor Magic 5 Lite Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-v30-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo V30?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-oppo-find-n3-flip-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Oppo Find N3 Flip Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 12T Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-mix-fold-3-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Mix Fold 3 Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-zero-30-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix Zero 30 5G? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-s18e-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo S18e</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-note-30-vip-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Note 30 VIP Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-itel-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Itel</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-hot-40-pro-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-a70-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel A70</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-zte-nubia-flip-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change ZTE Nubia Flip 5G Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-note-13-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi Note 13 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel S23 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y36i-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y36i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-zte-axon-40-lite-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your ZTE Axon 40 Lite Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-mix-fold-3-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Mix Fold 3 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-redmi-note-12-proplus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Redmi Note 12 Pro+ 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y100i-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y100i Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-14-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi 14 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-redmi-13c-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi Redmi 13C Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-infinix-note-30-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Infinix Note 30</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-google-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Google Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-honor-100-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor 100 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-hot-30is-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Hot 30is Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-13-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi 13 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Infinix Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-zte-nubia-flip-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked ZTE Nubia Flip 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-hot-40-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Hot 40 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-p40plus-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel P40+ Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-14-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi 14 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-13c-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi 13C 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-play-7t-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor Play 7T</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi Note 12T Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-y100i-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo Y100i Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-xiaomi-14-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Xiaomi 14 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-tecno-pop-8-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-nokia-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Nokia FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-t2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo T2 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-samsung-galaxy-z-flip-5-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-realme-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Realme</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-s-best-free-video-rotators-for-3gp-files-a-comprehensive-guide/"><u>Updated In 2024, S Best Free Video Rotators for 3GP Files A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-y56-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo Y56 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-itel-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Itel FRP</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-xs-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone XS with 3 Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-avidemux-no-sound-solution/"><u>In 2024, Avidemux No Sound Solution</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-realme-note-50-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-14-plus-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 14 Plus?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-zte-nubia-z60-ultra-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor ZTE Nubia Z60 Ultra Activity | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 to Roku? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-8-plus-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 8 Plus In Different Conditionsin</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-zte-blade-a73-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From ZTE Blade A73 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-no-cost-flv-video-editors-our-top-5-recommendations/"><u>2024 Approved No-Cost FLV Video Editors Our Top 5 Recommendations</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s24-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S24 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-11-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-11-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 11 Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2000-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2000 | Stellar</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-v29e-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo V29e without App | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-12-mini-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 12 mini Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-90-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor 90 Pro FRP Locks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-10-best-free-gif-apps-for-iphone-and-ipad-for-2024/"><u>Updated 10 Best Free GIF Apps for iPhone and iPad for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 12 Pro Max</u></a></li>
+<li><a href="https://review-topics.techidaily.com/iphone-6s-plus-data-recovery-an-infographic-to-conquer-iphone-data-loss-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 6s Plus Data Recovery – An Infographic to Conquer iPhone Data Loss | Stellar</u></a></li>
+</ul></div>
 

@@ -558,3 +558,4 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-vivo-v30-phone-that-is-locked-by-drfone-android/" ><u>How to Reset a Vivo V30 Phone that is Locked?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-a2plus-by-drfone-android/" ><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi A2+</u></a></li>
 </ul></div>
+

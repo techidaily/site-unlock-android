@@ -1,7 +1,7 @@
 ---
 title: How To Remove Screen Lock PIN On Vivo Y36i Like A Pro 5 Easy Ways
-date: 2024-04-12T02:29:47.603Z
-updated: 2024-04-13T02:29:47.603Z
+date: 2024-04-30T02:51:50.799Z
+updated: 2024-05-01T02:51:50.799Z
 tags: 
   - unlock
   - remove screen lock
@@ -544,3 +544,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A58 4G? | Dr.fone</u></a></li>
 </ul></div>
+

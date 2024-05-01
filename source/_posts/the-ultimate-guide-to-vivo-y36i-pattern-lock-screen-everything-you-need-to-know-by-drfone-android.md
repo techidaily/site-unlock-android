@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Vivo Y36i Pattern Lock Screen Everything You Need to Know
-date: 2024-04-12T02:29:46.637Z
-updated: 2024-04-13T02:29:46.637Z
+date: 2024-04-30T02:51:50.792Z
+updated: 2024-05-01T02:51:50.792Z
 tags: 
   - unlock
   - remove screen lock
@@ -476,3 +476,4 @@ By following this guide, you would certainly be able to learn how to unlock the 
 <li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-magic-5-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Magic 5</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-xs-max-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone XS Max for Free</u></a></li>
 </ul></div>
+

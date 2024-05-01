@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y36i Pattern Lock Screen
-date: 2024-04-12T02:29:54.951Z
-updated: 2024-04-13T02:29:54.951Z
+date: 2024-04-30T02:51:50.902Z
+updated: 2024-05-01T02:51:50.902Z
 tags: 
   - unlock
   - remove screen lock
@@ -532,3 +532,4 @@ Whether it is an easy pattern lock or a hard pattern lock, the fact is that patt
 <li><a href="https://techidaily.com/will-motorola-moto-g-stylus-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Motorola Moto G Stylus 5G (2023) play AVCHD mts files?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-y100i-power-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Y100i Power 5G</u></a></li>
 </ul></div>
+

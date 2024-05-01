@@ -1,7 +1,7 @@
 ---
 title: How to Remove a Previously Synced Google Account from Your Vivo Y36i
-date: 2024-04-12T02:29:44.268Z
-updated: 2024-04-13T02:29:44.268Z
+date: 2024-04-30T02:51:50.773Z
+updated: 2024-05-01T02:51:50.773Z
 tags: 
   - unlock
   - remove screen lock
@@ -539,3 +539,4 @@ Any method can solve the problems of using your device with your Android handset
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Infinix Smart 8 Phone</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y100-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y100 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+

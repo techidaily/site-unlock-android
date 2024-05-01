@@ -608,3 +608,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-note-12r-to-protect-your-individual-information-by-drfone-android/" ><u>How to Lock Apps on Xiaomi Redmi Note 12R to Protect Your Individual Information</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-a2plus-phone-by-drfone-android/" ><u>In 2024, How to Reset a Locked Xiaomi Redmi A2+ Phone</u></a></li>
 </ul></div>
+

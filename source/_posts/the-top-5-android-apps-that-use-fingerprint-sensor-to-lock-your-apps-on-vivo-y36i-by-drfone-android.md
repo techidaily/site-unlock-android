@@ -1,7 +1,7 @@
 ---
 title: The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y36i
-date: 2024-04-12T02:29:45.339Z
-updated: 2024-04-13T02:29:45.339Z
+date: 2024-04-30T02:51:50.781Z
+updated: 2024-05-01T02:51:50.781Z
 tags: 
   - unlock
   - remove screen lock
@@ -522,3 +522,4 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme 12 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-nokia-c12-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Nokia C12 Pro?</u></a></li>
 </ul></div>
+

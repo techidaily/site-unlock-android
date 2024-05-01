@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo Y36i Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-12T02:29:46.799Z
-updated: 2024-04-13T02:29:46.799Z
+date: 2024-04-30T02:51:50.793Z
+updated: 2024-05-01T02:51:50.793Z
 tags: 
   - unlock
   - remove screen lock
@@ -565,3 +565,4 @@ Have you ever experienced voicemail lockout? Which technique did you employ to f
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-v30-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo V30 Pro to iPhone | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-13c-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi 13C 5GFRP Lock</u></a></li>
 </ul></div>
+

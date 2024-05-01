@@ -1,7 +1,7 @@
 ---
 title: Full Guide to Unlock Your Vivo Y36i
-date: 2024-04-12T02:29:47.119Z
-updated: 2024-04-13T02:29:47.119Z
+date: 2024-04-30T02:51:50.796Z
+updated: 2024-05-01T02:51:50.796Z
 tags: 
   - unlock
   - remove screen lock
@@ -469,3 +469,4 @@ If you know your Google account password, then you can easily unlock your phone 
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-note-50-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme Note 50 to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-y77t-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo Y77t</u></a></li>
 </ul></div>
+

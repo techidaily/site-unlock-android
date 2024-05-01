@@ -1,7 +1,7 @@
 ---
 title: Unlock Vivo Y36i Phone Password Without Factory Reset Full Guide Here
-date: 2024-04-12T02:29:43.134Z
-updated: 2024-04-13T02:29:43.134Z
+date: 2024-04-30T02:51:50.763Z
+updated: 2024-05-01T02:51:50.763Z
 tags: 
   - unlock
   - remove screen lock
@@ -403,3 +403,4 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://howto.techidaily.com/calls-on-motorola-moto-e13-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Motorola Moto E13 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Max Without iTunes | Dr.fone</u></a></li>
 </ul></div>
+

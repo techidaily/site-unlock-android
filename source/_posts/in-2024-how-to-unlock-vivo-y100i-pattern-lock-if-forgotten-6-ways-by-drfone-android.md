@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Vivo Y100i Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-12T02:29:27.616Z
-updated: 2024-04-13T02:29:27.616Z
+date: 2024-04-30T02:51:50.431Z
+updated: 2024-05-01T02:51:50.431Z
 tags: 
   - unlock
   - remove screen lock
@@ -582,3 +582,4 @@ In summary, this article detailed various methods to fix **the Vivo Y100i finger
 <li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-13c-5g-device-by-drfone-android/" ><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi 13C 5G Device</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y100i-through-google-earth-by-drfone-android/" ><u>In 2024, How To Track IMEI Number Of Vivo Y100i Through Google Earth?</u></a></li>
 </ul></div>
+

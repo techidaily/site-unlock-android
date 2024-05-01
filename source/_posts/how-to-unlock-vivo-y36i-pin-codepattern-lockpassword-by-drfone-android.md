@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo Y36i PIN Code/Pattern Lock/Password
-date: 2024-04-12T02:29:50.631Z
-updated: 2024-04-13T02:29:50.631Z
+date: 2024-04-30T02:51:50.828Z
+updated: 2024-05-01T02:51:50.828Z
 tags: 
   - unlock
   - remove screen lock
@@ -576,3 +576,4 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2x-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo T2x 5G to New Android? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-hot-40i-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Hot 40i Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+

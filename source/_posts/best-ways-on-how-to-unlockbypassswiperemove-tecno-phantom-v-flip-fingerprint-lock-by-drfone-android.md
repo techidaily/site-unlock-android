@@ -373,3 +373,4 @@ The problem of getting your mobile locked and not being able to open it is a com
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-zte-nubia-flip-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, How I Transferred Messages from ZTE Nubia Flip 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-infinix-smart-8-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>What To Do if Your Infinix Smart 8 Pro Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+

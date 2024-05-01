@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Vivo Y36i Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-12T02:29:58.719Z
-updated: 2024-04-13T02:29:58.720Z
+date: 2024-04-30T02:51:50.965Z
+updated: 2024-05-01T02:51:50.965Z
 tags: 
   - unlock
   - remove screen lock
@@ -452,3 +452,4 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 <li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-2-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 2 Pro in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor Play 8T? | Dr.fone</u></a></li>
 </ul></div>
+

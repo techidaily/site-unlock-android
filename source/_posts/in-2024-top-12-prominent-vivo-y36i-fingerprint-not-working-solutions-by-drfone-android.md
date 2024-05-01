@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 12 Prominent Vivo Y36i Fingerprint Not Working Solutions
-date: 2024-04-12T02:29:54.586Z
-updated: 2024-04-13T02:29:54.586Z
+date: 2024-04-30T02:51:50.858Z
+updated: 2024-05-01T02:51:50.858Z
 tags: 
   - unlock
   - remove screen lock
@@ -698,3 +698,4 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 12 mini</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-15-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 15 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
 </ul></div>
+

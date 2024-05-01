@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100i Power 5G Pattern Lock Screen
-date: 2024-04-12T02:30:18.862Z
-updated: 2024-04-13T02:30:18.862Z
+date: 2024-04-30T02:51:51.188Z
+updated: 2024-05-01T02:51:51.188Z
 tags: 
   - unlock
   - remove screen lock
@@ -558,3 +558,4 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola G24 Power | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c02-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C02? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+

@@ -485,3 +485,4 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-by-drfone-ios/" ><u>In 2024, How to Make the Most of Your iPhone 8 Lock Screen with Notifications?</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-oneplus-open-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/" ><u>How to Reset a OnePlus Open Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+

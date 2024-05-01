@@ -387,3 +387,4 @@ Technology has a pivotal influence on today's high-tech lifestyles, which is rew
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

@@ -485,3 +485,4 @@ In summary, this article detailed various methods to fix **the Infinix Hot 40 fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

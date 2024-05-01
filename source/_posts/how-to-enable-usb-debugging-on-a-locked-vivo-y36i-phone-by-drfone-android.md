@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Vivo Y36i Phone
-date: 2024-04-12T02:29:42.007Z
-updated: 2024-04-13T02:29:42.007Z
+date: 2024-04-30T02:51:50.753Z
+updated: 2024-05-01T02:51:50.753Z
 tags: 
   - unlock
   - remove screen lock
@@ -438,3 +438,4 @@ If you know your Google account password, then you can easily unlock your phone 
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nokia-c12-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nokia C12 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-14-pro-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 14 Pro With or Without Password</u></a></li>
 </ul></div>
+

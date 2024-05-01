@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo Y100i Power 5G Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-12T02:30:10.772Z
-updated: 2024-04-13T02:30:10.772Z
+date: 2024-04-30T02:51:51.119Z
+updated: 2024-05-01T02:51:51.119Z
 tags: 
   - unlock
   - remove screen lock
@@ -490,3 +490,4 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-sony-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Sony ?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-11-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 11 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+

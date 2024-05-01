@@ -470,3 +470,4 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://fix-guide.techidaily.com/reasons-for-sony-xperia-5-v-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Reasons for Sony Xperia 5 V Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x50-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>In 2024, How to Transfer Data from Honor X50 to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+

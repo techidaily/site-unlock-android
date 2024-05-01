@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo Y36i Phone with Broken Screen
-date: 2024-04-12T02:29:49.861Z
-updated: 2024-04-13T02:29:49.861Z
+date: 2024-04-30T02:51:50.822Z
+updated: 2024-05-01T02:51:50.822Z
 tags: 
   - unlock
   - remove screen lock
@@ -419,3 +419,4 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy S23+ | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-infinix-note-30-vip-racing-edition-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Infinix Note 30 VIP Racing Edition</u></a></li>
 </ul></div>
+

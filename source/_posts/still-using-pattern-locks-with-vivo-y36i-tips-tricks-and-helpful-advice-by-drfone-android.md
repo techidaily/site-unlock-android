@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Vivo Y36i? Tips, Tricks and Helpful Advice
-date: 2024-04-12T02:29:41.849Z
-updated: 2024-04-13T02:29:41.849Z
+date: 2024-04-30T02:51:50.751Z
+updated: 2024-05-01T02:51:50.751Z
 tags: 
   - unlock
   - remove screen lock
@@ -427,3 +427,4 @@ The problem of getting your mobile locked and not being able to open it is a com
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy F04? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-k11-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo K11 5G | Dr.fone</u></a></li>
 </ul></div>
+

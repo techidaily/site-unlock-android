@@ -1,7 +1,7 @@
 ---
 title: How to Remove Forgotten PIN Of Your Vivo Y36i
-date: 2024-04-12T02:29:47.279Z
-updated: 2024-04-13T02:29:47.279Z
+date: 2024-04-30T02:51:50.797Z
+updated: 2024-05-01T02:51:50.797Z
 tags: 
   - unlock
   - remove screen lock
@@ -443,3 +443,4 @@ Passwords shield our phones from unapproved access, yet we get locked out unexpe
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-t2x-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo T2x 5G Pattern Lock Screen</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-14-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 14 Pro Max in Lost Mode</u></a></li>
 </ul></div>
+

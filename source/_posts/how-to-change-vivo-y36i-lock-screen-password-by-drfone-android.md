@@ -1,7 +1,7 @@
 ---
 title: How To Change Vivo Y36i Lock Screen Password?
-date: 2024-04-12T02:29:43.946Z
-updated: 2024-04-13T02:29:43.946Z
+date: 2024-04-30T02:51:50.770Z
+updated: 2024-05-01T02:51:50.770Z
 tags: 
   - unlock
   - remove screen lock
@@ -476,3 +476,4 @@ These are some of the best lock screen apps for Android that you can find. You c
 <li><a href="https://howto.techidaily.com/calls-on-xiaomi-civi-3-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Civi 3 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-infinix-zero-5g-2023-turbo-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Infinix Zero 5G 2023 Turbo Phones? | Dr.fone</u></a></li>
 </ul></div>
+

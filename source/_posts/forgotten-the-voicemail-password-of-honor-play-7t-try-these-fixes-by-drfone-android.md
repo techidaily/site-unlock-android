@@ -521,3 +521,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Plus? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-reno-8t-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo Reno 8T Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
