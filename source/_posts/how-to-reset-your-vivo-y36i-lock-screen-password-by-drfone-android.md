@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Vivo Y36i Lock Screen Password
-date: 2024-04-30T02:51:50.734Z
-updated: 2024-05-01T02:51:50.734Z
+date: 2024-05-19T19:16:52.002Z
+updated: 2024-05-20T19:16:52.002Z
 tags: 
   - unlock
   - remove screen lock
@@ -506,4 +506,5 @@ When you know about all the popular options for the fingerprint screen lock app,
 <li><a href="https://techidaily.com/undelete-lost-music-from-zero-30-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Zero 30 5G</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c12-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nokia C12 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

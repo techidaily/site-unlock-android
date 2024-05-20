@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Xiaomi 13T Phone
-date: 2024-04-30T03:05:50.561Z
-updated: 2024-05-01T03:05:50.561Z
+date: 2024-05-19T19:17:50.486Z
+updated: 2024-05-20T19:17:50.486Z
 tags: 
   - unlock
   - remove screen lock
@@ -520,4 +520,5 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Xiaomi Redmi 12 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y28-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y28 5G</u></a></li>
 </ul></div>
+
 

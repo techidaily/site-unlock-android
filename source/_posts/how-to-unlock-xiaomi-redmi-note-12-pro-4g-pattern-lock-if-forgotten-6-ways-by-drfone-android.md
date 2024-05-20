@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Xiaomi Redmi Note 12 Pro 4G Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T02:59:29.377Z
-updated: 2024-05-01T02:59:29.377Z
+date: 2024-05-19T19:17:27.839Z
+updated: 2024-05-20T19:17:27.839Z
 tags: 
   - unlock
   - remove screen lock
@@ -509,4 +509,5 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-a60s-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel A60s Quickly | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y100t-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y100t to New Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

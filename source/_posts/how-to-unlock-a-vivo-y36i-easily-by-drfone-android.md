@@ -1,7 +1,7 @@
 ---
 title: How To Unlock a Vivo Y36i Easily?
-date: 2024-04-30T02:51:50.830Z
-updated: 2024-05-01T02:51:50.830Z
+date: 2024-05-19T19:16:53.029Z
+updated: 2024-05-20T19:16:53.029Z
 tags: 
   - unlock
   - remove screen lock
@@ -518,4 +518,5 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 <li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-6-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6 Lock Screen</u></a></li>
 <li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-14-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 14 Plus Space | Dr.fone</u></a></li>
 </ul></div>
+
 

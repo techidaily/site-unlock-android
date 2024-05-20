@@ -1,7 +1,7 @@
 ---
 title: In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y36i
-date: 2024-04-30T02:51:50.836Z
-updated: 2024-05-01T02:51:50.836Z
+date: 2024-05-19T19:16:53.092Z
+updated: 2024-05-20T19:16:53.092Z
 tags: 
   - unlock
   - remove screen lock
@@ -802,4 +802,5 @@ The problem of getting your mobile locked and not being able to open it is a com
 <li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-xs-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone XS without Password?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

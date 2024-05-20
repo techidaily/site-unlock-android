@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Civi 3 Users
-date: 2024-04-30T03:01:48.779Z
-updated: 2024-05-01T03:01:48.779Z
+date: 2024-05-19T19:17:36.086Z
+updated: 2024-05-20T19:17:36.086Z
 tags: 
   - unlock
   - remove screen lock
@@ -447,4 +447,5 @@ Use volume keys to select and power button to confirm. Once this is done, the Xi
 <li><a href="https://ai-editing-video.techidaily.com/this-article-will-show-you-the-steps-to-make-coin-magic-in-videos-with-filmora/"><u>This Article Will Show You the Steps to Make Coin Magic in Videos with Filmora</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

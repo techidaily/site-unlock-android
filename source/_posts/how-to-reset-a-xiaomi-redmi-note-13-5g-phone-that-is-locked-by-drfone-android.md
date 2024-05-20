@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Xiaomi Redmi Note 13 5G Phone that is Locked?
-date: 2024-04-30T03:11:21.811Z
-updated: 2024-05-01T03:11:21.811Z
+date: 2024-05-19T19:18:10.437Z
+updated: 2024-05-20T19:18:10.437Z
 tags: 
   - unlock
   - remove screen lock
@@ -485,4 +485,5 @@ Diving into OEM
 <li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-red-magic-8s-proplus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nubia Red Magic 8S Pro+</u></a></li>
 <li><a href="https://howto.techidaily.com/xiaomi-redmi-a2plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi A2+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
+
 

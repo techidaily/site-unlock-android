@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Xiaomi Redmi Note 12R Phone
-date: 2024-04-30T03:03:22.435Z
-updated: 2024-05-01T03:03:22.435Z
+date: 2024-05-19T19:17:41.669Z
+updated: 2024-05-20T19:17:41.669Z
 tags: 
   - unlock
   - remove screen lock
@@ -554,4 +554,5 @@ And if you ever need to [unlock your SIM card](https://drfone.wondershare.com/si
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-redmi-note-12-pro-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi Redmi Note 12 Pro 5G to Mac? | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

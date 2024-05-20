@@ -522,3 +522,4 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-xiaomi-redmi-12-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Xiaomi Redmi 12 5G to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your Xiaomi Redmi A2 Phone Pattern Lock
-date: 2024-04-30T03:01:10.014Z
-updated: 2024-05-01T03:01:10.014Z
+date: 2024-05-19T19:17:33.785Z
+updated: 2024-05-20T19:17:33.785Z
 tags: 
   - unlock
   - remove screen lock
@@ -510,4 +510,5 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 <li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers on Windows 11 & 10</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lava-blaze-pro-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Lava Blaze Pro 5G</u></a></li>
 </ul></div>
+
 

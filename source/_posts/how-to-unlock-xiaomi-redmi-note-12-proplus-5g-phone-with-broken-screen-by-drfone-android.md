@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Xiaomi Redmi Note 12 Pro+ 5G Phone with Broken Screen
-date: 2024-04-30T02:57:52.265Z
-updated: 2024-05-01T02:57:52.265Z
+date: 2024-05-19T19:17:21.564Z
+updated: 2024-05-20T19:17:21.564Z
 tags: 
   - unlock
   - remove screen lock
@@ -472,4 +472,5 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-12-mini-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 12 mini Passcode not Working? | Dr.fone</u></a></li>
 </ul></div>
+
 

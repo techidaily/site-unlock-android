@@ -529,3 +529,4 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 <li><a href="https://techidaily.com/how-to-reset-lava-blaze-2-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/" ><u>How to Reset Lava Blaze 2 5G without Losing Data | Dr.fone</u></a></li>
 </ul></div>
 
+

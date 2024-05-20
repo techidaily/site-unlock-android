@@ -432,3 +432,4 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s Plus to Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

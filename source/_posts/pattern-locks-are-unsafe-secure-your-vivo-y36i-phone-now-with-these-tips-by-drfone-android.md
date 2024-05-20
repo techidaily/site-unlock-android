@@ -1,7 +1,7 @@
 ---
 title: Pattern Locks Are Unsafe Secure Your Vivo Y36i Phone Now with These Tips
-date: 2024-04-30T02:51:50.769Z
-updated: 2024-05-01T02:51:50.769Z
+date: 2024-05-19T19:16:52.532Z
+updated: 2024-05-20T19:16:52.532Z
 tags: 
   - unlock
   - remove screen lock
@@ -486,4 +486,5 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a34-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A34 5G without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
 </ul></div>
+
 

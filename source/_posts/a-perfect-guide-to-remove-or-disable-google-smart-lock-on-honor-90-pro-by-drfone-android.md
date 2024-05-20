@@ -530,3 +530,4 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-infinix-hot-40i-by-fonelab-android-recover-data/" ><u>Simple ways to get lost files back from Infinix Hot 40i</u></a></li>
 </ul></div>
 
+

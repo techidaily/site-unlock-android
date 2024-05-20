@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 13C Pattern Lock Screen
-date: 2024-04-30T03:08:12.774Z
-updated: 2024-05-01T03:08:12.774Z
+date: 2024-05-19T19:17:59.145Z
+updated: 2024-05-20T19:17:59.145Z
 tags: 
   - unlock
   - remove screen lock
@@ -927,4 +927,5 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 <li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme GT 3 | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-14-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 14 Pro Max Apple ID and Apple Pay</u></a></li>
 </ul></div>
+
 

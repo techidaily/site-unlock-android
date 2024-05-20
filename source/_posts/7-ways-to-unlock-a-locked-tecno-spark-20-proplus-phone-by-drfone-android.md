@@ -486,3 +486,4 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://techidaily.com/how-to-reset-a-oneplus-open-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/" ><u>How to Reset a OnePlus Open Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Vivo Y36i PIN Code/Pattern Lock/Password
-date: 2024-04-30T02:51:50.994Z
-updated: 2024-05-01T02:51:50.994Z
+date: 2024-05-19T19:16:53.946Z
+updated: 2024-05-20T19:16:53.946Z
 tags: 
   - unlock
   - remove screen lock
@@ -483,4 +483,5 @@ Any of the aforementioned methods can be used to overcome the obstacle of using 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y100-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y100 to New Android Phone? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-reno-11f-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Reno 11F 5G FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo S18 PIN Code/Pattern Lock/Password
-date: 2024-04-30T02:55:42.630Z
-updated: 2024-05-01T02:55:42.630Z
+date: 2024-05-19T19:17:13.494Z
+updated: 2024-05-20T19:17:13.494Z
 tags: 
   - unlock
   - remove screen lock
@@ -461,4 +461,5 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-13-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 13 Pro Max? Heres the Best Fixes</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-6s-plus-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 6s Plus Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
+
 

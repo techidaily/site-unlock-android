@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Xiaomi Redmi Note 12 5G Lock Screen Password
-date: 2024-04-30T02:58:11.880Z
-updated: 2024-05-01T02:58:11.880Z
+date: 2024-05-19T19:17:22.864Z
+updated: 2024-05-20T19:17:22.864Z
 tags: 
   - unlock
   - remove screen lock
@@ -544,4 +544,5 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://screen-mirror.techidaily.com/how-oneplus-12r-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How OnePlus 12R Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-motorola-moto-g04-by-drfone-android/"><u>How to Bypass FRP on Motorola Moto G04?</u></a></li>
 </ul></div>
+
 

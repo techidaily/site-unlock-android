@@ -559,3 +559,4 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-a2plus-by-drfone-android/" ><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi A2+</u></a></li>
 </ul></div>
 
+

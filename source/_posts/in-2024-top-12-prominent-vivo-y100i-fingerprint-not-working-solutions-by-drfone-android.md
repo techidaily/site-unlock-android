@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 12 Prominent Vivo Y100i Fingerprint Not Working Solutions
-date: 2024-04-30T02:51:50.394Z
-updated: 2024-05-01T02:51:50.394Z
+date: 2024-05-19T19:16:49.364Z
+updated: 2024-05-20T19:16:49.364Z
 tags: 
   - unlock
   - remove screen lock
@@ -639,4 +639,5 @@ We have discussed 3 different ways above to unlock the locked screen of android 
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-vivo-g2-phone-when-you-forget-the-password-by-drfone-android/" ><u>6 Proven Ways to Unlock Vivo G2 Phone When You Forget the Password</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-vivo-v30-phone-by-drfone-android/" ><u>How to Unlock a Network Locked Vivo V30 Phone?</u></a></li>
 </ul></div>
+
 

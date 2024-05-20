@@ -426,3 +426,4 @@ We have discussed 3 different ways above to unlock the locked screen of android 
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12t-pro-phone-that-is-locked-by-drfone-android/" ><u>How to Reset a Xiaomi Redmi Note 12T Pro Phone that is Locked?</u></a></li>
 </ul></div>
 
+

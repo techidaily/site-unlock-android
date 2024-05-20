@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi 12
-date: 2024-04-30T03:03:52.099Z
-updated: 2024-05-01T03:03:52.099Z
+date: 2024-05-19T19:17:43.595Z
+updated: 2024-05-20T19:17:43.595Z
 tags: 
   - unlock
   - remove screen lock
@@ -536,4 +536,5 @@ This comprehensive guide describes the significance of **Google Smart Lock**. It
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor X50i+ | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y27-4g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y27 4G by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi Note 12R Pattern Lock Screen
-date: 2024-04-30T03:03:23.854Z
-updated: 2024-05-01T03:03:23.854Z
+date: 2024-05-19T19:17:41.782Z
+updated: 2024-05-20T19:17:41.782Z
 tags: 
   - unlock
   - remove screen lock
@@ -642,4 +642,5 @@ The article above gives useful information on some of the important tools for th
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo A78 5G | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-lava-blaze-curve-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Lava Blaze Curve 5G Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

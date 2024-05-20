@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Xiaomi Mix Fold 3 Phone
-date: 2024-04-30T03:05:02.895Z
-updated: 2024-05-01T03:05:02.895Z
+date: 2024-05-19T19:17:47.884Z
+updated: 2024-05-20T19:17:47.884Z
 tags: 
   - unlock
   - remove screen lock
@@ -624,4 +624,5 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-online-sound-wave-video-creators-ranked-and-reviewed/"><u>In 2024, Online Sound Wave Video Creators Ranked and Reviewed</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-basic-video-editing-software-for-non-pros/"><u>In 2024, Basic Video Editing Software for Non-Pros</u></a></li>
 </ul></div>
+
 

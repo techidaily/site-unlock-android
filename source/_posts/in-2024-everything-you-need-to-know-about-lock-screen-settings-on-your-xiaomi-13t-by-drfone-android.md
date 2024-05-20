@@ -1,7 +1,7 @@
 ---
 title: In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi 13T
-date: 2024-04-30T03:05:51.713Z
-updated: 2024-05-01T03:05:51.713Z
+date: 2024-05-19T19:17:50.563Z
+updated: 2024-05-20T19:17:50.563Z
 tags: 
   - unlock
   - remove screen lock
@@ -549,4 +549,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-video-aspect-ratio-a-step-by-step-guide-to-resizing/"><u>New In 2024, Video Aspect Ratio A Step-by-Step Guide to Resizing</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-slideshow-with-movavi-slideshow-maker/"><u>New How to Make a Slideshow with Movavi Slideshow Maker</u></a></li>
 </ul></div>
+
 

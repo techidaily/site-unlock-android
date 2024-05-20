@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Vivo Y36i Phone that is Locked?
-date: 2024-04-30T02:51:50.929Z
-updated: 2024-05-01T02:51:50.929Z
+date: 2024-05-19T19:16:53.495Z
+updated: 2024-05-20T19:16:53.495Z
 tags: 
   - unlock
   - remove screen lock
@@ -458,4 +458,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy Z Flip 5</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-oppo-f23-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo F23 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

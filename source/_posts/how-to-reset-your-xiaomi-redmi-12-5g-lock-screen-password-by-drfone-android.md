@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Xiaomi Redmi 12 5G Lock Screen Password
-date: 2024-04-30T03:04:26.061Z
-updated: 2024-05-01T03:04:26.061Z
+date: 2024-05-19T19:17:45.538Z
+updated: 2024-05-20T19:17:45.538Z
 tags: 
   - unlock
   - remove screen lock
@@ -490,4 +490,5 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-6-plus-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 6 Plus Safe and Legal</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-effects-on-tiktok/"><u>Updated 2024 Approved How to Add Effects on TikTok</u></a></li>
 </ul></div>
+
 

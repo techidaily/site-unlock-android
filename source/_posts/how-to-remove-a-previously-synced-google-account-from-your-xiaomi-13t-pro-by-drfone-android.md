@@ -1,7 +1,7 @@
 ---
 title: How to Remove a Previously Synced Google Account from Your Xiaomi 13T Pro
-date: 2024-04-30T03:06:15.428Z
-updated: 2024-05-01T03:06:15.428Z
+date: 2024-05-19T19:17:52.154Z
+updated: 2024-05-20T19:17:52.154Z
 tags: 
   - unlock
   - remove screen lock
@@ -849,4 +849,5 @@ If you want to manage your iOS passwords and want to [retrieve your Wifi Passwor
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-hot-40-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Hot 40 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
+
 

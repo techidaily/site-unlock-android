@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Vivo Y36i
-date: 2024-04-30T02:51:50.732Z
-updated: 2024-05-01T02:51:50.732Z
+date: 2024-05-19T19:16:51.989Z
+updated: 2024-05-20T19:16:51.989Z
 tags: 
   - unlock
   - remove screen lock
@@ -511,4 +511,5 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-oppo-k11-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Oppo K11 5G Quickly | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-fold-2-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Fold 2 PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Xiaomi 13T Pro
-date: 2024-04-30T03:06:08.908Z
-updated: 2024-05-01T03:06:08.908Z
+date: 2024-05-19T19:17:51.486Z
+updated: 2024-05-20T19:17:51.486Z
 tags: 
   - unlock
   - remove screen lock
@@ -833,4 +833,5 @@ If you want to manage your iOS passwords and want to [retrieve your Wifi Passwor
 <li><a href="https://location-social.techidaily.com/how-to-change-lava-yuva-3-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Lava Yuva 3 Pro Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-8-plus-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 8 Plus</u></a></li>
 </ul></div>
+
 

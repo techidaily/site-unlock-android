@@ -595,3 +595,4 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-v30-pro-fingerprint-not-working-solutions-by-drfone-android/" ><u>Top 12 Prominent Vivo V30 Pro Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 
+

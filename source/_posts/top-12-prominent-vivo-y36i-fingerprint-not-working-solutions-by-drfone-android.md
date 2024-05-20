@@ -1,7 +1,7 @@
 ---
 title: Top 12 Prominent Vivo Y36i Fingerprint Not Working Solutions
-date: 2024-04-30T02:51:50.759Z
-updated: 2024-05-01T02:51:50.759Z
+date: 2024-05-19T19:16:52.455Z
+updated: 2024-05-20T19:16:52.455Z
 tags: 
   - unlock
   - remove screen lock
@@ -966,4 +966,5 @@ If you want to manage your iOS passwords and want to [retrieve your Wifi Passwor
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-s17-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo S17 Pro Location | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-realme-gt-neo-5-se-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme GT Neo 5 SE Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

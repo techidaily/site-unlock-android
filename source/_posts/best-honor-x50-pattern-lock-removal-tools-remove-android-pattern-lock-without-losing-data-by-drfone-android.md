@@ -372,3 +372,4 @@ Use volume keys to select and power button to confirm. Once this is done, the Ho
 <li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-xs-drfone-by-drfone-ios/" ><u>In 2024, Is it Possible to Use Miracast with Apple iPhone XS? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Unlock a Locked Vivo Y36i Phone
-date: 2024-04-30T02:51:50.764Z
-updated: 2024-05-01T02:51:50.764Z
+date: 2024-05-19T19:16:52.500Z
+updated: 2024-05-20T19:16:52.500Z
 tags: 
   - unlock
   - remove screen lock
@@ -622,4 +622,5 @@ However, if you are looking for ways to **unlock phone with Google Assistant**, 
 <li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-s23-ultra-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy S23 Ultra Device</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 6 Plus</u></a></li>
 </ul></div>
+
 

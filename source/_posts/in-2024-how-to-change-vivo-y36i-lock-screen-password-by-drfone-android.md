@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Vivo Y36i Lock Screen Password?
-date: 2024-04-30T02:51:50.924Z
-updated: 2024-05-01T02:51:50.924Z
+date: 2024-05-19T19:16:53.451Z
+updated: 2024-05-20T19:16:53.451Z
 tags: 
   - unlock
   - remove screen lock
@@ -444,4 +444,5 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo V30 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

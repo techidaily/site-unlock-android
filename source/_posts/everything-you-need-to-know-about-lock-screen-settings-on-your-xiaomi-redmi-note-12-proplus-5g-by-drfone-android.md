@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 12 Pro+ 5G
-date: 2024-04-30T02:57:37.450Z
-updated: 2024-05-01T02:57:37.450Z
+date: 2024-05-19T19:17:20.685Z
+updated: 2024-05-20T19:17:20.685Z
 tags: 
   - unlock
   - remove screen lock
@@ -523,4 +523,5 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-itel-p55-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Itel P55 by Name | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-reno-10-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo Reno 10 5G Phone</u></a></li>
 </ul></div>
+
 

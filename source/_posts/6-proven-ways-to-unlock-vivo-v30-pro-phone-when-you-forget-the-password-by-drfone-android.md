@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Vivo V30 Pro Phone When You Forget the Password
-date: 2024-04-30T02:55:00.353Z
-updated: 2024-05-01T02:55:00.353Z
+date: 2024-05-19T19:17:10.617Z
+updated: 2024-05-20T19:17:10.617Z
 tags: 
   - unlock
   - remove screen lock
@@ -517,4 +517,5 @@ However, if you are looking for ways to **unlock phone with Google Assistant**, 
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Pova 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-rotate-videos-with-media-player-classic/"><u>Updated How to Rotate Videos With Media Player Classic</u></a></li>
 </ul></div>
+
 

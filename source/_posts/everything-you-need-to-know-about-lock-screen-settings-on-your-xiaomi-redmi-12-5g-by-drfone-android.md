@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi 12 5G
-date: 2024-04-30T03:04:25.847Z
-updated: 2024-05-01T03:04:25.847Z
+date: 2024-05-19T19:17:45.529Z
+updated: 2024-05-20T19:17:45.529Z
 tags: 
   - unlock
   - remove screen lock
@@ -442,4 +442,5 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-srt-not-displaying-how-to-open-and-use-srt-file-in-vlc/"><u>2024 Approved SRT Not Displaying How to Open and Use SRT File in VLC?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-x50-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor X50 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Xiaomi
-date: 2024-04-30T02:56:47.946Z
-updated: 2024-05-01T02:56:47.946Z
+date: 2024-05-19T19:17:17.755Z
+updated: 2024-05-20T19:17:17.755Z
 tags: 
   - unlock
   - remove screen lock
@@ -490,4 +490,5 @@ As Android reaches new heights every year, gestures are getting more and more en
 <li><a href="https://techidaily.com/how-to-reset-poco-x5-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X5 Pro Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

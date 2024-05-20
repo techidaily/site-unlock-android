@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 12 Pattern Lock Screen
-date: 2024-04-30T03:03:56.466Z
-updated: 2024-05-01T03:03:56.466Z
+date: 2024-05-19T19:17:43.913Z
+updated: 2024-05-20T19:17:43.913Z
 tags: 
   - unlock
   - remove screen lock
@@ -448,4 +448,5 @@ Any methods mentioned above can work to overcome the obstacle of unlocking the s
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme GT 5 (240W)? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Xiaomi Redmi 12 Phone that is Locked?
-date: 2024-04-30T03:03:58.678Z
-updated: 2024-05-01T03:03:58.678Z
+date: 2024-05-19T19:17:44.003Z
+updated: 2024-05-20T19:17:44.003Z
 tags: 
   - unlock
   - remove screen lock
@@ -509,4 +509,5 @@ This guide provides insight into the most common Android issue. Here, we have di
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-motorola-edgeplus-2023-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Motorola Edge+ (2023) Black and White | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-list-of-free-online-face-creators-for-2024/"><u>Updated The Ultimate List of Free Online Face Creators for 2024</u></a></li>
 </ul></div>
+
 

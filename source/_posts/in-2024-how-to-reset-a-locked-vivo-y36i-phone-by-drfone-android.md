@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Locked Vivo Y36i Phone
-date: 2024-04-30T02:51:50.973Z
-updated: 2024-05-01T02:51:50.973Z
+date: 2024-05-19T19:16:53.802Z
+updated: 2024-05-20T19:16:53.802Z
 tags: 
   - unlock
   - remove screen lock
@@ -393,4 +393,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo X Flip | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xr-passcode-screen-by-drfone-ios/"><u>How to Unlock iPhone XR Passcode Screen?</u></a></li>
 </ul></div>
+
 

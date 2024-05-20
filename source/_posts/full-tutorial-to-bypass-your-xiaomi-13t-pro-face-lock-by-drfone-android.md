@@ -1,7 +1,7 @@
 ---
 title: Full Tutorial to Bypass Your Xiaomi 13T Pro Face Lock?
-date: 2024-04-30T03:06:10.413Z
-updated: 2024-05-01T03:06:10.413Z
+date: 2024-05-19T19:17:51.588Z
+updated: 2024-05-20T19:17:51.588Z
 tags: 
   - unlock
   - remove screen lock
@@ -580,4 +580,5 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 <li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-6-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 6 to Avoid Privacy Leak | Stellar</u></a></li>
 <li><a href="https://techidaily.com/remove-the-lock-of-oneplus-nord-ce-3-lite-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of OnePlus Nord CE 3 Lite 5G</u></a></li>
 </ul></div>
+
 

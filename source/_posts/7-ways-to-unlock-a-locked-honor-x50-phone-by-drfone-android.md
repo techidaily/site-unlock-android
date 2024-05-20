@@ -433,3 +433,4 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/" ><u>Your Complete Guide To Reset Lava Blaze Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

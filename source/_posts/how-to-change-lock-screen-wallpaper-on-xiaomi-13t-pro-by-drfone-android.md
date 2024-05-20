@@ -1,7 +1,7 @@
 ---
 title: How to Change Lock Screen Wallpaper on Xiaomi 13T Pro
-date: 2024-04-30T03:06:17.572Z
-updated: 2024-05-01T03:06:17.572Z
+date: 2024-05-19T19:17:52.286Z
+updated: 2024-05-20T19:17:52.286Z
 tags: 
   - unlock
   - remove screen lock
@@ -543,4 +543,5 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s23plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S23+ by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

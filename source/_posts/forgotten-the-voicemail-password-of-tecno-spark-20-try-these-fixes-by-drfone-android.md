@@ -493,3 +493,4 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-lava-blaze-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze 2 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

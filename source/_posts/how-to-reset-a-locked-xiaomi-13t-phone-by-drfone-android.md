@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Xiaomi 13T Phone
-date: 2024-04-30T03:05:46.364Z
-updated: 2024-05-01T03:05:46.364Z
+date: 2024-05-19T19:17:50.308Z
+updated: 2024-05-20T19:17:50.308Z
 tags: 
   - unlock
   - remove screen lock
@@ -516,4 +516,5 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-12-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 12 iCloud Bypass</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-xr-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone XR Lock Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi 13C 5G
-date: 2024-04-30T03:10:08.150Z
-updated: 2024-05-01T03:10:08.150Z
+date: 2024-05-19T19:18:05.950Z
+updated: 2024-05-20T19:18:05.950Z
 tags: 
   - unlock
   - remove screen lock
@@ -505,4 +505,5 @@ This article has specifically provided you with some important details on **how 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-splitting-clips-in-adobe-after-effects-step-by-step/"><u>2024 Approved Splitting Clips in Adobe After Effects Step by Step</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-6s-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 6s Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
 </ul></div>
+
 

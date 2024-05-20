@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Xiaomi 13T Pro Phone
-date: 2024-04-30T03:06:20.596Z
-updated: 2024-05-01T03:06:20.596Z
+date: 2024-05-19T19:17:52.476Z
+updated: 2024-05-20T19:17:52.476Z
 tags: 
   - unlock
   - remove screen lock
@@ -562,4 +562,5 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-dollar-store-diy-hacks-to-use-for-filmmaking/"><u>New In 2024, Dollar-Store DIY Hacks to Use for Filmmaking</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Poco X6? | Dr.fone</u></a></li>
 </ul></div>
+
 

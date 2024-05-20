@@ -682,3 +682,4 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-11-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 11 Pro Max Passcode not Working?</u></a></li>
 </ul></div>
 
+

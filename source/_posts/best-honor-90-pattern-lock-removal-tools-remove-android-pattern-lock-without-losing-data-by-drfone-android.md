@@ -380,3 +380,4 @@ Whether it is an easy pattern lock or a hard pattern lock, the fact is that patt
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-defy-2-by-fonelab-android-recover-call-logs/" ><u>How To  Restore Missing Call Logs from Motorola Defy 2</u></a></li>
 </ul></div>
 
+

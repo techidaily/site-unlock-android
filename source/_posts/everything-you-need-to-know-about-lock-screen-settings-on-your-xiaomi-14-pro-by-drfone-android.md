@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Xiaomi 14 Pro
-date: 2024-04-30T03:07:17.114Z
-updated: 2024-05-01T03:07:17.114Z
+date: 2024-05-19T19:17:55.646Z
+updated: 2024-05-20T19:17:55.646Z
 tags: 
   - unlock
   - remove screen lock
@@ -520,4 +520,5 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 <li><a href="https://techidaily.com/complete-tutorial-for-nokia-g42-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia G42 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-note-50-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme Note 50 for Free? | Dr.fone</u></a></li>
 </ul></div>
+
 

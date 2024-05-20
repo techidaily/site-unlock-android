@@ -480,3 +480,4 @@ If you know your Google account password, then you can easily unlock your phone 
 <li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-smart-8-plus-lock-screen-clock-in-seconds-by-drfone-android/" ><u>How To Change Infinix Smart 8 Plus Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
 
+

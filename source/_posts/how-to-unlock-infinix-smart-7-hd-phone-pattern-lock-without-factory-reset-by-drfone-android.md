@@ -522,3 +522,4 @@ In summary, this article detailed various methods to fix **the Infinix Smart 7 H
      data-full-width-responsive="true"></ins>
 
 
+

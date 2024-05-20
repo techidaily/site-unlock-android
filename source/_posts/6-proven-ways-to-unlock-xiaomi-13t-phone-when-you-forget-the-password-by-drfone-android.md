@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Xiaomi 13T Phone When You Forget the Password
-date: 2024-04-30T03:05:38.108Z
-updated: 2024-05-01T03:05:38.108Z
+date: 2024-05-19T19:17:49.873Z
+updated: 2024-05-20T19:17:49.873Z
 tags: 
   - unlock
   - remove screen lock
@@ -900,4 +900,5 @@ If you want to manage your iOS passwords and want to [retrieve your Wifi Passwor
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-k11x-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo K11x Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-10-video-editing-online-makers-is-worth-your-attention/"><u>Updated Top 10 Video Editing Online Makers Is Worth Your Attention</u></a></li>
 </ul></div>
+
 

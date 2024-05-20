@@ -541,3 +541,4 @@ Use volume keys to select and power button to confirm. Once this is done, the Te
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-tecno-pova-5-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Tecno Pova 5</u></a></li>
 </ul></div>
 
+

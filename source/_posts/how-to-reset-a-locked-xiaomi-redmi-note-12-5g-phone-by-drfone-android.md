@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Xiaomi Redmi Note 12 5G Phone
-date: 2024-04-30T02:58:22.928Z
-updated: 2024-05-01T02:58:22.928Z
+date: 2024-05-19T19:17:23.540Z
+updated: 2024-05-20T19:17:23.540Z
 tags: 
   - unlock
   - remove screen lock
@@ -500,4 +500,5 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-add-motion-blur-in-after-effects/"><u>New In 2024, Add Motion Blur in After Effects</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Vivo Y36i Pattern Lock Screen
-date: 2024-04-30T02:51:50.761Z
-updated: 2024-05-01T02:51:50.761Z
+date: 2024-05-19T19:16:52.483Z
+updated: 2024-05-20T19:16:52.483Z
 tags: 
   - unlock
   - remove screen lock
@@ -481,4 +481,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo X100 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Civi 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

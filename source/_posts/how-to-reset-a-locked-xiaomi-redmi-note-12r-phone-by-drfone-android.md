@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Xiaomi Redmi Note 12R Phone
-date: 2024-04-30T03:03:30.607Z
-updated: 2024-05-01T03:03:30.607Z
+date: 2024-05-19T19:17:42.411Z
+updated: 2024-05-20T19:17:42.411Z
 tags: 
   - unlock
   - remove screen lock
@@ -469,4 +469,5 @@ Learning to unlock your phone screen ensures you’re never locked out of your d
 <li><a href="https://ai-video-translation.techidaily.com/new-in-2024-best-video-translator-app-for-pc-you-cannot-miss/"><u>New In 2024, Best Video Translator App for PC You Cannot Miss</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-essentials-how-to-create-engaging-videos-with-the-ken-burns-effect/"><u>Final Cut Pro Essentials How to Create Engaging Videos with the Ken Burns Effect</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your Xiaomi Redmi 13C Phone Pattern Lock
-date: 2024-04-30T03:07:59.900Z
-updated: 2024-05-01T03:07:59.900Z
+date: 2024-05-19T19:17:58.315Z
+updated: 2024-05-20T19:17:58.315Z
 tags: 
   - unlock
   - remove screen lock
@@ -466,4 +466,5 @@ Now you learned how to show the wifi password on your Android device.
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-honor-90-pro-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Honor 90 Pro with Video Repair Utility on Mac?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-essential-criteria-for-selecting-the-best-video-to-audio-converter/"><u>2024 Approved Essential Criteria for Selecting the Best Video to Audio Converter</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Android Lock Screen Using Emergency Call On Vivo Y36i?
-date: 2024-04-30T02:51:50.743Z
-updated: 2024-05-01T02:51:50.743Z
+date: 2024-05-19T19:16:52.279Z
+updated: 2024-05-20T19:16:52.279Z
 tags: 
   - unlock
   - remove screen lock
@@ -471,4 +471,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Spark 10 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Hot 40? | Dr.fone</u></a></li>
 </ul></div>
+
 

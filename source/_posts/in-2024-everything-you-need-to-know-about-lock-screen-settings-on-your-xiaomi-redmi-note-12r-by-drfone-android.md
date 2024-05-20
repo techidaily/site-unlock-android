@@ -1,7 +1,7 @@
 ---
 title: In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 12R
-date: 2024-04-30T03:03:35.572Z
-updated: 2024-05-01T03:03:35.572Z
+date: 2024-05-19T19:17:42.637Z
+updated: 2024-05-20T19:17:42.637Z
 tags: 
   - unlock
   - remove screen lock
@@ -578,4 +578,5 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Honor X50 | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y27-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y27 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

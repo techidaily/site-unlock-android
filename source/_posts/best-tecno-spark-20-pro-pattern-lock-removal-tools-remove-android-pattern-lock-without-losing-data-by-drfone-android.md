@@ -470,3 +470,4 @@ There are a handful of methods you can use to unlock a Tecno Spark 20 Pro  phone
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y78t-pattern-lock-screen-by-drfone-android/" ><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y78t Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

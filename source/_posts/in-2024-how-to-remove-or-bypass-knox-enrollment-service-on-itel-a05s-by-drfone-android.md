@@ -566,3 +566,4 @@ In summary, this article detailed various methods to fix **the Itel A05s fingerp
      data-full-width-responsive="true"></ins>
 
 
+

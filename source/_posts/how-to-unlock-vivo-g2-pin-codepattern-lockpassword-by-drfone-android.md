@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo G2 PIN Code/Pattern Lock/Password
-date: 2024-04-30T02:52:29.662Z
-updated: 2024-05-01T02:52:29.662Z
+date: 2024-05-19T19:17:01.024Z
+updated: 2024-05-20T19:17:01.024Z
 tags: 
   - unlock
   - remove screen lock
@@ -517,4 +517,5 @@ So, make use of this guide and get back command over your Android phone.
 <li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-se-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone SE without iCloud Password or Apple ID?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-samsung-galaxy-m34-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Samsung Galaxy M34 5G Devices</u></a></li>
 </ul></div>
+
 

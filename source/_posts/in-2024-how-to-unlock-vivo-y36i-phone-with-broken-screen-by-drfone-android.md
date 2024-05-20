@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Vivo Y36i Phone with Broken Screen
-date: 2024-04-30T02:51:50.989Z
-updated: 2024-05-01T02:51:50.989Z
+date: 2024-05-19T19:16:53.932Z
+updated: 2024-05-20T19:16:53.932Z
 tags: 
   - unlock
   - remove screen lock
@@ -399,4 +399,5 @@ There are a handful of methods you can use to unlock a Vivo Y36i  phone in case 
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-11-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 11 Pro</u></a></li>
 </ul></div>
+
 

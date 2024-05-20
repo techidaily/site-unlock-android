@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Vivo Y36i to Protect Your Individual Information
-date: 2024-04-30T02:51:50.771Z
-updated: 2024-05-01T02:51:50.771Z
+date: 2024-05-19T19:16:52.552Z
+updated: 2024-05-20T19:16:52.552Z
 tags: 
   - unlock
   - remove screen lock
@@ -382,4 +382,5 @@ The problem of getting your mobile locked and not being able to open it is a com
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-90-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on 90 Pro</u></a></li>
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -502,3 +502,4 @@ Any methods mentioned above can work to overcome the obstacle of unlocking the s
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-samsung-galaxy-a05s-by-aiseesoft-video-converter-play-hevc-video-on-android/" ><u>How do you play HEVC/H.265 files on Samsung Galaxy A05s?</u></a></li>
 </ul></div>
 
+

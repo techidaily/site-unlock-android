@@ -1,7 +1,7 @@
 ---
 title: Still Using Pattern Locks with Vivo V30? Tips, Tricks and Helpful Advice
-date: 2024-04-30T02:53:22.761Z
-updated: 2024-05-01T02:53:22.761Z
+date: 2024-05-19T19:17:04.414Z
+updated: 2024-05-20T19:17:04.414Z
 tags: 
   - unlock
   - remove screen lock
@@ -497,4 +497,5 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-lava-by-fonelab-android-recover-music/"><u>The way to get back lost music from Lava</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s17t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S17t? | Dr.fone</u></a></li>
 </ul></div>
+
 

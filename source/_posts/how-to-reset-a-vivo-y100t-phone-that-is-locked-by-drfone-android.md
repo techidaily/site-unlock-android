@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Vivo Y100t Phone that is Locked?
-date: 2024-04-30T02:54:30.854Z
-updated: 2024-05-01T02:54:30.854Z
+date: 2024-05-19T19:17:08.751Z
+updated: 2024-05-20T19:17:08.751Z
 tags: 
   - unlock
   - remove screen lock
@@ -494,4 +494,5 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 <li><a href="https://howto.techidaily.com/calls-on-itel-a60-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel A60 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-this-article-you-will-learn-easy-ways-to-edit-videos-using-a-mouse-in-wondershare-filmora-you-can-do-video-editing-without-a-keyboard-after-readi/"><u>Updated In This Article, You Will Learn Easy Ways to Edit Videos Using a Mouse in Wondershare Filmora. You Can Do Video Editing without a Keyboard After Reading This Article</u></a></li>
 </ul></div>
+
 

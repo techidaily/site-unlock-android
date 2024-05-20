@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Vivo Y36i Phone without Google Account?
-date: 2024-04-30T02:51:50.932Z
-updated: 2024-05-01T02:51:50.932Z
+date: 2024-05-19T19:16:53.521Z
+updated: 2024-05-20T19:16:53.521Z
 tags: 
   - unlock
   - remove screen lock
@@ -399,4 +399,5 @@ We have discussed 3 different ways above to unlock the locked screen of android 
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi 13T? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

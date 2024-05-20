@@ -1,7 +1,7 @@
 ---
 title: A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12R
-date: 2024-04-30T03:03:26.782Z
-updated: 2024-05-01T03:03:26.782Z
+date: 2024-05-19T19:17:42.192Z
+updated: 2024-05-20T19:17:42.192Z
 tags: 
   - unlock
   - remove screen lock
@@ -626,4 +626,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-a78-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo A78 FRP Bypass With Best Methods</u></a></li>
 </ul></div>
+
 

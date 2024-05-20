@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Xiaomi Redmi Note 12R Phone with Broken Screen
-date: 2024-04-30T03:03:33.231Z
-updated: 2024-05-01T03:03:33.231Z
+date: 2024-05-19T19:17:42.545Z
+updated: 2024-05-20T19:17:42.545Z
 tags: 
   - unlock
   - remove screen lock
@@ -410,4 +410,5 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-backup-and-organize-your-footage-in-minutes/"><u>Updated 2024 Approved Backup and Organize Your Footage in Minutes</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-music-after-itel-a70-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Itel A70 has been deleted</u></a></li>
 </ul></div>
+
 

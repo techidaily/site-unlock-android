@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Xiaomi Redmi 12 Phone
-date: 2024-04-30T03:04:07.894Z
-updated: 2024-05-01T03:04:07.894Z
+date: 2024-05-19T19:17:44.487Z
+updated: 2024-05-20T19:17:44.487Z
 tags: 
   - unlock
   - remove screen lock
@@ -527,4 +527,5 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone 12 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-13-ultra-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 13 Ultra to iPhone XS/11 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi 12
-date: 2024-04-30T03:03:54.757Z
-updated: 2024-05-01T03:03:54.757Z
+date: 2024-05-19T19:17:43.792Z
+updated: 2024-05-20T19:17:43.792Z
 tags: 
   - unlock
   - remove screen lock
@@ -482,4 +482,5 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-c33-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme C33 2023 Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-11-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 11 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Vivo Y36i Phone that is Locked?
-date: 2024-04-30T02:51:50.774Z
-updated: 2024-05-01T02:51:50.774Z
+date: 2024-05-19T19:16:52.573Z
+updated: 2024-05-20T19:16:52.573Z
 tags: 
   - unlock
   - remove screen lock
@@ -508,4 +508,5 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-a60-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel A60 FRP Bypass</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco X5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

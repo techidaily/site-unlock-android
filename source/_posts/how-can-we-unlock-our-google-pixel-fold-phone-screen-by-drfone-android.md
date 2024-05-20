@@ -572,3 +572,4 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo A1x 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

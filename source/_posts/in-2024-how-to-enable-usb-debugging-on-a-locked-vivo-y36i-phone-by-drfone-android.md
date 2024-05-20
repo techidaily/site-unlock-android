@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Enable USB Debugging on a Locked Vivo Y36i Phone
-date: 2024-04-30T02:51:50.853Z
-updated: 2024-05-01T02:51:50.853Z
+date: 2024-05-19T19:16:53.324Z
+updated: 2024-05-20T19:16:53.324Z
 tags: 
   - unlock
   - remove screen lock
@@ -388,4 +388,5 @@ Being unable to unlock your device is never a good place to be. We hope one of t
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c22-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C22 to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-s18-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo S18 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 </ul></div>
+
 

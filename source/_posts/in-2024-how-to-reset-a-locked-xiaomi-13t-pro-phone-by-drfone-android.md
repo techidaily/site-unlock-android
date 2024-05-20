@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Locked Xiaomi 13T Pro Phone
-date: 2024-04-30T03:06:37.496Z
-updated: 2024-05-01T03:06:37.496Z
+date: 2024-05-19T19:17:53.465Z
+updated: 2024-05-20T19:17:53.465Z
 tags: 
   - unlock
   - remove screen lock
@@ -583,4 +583,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://techidaily.com/unlock-locked-iphone-14-plus-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 14 Plus by restoring it to default settings</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-poco-m6-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Poco M6 5G Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

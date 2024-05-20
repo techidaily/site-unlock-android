@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Xiaomi Redmi 12 5G Phone
-date: 2024-04-30T03:04:37.856Z
-updated: 2024-05-01T03:04:37.856Z
+date: 2024-05-19T19:17:46.234Z
+updated: 2024-05-20T19:17:46.234Z
 tags: 
   - unlock
   - remove screen lock
@@ -507,4 +507,5 @@ The details provided are comprehensive in helping you change ****the lockscreen 
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-edit-flv-video-files-with-flv-editor-windows-macandroid-iphone/"><u>Updated In 2024, Edit FLV Video Files with FLV Editor Windows, Mac，Android, iPhone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-mini-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

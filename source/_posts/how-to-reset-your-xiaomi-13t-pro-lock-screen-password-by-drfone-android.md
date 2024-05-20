@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Xiaomi 13T Pro Lock Screen Password
-date: 2024-04-30T03:06:09.122Z
-updated: 2024-05-01T03:06:09.122Z
+date: 2024-05-19T19:17:51.496Z
+updated: 2024-05-20T19:17:51.496Z
 tags: 
   - unlock
   - remove screen lock
@@ -473,4 +473,5 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-xs-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone XS Without a Home Button | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone SE (2020)? | Dr.fone</u></a></li>
 </ul></div>
+
 

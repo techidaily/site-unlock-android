@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Vivo Y100i Phone Pattern Lock without Factory Reset
-date: 2024-04-30T02:51:50.461Z
-updated: 2024-05-01T02:51:50.461Z
+date: 2024-05-19T19:16:49.936Z
+updated: 2024-05-20T19:16:49.936Z
 tags: 
   - unlock
   - remove screen lock
@@ -513,4 +513,5 @@ If you’re looking for ways that are time-effective and reliable, you can use y
 <li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-12-pro-max-with-itunes-by-drfone-ios/" ><u>Full Guide to Unlock iPhone 12 Pro Max with iTunes</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-sony-xperia-10-v-phone-forgot-password-by-drfone-android-unlock-android-unlock/" ><u>How to Unlock Sony Xperia 10 V Phone Forgot Password</u></a></li>
 </ul></div>
+
 

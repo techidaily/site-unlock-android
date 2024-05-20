@@ -436,3 +436,4 @@ We have discussed 3 different ways above to unlock the locked screen of android 
      data-full-width-responsive="true"></ins>
 
 
+

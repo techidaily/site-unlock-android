@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 13C 5G Pattern Lock Screen
-date: 2024-04-30T03:10:13.001Z
-updated: 2024-05-01T03:10:13.001Z
+date: 2024-05-19T19:18:06.276Z
+updated: 2024-05-20T19:18:06.276Z
 tags: 
   - unlock
   - remove screen lock
@@ -510,4 +510,5 @@ This article has specifically provided you with some important details on **how 
 <li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic 5 Lite | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-6s-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 6s Plus Making It Possible</u></a></li>
 </ul></div>
+
 

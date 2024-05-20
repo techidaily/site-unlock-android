@@ -370,3 +370,4 @@ As Android reaches new heights every year, gestures are getting more and more en
 <li><a href="https://ai-video-editing.techidaily.com/updated-are-you-looking-to-make-transparent-background-in-canva-then-you-can-learn-about-it-in-this-article/"><u>Updated Are You Looking to Make Transparent Background in Canva Then You Can Learn About It in This Article</u></a></li>
 </ul></div>
 
+

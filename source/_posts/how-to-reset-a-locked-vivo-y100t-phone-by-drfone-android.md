@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Vivo Y100t Phone
-date: 2024-04-30T02:54:35.545Z
-updated: 2024-05-01T02:54:35.545Z
+date: 2024-05-19T19:17:09.065Z
+updated: 2024-05-20T19:17:09.065Z
 tags: 
   - unlock
   - remove screen lock
@@ -384,4 +384,5 @@ The problem of getting your mobile locked and not being able to open it is a com
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-slideshow-in-powerpoint/"><u>Updated 2024 Approved How to Add Slideshow in PowerPoint</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-a14-4g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy A14 4G to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

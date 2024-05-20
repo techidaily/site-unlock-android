@@ -487,3 +487,4 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-12-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi 12 Without Password | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Any Vivo Y36i Phone Password Using Emergency Call
-date: 2024-04-30T02:51:50.835Z
-updated: 2024-05-01T02:51:50.835Z
+date: 2024-05-19T19:16:53.071Z
+updated: 2024-05-20T19:16:53.071Z
 tags: 
   - unlock
   - remove screen lock
@@ -522,4 +522,5 @@ We know that losing or forgetting your Android lock code can be a real pain, and
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-iphone-14-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From iPhone 14? Complete Guide</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-vivo-s18-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S18 Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

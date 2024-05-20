@@ -620,3 +620,4 @@ The article above gives useful information on some of the important tools for th
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-a18-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Oppo A18.</u></a></li>
 </ul></div>
 
+

@@ -493,3 +493,4 @@ In summary, this article detailed various methods to fix **the Infinix Smart 8 f
      data-full-width-responsive="true"></ins>
 
 
+

@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Any Xiaomi Redmi Note 12 Pro+ 5G Phone Password Using Emergency Call
-date: 2024-04-30T02:57:37.236Z
-updated: 2024-05-01T02:57:37.236Z
+date: 2024-05-19T19:17:20.662Z
+updated: 2024-05-20T19:17:20.662Z
 tags: 
   - unlock
   - remove screen lock
@@ -450,4 +450,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-iphone-6-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your iPhone 6 and iPad</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-curve-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze Curve 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

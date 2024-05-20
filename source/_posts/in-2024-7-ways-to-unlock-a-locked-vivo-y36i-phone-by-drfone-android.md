@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Ways to Unlock a Locked Vivo Y36i Phone
-date: 2024-04-30T02:51:50.917Z
-updated: 2024-05-01T02:51:50.917Z
+date: 2024-05-19T19:16:53.433Z
+updated: 2024-05-20T19:16:53.433Z
 tags: 
   - unlock
   - remove screen lock
@@ -477,4 +477,5 @@ Remove 4 Types of Android Screen Lock without Data Loss
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-13-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oneplus-11-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your OnePlus 11 5G to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

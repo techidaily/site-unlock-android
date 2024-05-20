@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 12R Phone
-date: 2024-04-30T03:03:22.856Z
-updated: 2024-05-01T03:03:22.856Z
+date: 2024-05-19T19:17:41.712Z
+updated: 2024-05-20T19:17:41.712Z
 tags: 
   - unlock
   - remove screen lock
@@ -507,4 +507,5 @@ Getting locked out of your phone can be frustrating, especially if you need an i
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-asus-rog-phone-8-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Asus ROG Phone 8 Devices | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Vivo T2 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

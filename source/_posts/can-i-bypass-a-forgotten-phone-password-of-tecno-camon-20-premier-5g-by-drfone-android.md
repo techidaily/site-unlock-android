@@ -488,3 +488,4 @@ When you know about all the popular options for the fingerprint screen lock app,
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-13c-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/" ><u>How to Transfer Data from Xiaomi Redmi 13C to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
 
+

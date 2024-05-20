@@ -507,3 +507,4 @@ Use volume keys to select and power button to confirm. Once this is done, the Te
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-itel-a60s-like-a-pro-5-easy-ways-by-drfone-android/" ><u>How To Remove Screen Lock PIN On Itel A60s Like A Pro 5 Easy Ways</u></a></li>
 </ul></div>
 
+

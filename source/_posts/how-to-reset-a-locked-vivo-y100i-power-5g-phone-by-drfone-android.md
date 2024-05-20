@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Vivo Y100i Power 5G Phone
-date: 2024-04-30T02:51:51.129Z
-updated: 2024-05-01T02:51:51.129Z
+date: 2024-05-19T19:16:54.754Z
+updated: 2024-05-20T19:16:54.754Z
 tags: 
   - unlock
   - remove screen lock
@@ -473,4 +473,5 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-13-pro-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 13 Pro? Complete Guide | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-redmi-k70-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi Redmi K70 Pro on Windows?</u></a></li>
 </ul></div>
+
 

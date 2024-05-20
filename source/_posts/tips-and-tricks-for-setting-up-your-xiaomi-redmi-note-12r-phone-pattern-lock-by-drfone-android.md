@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your Xiaomi Redmi Note 12R Phone Pattern Lock
-date: 2024-04-30T03:03:27.443Z
-updated: 2024-05-01T03:03:27.443Z
+date: 2024-05-19T19:17:42.230Z
+updated: 2024-05-20T19:17:42.230Z
 tags: 
   - unlock
   - remove screen lock
@@ -514,4 +514,5 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-analyze-an-editorial-cartoon-easily/"><u>Updated 2024 Approved How to Analyze an Editorial Cartoon Easily</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-lava-yuva-3-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Lava Yuva 3 Phones</u></a></li>
 </ul></div>
+
 

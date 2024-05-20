@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fingerprint Lock Apps to Lock Your Vivo Y36i Phone
-date: 2024-04-30T02:51:50.755Z
-updated: 2024-05-01T02:51:50.755Z
+date: 2024-05-19T19:16:52.421Z
+updated: 2024-05-20T19:16:52.421Z
 tags: 
   - unlock
   - remove screen lock
@@ -522,4 +522,5 @@ Any method can solve the problems of using your device with your Android handset
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Honor V Purse | Dr.fone</u></a></li>
 </ul></div>
+
 

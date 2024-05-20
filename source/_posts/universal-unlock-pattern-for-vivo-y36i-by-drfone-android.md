@@ -1,7 +1,7 @@
 ---
 title: Universal Unlock Pattern for Vivo Y36i
-date: 2024-04-30T02:51:50.818Z
-updated: 2024-05-01T02:51:50.818Z
+date: 2024-05-19T19:16:52.986Z
+updated: 2024-05-20T19:16:52.986Z
 tags: 
   - unlock
   - remove screen lock
@@ -462,4 +462,5 @@ Whether you prefer user-friendly software like [Dr.Fone – Screen Unlock (Andro
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-motorola-moto-g34-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Moto G34 5G Devices</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find X6? | Dr.fone</u></a></li>
 </ul></div>
+
 

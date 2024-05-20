@@ -1,7 +1,7 @@
 ---
 title: How to Change Lock Screen Wallpaper on Xiaomi Redmi 13C 5G
-date: 2024-04-30T03:10:17.080Z
-updated: 2024-05-01T03:10:17.080Z
+date: 2024-05-19T19:18:06.500Z
+updated: 2024-05-20T19:18:06.500Z
 tags: 
   - unlock
   - remove screen lock
@@ -500,4 +500,5 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-13-by-drfone-ios/"><u>How To Unlock A Found iPhone 13?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
+
 

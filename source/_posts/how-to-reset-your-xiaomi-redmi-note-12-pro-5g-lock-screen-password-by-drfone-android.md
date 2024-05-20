@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Xiaomi Redmi Note 12 Pro 5G Lock Screen Password
-date: 2024-04-30T02:56:32.060Z
-updated: 2024-05-01T02:56:32.060Z
+date: 2024-05-19T19:17:16.597Z
+updated: 2024-05-20T19:17:16.597Z
 tags: 
   - unlock
   - remove screen lock
@@ -508,4 +508,5 @@ This comprehensive guide describes the significance of **Google Smart Lock**. It
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Sony Xperia 1 V | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-a78-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from A78</u></a></li>
 </ul></div>
+
 

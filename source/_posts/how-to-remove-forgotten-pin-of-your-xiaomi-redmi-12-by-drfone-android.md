@@ -1,7 +1,7 @@
 ---
 title: How to Remove Forgotten PIN Of Your Xiaomi Redmi 12
-date: 2024-04-30T03:04:02.579Z
-updated: 2024-05-01T03:04:02.579Z
+date: 2024-05-19T19:17:44.255Z
+updated: 2024-05-20T19:17:44.255Z
 tags: 
   - unlock
   - remove screen lock
@@ -466,4 +466,5 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-axon-40-lite-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Axon 40 Lite</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v27-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V27 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

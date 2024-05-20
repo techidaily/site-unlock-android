@@ -422,3 +422,4 @@ So, make use of this guide and get back command over your Android phone.
 <li><a href="https://fix-guide.techidaily.com/realme-12-proplus-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12 Pro+ 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

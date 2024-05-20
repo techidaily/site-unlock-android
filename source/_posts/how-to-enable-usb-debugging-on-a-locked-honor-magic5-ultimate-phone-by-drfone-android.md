@@ -493,3 +493,4 @@ Whether it is an easy pattern lock or a hard pattern lock, the fact is that patt
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-tecno-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Tecno without backup.</u></a></li>
 </ul></div>
 
+

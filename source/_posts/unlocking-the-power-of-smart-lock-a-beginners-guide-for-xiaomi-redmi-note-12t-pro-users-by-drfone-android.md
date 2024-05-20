@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12T Pro Users
-date: 2024-04-30T03:02:22.322Z
-updated: 2024-05-01T03:02:22.322Z
+date: 2024-05-19T19:17:38.240Z
+updated: 2024-05-20T19:17:38.240Z
 tags: 
   - unlock
   - remove screen lock
@@ -876,4 +876,5 @@ If you want to manage your iOS passwords and want to [retrieve your Wifi Passwor
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-xiaomi-redmi-note-12r-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Xiaomi Redmi Note 12R</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on OnePlus 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

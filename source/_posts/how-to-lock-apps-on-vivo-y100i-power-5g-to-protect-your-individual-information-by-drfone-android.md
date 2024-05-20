@@ -1,7 +1,7 @@
 ---
 title: How to Lock Apps on Vivo Y100i Power 5G to Protect Your Individual Information
-date: 2024-04-30T02:51:51.084Z
-updated: 2024-05-01T02:51:51.084Z
+date: 2024-05-19T19:16:54.435Z
+updated: 2024-05-20T19:16:54.435Z
 tags: 
   - unlock
   - remove screen lock
@@ -440,4 +440,5 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone XS | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-vivo-y36i-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Vivo Y36i Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

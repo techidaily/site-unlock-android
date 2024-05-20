@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your Vivo Y36i Phone Pattern Lock
-date: 2024-04-30T02:51:50.784Z
-updated: 2024-05-01T02:51:50.784Z
+date: 2024-05-19T19:16:52.665Z
+updated: 2024-05-20T19:16:52.665Z
 tags: 
   - unlock
   - remove screen lock
@@ -628,4 +628,5 @@ For those facing a locked phone due to Knox and unable to follow conventional me
 <li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-15-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 15 Plus Without Passcode Easily | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-blaze-2-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Lava Blaze 2 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

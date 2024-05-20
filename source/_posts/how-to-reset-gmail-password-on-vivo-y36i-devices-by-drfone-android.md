@@ -1,7 +1,7 @@
 ---
 title: How to Reset Gmail Password on Vivo Y36i Devices
-date: 2024-04-30T02:51:50.805Z
-updated: 2024-05-01T02:51:50.805Z
+date: 2024-05-19T19:16:52.838Z
+updated: 2024-05-20T19:16:52.838Z
 tags: 
   - unlock
   - remove screen lock
@@ -573,4 +573,5 @@ In summary, this article detailed various methods to fix **the Vivo Y36i fingerp
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-reno-11f-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo Reno 11F 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nokia C210 | Dr.fone</u></a></li>
 </ul></div>
+
 

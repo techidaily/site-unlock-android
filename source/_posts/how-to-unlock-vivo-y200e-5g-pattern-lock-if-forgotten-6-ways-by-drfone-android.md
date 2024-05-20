@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo Y200e 5G Pattern Lock if Forgotten? 6 Ways
-date: 2024-04-30T02:54:02.116Z
-updated: 2024-05-01T02:54:02.116Z
+date: 2024-05-19T19:17:06.772Z
+updated: 2024-05-20T19:17:06.772Z
 tags: 
   - unlock
   - remove screen lock
@@ -599,4 +599,5 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 <li><a href="https://howto.techidaily.com/vivo-s17-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-lite-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 Lite in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

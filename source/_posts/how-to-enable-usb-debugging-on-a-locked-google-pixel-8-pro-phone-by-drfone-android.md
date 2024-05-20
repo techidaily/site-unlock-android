@@ -510,3 +510,4 @@ Getting locked out of your phone can be frustrating, especially if you need an i
 <li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2000-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2000 | Stellar</u></a></li>
 </ul></div>
 
+

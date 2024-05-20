@@ -467,3 +467,4 @@ Forgetting your password is a perplexing situation though you have the solution 
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-note-30i-lock-screen-password-by-drfone-android/" ><u>How to Reset your Infinix Note 30i Lock Screen Password</u></a></li>
 </ul></div>
 
+

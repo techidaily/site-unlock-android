@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Xiaomi Redmi 12 Lock Screen Password
-date: 2024-04-30T03:03:52.312Z
-updated: 2024-05-01T03:03:52.312Z
+date: 2024-05-19T19:17:43.605Z
+updated: 2024-05-20T19:17:43.605Z
 tags: 
   - unlock
   - remove screen lock
@@ -516,4 +516,5 @@ We have discussed 3 different ways above to unlock the locked screen of android 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-13-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone 13 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://ai-video.techidaily.com/updated-best-video-language-changers-to-make-your-videos-accessible/"><u>updated Best Video Language Changers to Make Your Videos Accessible</u></a></li>
 </ul></div>
+
 

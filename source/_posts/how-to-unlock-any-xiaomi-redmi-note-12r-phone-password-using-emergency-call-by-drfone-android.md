@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Any Xiaomi Redmi Note 12R Phone Password Using Emergency Call
-date: 2024-04-30T03:03:18.855Z
-updated: 2024-05-01T03:03:18.855Z
+date: 2024-05-19T19:17:41.441Z
+updated: 2024-05-20T19:17:41.441Z
 tags: 
   - unlock
   - remove screen lock
@@ -459,4 +459,5 @@ This article has specifically provided you with some important details on **how 
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-1-v-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Sony Xperia 1 V</u></a></li>
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-v-purse-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor V Purse Isnt Compatible | Dr.fone</u></a></li>
 </ul></div>
+
 

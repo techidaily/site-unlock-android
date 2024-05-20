@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Locked Vivo Y36i Phone
-date: 2024-04-30T02:51:50.807Z
-updated: 2024-05-01T02:51:50.807Z
+date: 2024-05-19T19:16:52.862Z
+updated: 2024-05-20T19:16:52.862Z
 tags: 
   - unlock
   - remove screen lock
@@ -484,4 +484,5 @@ By following these simple steps, you would learn how to get into a locked phone.
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Realme V30T? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 

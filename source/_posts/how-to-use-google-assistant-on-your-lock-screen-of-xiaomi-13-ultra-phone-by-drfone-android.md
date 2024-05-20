@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Xiaomi 13 Ultra Phone
-date: 2024-04-30T03:00:09.200Z
-updated: 2024-05-01T03:00:09.200Z
+date: 2024-05-19T19:17:30.048Z
+updated: 2024-05-20T19:17:30.048Z
 tags: 
   - unlock
   - remove screen lock
@@ -548,4 +548,5 @@ If you’re looking for ways that are time-effective and reliable, you can use y
 <li><a href="https://ai-editing-video.techidaily.com/steps-to-fade-audio-in-premier-pro/"><u>Steps To Fade Audio In Premier Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 12 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
 </ul></div>
+
 

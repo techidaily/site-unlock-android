@@ -508,3 +508,4 @@ Now when you know how to unlock the Android phone pattern lock without a factory
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Vivo Y36i Phone Password Without Factory Reset Full Guide Here
-date: 2024-04-30T02:51:50.904Z
-updated: 2024-05-01T02:51:50.904Z
+date: 2024-05-19T19:16:53.424Z
+updated: 2024-05-20T19:16:53.424Z
 tags: 
   - unlock
   - remove screen lock
@@ -477,4 +477,5 @@ If you know your Google account password, then you can easily unlock your phone 
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-15-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 When We Dont Have Apple ID or Password?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-tecno-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Tecno</u></a></li>
 </ul></div>
+
 

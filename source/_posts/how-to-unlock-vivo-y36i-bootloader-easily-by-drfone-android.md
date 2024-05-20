@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Vivo Y36i Bootloader Easily
-date: 2024-04-30T02:51:50.826Z
-updated: 2024-05-01T02:51:50.826Z
+date: 2024-05-19T19:16:53.006Z
+updated: 2024-05-20T19:16:53.006Z
 tags: 
   - unlock
   - remove screen lock
@@ -421,4 +421,5 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-c65-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco C65 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

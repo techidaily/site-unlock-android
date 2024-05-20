@@ -1,7 +1,7 @@
 ---
 title: How to Reset your Xiaomi Redmi 13C Lock Screen Password
-date: 2024-04-30T03:07:51.831Z
-updated: 2024-05-01T03:07:51.831Z
+date: 2024-05-19T19:17:57.833Z
+updated: 2024-05-20T19:17:57.833Z
 tags: 
   - unlock
   - remove screen lock
@@ -501,4 +501,5 @@ If you have also forgotten the pattern lock on your device, then you can simply 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-yuva-3-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Lava Yuva 3 Pro | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-find-x7-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Find X7</u></a></li>
 </ul></div>
+
 

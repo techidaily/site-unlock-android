@@ -1,7 +1,7 @@
 ---
 title: Forgot Pattern Lock? Heres How You Can Unlock Vivo Y28 5G Pattern Lock Screen
-date: 2024-04-30T02:51:51.618Z
-updated: 2024-05-01T02:51:51.618Z
+date: 2024-05-19T19:16:58.526Z
+updated: 2024-05-20T19:16:58.526Z
 tags: 
   - unlock
   - remove screen lock
@@ -570,4 +570,5 @@ You will be given the option to input a new password or pattern right after you 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-iphone-6s-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your iPhone 6s has bad ESN or blacklisted IMEI?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

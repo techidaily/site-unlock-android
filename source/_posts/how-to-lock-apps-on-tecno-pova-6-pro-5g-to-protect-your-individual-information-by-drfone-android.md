@@ -385,3 +385,4 @@ Enabling screen lock on your Android is the smartest thing to do especially if y
 <li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 </ul></div>
 
+
