@@ -1,7 +1,7 @@
 ---
 title: How To Fix OEM Unlock Missing on Vivo Y36i?
-date: 2024-05-19T19:16:52.713Z
-updated: 2024-05-20T19:16:52.713Z
+date: 2024-06-09T02:42:31.006Z
+updated: 2024-06-10T02:42:31.006Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Fix OEM Unlock Missing on Vivo Y36i?
 excerpt: This article describes How To Fix OEM Unlock Missing on Vivo Y36i?
 keywords: unlock apps for android device,oem unlock missing,change android lock screen,unlock android phone with broken screen,fingerprint lock for android device,remove lock screen fingerprint,Vivo Y36i how to unlock android phone,lock screen apps for android,lock screen wallpaper on android,password cracker tools,unlock android device phone without password
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## How To Fix OEM Unlock Missing on Vivo Y36i?

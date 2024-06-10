@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Vivo Y28 5G Phone that is Locked?
-date: 2024-05-19T19:16:58.616Z
-updated: 2024-05-20T19:16:58.616Z
+date: 2024-06-09T02:43:13.817Z
+updated: 2024-06-10T02:43:13.817Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Vivo Y28 5G Phone that is Locked?
 excerpt: This article describes How to Reset a Vivo Y28 5G Phone that is Locked?
 keywords: oem unlock missing,Vivo Y28 5G samfw frp tool,Vivo Y28 5G how to unlock android phone,Vivo Y28 5G lock apps with fingerprint,unlock phone guide,Vivo Y28 5G change android lock screen,how to unlock android device phone
-thumbnail: https://www.lifewire.com/thmb/iwoCmi7AdF2SQEdJBdU3jN_mTWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136612668-5c640cc5c9e77c00010a4ff4.jpg
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
 ---
 
 ## How to Reset a Vivo Y28 5G Phone that is Locked?

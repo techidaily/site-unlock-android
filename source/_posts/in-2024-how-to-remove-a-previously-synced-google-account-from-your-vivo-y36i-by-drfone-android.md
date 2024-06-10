@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y36i
-date: 2024-05-19T19:16:53.473Z
-updated: 2024-05-20T19:16:53.473Z
+date: 2024-06-09T02:44:07.071Z
+updated: 2024-06-10T02:44:07.071Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Remove a Previously Synced Google Account from Your Vivo Y36i
 excerpt: This article describes How to Remove a Previously Synced Google Account from Your Vivo Y36i
 keywords: unlock android phone with broken screen,smart lock android,Vivo Y36i best sim location trackers,reset gmail password on android device,Vivo Y36i unlock apps for android,Vivo Y36i unlock android phone pattern lock without factory reset,Vivo Y36i hard pattern lock,oem unlock missing,Vivo Y36i techeligible frp bypass,Vivo Y36i get into locked phone,locked out of android phone
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## How to Remove a Previously Synced Google Account from Your Vivo Y36i

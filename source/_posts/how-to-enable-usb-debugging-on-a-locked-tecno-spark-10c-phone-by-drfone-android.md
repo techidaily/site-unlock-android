@@ -1,7 +1,7 @@
 ---
 title: How To Enable USB Debugging on a Locked Tecno Spark 10C Phone
-date: 2024-04-30T03:12:16.345Z
-updated: 2024-05-01T03:12:16.345Z
+date: 2024-06-09T02:43:51.249Z
+updated: 2024-06-10T02:43:51.249Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Enable USB Debugging on a Locked Tecno Spark 10C Phone
 excerpt: This article describes How To Enable USB Debugging on a Locked Tecno Spark 10C Phone
 keywords: Tecno Spark 10C unlock android phone without pin,reset locked android phone,unlock apps for android,bypass lock screen password,android device lock screen settings,Tecno Spark 10C reset gmail password on android,how to reset voicemail password,how to unlock android phone,Tecno Spark 10C how to remove previously synced google account from android,universal unlock pattern for android
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## How To Enable USB Debugging on a Locked Tecno Spark 10C Phone

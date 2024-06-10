@@ -1,7 +1,7 @@
 ---
 title: How to Show Wi-Fi Password on Tecno Spark 10 Pro
-date: 2024-05-19T19:19:15.586Z
-updated: 2024-05-20T19:19:15.586Z
+date: 2024-06-09T02:42:54.370Z
+updated: 2024-06-10T02:42:54.370Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Show Wi-Fi Password on Tecno Spark 10 Pro
 excerpt: This article describes How to Show Wi-Fi Password on Tecno Spark 10 Pro
 keywords: fingerprint lock app,Tecno Spark 10 Pro fingerprint lock for android,how to reset voicemail password,hard pattern lock,enable usb debugging,samfw frp tool,password cracker tools
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## How to Show Wi-Fi Password on Tecno Spark 10 Pro

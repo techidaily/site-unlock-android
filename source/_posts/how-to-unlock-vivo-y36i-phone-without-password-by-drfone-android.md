@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Vivo Y36i Phone Without Password?
-date: 2024-05-19T19:16:52.993Z
-updated: 2024-05-20T19:16:52.993Z
+date: 2024-06-09T02:42:26.986Z
+updated: 2024-06-10T02:42:26.986Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Unlock Vivo Y36i Phone Without Password?
 excerpt: This article describes How To Unlock Vivo Y36i Phone Without Password?
 keywords: fingerprint lock for android device,Vivo Y36i android emergency call bypass,Vivo Y36i pattern unlock without password,how to unlock android device phone,techeligible frp bypass,how to unlock android phone,Vivo Y36i oem unlock missing,remove lock screen fingerprint,remove forgotten pin android device
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## How To Unlock Vivo Y36i Phone Without Password?

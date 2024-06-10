@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi 12
-date: 2024-05-19T19:17:45.106Z
-updated: 2024-05-20T19:17:45.106Z
+date: 2024-06-09T02:42:35.660Z
+updated: 2024-06-10T02:42:35.660Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change Lock Screen Wallpaper on Xiaomi Redmi 12
 excerpt: This article describes How to Change Lock Screen Wallpaper on Xiaomi Redmi 12
 keywords: Xiaomi Redmi 12 unlock phone forgot password,remove screen lock pin on android device,android device device manager unlock,unlock android device phone pattern lock without factory reset,Xiaomi Redmi 12 unlock,bypass lock screen password
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## How to Change Lock Screen Wallpaper on Xiaomi Redmi 12

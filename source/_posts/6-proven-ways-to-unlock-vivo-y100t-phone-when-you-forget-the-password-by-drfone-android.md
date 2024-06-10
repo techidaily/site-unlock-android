@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Vivo Y100t Phone When You Forget the Password
-date: 2024-05-19T19:17:08.642Z
-updated: 2024-05-20T19:17:08.642Z
+date: 2024-06-09T02:42:51.435Z
+updated: 2024-06-10T02:42:51.435Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes 6 Proven Ways to Unlock Vivo Y100t Phone When You Forget the Password
 excerpt: This article describes 6 Proven Ways to Unlock Vivo Y100t Phone When You Forget the Password
 keywords: bypass android face lock,rootjunky frp bypass,Vivo Y100t unlock,how to unlock android device phone,android device password reset,fingerprint not working,Vivo Y100t how to unlock android phone without google account
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## 6 Proven Ways to Unlock Vivo Y100t Phone When You Forget the Password

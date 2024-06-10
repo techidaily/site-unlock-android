@@ -1,7 +1,7 @@
 ---
 title: How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10C?
-date: 2024-04-12T02:31:30.397Z
-updated: 2024-04-13T02:31:30.397Z
+date: 2024-06-09T02:42:48.497Z
+updated: 2024-06-10T02:42:48.497Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10C?
 excerpt: This article describes How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10C?
 keywords: Tecno Spark 10C delete gmail account with without password,oem unlock missing,android screen lock,change android device lock screen,Tecno Spark 10C unlock with google assistant,Tecno Spark 10C forgot android password,android device password reset
-thumbnail: https://www.lifewire.com/thmb/EcB--O002zUEaSk7QJHgsZsgFyA=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1198110246-e12a30f2b10645edb984dc66113911c9.jpg
+thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd5201c33fd6a45fd74bf88fe0d.jpg
 ---
 
 ## How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10C?

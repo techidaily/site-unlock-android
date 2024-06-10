@@ -1,7 +1,7 @@
 ---
 title: How To Fix OEM Unlock Missing on Vivo V30 Lite 5G?
-date: 2024-05-19T19:16:56.579Z
-updated: 2024-05-20T19:16:56.579Z
+date: 2024-06-09T02:42:48.541Z
+updated: 2024-06-10T02:42:48.541Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Fix OEM Unlock Missing on Vivo V30 Lite 5G?
 excerpt: This article describes How To Fix OEM Unlock Missing on Vivo V30 Lite 5G?
 keywords: Vivo V30 Lite 5G reset locked android phone,android device pattern lock remover,Vivo V30 Lite 5G forgot android password,unlock android device phone pattern lock without factory reset,Vivo V30 Lite 5G samfw frp tool,lock screen wallpaper on android,android lock screen settings,Vivo V30 Lite 5G android pattern lock remover
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## How To Fix OEM Unlock Missing on Vivo V30 Lite 5G?

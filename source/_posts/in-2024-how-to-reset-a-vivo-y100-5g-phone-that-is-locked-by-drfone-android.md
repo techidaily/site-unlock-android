@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Vivo Y100 5G Phone that is Locked?
-date: 2024-05-19T19:17:03.687Z
-updated: 2024-05-20T19:17:03.687Z
+date: 2024-06-09T02:42:48.467Z
+updated: 2024-06-10T02:42:48.467Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Vivo Y100 5G Phone that is Locked?
 excerpt: This article describes How to Reset a Vivo Y100 5G Phone that is Locked?
 keywords: hard pattern lock,lock screen apps for android device,android device password reset,how to remove previously synced google account from android,Vivo Y100 5G unlock android phone with broken screen,password unlock tool,forgot android password,how to remove previously synced google account from android device,Vivo Y100 5G unlock android phone without pin,unlock android device phone password without factory reset,unlock android phone without pin
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## How to Reset a Vivo Y100 5G Phone that is Locked?

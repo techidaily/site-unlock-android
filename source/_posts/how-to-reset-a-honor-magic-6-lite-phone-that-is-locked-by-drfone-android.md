@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Honor Magic 6 Lite Phone that is Locked?
-date: 2024-04-30T03:13:24.604Z
-updated: 2024-05-01T03:13:24.604Z
+date: 2024-06-09T02:43:35.107Z
+updated: 2024-06-10T02:43:35.107Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Honor Magic 6 Lite Phone that is Locked?
 excerpt: This article describes How to Reset a Honor Magic 6 Lite Phone that is Locked?
 keywords: Honor Magic 6 Lite fingerprint not working,Honor Magic 6 Lite unlock screen,how to reset a phone that is locked,Honor Magic 6 Lite unlock bootloader,Honor Magic 6 Lite easy pattern lock,unlock phone forgot password,Honor Magic 6 Lite full guide to unlock,Honor Magic 6 Lite hack wifi password android,unlock phone guide,fingerprint lock for android,unlock,Honor Magic 6 Lite android show wifi password
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## How to Reset a Honor Magic 6 Lite Phone that is Locked?

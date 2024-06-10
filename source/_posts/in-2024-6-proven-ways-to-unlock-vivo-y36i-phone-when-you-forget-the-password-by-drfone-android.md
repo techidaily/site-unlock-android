@@ -1,7 +1,7 @@
 ---
 title: In 2024, 6 Proven Ways to Unlock Vivo Y36i Phone When You Forget the Password
-date: 2024-05-19T19:16:53.389Z
-updated: 2024-05-20T19:16:53.389Z
+date: 2024-06-09T02:43:39.038Z
+updated: 2024-06-10T02:43:39.038Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes 6 Proven Ways to Unlock Vivo Y36i Phone When You Forget the Password
 excerpt: This article describes 6 Proven Ways to Unlock Vivo Y36i Phone When You Forget the Password
 keywords: how to reset a phone that is locked,android device device manager unlock,Vivo Y36i unlock phone forgot password,Vivo Y36i lock apps with fingerprint,android show wifi password,how to unlock android device phone
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## 6 Proven Ways to Unlock Vivo Y36i Phone When You Forget the Password

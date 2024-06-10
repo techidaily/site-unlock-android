@@ -1,7 +1,7 @@
 ---
 title: How to Reset a Honor X50i Phone that is Locked?
-date: 2024-04-30T03:13:26.933Z
-updated: 2024-05-01T03:13:26.933Z
+date: 2024-06-09T02:42:24.876Z
+updated: 2024-06-10T02:42:24.876Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Honor X50i Phone that is Locked?
 excerpt: This article describes How to Reset a Honor X50i Phone that is Locked?
 keywords: smart lock android,how to unlock android device phone,Honor X50i best sim location trackers,Honor X50i swipe screen to unlock,fingerprint lock app,Honor X50i delete gmail account with without password,disable lock screen,Honor X50i lock screen wallpaper on android,unlock phone forgot password,Honor X50i password unlock tool
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## How to Reset a Honor X50i Phone that is Locked?

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Vivo G2 Phone with Broken Screen
-date: 2024-05-19T19:17:02.155Z
-updated: 2024-05-20T19:17:02.155Z
+date: 2024-06-09T02:43:59.691Z
+updated: 2024-06-10T02:43:59.691Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock Vivo G2 Phone with Broken Screen
 excerpt: This article describes How to Unlock Vivo G2 Phone with Broken Screen
 keywords: smart lock android,unlock,Vivo G2 android emergency call bypass,bypass android device lock screen using emergency call,unlock android device phone pattern lock without factory reset,android device device manager unlock,Vivo G2 how to unlock android phone without google account,remove screen lock pin on android device,Vivo G2 hack wifi password android,android device manager unlock,Vivo G2 unlock screen
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## How to Unlock Vivo G2 Phone with Broken Screen
