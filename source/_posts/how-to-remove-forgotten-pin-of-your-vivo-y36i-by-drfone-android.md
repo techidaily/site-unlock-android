@@ -1,7 +1,7 @@
 ---
 title: How to Remove Forgotten PIN Of Your Vivo Y36i
-date: 2024-05-19T19:16:52.800Z
-updated: 2024-05-20T19:16:52.800Z
+date: 2024-06-25T05:18:16.192Z
+updated: 2024-06-26T05:18:16.192Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Remove Forgotten PIN Of Your Vivo Y36i
 excerpt: This article describes How to Remove Forgotten PIN Of Your Vivo Y36i
 keywords: pattern unlock,techeligible frp bypass,Vivo Y36i reset locked android phone,lock screen wallpaper on android,pattern lock,android device password reset,bypass android lock screen using emergency call,Vivo Y36i forgot android password,forgot pattern lock
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## How to Remove Forgotten PIN Of Your Vivo Y36i
@@ -240,7 +240,7 @@ So, look no further if you want to remove your **Android screen lock** in just a
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to unlock Android Phone Screen!
 
