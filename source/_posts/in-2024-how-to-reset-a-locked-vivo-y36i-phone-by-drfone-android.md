@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Locked Vivo Y36i Phone
-date: 2024-05-19T19:16:53.802Z
-updated: 2024-05-20T19:16:53.802Z
+date: 2024-07-03T21:50:32.449Z
+updated: 2024-07-04T21:50:32.449Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Reset a Locked Vivo Y36i Phone
 excerpt: This article describes How to Reset a Locked Vivo Y36i Phone
 keywords: how to unlock android device phone without google account,remove screen lock pin on android device,lock screen pattern,Vivo Y36i unlock with google assistant,android device lock screen settings,change android device lock screen,find lost phone with google map,android screen lock,Vivo Y36i password unlock tool
-thumbnail: https://www.lifewire.com/thmb/tytwbqcYgTF7h7x0nLFuA1_IxhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515810476-aabe0e5a88b44bb1ae49a5bfa97bec62.jpg
+thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f8eaaf0f310614210c430f98.jpg
 ---
 
 ## How to Reset a Locked Vivo Y36i Phone
@@ -65,7 +65,7 @@ In this part, we will discuss Wondershare Dr.Fone for unlocking your locked Andr
 
 
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 Remove Android lock screen in 5 minutes
 
@@ -98,7 +98,7 @@ Once the previous step is complete, you will see the lock screen removal process
 
 ![reset android phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Conclusion
 
@@ -301,7 +301,7 @@ This is an easy way to unlock your Samsung device if you forgot your Samsung's l
 
 
 
-### [Dr.Fone - Android Lock Screen Removal](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Android Lock Screen Removal
 
 Remove 4 Types of Android Screen Lock without Data Loss
 
