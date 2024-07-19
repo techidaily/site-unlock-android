@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y36i
-date: 2024-05-19T19:16:53.284Z
-updated: 2024-05-20T19:16:53.284Z
+date: 2024-07-18T12:32:30.303Z
+updated: 2024-07-19T12:32:30.303Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Mastering Lock Screen Settings How to Enable and Disable on Vivo Y36i
 excerpt: This article describes Mastering Lock Screen Settings How to Enable and Disable on Vivo Y36i
 keywords: fingerprint not working,Vivo Y36i swipe screen to unlock,smart lock android device,android device emergency call bypass,Vivo Y36i android show wifi password,android device password reset,Vivo Y36i how to lock apps on android,Vivo Y36i top 10 frp bypass tools,Vivo Y36i pattern unlock,how to reset voicemail password
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Mastering Lock Screen Settings: How to Enable and Disable on Vivo Y36i
@@ -25,16 +25,25 @@ If you have spent time searching and looking for features of your Android device
 
 · Step 1: On the main screen of your Android devices, tap on the gear icon - which is the icon representing the Settings menu. Once you have chosen it, you will see a drop-down menu on the screen. In the options provided, tap on the Security bar.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555320015997.jpg)
 
 · Step 2: Under the tab whose heading is entitled Screen Security, tap on the first bar in the list called Screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555320324072.jpg)
 
 · Step 3: Once the step is done successfully, Android will give you plenty of choices about ways to lock your Android devices' screens. Among these ways, select one particular type which you feel is most convenient as well as free-risk. After that, type in your PIN code to confirm the choice and finally activate your lock screen feature as you wish.
 
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555320547280.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555321629733.jpg)
 
 ## Part 2: How to Disable Android Lock Screen
@@ -43,6 +52,9 @@ To certain customers, the lock screen can do more harm than good, and they would
 
 · Step 1: On the main screen of your Android devices, tap on the gear icon. It will directly lead you to the Settings menu of the phone. After that, a drop-down menu will appear with several choices and bars. Among them, tap on the Security option to begin your work.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555320015997.jpg)
 
 · Step 2: Under the heading called Screen Security heading, you will be shown 3 choices. Tap on the first one, which is entitled Screen lock.
@@ -59,6 +71,9 @@ Step 4: As soon as you have confirmed the right PIN code in the bar provided, yo
 
 Step 5: In the end, you have successfully disabled the screen lock on your Android devices. You are now capable of using it without any hesitation about the screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Common Problems of Disabling Lock Screen
 
 The process to disable the screen lock on Android may seem easy to handle as well as straightforward to several customers, but there are still some annoying problems that users have to deal with while trying to disable the lock screen.
@@ -75,18 +90,27 @@ The solution to this problem is quite simple. Once you have made sure you are su
 
 Step 1: Open the Settings menu from the main screen. Then tap on the Credential Storage. You will see a drop-down menu like the screenshot below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14556834486843.jpg)
 
 Step 2: Continue to tap on the Clear Credentials (Remove all certificates) option. Then next click on the OK button. Wait for some seconds until your Android device has finished the process.
 
 Step 3: To make sure that the previous step has been performed successfully, try looking at the bottom of the drop-down menu. If the Clear Credentials (Remove all certificates) are grey out and can not be selected, then you have managed to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14556833184389.jpg)
 
 Step 4: Now that the problem is solved, you can feel free to turn back to your Screen lock option in the beginning and disable the feature of locking screen Android as usual.
 
 2\. You have mistakenly encrypted your SD card. You want to disable the encryption, only to realize that it requires you to set a new screen lock code. But when you come to the Screen lock menu, all the options but Password have been greyed out.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/others/14555323367933.jpg)![disable lock screen android](https://images.wondershare.com/drfone/others/14555323405268.jpg)
 
 This is pretty weird, but actually, it is one of the most common troubles that many users have complained about. But to your surprise, the solution is very simple and easy. All you have to do is to reset your password, but with a little change. Your password MUST include at least ONE NUMBER in it. Confirm your new password then you will be able to disable the lock screen Android as usual.
@@ -114,6 +138,9 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 1:** Launch Dr.Fone and click on Screen Unlock from the primary window.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable lock screen android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Connect your Android device to the computer via USB cable. The program will recognize the phone directly. Select the phone model or "I can't find my device model from the list above" to continue.
@@ -136,27 +163,42 @@ Now, the question is, is it possible **to track an IMEI number through Google Ea
 
 ![google earth imei tracker](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How To Track Your Vivo Y36i on Google Earth
 
 This **Google Maps IMEI number tracking** issue has caused quite a buzz and controversy on the internet. It has raised many concerns regarding the safety and privacy of every smartphone user. To tell you the truth, Google Earth lacks IMEI location data and does not provide such capabilities. Thus, there is no truth in **tracking IMEI numbers through Google Earth**.
 
 However, if you have access to a cell phone's GPS coordinates or the location of a cell tower to which it is linked, you can use Google Earth to follow its location.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### How To Locate a Smartphone Using Google Earth
 
 Many current smartphones include GPS receivers that allow them to pinpoint their exact location. If you know the phone's GPS coordinates, you can plug them into Google Earth to see where it is on the map.
 
 - **Step 1:** This process won't be possible if your location services are not enabled on your phone. To do this, navigate to **Settings,** then **Location** on Android, and **Settings** > **Privacy** > **Location Services** on iOS.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone location services](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-02.jpg)
 
 - **Step 2:** Google Earth can be downloaded and installed on your computer or mobile device. It works with Windows, macOS, Android, and iOS. Download it from your device's **Google Earth** website or the app store.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install google earth android](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-03.jpg)
 
 - **Step 3:** Sign in to Google Earth using the Google Account linked to the phone you want to track. This step is required to acquire location data and [monitor IMEI numbers](https://drfone.wondershare.com/android-unlock/check-imei-number-location.html) using Google Earth.
 - **Step 4:** Launch Google Earth on your computer or mobile device, then select **Your timeline** from the Google Maps menu. The operation will take you to the Google Maps Timeline page.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![your timeline on google maps](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-04.jpg)
 
 - **Step 5:** Select the day you wish to see the phone's location history. Choose the Vivo Y36i device you want to track from the dropdown menu if you have numerous devices linked to the same account. The timeline displays the selected device's location history for the set date. Examine the locations visited, the routes taken, and the time spent at each spot. For further information, select a certain location or time.
@@ -169,12 +211,18 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 Now that you know the truth behind **tracking an IMEI number through Google Earth**, let's talk about other ways to track your phone using your IMEI number. This section will discuss some of your other options when it comes to IMEI number location tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Using a Third-Party App
 
 If you have the IMEI number of the stolen device, you can track the phone [using IMEI for free utilizing various tools](https://drfone.wondershare.com/unlock/imei-check-iphone.html) available online.
 
 - **Step 1:** In the app store, search for "IMEI tracker" and download the IMEI tracking app you wish to install on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![app store imei tracking](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-06.jpg)
 
 - **Step 2:** Open the app and follow the in-app guide on how to use it.
@@ -189,6 +237,9 @@ In certain situations, an online platform is preferable to a mobile app. For you
 
 The online IMEI TRACKER is simple to use. After searching an IMEI tracker in Google and opening its website, please enter a valid IMEI code in its search bar and specify the country where your cell phone was first registered. After that, you have to wait for a few moments, and then you may view the phone's location status and determine whether it is lost or stolen.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![online imei tracker](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-07.jpg)
 
 ### Pros and Cons of IMEI Trackers: Apps and Online Platforms
@@ -213,10 +264,16 @@ Below are the drawbacks of using IMEI trackers:
 
 In summary, an IMEI tracker can be a valuable tool for locating lost or stolen mobile devices with its location accuracy and compatibility with various devices. However, it comes with limitations related to privacy and network dependency.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus: An Effective Method for Other iPhone Issues Like Locked Screens
 
 In the previous sections, this article delved into IMEI tracking, which helps you accurately locate your lost or stolen phone. However, imagine this scenario: you've found your long-lost iPhone, but there's a problem. You can't remember the password, PIN, or pattern to unlock it. So this time, let's go over one of the most common issues smartphone owners encounter: being locked out of their devices.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Introducing Wondershare Dr.Fone – Screen Unlock (iOS): Your iPhone Savior
 
 There are numerous scenarios where one may forget the passcode on their iOS device. While many people dismiss their phones as useless, there are ways to unlock iPhones correctly. And that's where [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) comes to the rescue. It's like the locksmith for your phone's digital lock.
@@ -237,12 +294,18 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 
 - **Step 1:** After downloading and installing Wondershare Dr.Fone on your PC, click **Toolbox**, click **Screen Unlock**, then choose **iOS**. In the window that appears, click the **Unlock iOS Screen** button.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
 
 - **Step 2:** On the next screen, select **Start** to begin the unlocking procedure for the iOS device. Make sure that your device's battery levels are enough.
 - **Step 3:** After that, you should set your iDevice into **Recovery Mode**. Follow the on-screen instructions to put your iDevice into the appropriate mode for your model. If **Recovery Mode** does not work, click the **Try DFU Mode** button at the bottom to access the instructions for entering the iDevice into **DFU mode**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 4:** After the user successfully enters their iDevice into **Recovery Mode**, the platform automatically recognizes the **Device Model** and shows it in the appropriate section. Modify the model and select the **System Version** to meet your needs if necessary. After that, select **Start** to begin unlocking your device's screen.
@@ -258,9 +321,15 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 - **Step 8:** The next screen displays the unlocking iOS device's progress bar. Keep in mind that the Vivo Y36i device must be connected at all times; otherwise, it will brick.
 - **Step 9:** Once the iDevice has been successfully unlocked, click the **Done** button to complete the process. If your iDevice is still locked, click **Try Again** to restart the process.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone ios lock screen removed completely](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article explored the incredible world of IMEI tracking, a powerful tool for locating lost or stolen phones. You've learned that your IMEI number is capable of helping you pinpoint your device's location, but **tracking IMEI numbers through Google Earth** is impossible.
@@ -269,6 +338,9 @@ But that's not all. This article also introduced and divulged an amazing and rel
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Delete Gmail Account With/Without Password On Vivo Y36i
 
 Email accounts have proven their worth in digital devices beyond sending emails. Lately, Android devices have only operated with a Gmail account. This is because most of the data, such as contact information, messages, and other details, are saved across the storage space offered with the email. Against all recognizable uses of Gmail accounts, users look for ways **how to delete Gmail accounts.**
@@ -286,12 +358,18 @@ Although the process of deleting a Gmail account sounds basic, there are many po
 - **Access to Other Services:** Although you are deleting your Gmail account, you can still access Google Photos, Google Drive, and other services.
 - **Lookout For Emails:** Ensure that the emails in your account are saved. You can easily download them anywhere before deleting the Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. Delete Your Gmail Account Using Your Password: Desktop Solution
 
 For the first method, we will discuss **how to delete a Google account** with your password. You will use your computer for this process and access the [Google Account](https://myaccount.google.com/) services. The service helps you save all your essential Gmail data before you remove it. To understand how it makes it possible, look through the steps provided below:
 
 - **Step 1.** Access the website [https://myaccount.google.com/](https://myaccount.google.com/) on your desktop browser and log in with your credentials. Proceed to the “Data & privacy” section from the left panel.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![login and access data and privacy](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-2.jpg)
 
 - **Step 2.** On the following window, scroll down and look for the “Delete a Google service” option. Accessing this would allow you to **delete your Gmail account permanently**.
@@ -300,6 +378,9 @@ For the first method, we will discuss **how to delete a Google account** with yo
 
 - **Step 3.** You will be led to a new screen where you need to provide your password credentials again. On successfully providing your password, look for the “Gmail” option on the next screen. Click the “Trash” icon to continue deleting the Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select gmail to delete](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-4.jpg)
 
 - **Step 4.** A new pop-up window opens, demanding another email address that can help connect to other Google services. Provide the email address and continue to click "[Send verification email](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html) ." The Gmail account won't be deleted until the user verifies the email sent to the new address.
@@ -318,16 +399,25 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 - **Step 1.** Look for “Settings” on your Android and continue to the “Accounts & sync” option in the list. As you proceed into the next window, look for the Google account and select it.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access accounts in android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-7.jpg)
 
 - **Step 2.** Select the "More" option at the bottom on the following screen. Choose the "Remove account" option in the pop-up menu and provide your credentials to execute the deletion of your Gmail account.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove gmail account android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-8.jpg)
 
 ### iOS Devices
 
 - **Step 1.** Open your iPhone's "Settings" app and scroll down to the "Mail" option. You will find the "Accounts" option on the following screen, which you need to tap to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open signed in accounts apple](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-9.jpg)
 
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
@@ -358,10 +448,16 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **For iPhone X or Later Models:** Press and release the “Volume Up” button, followed by the “Volume Down" button. Hold the “Side” button until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![recovery mode iphone x or later](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-14.jpg)
 
 - **For iPhone 7 Models:** Hold the “Side” and “Volume Down” button until the Recovery Mode screen appears.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode iphone 7 models](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-15.jpg)
 
 - **For iPhone 6 and Earlier Models:** Hold the "Side" and "Home" buttons simultaneously until the Recovery Mode screen appears.
@@ -370,6 +466,9 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 - **Step 2.** The device automatically gets detected on Finder/iTunes, and a pop-up appears on the screen. Click "Restore" to reset your iOS device to factory settings.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore ios device](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-17.jpg)
 
 ## Part 5. Remove Gmail Account From Device Without Password: Using Wondershare Dr.Fone
@@ -441,3 +540,47 @@ This article has specifically provided you with some important details on **how 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-equipment-list-secure-your-zoom-sessions/"><u>[New] In 2024, Essential Equipment List  Secure Your Zoom Sessions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-fuel-your-film-rate-with-these-easy-tiktok-tricks/"><u>[Updated] 2024 Approved  Fuel Your Film Rate with These Easy TikTok Tricks</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-10-best-free-subtitle-makers-online/"><u>2024 Approved 10 Best Free Subtitle Makers Online</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-this-article-will-recommend-you-with-3-best-dvd-burning-tools-to-let-you-easily-burn-video-to-dvd/"><u>2024 Approved This Article Will Recommend You with 3 Best DVD Burning Tools to Let You Easily Burn Video to DVD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-infinix-gt-10-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Infinix GT 10 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-gt-10-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-gt-10-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-gt-10-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-gt-10-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix GT 10 Pro Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-gt-10-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix GT 10 Pro Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-gt-10-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-gt-10-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix GT 10 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-gt-10-pro-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix GT 10 Pro Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-gt-10-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-a60s-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel A60s to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-infinix-gt-10-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Infinix GT 10 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Hot 30 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-oppo-f23-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Oppo F23 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-hot-30-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Hot 30 5G Easily?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G Bootloader Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Hot 30 5G Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-30-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 30 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-30-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Hot 30 5G Phone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-review-of-sound-forge/"><u>In 2024, Review of Sound Forge</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-hot-30-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Hot 30 5G Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-gt-10-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix GT 10 Pro Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-gt-10-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-gt-10-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix GT 10 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-gt-10-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix GT 10 Pro Device</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/troubleshooting-excessive-obs-bitrate/"><u>Troubleshooting Excessive OBS Bitrate</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-enhancing-cinematic-soundscape-fading-and-amplifying-audio-effectively-with-keyframing-in-macos-filmora/"><u>Updated Enhancing Cinematic Soundscape Fading and Amplifying Audio Effectively with Keyframing in macOS Filmora</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-art-of-smooth-transitions-between-film-cuts-for-2024/"><u>Updated The Art of Smooth Transitions Between Film Cuts for 2024</u></a></li>
+</ul></div>

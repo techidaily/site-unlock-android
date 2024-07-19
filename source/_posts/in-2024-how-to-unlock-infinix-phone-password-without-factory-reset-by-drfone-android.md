@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Infinix Phone Password Without Factory Reset?
-date: 2024-04-02 11:22:56
-updated: 2024-04-05 21:58:57
+date: 2024-07-18T15:02:54.922Z
+updated: 2024-07-19T15:02:54.922Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock Infinix Phone Password Without Factory Reset?
 excerpt: This article describes How to Unlock Infinix Phone Password Without Factory Reset?
 keywords: hard pattern lock,Infinix Smart 8 Plus samfw frp tool,Infinix Smart 8 Plus top 10 frp bypass tools,hack wifi password android device,reset gmail password on android,Infinix Smart 8 Plus how to unlock android phone
-thumbnail: https://www.lifewire.com/thmb/Ov60TE6o0ZdI6Oaw589hEL_tVLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229088-5bd1f61e46e0fb0026fdf2f0.jpg
+thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a50d24fd1a27318344d95b256.jpg
 ---
 
 ## How to Unlock Infinix Smart 8 Plus Phone Password Without Factory Reset?
@@ -25,6 +25,9 @@ Whether you have a pattern or PIN or fingerprint as a password, you can remove a
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/WOBqlRz2IaY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
@@ -68,6 +71,9 @@ With very simple steps and a few minutes at hand, you can get rid of your passwo
 
 **Step 1.** Your Android phone is always linked to your Google account. So first and foremost, on your computer or on another mobile phone, open the site <www.google.com/Android/devicemanager>.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![log in android device manager](https://images.wondershare.com/drfone/article/2017/10/15090637241780.jpg)
 
 • Now sign in with your Google credentials. Google will start searching for your device. Here you need to choose the Android phone you want to unlock in case it is already not selected.
@@ -78,6 +84,9 @@ With very simple steps and a few minutes at hand, you can get rid of your passwo
 
 **Step 3.** A window will appear where you need to type any temporary password. Do not enter your Google password, and you need not enter the recovery message. Click on “Lock ” again.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter temporary password](https://images.wondershare.com/drfone/article/2017/10/15090638114424.jpg)
 
 Once successful, you will get a confirmation message below the three buttons: Ring, Lock, and the Erase option.
@@ -106,6 +115,9 @@ Through this easy method, you can now access your Android phone without using a 
 
 The problem of getting your mobile locked and not being able to open it is a common problem on Android phones these days. Many of us tend to panic when such problems arise. However, now that we have given some easy solutions and methods to unlock Android phone passwords without factory reset and losing any data, things would be much easier. Thus, you will solve your problems in no time.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lock Your Infinix Smart 8 Plus Phone in Style: The Top 5 Gesture Lock Screen Apps
 
 Ever wondered, if there was an easier and more interesting way to unlock and open your devices and apps without boring PINs/Passwords that you tend to forget? Worry not, gestures are here! Imagine the joy when you can unlock your phone by just waving your hand over it, or instead of getting access through confusing patterns or lengthy PINs, you can just get in by drawing an alphabet! So let’s go through some gesture lock screen apps for Android phones.
@@ -127,10 +139,16 @@ These gestures gave Android developers an idea of creating apps, to make use of 
 
 Why do we need these gesture apps? –Would you not want to control your phone’s notification bar by just waving your hand over the screen, when it’s not reachable? These apps are not only fun but also useful and efficient. So, now let us discuss 5 Android gesture lock screen apps.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1) Gesture Lock Screen
 
 A top-rated app in the Google Play Store, for gestures, the Gesture Lock Screen is a wonderful gesture app that locks and unlocks Android lock screens. Rated 4/5 stars in the Google Play Store, this app was developed by Q Locker.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![guesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074554194436.jpg)
 
 Gesture Lock Screen is an all-in-one gesture app that locks the screen as well as provides you with other good features. The app allows you to draw anything or gesture to unlock your phone; you can draw letter, signatures, various shapes, whatever you want to unlock your device! This app gives you the convenience to unlock your phone through fingerprints, gestures, and recover passwords as well.  
@@ -143,6 +161,9 @@ With over 40,000 5/5 ratings and 5,00,000-10,00,000 installs, this app proves to
 
 Download this app from here - <https://play.google.com/store/apps/details?id=qlocker.gesture&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2) Magic Unlock
 
 Magic Unlock app, developed by zonep.ro, is designed with the main aim of responding to hand movement. The future is here!The app detects the movements of your hand, preferably horizontal or vertical, through the phone’s proximity sensor and then opts to unlock the screen. Technology, I tell you!
@@ -155,6 +176,9 @@ The app was released early 2017, but Magic Unlock has already received 50,000-10
 
 Download the app from here - <https://play.google.com/store/apps/details?id=com.binarybuilding.magicunlock&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3) Gesture Magic
 
 Another app that uses gesture to lock/unlock the screen is the Gesture Magic app, developed by Apps2all. Compatible with most Android devices, this app is very easy for you to use.
@@ -169,10 +193,16 @@ Launched on 17th August 2017, the app has already fetched 100,000-500,000 instal
 
 Download this app from here - <https://play.google.com/store/apps/details?id=com.gesture.action&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4) Gesture Lock Screen
 
 Developed by Prank App, Gesture Lock Screen is a wonderful app that allows to securing your Android phone with letters, signatures or a pull-down gesture. This is an intelligent gesture screen-lock app that detects and adjusts to the letters that are created every time and stored as lock screen passwords. You can be creative with this app as well; hearts, circles, triangles, squares, make any shape, letter, number and save it as the gesture lock.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555834839.jpg)![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555845748.jpg)
 
 Gesture Lock Screen is designed to allow you to launch any personal application through your personalized gesture, so you do not have to worry about anyone meddling with the contents of your phone. The app comes with the following range of features:
@@ -207,6 +237,9 @@ As Android reaches new heights every year, gestures are getting more and more en
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Smart 8 Plus
 
 In addition to passwords and patterns, the fingerprint scanner is one of the hottest features on leading phones of today to lock apps with fingerprint Android. The Fingerprint scanner is the latest fashion in smartphones. You would have observed that with fingerprint scanner going middle-of-the-road, many of the new low-priced phones have also been furnished with this new feature. Although the foremost purpose of the fingerprint scanner is to lock or unlock Your Infinix Smart 8 Plus, it can also be utilized to lock and unlock your mobile applications. But not all phones are equipped with this feature. The aforesaid feature is easy to use, quick and smart.
@@ -229,8 +262,14 @@ AppLock is rated as the best one of the apps for locking apps on your Android ph
 
 **Google Rating:** 4.4
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock apps with fingerprint android-AppLock](https://images.wondershare.com/drfone/article/2017/10/15090398843847.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 2\. App Locker: Fingerprint & Pin
 
 The subsequent name on the list of best app locks using lock apps with the fingerprint on your Android phone is App Locker. Most of the functions and features of this app are similar to the app lock. This lock apps with fingerprint iPhone have a tricky feature though, want to know? This naughty app, along with the app lock facility (using PIN, password, or fingerprint sensor), can trigger a sham crash screen which will trick the impostors to think that your phone is crashed! Isn’t it interesting? One more thing to interest you – it is also free to download and use.
@@ -265,6 +304,9 @@ The next on the list is FingerSecurity - one of the feature-rich lock apps with 
 
 **Google Rating:** 4.2
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock apps with fingerprint android-FingerSecurity](https://images.wondershare.com/drfone/article/2017/10/15090399282756.jpg)
 
 ## 4\. Norton Applock
@@ -298,6 +340,9 @@ Perfect App Lock is yet another great lock apps with the fingerprint for Android
 
 **Google Rating:** 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![lock apps with fingerprint android-Perfect Applock](https://images.wondershare.com/drfone/article/2017/10/15090399729810.jpg)
 
 Apart from the aforesaid apps, there are many lock apps with fingerprint locking method for Android phones; however, these have been selected purely based on user ratings. If you are using the iPhone, you can have some app locks based on fingerprint sensors like 1Password, Scanner Pro, LastPass, or Mint to lock apps with the fingerprint on your iPhone.
@@ -325,3 +370,44 @@ Do not forget to share your experiences with the apps mentioned in our article. 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-efficient-and-reliable-a-comparison-of-the-best-pc-sniping-software/"><u>[New] 2024 Approved  Efficient & Reliable  A Comparison of the Best PC Sniping Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-complete-snapchat-editors-toolbox-for-photo-finesse-for-2024/"><u>[New] The Complete Snapchat Editor's Toolbox for Photo Finesse for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-advanced-techniques-to-skip-content-on-tiktok-for-2024/"><u>[Updated] Advanced Techniques to Skip Content on TikTok for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capture-android-the-ultimate-recorder-at-no-cost/"><u>2024 Approved  Capture Android  The Ultimate Recorder at No Cost</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-utilize-snapchats-star-trail-effectively/"><u>2024 Approved  Utilize Snapchat's Star Trail Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-infinix-hot-30i-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Infinix Hot 30i Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-hot-30i-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Hot 30i</u></a></li>
+<li><a href="https://extra-information.techidaily.com/film-fragments-the-ultimate-editors-collection/"><u>Film Fragments  The Ultimate Editor's Collection</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-hot-30i-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Hot 30i Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-hot-30i-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Hot 30i Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-infinix-hot-30i-by-drfone-android/"><u>How to Show Wi-Fi Password on Infinix Hot 30i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-infinix-hot-30i-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Infinix Hot 30i Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nokia-c22-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nokia C22 Unlock Without Password</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-boost-your-discord-engagement-with-these-essential-plugins/"><u>In 2024, Boost Your Discord Engagement with These Essential Plugins</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-smart-7-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Smart 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-smart-7-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Smart 7 Easily?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-11-pro-maxipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 11 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 Bootloader Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Smart 7 Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-4g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco M6 Pro 4G Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-smart-7-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Smart 7 Phone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-the-ultimate-guide-to-mp4-to-mp3-apps-for-ios-and-android/"><u>In 2024, The Ultimate Guide to MP4 to MP3 Apps for iOS and Android</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-smart-7-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Smart 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-smart-7-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Smart 7 Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-xiaomi-redmi-note-12-proplus-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Xiaomi Redmi Note 12 Pro+ 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-hot-30i-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Hot 30i Device</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-zero-cost-conversion-wizardry-a-comprehensive-guide-to-turning-video-into-audio/"><u>New 2024 Approved Zero-Cost Conversion Wizardry A Comprehensive Guide to Turning Video Into Audio</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-ultimate-11-handy-apps-for-on-the-go-music-mixing/"><u>New In 2024, Ultimate 11 Handy Apps for On-the-Go Music Mixing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-nokia-xr21-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Nokia XR21? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/scholarly-selection-pinpointing-top-10-teaching-equipment-options-for-2024/"><u>Scholarly Selection  Pinpointing Top 10 Teaching Equipment Options for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-2024-approved-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>updated 2024 Approved How to Translate Audio/Video Content from Spanish to English and vice versa?</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-movie-magic-maker-upgrade-your-home-videos-to-hollywood-quality/"><u>Updated 2024 Approved Movie Magic Maker Upgrade Your Home Videos to Hollywood Quality</u></a></li>
+</ul></div>

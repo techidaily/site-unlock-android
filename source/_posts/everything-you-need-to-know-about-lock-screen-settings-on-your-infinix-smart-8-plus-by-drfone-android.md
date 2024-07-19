@@ -1,7 +1,7 @@
 ---
 title: Everything You Need to Know about Lock Screen Settings on your Infinix Smart 8 Plus
-date: 2024-04-02 13:20:12
-updated: 2024-04-05 20:22:53
+date: 2024-07-18T15:59:54.170Z
+updated: 2024-07-19T15:59:54.170Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Everything You Need to Know about Lock Screen Settings on your Infinix Smart 8 Plus
 excerpt: This article describes Everything You Need to Know about Lock Screen Settings on your Infinix Smart 8 Plus
 keywords: how to unlock android device phone,Infinix Smart 8 Plus samfw frp tool,reset gmail password on android,Infinix Smart 8 Plus unlock phone guide,Infinix Smart 8 Plus android lock screen settings,Infinix Smart 8 Plus how to use oem unlocking,remove screen lock pin on android device,unlock,unlock android device phone with broken screen,lock screen wallpaper on android,pattern unlock
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## Everything You Need to Know about Lock Screen Settings on your Infinix Smart 8 Plus
@@ -19,6 +19,9 @@ Everybody of you is well familiar with Android lock screen and it can be undoubt
 
 Here's a charm that's you can unlock your lock screen by many ways and you've to set the ways from android lock screen settings. Now you'll come to know how to set different types of screen lock, customize Android lock screen, and even unlock your android phone without resetting it as all the ways of unlocking is related to the Infinix Smart 8 Plus device when it's switched on.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Different Ways of Unlocking Your Infinix Smart 8 Plus
 
 First look at the procedures on how you can enable the lock screen functionality from android lock screen settings. To reach the lock screen settings android, you've to follow the path:
@@ -29,10 +32,25 @@ Options – Security – Screen Lock – Choose Screen Lock.
 
 Now see how to unlock your lock screen in different ways.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.Slide
 
 This is the most common method of unlocking an android lock screen. On all most all the android device, you'll notice a lock mostly on the right side (sometimes on top) of a round charm. You just have to direct towards the lock and then the lock screen will be unlocked in no time. This method doesn't provide any security (it just protects your device from sudden access by tapping on screen or any of the button) to your device as no password or PIN is required to set the "Slide" unlock.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-3.jpg)
 
 Keep your any finger on the middle of the round charm and by keeping your finger pressed, reach on the lock icon. The lock screen will be unlocked just after reaching your finger to the lock icon.
@@ -45,10 +63,16 @@ Capture a picture of your face with your Android device's camera and then set it
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3.Pattern
 
 This is a way of setting pattern for lock screen from a grid of nine dots. You can select the pattern like some letter like Z, L or C etc, but nothing guarantees high security as the set pattern can be easily guessed or be seen while you are unlocking your device. Another problem is that by unlocking with the same pattern, your finger leaves some marks for the pattern's path. By following the path, a stranger can unlock your device. So for little security, you can use pattern unlock method on your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-5.jpg)
 
 Go to the lock screen setting for Pattern and then set the pattern by sliding your finger from one dot to another, then another and like that way. Remember which pattern you've set in order to unlock your device in the next time.
@@ -61,18 +85,30 @@ You might be troubled by thinking about the difference between PIN and Password.
 
 Go to the lock screen setting for PIN and then set a PIN that consists of minimum 4 digits. It's your choice to use 4 or more digit PIN. After setting the PIN, you can access your Android device by putting the PIN in a box from the lock screen. PIN protected lock screen is highly protected if the PIN is set strongly.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5.Password
 
 In addition to PIN protection, you can consider it as password by adding some letters, special characters with the previously selected PIN codes. It's also very much highly protected method of locking screen though you might be bored with tapping for the password again and again. But never ignore the value of your device's files, so a password can be a well-sought lock screen protection for many users.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-7.jpg)
 
 ### 6.Fingerprint
 
 In some of the modern Android device, you'll find the feature of fingerprint unlocking. You can find the option through the screen or any dedicated button. By setting your fingerprint, you can unlock your device by tapping your finger on the Infinix Smart 8 Plus device's screen or the dedicated button.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 7.Voice
 
 This is also a fun way of unlocking Android lock screen as you can unlock by saying the same voice that you've saved as the unlocking recognition.
@@ -105,6 +141,9 @@ This is an easy way to unlock your Samsung device if you forgot your Samsung's l
 
 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Android Lock Screen Removal](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -120,6 +159,9 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 1.** Run Dr.Fone and choose "Screen Unlock".
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Connect your Samsung with USB on computer,then you will see the windows as follow,and select phone model in the list.
@@ -136,12 +178,18 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 **Step 4.** Download the recovery package after your device model matched successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
 **Step 5.** When the recovery package is downloaded completed,you can start the process of unlock,the whole process won't lose any data on your device.You can access your device without entering any password or PIN after the process is finished.
 
 ![bypass Samsung Phone's lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Video on How To Remove Android Lock Screen
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qXw3JNztGVI" id="video-iframe-t"></iframe>
@@ -164,6 +212,9 @@ For devices running Android 11, **changing the lock screen clock** is still avai
 
 - **Step 1**: For users with Android 11 or older, go to **Settings** > **Lock screen & security**. Depending on your phone model, tap **Lock screen** or **Security**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![customizing android lock screen clock](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-02.jpg)
 
 - **Step 2: G**o to **Customize Lock screen** > **Clock**. Next, customize or activate the lock screen clock.
@@ -182,16 +233,25 @@ In Android 11, adjusting your wallpaper is accessible through the Android Settin
 
 - **Step 1A:** Navigate to the “All Apps” screen and select **Settings**. For Samsung Galaxy devices on Android 11, access the **Wallpaper** option within the settings menu.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wallpaper settings on android 11](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-03.jpg)
 
 In Android 12, the process remains consistent.
 
 - **Step 1:** Locate the **Wallpaper & style** button within the **Settings** menu**.**
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wallpaper settings on android 12](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-04.jpg)
 
 - **Step 2**: Follow the provided instructions to transform your lock screen experience. Replace the oversized clock with dynamic, changing wallpapers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Turn Off the Always-On Display
 
 An alternative to avoid **the Android lock screen clock** is disabling the Always-on Display (AOD).
@@ -220,6 +280,9 @@ Originally, there was no provision to **change the lock screen clock in Android 
 
 **If you want to display a digital or analog clock, open the** **_**_Clock_**_** **app. Tap the** **_**_three dots_**_** **>** **_**_Settings_**_** **>** **_**_Style_**_****.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Turn On Screensaver
 
 An alternative method to modify the **Android lock screen clock** involves activating Android’s screen saver. There are options where it’s more pleasing than the default lock screen clock. If you want to **change the lock screen clock**, follow the steps.
@@ -234,6 +297,9 @@ An alternative method to modify the **Android lock screen clock** involves activ
 
 To avoid adjusting your Android device settings, you can make the lock screen clock smaller by maintaining unread notifications. The clock occupies less space when there are unread notifications. It shifts back to the top-left corner when you receive a new notification. Simply leave notifications unread to keep the clock smaller.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![unread notifications on android lock screen](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-08.jpg)
 
 ### Bonus
@@ -292,6 +358,9 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 - **Step 2**: Choose **Android** in the next window and click on **Unlock** **Android** **Screen**.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone unlock android option](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3:** Choose your device brand and click **Remove** **without Data Loss**. Select the **Brand**, **Device** **Name**, and **Device** **Model** of your smartphone. Once done, toggle the checkmark on **I agree with the warning, and I am ready to proceed** button.
@@ -318,6 +387,9 @@ Whether you own a Samsung or LG device, Dr.Fone allows you to unlock your phone 
 
 Dr.Fone is compatible with a vast array of Android models. It supports over 2000 devices, making it a versatile solution for Android users.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Knowing **how to change the lock screen clocks** on your Android offers a personalized touch. Android 12 users can effortlessly adjust settings, while Android 11 and older versions require a manual setup. Samsung owners, meanwhile, enjoy a similar but unique customization process. Follow the steps outlined above for those seeking to remove the lock screen entirely.
@@ -328,6 +400,9 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 
 There might be some moment when you have accidentally locked your phone and have no way to recover the phone's functionality without resetting. This moment is very much irritating to any of you. If your phone is locked, and you can't run your phone due to forgetting the password, you don't have to be dumbfounded. There are some ways by which you can recover your phone to its previous state. In this article, we will show you **how to reset a locked phone**.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Hard Reset Locked Infinix Smart 8 Plus Phone
 
 The most common way of resetting an Android phone screen lock is by hard reset. You can hard reset your Android phone to unlock it. Remember, hard reset will erase all the data stored on your phone. So hard reset will unlock your phone, but you will not get your stored data back on it. So if you have no recent backup for your phone data, beware of that before going for a hard reset.
@@ -338,6 +413,9 @@ Here you can learn **how to reset a locked phone** from different brands, as dif
 
 Now we will show you how to unlock HTC phone by hard reset.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset a locked htc](https://images.wondershare.com/drfone/article/2016/07/14696881054139.jpg)
 
 You will have to press and hold the volume down button along with the power button. Keep holding until you see Android images. Then release the buttons and then follow the volume down button to go for factory reset, afterward select the power button.
@@ -346,20 +424,32 @@ You will have to press and hold the volume down button along with the power butt
 
 Press and hold the volume up key, along with the power button and home key. You will see the Samsung logo onscreen. Go down to wipe data/factory reset by holding the volume down key. Now choose Yes. You could delete all the data on your phone by tapping on the volume down key. Your phone will start rebooting.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset a locked samsung](https://images.wondershare.com/drfone/article/2016/07/14696881309064.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### **3\. How to reset an LG phone that is locked?**
 
 To unlock your LG Android phone, you will have to press and hold the volume key and the power or lock key. You have to release the Lock or power key when you see the LG logo on the screen of your phone. Just after that, press and hold the power or lock key again. You can release all the buttons once you see a factory hard reset on the screen.
 
 ![reset a locked lg](https://images.wondershare.com/drfone/article/2016/07/14696881591213.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **4\. How to reset a locked Sony phone?**
 
 You have to confirm that your phone is switched off. Press and hold three keys altogether. The keys are Volume Up, Power, and Home keys. You have to release the buttons once you see the logo on the screen. Now follow volume down to scroll down. Power or Home key is used for selection. Choose factory reset or wipe data.
 
 ![reset locked sony](https://images.wondershare.com/drfone/article/2016/07/14696881799322.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **5\. How to reset a locked Motorola phone?**
 
 Firstly, switch off your phone. Then press and hold the power key, home key, and volume up key. After a while, you will see the logo on the screen, just then release all the buttons. For scrolling, you can use the volume down key, and for selecting, you can use either home or power key. Now select factory reset or wipe data.
@@ -393,6 +483,9 @@ Remove Android lock screen in 5 minutes
 
 The first thing that you will have to do is open Dr.Fone on your PC and then click on Screen Unlock that allows your device to remove the password from any of the 4 types of lock screens (PIN, Password, Pattern, and Fingerprints).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to reset a locked phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 2. Select the Infinix Smart 8 Plus device from the list.**
@@ -401,6 +494,9 @@ The first thing that you will have to do is open Dr.Fone on your PC and then cli
 
 **Step 3. Go for Specific Mode**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![reset android screen lock with drfone](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 **Step 4. Remove Lock Screen without Password**
@@ -409,6 +505,9 @@ Once the previous step is complete, you will see the lock screen removal process
 
 ![reset android phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 ## Conclusion
@@ -430,3 +529,68 @@ Forgetting your password is a perplexing situation though you have the solution 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-professional-screen-grabber-for-modern-win11-for-2024/"><u>[New] Professional Screen Grabber for Modern Win11 for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-effectively-reduce-your-youtube-video-lengths-for-2024/"><u>[Updated] How To Effectively Reduce Your YouTube Video Lengths for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-duration-decoded-a-guide-to-editing-youtube-videos/"><u>[Updated] In 2024, Duration Decoded  A Guide to Editing YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ios-gamers-top-5-ps2-emulators-unveiled/"><u>[Updated] IOS Gamers' Top 5 PS2 Emulators Unveiled</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-steadiness-in-imaging/"><u>[Updated] Master the Art of Steadiness in Imaging</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-blueprint-for-capturing-your-ps4-adventures-for-2024/"><u>[Updated] The Complete Blueprint for Capturing Your PS4 Adventures for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-tecno-spark-go-2023-unlock-without-password-by-drfone-android/"><u>5 Solutions For Tecno Spark Go (2023) Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-tecno-spark-go-2023-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Tecno Spark Go (2023) Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-spark-go-2023-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Spark Go (2023) Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-spark-go-2023-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieving-audiovisual-consistency-in-premiers/"><u>Achieving Audiovisual Consistency in Premiers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-spark-go-2023-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Spark Go (2023) Fingerprint Lock</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/beyond-virtualdub-top-video-editing-software-options/"><u>Beyond Virtualdub Top Video Editing Software Options</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-go-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-tecno-spark-go-2023-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-ethernet-connectivity-for-windows-printers/"><u>Enhance Ethernet Connectivity for Windows Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-gpresult-the-ultimate-gpo-report-tool/"><u>Exploring GPResult: The Ultimate GPO Report Tool</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-spark-go-2023-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Spark Go (2023) Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-spark-go-2023-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Spark Go (2023)? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-spark-go-2023-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-spark-go-2023-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-spark-go-2023-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Spark Go (2023) Lock Screen Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-13c-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi 13C Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-tecno-spark-go-2023-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Tecno Spark Go (2023)?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-spark-go-2023-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Spark Go (2023) to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-go-2023-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-spark-go-2023-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-tecno-spark-go-2023-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Tecno Spark Go (2023) Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-tecno-spark-go-2023-phone-by-drfone-android/"><u>How to Reset a Locked Tecno Spark Go (2023) Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-spark-go-2023-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Spark Go (2023) Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-tecno-spark-go-2023-devices-by-drfone-android/"><u>How to Reset Gmail Password on Tecno Spark Go (2023) Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-tecno-spark-go-2023-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Spark Go (2023) Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-spark-go-2023-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Spark Go (2023) Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2023-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2023) Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2023-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2023) Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-go-2023-phone-without-google-account-by-drfone-android/"><u>How to Unlock Tecno Spark Go (2023) Phone without Google Account?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-ace-3-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Ace 3 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premier-productions-first-impression/"><u>In 2024, Premier Productions First Impression</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-soundcloud-to-mp3-expert-conversion-hacks/"><u>In 2024, Soundcloud to MP3 Expert Conversion Hacks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-spark-go-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Spark Go (2023) Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-tecno-spark-go-2023-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Tecno Spark Go (2023) Phone Now with These Tips</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-reno-10-pro-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo Reno 10 Pro 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-spark-go-2023-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-tecno-spark-go-2023-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/secure-subjects-with-stealthy-image-alteration/"><u>Secure Subjects with Stealthy Image Alteration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/silentizing-beats-the-low-volume-approach/"><u>Silentizing Beats  The Low-Volume Approach</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c51-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-go-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-go-2023-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark Go (2023) Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-spark-go-2023-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Spark Go (2023) Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-spark-go-2023-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Spark Go (2023) Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-spark-go-2023-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-tecno-spark-go-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Tecno Spark Go (2023) Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-tecno-spark-go-2023-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-tecno-spark-go-2023-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Spark Go (2023) Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-go-2023-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Spark Go (2023) Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-go-2023s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Tecno Spark Go (2023)s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-spark-go-2023-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Tecno Spark Go (2023) Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Nord N30 5G | Dr.fone</u></a></li>
+</ul></div>

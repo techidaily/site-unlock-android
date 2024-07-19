@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Track IMEI Number Of Vivo Y36i Through Google Earth?
-date: 2024-05-19T19:16:53.347Z
-updated: 2024-05-20T19:16:53.347Z
+date: 2024-07-18T12:32:33.671Z
+updated: 2024-07-19T12:32:33.671Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How To Track IMEI Number Of Vivo Y36i Through Google Earth?
 excerpt: This article describes How To Track IMEI Number Of Vivo Y36i Through Google Earth?
 keywords: Vivo Y36i android password reset,Vivo Y36i bypass android lock screen using emergency call,Vivo Y36i lock screen wallpaper on android,top 10 frp bypass tools,lock screen wallpaper on android,Vivo Y36i network unlock
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## How To Track IMEI Number Of Vivo Y36i Through Google Earth?
@@ -27,12 +27,27 @@ This **Google Maps IMEI number tracking** issue has caused quite a buzz and cont
 
 However, if you have access to a cell phone's GPS coordinates or the location of a cell tower to which it is linked, you can use Google Earth to follow its location.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Locate a Smartphone Using Google Earth
 
 Many current smartphones include GPS receivers that allow them to pinpoint their exact location. If you know the phone's GPS coordinates, you can plug them into Google Earth to see where it is on the map.
 
 - **Step 1:** This process won't be possible if your location services are not enabled on your phone. To do this, navigate to **Settings,** then **Location** on Android, and **Settings** > **Privacy** > **Location Services** on iOS.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone location services](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-02.jpg)
 
 - **Step 2:** Google Earth can be downloaded and installed on your computer or mobile device. It works with Windows, macOS, Android, and iOS. Download it from your device's **Google Earth** website or the app store.
@@ -46,6 +61,9 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 - **Step 5:** Select the day you wish to see the phone's location history. Choose the Vivo Y36i device you want to track from the dropdown menu if you have numerous devices linked to the same account. The timeline displays the selected device's location history for the set date. Examine the locations visited, the routes taken, and the time spent at each spot. For further information, select a certain location or time.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![google maps location history](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-05.jpg)
 
 **Note:** Google Earth does not support real-time location tracking by default. You can use the **Find My Device** function on Android or **Find My** on iOS instead if you want to track your phone's real-time location.
@@ -54,6 +72,9 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 Now that you know the truth behind **tracking an IMEI number through Google Earth**, let's talk about other ways to track your phone using your IMEI number. This section will discuss some of your other options when it comes to IMEI number location tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Using a Third-Party App
 
 If you have the IMEI number of the stolen device, you can track the phone [using IMEI for free utilizing various tools](https://drfone.wondershare.com/unlock/imei-check-iphone.html) available online.
@@ -98,10 +119,16 @@ Below are the drawbacks of using IMEI trackers:
 
 In summary, an IMEI tracker can be a valuable tool for locating lost or stolen mobile devices with its location accuracy and compatibility with various devices. However, it comes with limitations related to privacy and network dependency.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus: An Effective Method for Other iPhone Issues Like Locked Screens
 
 In the previous sections, this article delved into IMEI tracking, which helps you accurately locate your lost or stolen phone. However, imagine this scenario: you've found your long-lost iPhone, but there's a problem. You can't remember the password, PIN, or pattern to unlock it. So this time, let's go over one of the most common issues smartphone owners encounter: being locked out of their devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Introducing Wondershare Dr.Fone – Screen Unlock (iOS): Your iPhone Savior
 
 There are numerous scenarios where one may forget the passcode on their iOS device. While many people dismiss their phones as useless, there are ways to unlock iPhones correctly. And that's where [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) comes to the rescue. It's like the locksmith for your phone's digital lock.
@@ -116,12 +143,18 @@ Let's discuss why Dr.Fone - Screen Unlock is a game-changer in unlocking phone, 
 - **Wide Compatibility.**One of the best things about Dr.Fone - Screen Unlock is its compatibility with various mobile devices. It doesn't matter if you're using an Android or iOS device; this tool has you covered. It's like having a universal key to open many locks.
 - **Safe and Secure.**Security is a top priority when it comes to your phone. Dr.Fone - Screen Unlock ensures that your data remains safe during unlocking. Your personal information won't be compromised.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step-by-Step Guide
 
 Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone easily](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/):
 
 - **Step 1:** After downloading and installing Wondershare Dr.Fone on your PC, click **Toolbox**, click **Screen Unlock**, then choose **iOS**. In the window that appears, click the **Unlock iOS Screen** button.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
 
@@ -132,6 +165,9 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 
 - **Step 4:** After the user successfully enters their iDevice into **Recovery Mode**, the platform automatically recognizes the **Device Model** and shows it in the appropriate section. Modify the model and select the **System Version** to meet your needs if necessary. After that, select **Start** to begin unlocking your device's screen.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone device model system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 5:** The following screen reveals the status of the iOS firmware download on the platform. If you want to stop the procedure, click the **Stop** button. In cases when the iOS firmware is downloading slowly on the platform, utilize the **Copy** button to copy the URL for manually downloading the iOS firmware.
@@ -158,12 +194,18 @@ Unlocking your Android’s potential goes beyond its surface features. Understan
 
 However, enabling USB debugging becomes crucial yet challenging when your phone is locked. This article delves into this necessity, explaining **how to enable USB debugging on locked phones**, especially for Android users. Unravel the mystery behind this essential feature, empowering yourself to navigate through locked phone scenarios effortlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allow usb debugging](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-01.jpg)
 
 ## Part I. Challenges in Enabling USB Debugging on a Locked Android Phone
 
 USB debugging is a nifty tool that lets you peek behind the scenes of your Android phone’s software. It’s like having a secret key that unlocks deeper access to your device, enabling tasks like software tweaking, app testing, and even data recovery.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![usb debugging android](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-02.jpg)
 
 ### Challenges in Enabling USB Debugging on a Locked Phone
@@ -182,6 +224,9 @@ Unlocking your phone’s potential becomes crucial in moments of crisis. Explore
 - **Software troubleshooting.**Sometimes, a locked phone might need software fixes or troubleshooting that requires USB debugging to access certain tools.
 - **Device testing.**For developers or tech-savvy users, testing new apps or debugging software issues often demands enabling USB debugging, even when the phone is locked.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part II. How To Enable USB Debugging on Locked Phones
 
 This section outlines the traditional method of enabling USB debugging on an Android phone. Stay tuned and check out the steps below:
@@ -193,16 +238,25 @@ This section outlines the traditional method of enabling USB debugging on an And
 
 **Step 3:** Once unlocked, return to **Setting**s, find **Developer Options** (usually at the bottom), and enter the menu. Enable USB Debugging by tapping **OK** once the **Allow USB Debugging?** message appears.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android usb debugging](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-04.jpg)
 
 However, what if your phone remains locked, making these steps impossible? Such a case calls for an alternative solution. Fortunately, there is one tool that is fully reliable when it comes to unlocking locked mobile devices. [<u>Dr.Fone - Screen Unlock (Android)</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) can help bypass these challenges and enable USB debugging on a locked Android phone effortlessly. So, buckle up as the next section unravels the secrets to unlock your device’s potential!
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Part III. Seamlessly Unlock Your Android With a Professional Resolution
 
 Enabling USB debugging on a locked phone can feel like navigating a maze with no clear exit. Sometimes, despite your best efforts, the traditional method fails to grant access. Fret not! There’s a smoother path that unlocks your phone and eases the USB debugging hurdle.
 
 ![drfone home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why Unlocking First Makes Sense
 
 Attempting to **enable USB debugging on locked phones** can hit roadblocks. That’s why unlocking your device first becomes a game-changer. Dr.Fone – Screen Unlock (Android) is the hero of this story, simplifying the process and ensuring a hassle-free experience.
@@ -229,14 +283,23 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 - **Step 2:** Once prompted, choose **Android** to unlock your Android screen lock. On the following screen, you’ll see two options; choose **Unlock Android Screen**.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 - **Step 3:** After that, you’ll be taken to a new screen where you can choose the brand of your mobile device.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone screen unlock select device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 - **Step 4:** Once done, click the **Remove without Data Loss** button from the two options presented on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone screen unlock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
 - **Step 5:** Unlocking the Android screen requires choosing the **Brand**, **Device Name**, and **Device Model** next. Enable the option that says **I agree with the warning, and I am ready to proceed** by clicking the corresponding checkbox. To proceed with unlocking the screen, click **Next**.
@@ -245,6 +308,9 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 - **Step 6:** Type **000000** when asked to confirm the process. After entering the code, click **Confirm** to run the program.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone screen unlock confirm](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
 - **Step 7:** Once you’ve recognized your Android device’s model, Dr. Fone will walk you through entering **Download Mode**. Following the on-screen prompts will take you directly to the next screen. It then depicts the progress of the screen unlocking procedure, in which the platform’s required drivers and configuration files are downloaded.
@@ -263,12 +329,18 @@ Dr.Fone – Screen Unlock (Android) acts as your trusty guide, leading you throu
 
 [<u>The Best Android Unlock Software of 2024</u>](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In face of locked screens, USB debugging is a beacon of access and troubleshooting for your Android device. Remember, enabling USB debugging on a locked phone is crucial, opening doors to unforeseen solutions. However, what if you want to **enable USB debugging on locked phones,** but the process gets messy?
 
 Then, it’s time to consider Dr.Fone - Screen Unlock (Android). It effortlessly paves the way to **enable USB debugging on locked phones.** By ensuring your device’s security and accessibility, even in locked states, Dr.Fone empowers you to navigate through obstacles, safeguarding your data while unlocking endless possibilities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7 Ways to Unlock a Locked Vivo Y36i Phone
 
 _“How to get into a locked phone? I have been locked out of my Android device and lost my passcode!”_
@@ -308,11 +380,17 @@ To learn how to get into a locked phone using Dr.Fone, follow these steps:
 
 - **Step 3.** Now, you need to put your Android device in Download mode. To do this, you need to turn your device off by pressing the Power button. Afterward, press the Home, Power, and Volume Down buttons together. After a while, let go of these buttons and press the Volume Up button to enter the Download Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into a locked phone with Dr.Fone-in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 - **Step 4.** As soon as your device is not in the Download Mode, Dr.Fone will automatically start downloading its respective recovery packages.
 - **Step 5.** Sit back and wait as the application downloads the package and performs the required steps to unlock your device. In the end, it will notify you by displaying the following message.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into a locked phone with Dr.Fone-remove password completed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 That’s it! By following these steps, you would be able to learn how to get into a locked Android phone without losing any data.
@@ -326,6 +404,9 @@ Google’s Android Device Manager (also known as Find My Device) can be used to 
 - **Step 1.** Firstly, go to the Android Device Manager’s website right [here](http://google.com/android/devicemanager). Log in with the Google account that is already linked to your Android device.
 - **Step 2.** Once the interface is loaded, you can select your phone. It will locate the Vivo Y36i device automatically and provide various options.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into a locked phone-locate the Vivo Y36i device](https://images.wondershare.com/drfone/article/2017/10/15081758684058.jpg)
 
 - **Step 3.** Choose the “Lock” option to proceed.
@@ -348,10 +429,16 @@ If you are using a Samsung device, you can also use its Find My Mobile service t
 - **Step 4.** From the provided options on the left panel, click on the “Unlock My Screen” option.
 - **Step 5.** Click on the “Unlock” button again to move past the lock screen of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![get into a locked phone-Unlock](https://images.wondershare.com/drfone/article/2017/10/15081759851833.jpg)
 
 - **Step 6.** After waiting for a while, you will get the following prompt. From here, you can set up a new lock for your mobile or can click on the “Lock My Screen” option to do the same.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to get into a locked phone using the 'Forgot Pattern' feature?
 
 If your device is based on Android 4.4 and earlier versions, you may also use its native “Forgot Pattern” feature to unlock it. Though, you should have access to the Google account credentials linked to the Vivo Y36i device beforehand. To learn how to get into a locked phone with this technique, follow these steps:
@@ -359,6 +446,9 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 - **Step 1.** To get the Forgot Pattern option, enter the wrong PIN/pattern on your device.
 - **Step 2.** This will display the “Forgot Pattern” button on the bottom of the screen. Just tap on it to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into a locked phone-Forgot Pattern](https://images.wondershare.com/drfone/article/2017/10/15081760134210.jpg)
 
 - **Step 3.** On the next screen, you can unlock your device by providing the backup PIN of your device or sign in using the Google credentials of the account linked to the Vivo Y36i device.
@@ -375,6 +465,9 @@ If nothing else seems to work, then you can also choose to factory reset your de
 - **Step 2.** Now, you need to put your device into recovery mode. This can be done by applying the correct key combinations, which can differ from one device to another. Some common combinations are: Volume Up + Home + Power, Home + Power, Volume Up + Power + Volume Down, and Volume Down + Power button.
 - **Step 3.** Once your phone has entered the recovery mode; you can navigate with the Volume up and down button and use the Power button to make a selection.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![get into a locked phone-enter the recovery mode](https://images.wondershare.com/drfone/article/2017/10/15081760743252.jpg)
 
 - **Step 4.** Select the option of “wipe data/factory reset.
@@ -387,6 +480,9 @@ If nothing else seems to work, then you can also choose to factory reset your de
 
 - **Step 6.** Wait for a while as your phone will be restarted with factory settings.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6: How to get into a locked phone in Safe Mode?
 
 If you are using a third-party application to lock your device, you can easily disable it by restarting your phone in safe mode. In this way, you can get rid of the respective app without causing any damage to the Vivo Y36i device. You can learn how to get into a locked Android phone by following these steps:
@@ -408,6 +504,9 @@ Since custom recovery provides a third-party recovery environment, it can learn 
 
 ![get into a locked phone-restart the phone](https://images.wondershare.com/drfone/article/2017/10/15081761542231.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Bonus Tip: General tips for unlocking phone successfully
 
 By following these tips, you can increase the chances of successfully unlocking your phone while safeguarding your data and security.
@@ -438,3 +537,52 @@ By following these simple steps, you would learn how to get into a locked phone.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-precision-video-correction-eradicating-fish-eye-from-gopro/"><u>[New] 2024 Approved  Precision Video Correction  Eradicating Fish Eye From GoPro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-hdri-vs-sdr-a-comparative-analysis-for-filmmakers/"><u>[New] HDRI Vs. SDR  A Comparative Analysis for Filmmakers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-crafting-content-12-best-for-insta-edits/"><u>2024 Approved  Crafting Content  12 Best for Insta Edits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-creators-lab-building-an-unstoppable-channel/"><u>2024 Approved  The Creator's Lab  Building an Unstoppable Channel</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-realme-gt-5-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Realme GT 5 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-infinix-gt-10-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-infinix-gt-10-pro-easily-by-drfone-android/"><u>How To Unlock a Infinix GT 10 Pro Easily?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-proipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Pro/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-gt-10-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-infinix-gt-10-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Infinix GT 10 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-infinix-gt-10-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Infinix GT 10 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-infinix-gt-10-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix GT 10 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-infinix-gt-10-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Infinix GT 10 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-gt-10-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix GT 10 Pro Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-gt-10-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix GT 10 Pro Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix GT 10 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-gt-10-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Infinix GT 10 Pro Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-gt-10-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-gt-10-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix GT 10 Pro Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-gt-10-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix GT 10 Pro Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-infinix-gt-10-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Infinix GT 10 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-gt-10-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix GT 10 Pro Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-infinix-gt-10-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Infinix GT 10 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-the-ultimate-hack-filmora-coupon-codes-without-reddit/"><u>In 2024, The Ultimate Hack Filmora Coupon Codes Without Reddit</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-gt-10-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix GT 10 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-gt-10-pro-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix GT 10 Pro Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-gt-10-pro-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix GT 10 Pro Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone SE (2022)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-gt-10-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix GT 10 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-12-pro-max-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 12 Pro Max? How to Fix</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/making-your-channels-subscribe-button-pop-in-2024/"><u>Making Your Channel's Subscribe Button Pop, In 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-how-to-remove-the-endless-loop-from-animated-gif/"><u>New How To Remove The Endless Loop From Animated GIF</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/perfecting-your-mobile-video-recordings-on-snapchat-for-2024/"><u>Perfecting Your Mobile Video Recordings on Snapchat for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfecting-your-rl-game-captures-for-2024/"><u>Perfecting Your RL Game Captures for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-move-over-movie-maker-10plus-fresh-video-editing-options/"><u>Updated In 2024, Move Over Movie Maker 10+ Fresh Video Editing Options</u></a></li>
+<li><a href="https://network-issues.techidaily.com/window-graphics-issue-fixed/"><u>Window Graphics Issue Fixed</u></a></li>
+</ul></div>

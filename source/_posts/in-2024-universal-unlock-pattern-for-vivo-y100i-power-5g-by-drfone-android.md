@@ -1,7 +1,7 @@
 ---
 title: In 2024, Universal Unlock Pattern for Vivo Y100i Power 5G
-date: 2024-05-19T19:16:55.902Z
-updated: 2024-05-20T19:16:55.902Z
+date: 2024-07-18T12:36:24.882Z
+updated: 2024-07-19T12:36:24.882Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Universal Unlock Pattern for Vivo Y100i Power 5G
 excerpt: This article describes Universal Unlock Pattern for Vivo Y100i Power 5G
 keywords: unlock android phone pattern lock without factory reset,Vivo Y100i Power 5G how to remove previously synced google account from android,reset gmail password on android,reset locked android phone,Vivo Y100i Power 5G forgot android password,Vivo Y100i Power 5G pattern unlock,unlock screen,android screen lock,bypass lock screen password,reset gmail password on android device,techeligible frp bypass,Vivo Y100i Power 5G fingerprint lock app
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Universal Unlock Pattern for Vivo Y100i Power 5G
@@ -43,6 +43,9 @@ If you need to unlock a pin, pattern, password, fingerprint, or any other type o
 Remove Android lock screen in 5 minutes
 
 - On Android, disable all patterns, PINs, passwords, and fingerprint locks.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - During the unlocking process, no data is lost or hacked.
 - On-screen instructions are simple to follow.
@@ -50,6 +53,9 @@ Remove Android lock screen in 5 minutes
 
 **3,291,332** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Know how do you use** **Dr.Fone** **- Screen Unlock (Android) to unlock a pattern lock**
 
 **Step 1**: Download and run Dr.Fone – Screen Unlock to unlock your phone's pattern. Select the "Screen Unlock" option from the home screen.
@@ -60,6 +66,9 @@ Remove Android lock screen in 5 minutes
 
 **Step 3**: On the next screen, choose the correct model and other information of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 3](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4**: Now, turn your phone into download mode. Turn it off and simultaneously hit the Home, Power, and Volume Down keys. Then, on your device, hit the Volume Up key to enter Download Mode.
@@ -76,6 +85,9 @@ Remove Android lock screen in 5 minutes
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Other ways to Unlock Pattern for Android
 
 There are other ways to unlock the **universal unlock patterns** for Android. We have mentioned some of them below.
@@ -100,10 +112,16 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 
 **Step 6**: Run the following command and press Enter key: `adb shell rm /data/system/gesture.key`
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 10](https://images.wondershare.com/drfone/article/2021/12/adb-3.jpg)
 
 In regular mode, restart the phone. The pattern will be requested. However, any pattern will unlock the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 2: Boot into Safe Mode to Bypass Third-Party App Screen Lock
 
 It's one of the most straightforward ways to get past the lock screen. One thing to note is that this method is effective only if the lock screen is a third-party app rather than the standard one.
@@ -120,6 +138,9 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 3: Unlock Pattern Lock via Factory Reset
 
 This should only be a last option because it will completely delete your device's data and saved settings. Your device will be reset to factory settings, meaning your device's settings will get back to the same as when you first bought it. If you want to learn how to [unlock a pattern](https://drfone.wondershare.com/unlock/samsung-unlock-codes.html) by doing a factory reset, follow these steps:
@@ -130,14 +151,23 @@ Please note that the Recovery mode method may vary from device to device. So ple
 
 **Step 2**: Now go to the "wipe data/factory reset" option using the volume keys. To confirm it, press the Power key.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock android screen 13](https://images.wondershare.com/drfone/article/2021/12/factory-reset-1.jpg)
 
 **Step 3**: Now, again, confirm the process using the same keys.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 14](https://images.wondershare.com/drfone/article/2021/12/factory-reset-2.jpg)
 
 **Step 4**: The phone will perform the factory reset. In a short while, restart your device and there will be no lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 4: Unlock Pattern Lock with Android Device Manager
 
 Android Device Manager unlocking is the second-best service for bypassing the Android lock screen on locked Android devices and tablets. Working on this service is quite straightforward, and it only works if the user has a Google account. This service is accessible and usable from any device or computer.
@@ -160,10 +190,16 @@ If you use an older Android version, you can get rid of the **universal unlock p
 
 **Step 2**: Select the "Forgot Pattern" option below the message.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 17](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-1.jpg)
 
 Enter the primary Gmail account and password you used to set up your Android smartphone after selecting the same. Then you must provide your Google account information. A new unlock pattern will be emailed to you by Google.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![aunlock android screen 18](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-2.jpg)
 
 ## Conclusion
@@ -187,10 +223,19 @@ Once you decide on the **phone lock** type, you can enable or disable them from 
 
 Here you will see how to set up a screen lock on your Android device:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screen lock](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Quickly Unlock Your Screen By Dr.Fone
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock
 
 For a quick, easy, and hassle-free unlocking experience, we suggest you download Dr.Fone - Screen Unlock. Dr.Fone not only unlocks your phone but keeps your data secured during the process. It has a simple interface, and even an amateur can use it to unlock their device.
@@ -228,6 +273,9 @@ For most Brands, it should be "100% Remove Screen Lock". These two solutions unl
 
 In the supported device brands list, please find the right one for you.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![device brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4. Enter into Recovery Mode**
@@ -236,6 +284,9 @@ Before unlocking your device screen, the instructions below are here to help you
 
 Get into Recovery Mode on Samsung phone with Bixby:
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
 Get into Recovery Mode on Samsung phone without Bixby:
@@ -257,6 +308,9 @@ You're now able to access your Android device again when the whole process is ov
 ![finish the process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Solutions to Unlock Android Screen
 
 ### 1\. Google Find My Device
@@ -277,10 +331,16 @@ Depending on your phone, the steps for this process might vary a little. Most ph
 
 **Step 3:** Search for the Wipe Data option and select it.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wipe data](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-3.jpg)
 
 After that, your Android will start the process, which can require a few minutes. However, this process will erase all your user data.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Use ADB
 
 This method is very confusing, so follow the steps cautiously on your Android phone to remove the **phone lock**. With your phone connected to your PC, and the cmd open, type the accompanying commands altogether:
@@ -298,10 +358,16 @@ With your Android phone connected and the cmd opens, enter:
 
 - abd shell rm/data/system/gesture.key
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cmd command](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-4.jpg)
 
 After entering, reboot your phone once more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Boot into Safe Mode
 
 **Step 1:** For most phones and your Android, you can do this by opening the power menu and holding the "Power Off." A message will spring up on your screen, asking whether you might want to Reboot to Safe Mode. Press Ok.
@@ -314,6 +380,9 @@ This strategy to sidestep a locked screen is only a crisis workaround for the ph
 
 - Enter ten asterisks (\*) through the dialer application.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ten asterisks](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-5.jpg)
 
 - Copy and paste asterisks on the dialer until the "Paste" choice no longer appears.
@@ -337,6 +406,9 @@ Too many times, we forget the passcode of our smartphones, only to regret it lat
 
 Among all the solutions we are going to introduce in this article, this is the easiest one. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) can help you remove the lock screen of [some Vivo and Samsung devices](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) without any data loss. After the lock screen is removed, the phone will work like it's never been locked before, and all your data are there. Besides, you can use this tool to bypass the passcode on other Android phones, such as Huawei, Lenovo, Oneplus, etc. The only defect of Dr.Fone is that it will erase all the data beyond Samsung and Vivo after unlocking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -350,12 +422,18 @@ Get into the Locked Vivo Phone within Minutes
 
 **4,008,669** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### How to unlock an Vivo phone with Dr.Fone - Screen Unlock (Android)?
 
 Step 1. Launch Dr.Fone.
 
 Download Dr.Fone from the download buttons above. Install and launch it on your computer. Then select the "**Screen Unlock**" function.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock lg phone - launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2. Connect your phone.
@@ -368,6 +446,9 @@ Step 3. Select the phone model.
 
 Currently, Dr.Fone supports removing lock screens on some Vivo and Samsung devices without data loss. Select the correct phone model information from the dropdown list.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg phone - select phone model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 Step 4. Boot the phone in download mode.
@@ -376,6 +457,9 @@ Step 4. Boot the phone in download mode.
 - Press the Power Up button. While you are holding the Power Up button, plug in the USB cable.
 - Keep pressing the Power Up button until the Download Mode appears.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg phone - boot in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 Step 5. Remove the lock screen.
@@ -400,6 +484,9 @@ This is probably the most convenient solution to set up a new lock for your Vivo
 
 - **Step 3.** Now, a new pop-up window will open. Here, provide the new password for your device, confirm it, and click on the “lock” button again to save these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![unlock lg forgot password - lock with new password](https://images.wondershare.com/drfone/article/2017/03/14892202692339.jpg)
 
 That's it! Your phone will reset its password, and you would be able to move past any problem related to forgetting the password on the Vivo phone using [Android Device Manager unlock](https://drfone.wondershare.com/unlock/android-device-manager-unlock.html).
@@ -410,12 +497,18 @@ If your Vivo device runs on Android 4.4 and previous versions, then you can easi
 
 - **Step 1.** Try bypassing the pattern lock at least 5 times. After all the failed attempts, you will get the option to either make an emergency call or choose the option of “**Forget pattern**”.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![unlock lg forgot password - forgot pattern](https://images.wondershare.com/drfone/article/2017/03/14892203178747.jpg)
 
 - **Step 2.** Select the “Forget pattern” option and provide the correct credentials of your Google account to unlock your phone.
 
 ![unlock lg forgot password - log in google account](https://images.wondershare.com/drfone/article/2017/03/14892203377058.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 4: Unlock the Vivo Phone Using Custom Recovery (SD card needed)
 
 If your phone has a removable SD card, you can also try this technique to disable the pattern/password on your device. Though, you need to have some custom recovery installed on your device for this method. You can always go for TWRP (Team Win Recovery Project) and flash it on your device.
@@ -428,6 +521,9 @@ Also, since you can't move anything to your device when it is locked, you need t
 
 - **Step 2.** Reboot your phone into recovery mode. For instance, the TWRP recovery mode can be turned on by simultaneously pressing the Power, Home, and Volume Up button. You would get different options on your screen after entering the custom recovery mode. Tap on “Install” and browse the Pattern Password Disable application file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock lg forgot password - team win recovery project](https://images.wondershare.com/drfone/article/2017/03/14892204165153.jpg)
 
 - **Step 3.** Install the above-mentioned application and wait for a few minutes. Afterward, restart your Vivo phone. Ideally, your phone will be restarted without any lock screen. If you get a lock screen, you can bypass it by entering any random digits.
@@ -467,6 +563,9 @@ After making your device ready and downloading all the essential software on you
 - _update system set value=0 where name='lockscreen__.lockedoutpermanently';_
 - _.quit_
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![unlock lg forgot password - command code](https://images.wondershare.com/drfone/article/2017/03/14892205231542.jpg)
 
 - **Step 3.** If the above code doesn't work, try providing the code “ADB _shell rm /data/system/gesture. the key_” to it and follow the same drill.
@@ -496,3 +595,55 @@ You can choose a preferred option and rectify the issue whenever you [forgot the
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-choosing-between-vimeo-free-premium-and-pro-membership-levels/"><u>[New] Choosing Between Vimeo Free, Premium & Pro Membership Levels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-complete-overview-harnessing-the-power-of-googles-text-conversion/"><u>[New] Complete Overview  Harnessing the Power of Google's Text Conversion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-preserving-snaps-screen-record-snapchat-on-smartphones/"><u>[New] In 2024, Preserving Snaps  Screen Record Snapchat on Smartphones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-digital-artisans-guide-mastering-screen-recordings-in-macos-for-2024/"><u>[New] The Digital Artisan's Guide  Mastering Screen Recordings in macOS for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/"><u>[New] The Ultimate Guide to GoPro Hero5 Time-Lapse Photography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlock-the-potential-of-your-feed-with-mass-photo-and-video-posting/"><u>[New] Unlock the Potential of Your Feed with Mass Photo & Video Posting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-your-privacy-awaits-the-top-10-no-cost-ultra-secure-mobile-chat-applications-for-todays-tech-users-for-2024/"><u>[New] Your Privacy Awaits  The Top 10 No-Cost, Ultra-Secure Mobile Chat Applications for Today's Tech Users for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-smart-growth-metropolis-balancing-development-and-nature/"><u>[Updated] 2024 Approved  Smart Growth Metropolis  Balancing Development and Nature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-innovative-approaches-to-android-video-capture-for-2024/"><u>[Updated] Innovative Approaches to Android Video Capture for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tracing-influence-the-quest-for-your-passionate-pioneers-for-2024/"><u>[Updated] Tracing Influence  The Quest for Your Passionate Pioneers for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-vn-video-editor-on-mac-download-install-or-explore-alternatives/"><u>2024 Approved VN Video Editor on Mac Download, Install, or Explore Alternatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hidden-whatsapp-gems-top-tricks-to-enhance-your-messaging-experience-for-2024/"><u>Hidden WhatsApp Gems  Top Tricks to Enhance Your Messaging Experience for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-doc-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .doc file</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-honor-100-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Honor 100</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-magic-v2-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Magic V2 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-magic-vs-2-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Magic Vs 2 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-magic5-ultimate-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Magic5 Ultimate Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-play-40c-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Play 40C Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-play-7t-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Play 7T Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-play-8t-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Play 8T Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-v-purse-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor V Purse Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x50-gt-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X50 GT Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x50-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X50 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x50i-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X50i Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x50iplus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X50i+ Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x7b-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X7b Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x8b-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X8b Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-x9a-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor X9a Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-camon-20-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Camon 20 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Camon 20 Premier 5G Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Camon 20 Pro 5G Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-camon-30-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Camon 30 Pro 5G Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-phantom-v-flip-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Phantom V Flip Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-phantom-v-fold-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Phantom V Fold Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-pop-7-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Pop 7 Pro Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-pop-8-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Pop 8 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-pova-5-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Pova 5 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-pova-5-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Pova 5 Pro Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-pova-6-pro-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Pova 6 Pro 5G Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-spark-10-4g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Spark 10 4G Phone?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-configure-youtubes-audience-options-with-ease/"><u>In 2024, Configure YouTube's Audience Options with Ease</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-jokesters-journal-the-top-10-hilarious-tweet-threads/"><u>In 2024, Jokester's Journal  The Top 10 Hilarious Tweet Threads</u></a></li>
+<li><a href="https://driver-install.techidaily.com/intuitive-software-installation-toolkit-model-2650-epson/"><u>Intuitive Software Installation Toolkit: Model 2650 Epson</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-capturing-dynamic-images-on-ios-devices/"><u>Mastering the Art of Capturing Dynamic Images on iOS Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unravel-time-the-art-of-snapchat-video-reverse-for-2024/"><u>Unravel Time  The Art of Snapchat Video Reverse for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-download-soundcloud-music-as-mp3-the-fastest-and-easiest-ways/"><u>Updated Download Soundcloud Music as MP3 The Fastest and Easiest Ways</u></a></li>
+</ul></div>

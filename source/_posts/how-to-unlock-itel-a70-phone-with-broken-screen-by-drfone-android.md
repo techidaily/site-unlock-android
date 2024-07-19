@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Itel A70 Phone with Broken Screen
-date: 2024-04-02 14:50:11
-updated: 2024-04-05 18:53:51
+date: 2024-07-18T16:32:46.995Z
+updated: 2024-07-19T16:32:46.995Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Unlock Itel A70 Phone with Broken Screen
 excerpt: This article describes How to Unlock Itel A70 Phone with Broken Screen
 keywords: Itel A70 swipe screen to unlock,Itel A70 fingerprint lock app,Itel A70 how to lock apps on android,how to remove previously synced google account from android device,password unlock tool,Itel A70 remove lock screen fingerprint
-thumbnail: https://www.lifewire.com/thmb/nkL-0VwZC4rZHc_IxhqFzu82L6A=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps6-concept-trailer-64aac5b7323041ad93d7535eccf7df40.png
+thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png
 ---
 
 ## How to Unlock Itel A70 Phone with Broken Screen
@@ -69,6 +69,9 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 **Step 2:** As soon as the Itel A70 devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Itel A70 device’s password lock.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
 You can then go about backing up the contents of your device.
@@ -79,6 +82,9 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 **Step 1:** Visit the [https://findmymobile.samsung.com/login.do](https://findmymobile.samsung.com/login.do) on your PC or any other device and log in with your account information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
@@ -93,6 +99,9 @@ Being unable to unlock your device is never a good place to be. We hope one of t
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Easily Unlock Itel Screen?
 
 If you've ever had a Itel phone, then you know that their screens are locked by default. It can be a pain if you want to access your messages or change your background image quickly. If you just set your Itel password, screen lock code, pattern lock, or PIN last night or a few days ago, you are most likely to forget it.
@@ -103,6 +112,9 @@ So don't wait any longer - read on for instructions on how to unlock the Itel ph
 
 Let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 Easy Ways To Unlock Itel Screen
 
 ![sim pin](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-1.jpg)
@@ -111,6 +123,9 @@ Like most people, you probably lock your Itel phone as soon as you turn it on. I
 
 There are a few different ways to unlock your Itel phone. We'll show you how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1. Google Find My Device (Without Password/Pin/Pattern)
 
 If you're like me, you've probably tried a million different ways to unlock your Itel phone, only to be frustrated by the results. Luckily, there's an easy way to unlock your Itel phone using Google's Find My Device feature.
@@ -121,6 +136,18 @@ Follow these steps to unlock the Itel lock screen password without losing data:
 
 - **Step 1**: Sign into your Google account and navigate the Find My Device website.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google find my device](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-2.jpg)
 
 - **Step 2**: Sign in with your Google account, which you used on your locked Itel phone.
@@ -137,6 +164,9 @@ Follow these steps to unlock the Itel lock screen password without losing data:
 
 You can use it to unlock your Itel if you have activated the Android Device Manager or Google Find My Device before your phone was locked.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### A few conditions, however, must be met for this to work
 
 - You must turn on your Itel phone.
@@ -145,6 +175,9 @@ You can use it to unlock your Itel if you have activated the Android Device Mana
 - You must be connected to WiFi on your device to log into your Google account.
 - Your phone needs to be set to location.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2. Unlock Itel Lock Screen With Hard Reset
 
 If you perform a hard reset on your Itel lock screen, all data, and user information will be erased, including your screen lock, password, pattern lock, and PIN.
@@ -190,14 +223,23 @@ You could reset your Itel lock screen phone using the default security code, eve
 
 `o 12345.`
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you have a classic-style keypad phone or an Android device, unlocking a locked Itel phone keypad is not easy. However, we believe that every problem has a solution. You can unlock Itel Android phones using any of the methods listed above.
 
 _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a tool that helps you keep your important data safe. It can back up all the important information on your Itel phone, like photos, music, videos, contacts, and more and is compatible with over 8000 Android devices. The backup process is easy and only takes a few clicks. You can also restore your backup to any device you want, and choose which data you want to restore. This is a great way to make sure you never lose your important Itel data!_
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 10 Password Cracking Tools For Itel A70
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **What is password cracking?**
 
 Password cracking process involves recovering a password from storage locations or from data, transmitted by a computer system on network. Password cracking term refers to group of techniques used to get password from a data system.
@@ -254,6 +296,9 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 [http://www.oxid.it](http://www.oxid.it/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. John the Ripper : Multi-platform, Powerful, Flexible password cracking tool
 
 John the Ripper is a free multi or cross platform password cracking software. Its called multi platform as it combines different password cracking features into one package.
@@ -291,6 +336,9 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 
 [http://www.aircrack-ng.org/](http://www.aircrack-ng.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. THC Hydra : Multiple services supportive, Network authentication cracker
 
 THC Hydra is a supper fast network password cracking tool. It uses network to crack remote systems passwords.
@@ -330,6 +378,9 @@ Site for Download:
 
 [http://project-rainbowcrack.com/](http://project-rainbowcrack.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. OphCrack : Tool for Windows password cracking
 
 OphCrack used to crack Windows user passwords with the help of rainbow tables that are available in a bootable CD.
@@ -349,6 +400,9 @@ Ophcrack is completely free to download, Windows based password cracker that use
 
 [http://ophcrack.sourceforge.net/](http://ophcrack.sourceforge.net/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Brutus : A brute force attack cracker for remote systems
 
 Brutus is the fastest, most flexible, and most popular software used to crack remote system passwords. It guess password through applying different permutations or by using a dictionary.
@@ -378,6 +432,9 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
 
 **Features of L0phtCrack**
@@ -401,6 +458,9 @@ Software is update with extra feature of password histories display if history i
 
 Recently software is updated to new version called Fgdump as Pwdump not work fine when any antivirus program is running.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pwdump](https://images.wondershare.com/images/utilities/pwdump.jpg)
 
 **Features of Pwdump**
@@ -450,3 +510,40 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-discovering-local-insta-stars-finding-your-niches-top-influencers-for-2024/"><u>[New] Discovering Local Insta Stars  Finding Your Niche's Top Influencers for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-canva-imagery-top-10-pro-level-techniques/"><u>2024 Approved  Mastering Canva Imagery  Top 10 Pro-Level Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/eye-catching-images-windows-10s-screenshot-feature-for-2024/"><u>Eye-Catching Images  Windows 10'S Screenshot Feature for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-x8b-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor X8b?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-x9a-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor X9a?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-find-n3-flip-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo Find N3 Flip?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-camon-20-premier-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Camon 20 Premier 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Camon 20 Pro 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-camon-20-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Camon 20?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-camon-30-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Camon 30 Pro 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-phantom-v-flip-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Phantom V Flip?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-phantom-v-fold-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Phantom V Fold?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-pop-7-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Pop 7 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-pop-8-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Pop 8?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-pova-5-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Pova 5 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-pova-5-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Pova 5?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-pova-6-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Pova 6 Pro 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-10-4g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10 4G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-10-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-10-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-10c-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10C?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-20-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 20 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-20-proplus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 20 Pro+?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-20-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 20?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-20c-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 20C?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-key-strategies-for-efficient-screenshare-experience-with-discord/"><u>In 2024, Key Strategies for Efficient Screenshare Experience with Discord</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-reimagining-gender-portrayal-in-social-media-images/"><u>In 2024, Reimagining Gender Portrayal in Social Media Images</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-nubia-red-magic-9-pro-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Nubia Red Magic 9 Pro has been deleted.</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-top-10-free-football-streaming-websites-for-live-matches/"><u>Updated 2024 Approved Top 10 Free Football Streaming Websites for Live Matches</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-game-video-editing-software-top-picks/"><u>Updated Free Game Video Editing Software Top Picks</u></a></li>
+</ul></div>

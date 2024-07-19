@@ -1,7 +1,7 @@
 ---
 title: 6 Proven Ways to Unlock Vivo Y36i Phone When You Forget the Password
-date: 2024-05-19T19:16:52.464Z
-updated: 2024-05-20T19:16:52.464Z
+date: 2024-07-18T12:31:14.052Z
+updated: 2024-07-19T12:31:14.052Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes 6 Proven Ways to Unlock Vivo Y36i Phone When You Forget the Password
 excerpt: This article describes 6 Proven Ways to Unlock Vivo Y36i Phone When You Forget the Password
 keywords: forgot android device password,Vivo Y36i pattern unlock,network unlock,Vivo Y36i how to remove previously synced google account from android,hack wifi password android,how to use oem unlocking,top 10 frp bypass tools,locked out of android device phone,remove lock screen fingerprint,bypass lock screen password,how to change lock screen password,Vivo Y36i network unlock
-thumbnail: https://www.lifewire.com/thmb/BW2Lher3W3SF0AiM8EKoxi1zUQw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-597071115-37c5865742de421eafc8b7da4cc5a618.jpg
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
 ---
 
 ## 6 Proven Ways to Unlock Vivo Y36i Phone When You Forget the Password
@@ -23,6 +23,9 @@ Unfortunately, this usually ends up **forgetting the Android lock password**. Yo
 
 You can watch the video above about how to unlock your Android Phone!
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 1. Try Face or Fingerprint to Unlock Vivo Y36i Phone
 
 How to unlock your phone when you forget the password? If you've forgotten your Android phone's password, the best way to unlock it is to use your device's built-in biometric authentication features, such as face unlock or fingerprint unlock.
@@ -44,6 +47,9 @@ However, you must use the face or fingerprint unlock correctly on your Android p
 
 If you are still unable to unlock your device, you may need to follow the solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 2. Unlocking Forgotten Password on Android Phones Using Dr.Fone Screen Unlock
 
 Dr.Fone is an all-in-one tool that allows you to completely recover lost files from your Android device and unlock Android forgotten passwords. This cross-platform software can unlock a phone on which you forgot the Android password. This inbuilt feature allows you to remove the Android forgotten password while safeguarding your Android device's data files. Above all, as the best [phone unlocking software](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/), it is cost-effective and easy to use.
@@ -73,6 +79,9 @@ Well, in a few minutes, you will unlock your Android phone's forgotten password 
 
 Once you have opened the program, select the "Screen Unlock" option directly. Next, connect your Android-locked phone and click on the "Unlock Android screen" button on the program window.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 2. Select Your Device Brand**
@@ -91,8 +100,14 @@ You will need to put your device into Download Mode for unlocking. Depending on 
 
 The screen displays the progress of unlocking, downloading drivers and configuration files. Once the entire process is complete, you will be able to access yours **forgot password Android** device without having to enter any passwords.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove android unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 3. Use Google Find My Device to Remotely Unlock Your Android Phone
 
 You can use Google Find My Device to unlock your Android phone remotely with another Android phone. All you need is the Google account and its password bound to unlock Android phone forgotten password.
@@ -116,6 +131,9 @@ This feature is available on Android 4.0 and older versions. So if you are using
 
 - **Step 1.** Enter the wrong pin on your android phone five times.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click forgot password](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-2.jpg)
 
 - **Step 2.** Next, tap on "Forgot Password." If it is a pattern, you will see "Forgot Pattern."
@@ -131,6 +149,9 @@ If you are not successful with the above method, you can opt to perform a factor
 
 You can unlock your Android phone, i.e., Samsung, Oppo, or Vivo, by factory resetting it with these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wipe data](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-5.jpg)
 
 - **Step 1.** Turn off your Android phone.
@@ -145,6 +166,18 @@ You can unlock your Android phone, i.e., Samsung, Oppo, or Vivo, by factory rese
 
 The best way to unlock **Android forgot password** on Samsung is to use Samsung's Find My Mobile service. This service allows you to remotely unlock your device, reset the lock screen password, and even disable the lock screen altogether.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![samsung find my mobile](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-6.jpg)
 
 - **Step 1:** To use this service, you must first log into your Samsung account on a computer or mobile device;
@@ -153,6 +186,9 @@ The best way to unlock **Android forgot password** on Samsung is to use Samsung'
 
 ## FAQs About Android Unlock
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Is there any universal code to unlock the Android phone?
 
 No, there is no universal code for unlocking Android phones. They are different from stable SIM pins. Due to mobile device security, only users themselves can set up a unique password on their Android phone. So, it’s impossible to unlock an Android phone with a so-called universal code.
@@ -167,6 +203,9 @@ No, there is no universal code for unlocking Android phones. They are different 
 - **Step 6:** Enter your new password twice, then tap OK.
 - **Step 7:** Your new password will now be in effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Don’t you have face or fingerprint unlock? Let’s set them up.  
 
 - **Step 1:** Go to the Settings app on your Samsung phone.
@@ -205,6 +244,9 @@ Follow the guide below to bypass the face unlock settings and choose the best on
 
 If you want to bypass face lock by yourself, then different methods can help you. These are all tested and work well.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. A Picture Possibly Bypasses Face Lock
 
 You can use your photo to manipulate the face lock app. Simply use your photo to unlock the phone, which should work fine. If your phone doesn't recognize your face from a photo, try again.
@@ -213,6 +255,9 @@ If it still doesn't recognize your face, try a different photo or even change th
 
 Anyway, this method is still unstable because of many uncontrollable factors. If everything fails, consider the following methods to bypass the face lock.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Hard Reset your phone
 
 To get around the Android lock screen, perform a factory reset. While resetting your phone allows you to set a new password, it also erases all data from your device. This method works like a charm, but it also requires more technical knowledge. To bypass screen lock via factory reset, follow these steps.
@@ -231,6 +276,9 @@ So, before facing such awkward cases, like data loss, we suggest you have a back
 
 Google Find My Device is a service that lets you remotely lock, track, and wipe data from stolen or lost phones. With a Google account and the password, it won't be complicated to remove any locks on your phone. You can bypass the Android lock screen by following the steps below:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google find my device data reset](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-3.jpg)
 
 **Step 1:** Navigate to Find My Device and sign in with your Google account.
@@ -262,6 +310,9 @@ The following guide explains how to use Dr.Fone-Screen unlock to bypass the Andr
 
 Please select" Unlock Android Screen" for the rest process.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 4: Select device model**
@@ -286,6 +337,9 @@ _(Recovery Mode When the Samsung phone with Bixby)_
 
 _(Recovery Mode When the Samsung phone without Bixby)_
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
 _(Recovery Mode When the Samsung phone with Home button)_
@@ -294,6 +348,9 @@ _(Recovery Mode When the Samsung phone with Home button)_
 
 This step in Recovery Mode is the most important to unlock your screen. Please click the buttons as instruction.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
 Now you can see your device is unlocked successfully
@@ -307,6 +364,9 @@ There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Lock Apps on Vivo Y36i to Protect Your Individual Information
 
 If you are not a fan of having to go through the process of getting through a [pattern](https://drfone.wondershare.com/unlock/pattern-lock.html) or password every time you want to use your phone, the good news is that you don’t have to. There are really just a few Apps on your Android device that have sensitive information you don’t want others getting access to. It would really be great if you could lock those apps individually as opposed to locking the Vivo Y36i device as a whole.
@@ -323,10 +383,16 @@ Before we get down to the business of locking some of your Apps, let’s look at
 - If you have children, you can eliminate the many accidental in-app purchases by locking the apps your children shouldn’t be on.
 - Locking apps is also a good way to keep children from content they shouldn’t be accessing.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. How to Lock Apps in Android
 
 There is always a good reason to Lock Apps on your device and we have two easy and effective methods you can use to do this. Choose the one that you are most comfortable with.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method One: Using Smart App Protector
 
 Smart App Protector is a freeware that allows you to lock specified applications.
@@ -339,6 +405,9 @@ Step 2: The default password 7777 but you can change this in the Password & Patt
 
 Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
 
 Step 3: Next, select the apps you would like to protect from the pop up list. Tap on the “Add” button once you have chosen your Apps.
@@ -347,6 +416,9 @@ Step 3: Next, select the apps you would like to protect from the pop up list. Ta
 
 Step 4: Now close the app and the Apps chosen will now be password protected.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-04.jpg)
 
 ### Method 2: Using Hexlock
@@ -357,10 +429,16 @@ Step 1: Download Hexlock from the Google Play Store. Once it is installed, open 
 
 Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can create multiple lists of Apps to be locked ba\_x\_sed on your different needs. As an example, we have chosen the Work panel. Tap on “Start Locking Apps” to start.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-06.jpg)
 
 Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish to lock and then Tap the down arrow in the upper left when you are done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-07.jpg)
 
 You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
@@ -369,10 +447,25 @@ You can then Swipe to the left to move to other lists such as “Home” and pro
 
 There are certain apps that may require to be locked more than others. Of course the choice of which apps you should lock will depend on your own uses and preferences. The following are some of the apps you would like to lock for one reason or another.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. The Messaging App
 
 This is the application that allows you to send and receive messages. You may want to lock this app if you use your device to send messages of a sensitive nature that you would rather keep private. You may also want to lock this app if your device is used by more than one person and you don’t want other users reading your messages.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-08.jpg)
 
 ### 2\. Email App
@@ -385,8 +478,14 @@ Most people use individual email applications such as Yahoo Mail App or Gmail. T
 
 This is the application that allows you to download and install applications to your device. You may want to lock this one if you are trying to prevent other users from downloading and installing further apps to your device. This is especially valuable if your device is utilized by children.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Gallery App
 
 The Gallery app displays all the images on your device. The main reason you may want to lock the Gallery app may be because you have sensitive images that are not suitable for all viewers. Again this is ideal if children make use of your device and you have images that you would rather they didn’t see.
@@ -397,6 +496,9 @@ The Gallery app displays all the images on your device. The main reason you may 
 
 This is the Application that you use to play the music on your device. You may want to lock it if you don’t want anyone else making changes to your saved audio files and playlists or don’t want someone listening to your audio files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
 
 ### 6\. File Manager App
@@ -424,3 +526,54 @@ Having the ability to lock your Apps is an easy way to keep information out of t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-smooth-blur-magic-for-instagrams-story-moments/"><u>[New] 2024 Approved  Smooth Blur Magic for Instagram's Story Moments</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-diy-sports-highlights-a-comprehensive-guide/"><u>[New] DIY Sports Highlights  A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-story-fundamentals-every-beginners-guide-to-go-to-tips/"><u>[New] Facebook Story Fundamentals  Every Beginner's Guide to Go-To Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-knowledge-keepers-guide-10-top-choices-for-lecture-capturers/"><u>[New] In 2024, Knowledge Keeper's Guide  10 Top Choices for Lecture Capturers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-magic-in-motion-a-guide-to-hero5-timelapses/"><u>[Updated] Capturing Magic in Motion  A Guide to Hero5 Timelapses</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-to-past-facebook-stories-a-step-by-step-mobile-and-laptop-guide/"><u>[Updated] Navigating to Past Facebook Stories  A Step-by-Step Mobile & Laptop Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-11-brain-boosting-trivia-shows-for-24/"><u>[Updated] Top 11 Brain-Boosting Trivia Shows for '24</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-filmoras-competitors-the-ultimate-list-of-top-notch-free-template-collections/"><u>2024 Approved  Filmora's Competitors  The Ultimate List of Top-Notch, Free Template Collections</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-journey-to-unlicensed-beauty-open-source-portfolits/"><u>2024 Approved  Journey to Unlicensed Beauty  Open-Source Portfolits</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-vocal-fx-unleashed-an-in-depth-look-into-top-25-live-audio-modifying-tools/"><u>2024 Approved Vocal FX Unleashed An In-Depth Look Into Top 25 Live Audio Modifying Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-zte-nubia-z60-ultra-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock ZTE Nubia Z60 Ultra Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-zte-nubia-z60-ultra-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked ZTE Nubia Z60 Ultra Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-zte-nubia-z60-ultra-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-zte-nubia-z60-ultra-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock ZTE Nubia Z60 Ultra Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-zte-nubia-z60-ultra-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of ZTE Nubia Z60 Ultra? Try These Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-low-saxon-to-modern-dutch-linguistics/"><u>From Low Saxon to Modern Dutch Linguistics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-blur-a-picture-on-iphone-4-ways-for-2024/"><u>How to Blur a Picture on iPhone [4 Ways] for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-zte-nubia-z60-ultra-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-zte-nubia-z60-ultra-lock-screen-password-by-drfone-android/"><u>How To Change ZTE Nubia Z60 Ultra Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-zte-nubia-z60-ultra-by-drfone-android/"><u>How To Fix OEM Unlock Missing on ZTE Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-zte-nubia-z60-ultra-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on ZTE Nubia Z60 Ultra to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-zte-nubia-z60-ultra-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-zte-nubia-z60-ultra-phone-that-is-locked-by-drfone-android/"><u>How to Reset a ZTE Nubia Z60 Ultra Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y36i-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y36i to iPad | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-zte-nubia-z60-ultra-phone-by-drfone-android/"><u>How to Unlock a Network Locked ZTE Nubia Z60 Ultra Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-nubia-z60-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock ZTE Nubia Z60 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-nubia-z60-ultra-phone-without-google-account-by-drfone-android/"><u>How to Unlock ZTE Nubia Z60 Ultra Phone without Google Account?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Plus Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-15-plus-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 15 Plus Activity | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-this-article-is-regarding-the-guideline-for-splitting-the-video-clips-in-adobe-after-effects-here-you-will-also-know-about-the-most-appropriate-subs/"><u>In 2024, This Article Is Regarding the Guideline for Splitting the Video Clips in Adobe After Effects. Here, You Will Also Know About the Most Appropriate Substitute, Wondershare Filmora. Being Economical, You Can Also Use It Practically</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-through-the-looking-glass-decoding-the-secrets-to-a-superior-windows-11-experience/"><u>In 2024, Through the Looking Glass  Decoding the Secrets to a Superior Windows 11 Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-video-editing-101-and-alternative-sources/"><u>In 2024, YouTube Video Editing 101 & Alternative Sources</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-zte-nubia-z60-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your ZTE Nubia Z60 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-of-the-rest-4-adobe-premiere-rush-competitors/"><u>New 2024 Approved The Best of the Rest 4 Adobe Premiere Rush Competitors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-zte-nubia-z60-ultra-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your ZTE Nubia Z60 Ultra Phone Now with These Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715701174139-pc-games-memory-freeze-and-capture-6-ways-to-win/"><u>PC Games Memory - Freeze and Capture 6 Ways to Win!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-zte-nubia-z60-ultra-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-zte-nubia-z60-ultra-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your ZTE Nubia Z60 Ultra Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-zte-nubia-z60-ultra-by-drfone-android/"><u>Top 10 Password Cracking Tools For ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-zte-nubia-z60-ultra-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent ZTE Nubia Z60 Ultra Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-zte-nubia-z60-ultra-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/transforming-from-unknown-to-known-utilizing-hashes-for-impact-on-tiktok-for-2024/"><u>Transforming From Unknown to Known  Utilizing Hashes for Impact on TikTok for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-zte-nubia-z60-ultra-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your ZTE Nubia Z60 Ultra Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-zte-nubia-z60-ultras-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your ZTE Nubia Z60 Ultras Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-zte-nubia-z60-ultra-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock ZTE Nubia Z60 Ultra Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-best-free-online-webm-video-compressor-options/"><u>Updated 2024 Approved The Best Free Online WebM Video Compressor Options</u></a></li>
+</ul></div>

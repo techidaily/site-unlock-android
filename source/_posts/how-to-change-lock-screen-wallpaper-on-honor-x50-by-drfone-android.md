@@ -1,7 +1,7 @@
 ---
 title: How to Change Lock Screen Wallpaper on Honor X50
-date: 2024-04-12T02:31:44.428Z
-updated: 2024-04-13T02:31:44.428Z
+date: 2024-07-18T17:12:23.052Z
+updated: 2024-07-19T17:12:23.052Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Change Lock Screen Wallpaper on Honor X50
 excerpt: This article describes How to Change Lock Screen Wallpaper on Honor X50
 keywords: Honor X50 unlock with google assistant,Honor X50 unlock android phone pattern lock without factory reset,Honor X50 how to reset a phone that is locked,bypass knox enrollment service,Honor X50 full guide to unlock,Honor X50 delete gmail account with without password,lock screen wallpaper on android device,Honor X50 android password reset,bypass android face lock,Honor X50 android screen lock
-thumbnail: https://www.lifewire.com/thmb/rmV5FQdusxtcDMfMN-dk_OtLxwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MorningShow-aed160f9cfd448cc8034b23bb3073314.jpg
+thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4a9660ef6c59333c64bce5cd.jpg
 ---
 
 ## How to Change Lock Screen Wallpaper on Honor X50
@@ -31,12 +31,18 @@ The first thing to try for changing the lock screen wallpaper includes the long 
 
 ****Step 2:**** Select the “Wallpaper” option in the available buttons to lead to another window showing different wallpapers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on wallpaper icon](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-1.jpg)
 
 ****Step 3:**** Out of all the wallpapers, select any of them and tap on the “Apply” button to set it as your lock screen wallpaper.
 
 ![select the required wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Using Your Gallery
 
 You can also set your favorite picture as the ****Android lock screen wallpaper**** from the settings provided in your gallery. To know how you can utilize your device’s Gallery, look into the steps provided next:
@@ -51,6 +57,9 @@ You can also set your favorite picture as the ****Android lock screen wallpaper*
 
 ****Step 2:**** Choose and open the image on the screen, and continue to select the “Three-Dotted” icon on the bottom-right of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on three dots](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-4.jpg)
 
 ****Step 3:**** On selecting the option of “Set as wallpaper,” you will apply the particular image from the Gallery as your lock screen wallpaper.
@@ -75,6 +84,9 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ****Step 3:**** Once you observe the image on the preview window, tap on the button on the bottom to set it as your lock screen wallpaper.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply the wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-8.jpg)
 
 ****Step 1:**** As you access the home screen of your Google Pixel, continue to hold the space. This will open a list of options where you must tap on "Wallpaper & style." Continue to select the "Change wallpaper" option to bring new colors to your Google Pixel.
@@ -93,14 +105,23 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ****Step 1:**** Lead into the “Settings” of your Motorola device and look for the “Wallpaper & style” option in the list.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on wallpaper and style](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-12.jpg)
 
 ****Step 2:**** Select any options appearing on the next screen that defines the location from where you will add the new wallpaper. Selecting a particular wallpaper from the available options leads to the "Preview" screen.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select wallapaper source option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-13.jpg)
 
 ****Step 3:**** Continue to select the "Lock Screen" option on the preview screen and tap on the "Tick" icon at the bottom. To confirm, tap "Lock screen" to change the wallpaper on the lock screen of your Motorola.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm the lock screen wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-14.jpg)
 
 ****Step 1:**** Launch the “Settings” application on your OnePlus smartphone and continue to the “Personalizations” option.
@@ -113,8 +134,14 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ****Step 3:**** As you select a particular wallpaper and continue to the preview screen, select the “Apply” button and proceed to choose “Lock Screen” from the pop-up menu.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on lock screen option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Top 10 Download Sites About Cool Screen Wallpaper on Android
 
 What if you feel that you do not have the coolest screen wallpaper that you can change on your Android device? Before changing your ****Android lock screen wallpaper**** on your device, find a unique option that can be easily replaced. Instead of limiting yourselves to the options available on the Honor X50 device, you can consider moving to different download sites for downloading the coolest lock screen wallpaper:
@@ -123,42 +150,66 @@ What if you feel that you do not have the coolest screen wallpaper that you can 
 
 Zedge is one of the most premium websites for accessing wallpapers for Android devices. With accessibility to content from exclusive artists, Zedge presents the best personalization options to its users. For effective wallpaper creation, you can add your creativity to bring in the best results for your device.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![zedge android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-18.jpg)
 
 ### 2. [<u>Interfacelift</u>](https://interfacelift.com/wallpaper/downloads/downloads/any/)
 
 For exclusive access to free wallpapers of multiple categories, Interfacelift provides some impressive and high-quality results. This intuitive wallpaper site provides some captivating options. Along with that, it asserts a special force on photographs of landscapes, which makes it a great site.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![interfacelift android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3. [<u>Unsplash</u>](https://unsplash.com/s/photos/Android-wallpapers)
 
 Known for keeping royalty-free, high-quality content, Unsplash can be a great Android wallpaper site. Download your favorite wallpapers that will perfectly suit your Android device. Along with its smooth interface, Unsplash offers diversity with its dedicated Unsplash+ plan.
 
 ![unsplash android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-20.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4. [<u>Mobile9</u>](https://www.mobile9.com/)
 
 For variety, you can always go for Mobile9. This unique, expressive, and productive wallpaper site provides the best Android wallpapers. Following this, it offers multiple diversity of content, including ringtones and books. However, to get your hands on the finest quality wallpaper, do consider trying the site.
 
 ![mobile9 android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-21.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5. [<u>Dribbble</u>](https://dribbble.com/)
 
 If you seek the best design for your Android lock screen, Dribbble provides the finest quality. Out of the 10,000+ designs, you can find your choice. Along with that, the site service also presents the wallpapers in dedicated categories. Searching for the right ****Android lock screen wallpaper**** gets easy in such an environment.
 
 ![dribbble android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. [<u>Wallpapers.com</u>](https://wallpapers.com/android)
 
 For a service that provides dedicated Android lock screen wallpapers, Wallpapers.com holds a good position. With the finest wallpapers to use on the Android device, you can also customize the available wallpapers. Dedicated categories make it easy for users to select their favorite wallpaper from the 1000+ options.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wallpapers.com android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-23.jpg)
 
 ### 7\. [<u>Pexels</u>](https://www.pexels.com/search/android%20wallpaper/)
 
 There are very few websites that offer the finest quality wallpapers for free. Pexels, being one of them, displays a great interface for users with sub-categorization. With descriptions for every wallpaper, you can select the best one for your device. Find a categorized section of more than 70,000 wallpapers on this platform.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-24.jpg)
 
 ### 8\. [<u>Pixabay</u>](https://pixabay.com/images/search/android%20wallpaper/?manual_search=1)
@@ -167,12 +218,30 @@ Who won’t have heard of Pixabay as a haven for lock screen wallpapers? This pl
 
 ![pixabay android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-25.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 9\. [<u>500px</u>](https://500px.com/)
 
 To access the best wallpapers in the world, 500px is a good platform to keep in mind. While it helps a wide community fulfill their tasks, it can be a purposeful option. For diverse operability in the site, users can also sell their work into a global marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![500px android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-26.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 10\. [<u>Wallpaperswide</u>](http://wallpaperswide.com/)
 
 From desktop to Android wallpapers, Wallpaperswide holds a diverse set of options. This platform is designed to provide a diversity of categories to its users. With a simple interface, it is a great option for gathering content.
@@ -191,6 +260,9 @@ Such options make it the finest platform to resolve issues with the Android devi
 
 You need to download and launch Dr.Fone on your computer and continue to the “Screen Unlock” tool. On accessing the tool, connect your Android device with a cable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ****Step 2: Start Unlocking the Android****
@@ -224,10 +296,16 @@ The package starts downloading as the Honor X50 device gets into Download Mode. 
 ****Image alt: start removing screen lock****
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 The details provided are comprehensive in helping you change ****the lockscreen wallpaper on Android****. While learning unique ways, along with dedicated techniques for smartphones, we are sure that you are clear about how to change lock screen picture on Android phone.Why not take a try now? This article has also introduced some of the best sites to download Android wallpapers. For effective results and to save your locked device from getting useless, use Dr.Fone – Screen Unlock.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Still Using Pattern Locks with Honor X50? Tips, Tricks and Helpful Advice
 
 They have been along for a long, long time now – pattern locks – the easiest of all smartphone locks. You just swipe your finger across to create an **easy pattern lock** of your choosing and that’s it, it becomes your new screen lock. No more remembering tedious digits! So, why have these easy pattern locks become outdated, and why do people still continue to use them? Let’s take a dive and find out all about pattern locks.
@@ -291,6 +369,9 @@ To further help you see how easy it might be for anyone to guess your pattern, M
 
 The above data makes it amply clear how using an **easy pattern lock** is actually worse than using a 4-digit PIN, simply because how people are usually using the pattern lock feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part III: Tips For Using More Secure Pattern Locks
 
 Now, we know how hard it is to break habits cemented over years of use, so in case you must at all costs use a pattern lock only, the least you can do is try and change your easy pattern lock to a better, more secure hard pattern lock.
@@ -309,8 +390,14 @@ Here are some tips to help you create a better, more secure pattern lock for you
 
 Supercharged with the information above, you went ahead and changed your easy pattern lock to a hard-to-guess pattern lock. Only problem is, your brain is habituated to that old pattern, and you’ve suddenly forgotten what the new pattern was! Well, worry not; Wondershare Dr.Fone - Screen Unlock (Android) will help you [unlock your phone without pattern lock](https://drfone.wondershare.com/unlock/pattern-lock.html)!
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Unlock Your Honor X50 without Pattern Locks!
@@ -324,14 +411,23 @@ The Best Tool to Unlock Your Honor X50 without Pattern Locks!
 
 Download the newest version of Dr.Fone from the Wondershare website and launch the app.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 1: Go to Toolbox > Screen Unlock and click Android.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
 Step 2: Click Unlock Android Screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 Step 3: You will see a list of supported manufacturers on the next screen. Select yours.
@@ -340,6 +436,9 @@ Step 3: You will see a list of supported manufacturers on the next screen. Selec
 
 Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 After completing the process, when the Next button becomes available, click it.
@@ -351,6 +450,9 @@ Your device will be successfully unlocked.
 Note that this method wipes all data on the Honor X50 device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
 
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Closing Words
 
 Pattern locks are outdated and not safe to use an **easy pattern lock** – there are no two ways about it. As such, our recommendation is to start using a 6-digit PIN along with biometric or face recognition. However, we do understand that sometimes, you simply cannot use biometrics or face recognition. For those instances, we recommend that you use this guide and create a more secure pattern lock for your device. In case you forgot your pattern, there is always Wondershare Dr.Fone – Screen Unlock (Android) to save the day.
@@ -358,6 +460,9 @@ Pattern locks are outdated and not safe to use an **easy pattern lock** – ther
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Remove Screen Lock PIN On Honor X50 Like A Pro: 5 Easy Ways
 
 When protecting personal information on your phone, setting up a lock screen is essential. If you've ever forgotten your screen lock PIN on Android, you know how frustrating it can be to get back into your device. If you've ever tried to remove the screen lock PIN on an Android device, you know it's not that easy.
@@ -366,6 +471,9 @@ It depends on your phone and the type of lock code you have set up. Note that th
 
 ![remove forgotten screen lock pin](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 1: How To Remove Screen Lock PIN On Honor X50? 5 Simple Ways
 
 If you've forgotten your screen lock pin, there's no need to worry. Here are quick and easy ways to remove the screen lock PIN on your Android device.
@@ -406,6 +514,9 @@ Verify that only the contents of your phone are visible to your eyes.
 
 Unlock your device with both facial and iris recognition.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen lock type](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-2.jpg)
 
 If you've forgotten your lock PIN on your Android device, don't worry - there are a few ways to reset it. Here's how:
@@ -442,6 +553,9 @@ Here's the guide to universal unlock PIN for Android:
 
 **Step 3**: To remove Android phone settings and data, click the "Erase" icon. Once that is done, you will erase the phone PIN.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock any phone password](https://images.wondershare.com/drfone/article/2022/10/how-to-remove-screen-lock-pin-on-android-4.jpg)
 
 ### 4\. Factory Reset Your Honor X50 (Data Loss)
@@ -505,10 +619,16 @@ Note: The specific processes are various according to different brands.
 
 **Recovery Mode in Samsung phone with Bixby**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
 **Recovery Mode in Samsung phone without Bixby**
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
 **Recovery Mode in Samsung phone with Home Button**
@@ -523,8 +643,14 @@ Steps in Recovery Mode are really important. Find the correct options and your l
 
 Now it's a phone everyone can access without a password or pattern.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: In What Cases Should We Remove PIN On Our Android Phone?
 
 There are a few reasons why you might want to remove the phone PIN from your Android:
@@ -560,3 +686,62 @@ Luckily, Wondershare Dr.Fone - Screen Unlock is a powerful and easy-to-use lock 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-elite-10-audio-amplifiers-desktops-to-smartphones/"><u>[New] Elite 10 Audio Amplifiers  Desktops to Smartphones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-beware-the-allure-of-sham-youtube-audience/"><u>[New] In 2024, Beware the Allure of Sham YouTube Audience</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-discords-favorite-font-makers-ios-and-android-edition/"><u>[New] In 2024, Discord's Favorite Font Makers  IOS & Android Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-2023-ps3-emulators-for-enhanced-gaming/"><u>[New] In 2024, Top 2023 Ps3 Emulators for Enhanced Gaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tips-for-effective-screen-broadcasts-on-fb-live-for-2024/"><u>[New] Tips for Effective Screen Broadcasts on FB Live for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-adjusting-your-macs-snapshot-formats-with-ease-for-2024/"><u>[Updated] Adjusting Your Mac's Snapshot Formats with Ease for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-captivating-creators-pioneering-bio-ideas-that-triple-your-follower-count-on-tiktok-filmora/"><u>[Updated] In 2024, Captivating Creators  Pioneering Bio Ideas that Triple Your Follower Count on TikTok-Filmora</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-peepsnap-evaluation-review-screen-recorders-for-2024/"><u>[Updated] Peepsnap Evaluation Review - Screen Recorders for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-walkthrough-for-movie-making-on-windows-8/"><u>[Updated] The Ultimate Walkthrough for Movie Making on Windows 8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hdr-mastery-for-home-and-professional-pcs/"><u>2024 Approved  HDR Mastery for Home and Professional PCs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-top-10-free-avi-file-joiners-simple-fast-and-effective/"><u>2024 Approved Top 10 Free AVI File Joiners Simple, Fast, and Effective</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boosting-video-reach-on-youtube-an-in-depth-guide-to-seo-techniques/"><u>Boosting Video Reach on YouTube  An In-Depth Guide to SEO Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-analysis-lg-27-oled-screens-visual-edge-for-2024/"><u>Complete Analysis  LG 27 OLED Screen's Visual Edge for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-calendar-on-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover lost Calendar on iPhone 6s | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x50iplus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X50i+ to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-zero-30-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Zero 30 5G Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix Zero 30 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-7-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone 7 Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix Zero 30 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-zero-30-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Zero 30 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Infinix Zero 30 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-zero-30-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Zero 30 5G Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Zero 30 5G Phone?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-15-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 15 with 3 Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-zero-30-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Infinix Zero 30 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-zero-30-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Zero 30 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-zero-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Zero 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Zero 30 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-poco-m6-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Poco M6 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-zero-30-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Zero 30 5G Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-zero-30-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Zero 30 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-zero-30-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Zero 30 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-infinix-zero-30-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Infinix Zero 30 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Zero 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-zero-30-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Zero 30 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-zero-30-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Zero 30 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-zero-30-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Infinix Zero 30 5G Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/inside-the-headset-comprehensive-vr-gear-analysis-for-2024/"><u>Inside the Headset  Comprehensive VR Gear Analysis for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-movie-magic-maker-upgrade-your-home-videos-to-hollywood-quality/"><u>New Movie Magic Maker Upgrade Your Home Videos to Hollywood Quality</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-10-revolutionary-singing-software-for-soloists-on-the-move/"><u>New Top 10 Revolutionary Singing Software for Soloists on the Move</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-visual-virtuoso-enhancing-photos-with-text-os-based-techniques-for-2024/"><u>The Visual Virtuoso  Enhancing Photos with Text, OS-Based Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/translate-compressed-files-into-subtitle-format-srt-for-2024/"><u>Translate Compressed Files Into Subtitle Format (SRT) for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-youtubes-viewer-count-secret-weights/"><u>Unlocking YouTube's Viewer Count Secret Weights</u></a></li>
+</ul></div>

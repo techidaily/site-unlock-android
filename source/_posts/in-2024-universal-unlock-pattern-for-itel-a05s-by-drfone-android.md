@@ -1,7 +1,7 @@
 ---
 title: In 2024, Universal Unlock Pattern for Itel A05s
-date: 2024-06-18T02:27:13.388Z
-updated: 2024-06-19T02:27:13.388Z
+date: 2024-07-18T16:31:08.086Z
+updated: 2024-07-19T16:31:08.086Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,6 +19,18 @@ Why do you use a mobile password or pattern to lock your phone? Of course, you w
 
 We've recently received many feedback and questions from users who want to use a pattern unlock on their device. Whether you've forgotten your Android device's password or want to gain access to someone else's phone, there are a number of ways to figure out how to unlock a pattern on an Android phone. This comprWe'llhensive guide wi show you how to unlock patterns in six ways.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Common universal unlock pattern for Itel A05s
 
 ![universal unlock pattern](https://images.wondershare.com/drfone/article/2021/12/universal-unlock-patterns.jpg)
@@ -43,6 +55,9 @@ If you need to unlock a pin, pattern, password, fingerprint, or any other type o
 Remove Android lock screen in 5 minutes
 
 - On Android, disable all patterns, PINs, passwords, and fingerprint locks.
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Bypass Android FRP lock without a PIN or Google account.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - During the unlocking process, no data is lost or hacked.
 - On-screen instructions are simple to follow.
@@ -60,10 +75,16 @@ Remove Android lock screen in 5 minutes
 
 **Step 3**: On the next screen, choose the correct model and other information of your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 3](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4**: Now, turn your phone into download mode. Turn it off and simultaneously hit the Home, Power, and Volume Down keys. Then, on your device, hit the Volume Up key to enter Download Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 4](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 **Step 5**: Relax while downloading the recovery software and completing the necessary steps to unlock your handset.
@@ -72,6 +93,9 @@ Remove Android lock screen in 5 minutes
 
 **Step 7**: When the process is finished, you will be alerted. Simply unplug your device and use it without a password or pattern lock.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock android screen 7](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
@@ -88,6 +112,9 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 
 **Step 2**: Launch it now and install the packages on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 8](https://images.wondershare.com/drfone/article/2021/12/adb-1.jpg)
 
 **Step 3**: Connect your Android to PC now. Before that, make sure to enable USB Debugging. If you don't know-how, simply head to the "Settings"> “About Phone” and tap on “Build Number” 7 times. This will enable the Developer's Options.
@@ -100,6 +127,9 @@ The first method is ADB, which stands for Android Debug Bridge. With the help of
 
 **Step 6**: Run the following command and press Enter key: `adb shell rm /data/system/gesture.key`
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 10](https://images.wondershare.com/drfone/article/2021/12/adb-3.jpg)
 
 In regular mode, restart the phone. The pattern will be requested. However, any pattern will unlock the screen.
@@ -112,12 +142,18 @@ It's one of the most straightforward ways to get past the lock screen. One thing
 
 **Step 2**: Now, long tap the "Power Off" button and click "OK" when shown the pop-up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock android screen 11](https://images.wondershare.com/drfone/article/2021/12/safe-mode-1.jpg)
 
 **Step 3**: This will restart your device in safe mode.
 
 **Step 4**: This will turn off the third-party lock screen for the time being. Clear the lock screen app's data, uninstall it, and then reboot to exit safe mode.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock android screen 12](https://images.wondershare.com/drfone/article/2021/12/safe-mode-2.jpg)
 
 ### Way 3: Unlock Pattern Lock via Factory Reset
@@ -152,6 +188,9 @@ After pressing the "Lock" button, a popup will appear, asking for a new password
 
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the Itel A05s device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Way 5: Use Forgot Pattern Feature \[Android 4.4 Version and Earlier\]
 
 If you use an older Android version, you can get rid of the **universal unlock pattern** by forgot pattern feature. On earlier Android devices, this feature is enabled by default. After a few failed attempts, the warning "Try again in 30 seconds" appears and here is where the steps begin. Let us get to know in detail.
@@ -164,6 +203,9 @@ If you use an older Android version, you can get rid of the **universal unlock p
 
 Enter the primary Gmail account and password you used to set up your Android smartphone after selecting the same. Then you must provide your Google account information. A new unlock pattern will be emailed to you by Google.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![aunlock android screen 18](https://images.wondershare.com/drfone/article/2021/12/forgot-pattern-2.jpg)
 
 ## Conclusion
@@ -181,6 +223,9 @@ In addition to this, the Android Device Manager also unlocks your password/pin-e
 _Using the Android Device Manager to track a lost phone_
 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Android Device Manager lock?
 
 Android Device Manager is Google’s take on Apple’s Find My iPhone. Enabling the ADM is quite easy; just go to google.com/android/devicemanager  on your computer and search through your list of devices that are already connected to your Google account. Once you are there, you can easily send a notification to the phone you want to enable remote password application and wiping upon.
@@ -218,6 +263,9 @@ The Android Device Manager has successfully unlocked your phone!
 
 A downside to this process, is an error message faced by some users while using ADM. Many users have reported the issue, that when they have tried using ADM to unlock their locked device, an error message has occurred, saying, “since Google has verified that a screen lock is already set”. Basically, this error message conveys that you will not be able to unlock your phone using Android Device Manager, and this is a flaw on Google’s part, not your phone’s.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: What to do if phone is locked by Android Device Manager
 
 There are 2 situations where you would want to know how to unlock the Android Device Manager lock – one, when you have unfortunately forgotten the screen lock passcode and the other is when your phone is locked by Android Device Manager.
@@ -226,12 +274,18 @@ ADM is built to completely lock your device so that unknown people cannot access
 
 So, now you know how to unlock the Android Device Manager lock. Do keep in mind, your device must be connected to internet or Wi-Fi, to login to your Google account.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Unlock Android devices with Dr.Fone - Screen Unlock (Android)
 
 As mentioned before, many were unable to unlock their phones with ADM. This is why we use the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It is hassle-free and easy-to-use; the Dr.Fone toolkit needs to be downloaded on your computer and with a few easy steps, it erases any kind of lock-screen passcode and avoids any kind of data loss as well!
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Dr.Fone - Android Lock Screen Removal
 
 Remove 4 Types of Android Screen Lock without Data Loss
@@ -249,6 +303,9 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 1\. Fire up the Dr.Fone toolkit for Android on your computer and select the Screen Unlock among all the other tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Dr.Fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 2\. Now, connect your Android device to the computer and select phone model in the list on the program.
@@ -261,6 +318,9 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 - • Press and hold the volume down+the home button + the power button at the same time.
 - • Press the volume up button to enter Download Mode.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![boot in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 4\. After you get your phone into the Download mode, it will start downloading a recovery package. Wait for this to be completed.
@@ -299,10 +359,16 @@ For this method, you need a PC and your Google account details. Here are the ste
 
 **Step 3:** It will show you 3 options: Play Sound, Secure Device, and Erase Device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![find my device](https://images.wondershare.com/drfone/article/2022/05/google-find-my-device.jpg)
 
  And then select “**Erase Device.**”
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select erase data](https://images.wondershare.com/drfone/article/2022/05/select-erase-device.jpg)
 
 Selecting this option will erase all content from your device, including screen unlock PIN, password, and pattern.
@@ -317,6 +383,9 @@ Another foolproof method on how to unlock Android pattern lock is by using a loc
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWpE8NykOWc"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 Dr.Fone - Screen Unlock is a screen unlock tool that can unlock your Android phone if you forget its screen unlock PIN, password, or pattern in just 5 minutes. It has a simple operation that requires just a few clicks to unlock your phone screen. Plus, this method is reliable, secure, and has a high success rate. However, there’s a possibility that it might not work with older phone models.
@@ -344,6 +413,9 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 **Step 3:** A device brand will appear. Select your phone’s brand, i.e., Samsung.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4:** Now, follow the instructions as you see to unlock your Android device.
@@ -357,6 +429,9 @@ Your phone is now unlocked, and you can access it without entering a PIN, passwo
 Now, if you don’t remember your Google account details and don’t have access to a PC to use a screen unlock tool, you can unlock Android phone using the conventional way.
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock Itel A05s  with Google Account?
 
 Almost all Android smartphones, including Itel A05s , require you to enter your Google account details when setting up your phone for the first time. This includes the email, password, and security question. These details come in handy later on in situations where your phone is lost or stolen or if you’re switching to another phone. However, they can also help with basic issues like unlocking your phone in case you forget your Itel A05s  screen unlock PIN, pattern, or password.
@@ -368,6 +443,9 @@ You can unlock your Itel A05s  phone with Google Account in the following two wa
 
 ![unlock sony xperia](https://images.wondershare.com/drfone/article/2022/05/how-to-unlock-sony-xperia.png)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Using Google Account Details
 
 Almost all Android smartphones, including Itel A05s , require you to enter your Google account details when setting up your phone for the first time. This account comes in handy later on in situations where your phone is lost or stolen or if you’re switching to another phone. However, it can also help with basic issues like unlocking your phone in case you forget your Itel A05s  screen unlock PIN, pattern, or password. But to use this method successfully, you need to remember the email address bound to the Itel A05s device and its password.
@@ -391,6 +469,9 @@ For the latter, here are the steps:
 - **Step 3:** Click on “Unlock” after which you will be asked if you want to set a new PIN or pattern. Select “Yes.”
 - **Step 4:** Your Itel A05s  phone will be unlocked, and you can set a new PIN or pattern for your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock Itel A05s  by Hard Reset?
 
 Hard resetting your smartphone usually solves everything! Hence, it can also help you unlock your Itel A05s  phone; however, using this method will erase all the data on your phone. So, if you still want to unlock Itel A05s  phone using this method, only do so if you have backed up your device and have no other way to unlock your phone. This includes forgetting your Google account details or not having access to a PC to download and use Dr Fone - Screen Unlock (Android).
@@ -410,6 +491,9 @@ If you've forgotten the screen lock of your Itel A05s  device, you can use Sony'
 
 **Step 1:** Install and launch Itel A05s  Companion from the official website and click “Support Zone.” Move to the "Phone/Tablet Software Update" option on the next screen and tap "Start."
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the start button](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-1.jpg)
 
 **Step 2:** Now, plug in your laptop to power, as the process will take some time, and choose "repair my phone/tablet." Here, agree to the warning that you will lose your data and click “Next” to proceed.
@@ -422,6 +506,9 @@ If you've forgotten the screen lock of your Itel A05s  device, you can use Sony'
 
 **Step 4:** Once correctly connected to the PC, the program will download the necessary software and upload it to your device. After completing the process, you can unplug the Itel A05s device and turn it on.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![updating the xiaomi device](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-4.jpg)
 
 ## How to Remove Operator Lock on Itel A05s ?
@@ -434,10 +521,16 @@ An operator lock, also called a carrier lock, constitutes a limitation imposed o
 
 **Step 2:** Carefully check the information provided on the screen. If there is "X" before the "Network" option and the number in front of it is larger than 0, it means your device can be unlocked. If the number in front of "Network" is 0, your device can't be unlocked as it is hard-locked.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check the network status](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-6.jpg)
 
 **Step 3:** The next step involves getting your device’s IMEI number. To accomplish this task, simply input "\*#06#" on your device. Once you have the IMEI number, use a reliable service from the internet to the unlocking code. Insert the SIM card of another network and provide the code you gained to unlock your Itel A05s  device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter the sim unlock code](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-7.jpg)
 
 ## Bonus Tip: How to Unlock Bootloader?
@@ -456,6 +549,9 @@ Unlock the bootloader with the following command: `fastboot oem unlock 0x<insert
 
 Verify the bootloader is unlocked and use the command to reboot the system; if not done automatically: `fastboot reboot`
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Forgetting your Itel A05s  screen unlock password, PIN, or pattern is quite common. For such instances, there are several methods that you can use to unlock your screen, 5 of which we have discussed in this article.
@@ -479,3 +575,58 @@ If you’re looking for ways that are time-effective and reliable, you can use y
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-gaming-revolution-top-5-android-solutions-for-playstation-2-titles-for-2024/"><u>[New] Gaming Revolution  Top 5 Android Solutions for PlayStation 2 Titles for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-visual-unity-ai-driven-instavideo-compilation/"><u>[New] Visual Unity  AI-Driven InstaVideo Compilation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-dive-into-fun-snapchats-world-of-cartoon-lenses-for-2024/"><u>[Updated] Dive Into Fun  Snapchat's World of Cartoon Lenses for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhancing-instagram-communications-through-video-engagement/"><u>[Updated] In 2024, Enhancing Instagram Communications Through Video Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-find-my-playlist-on-youtube/"><u>[Updated] In 2024, How to Find My Playlist on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-streamlining-presentations-in-microsoft-teams-through-snap-capture/"><u>[Updated] In 2024, Streamlining Presentations in Microsoft Teams Through Snap Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-exclusive-play-on-apex-how-to-turn-off-cross-platform-mode/"><u>2024 Approved  Exclusive Play on Apex  How to Turn Off Cross-Platform Mode</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-expert-asmrists-praised-by-insomniacs/"><u>2024 Approved  Expert ASMRists Praised by Insomniacs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-king-of-construction-showdown-thieye-t5-or-sjcam-s6/"><u>2024 Approved  King of Construction Showdown  Thieye T5 or SJCAM S6?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speed-enhancement-tips-for-periscope-livestimation/"><u>2024 Approved  Speed Enhancement Tips for Periscope Livestimation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-7-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone 7 How to Bypass?</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-15-plus-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone 15 Plus to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-grasp-a-wider-audience-by-multistreaming-on-youtube-and-twitch-for-2024/"><u>How to Grasp a Wider Audience by Multistreaming on Youtube and Twitch for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-a60s-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-itel-a60s-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Itel A60s Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a60s-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-a60s-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-itel-a60s-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-itel-a60s-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-itel-a60s-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-itel-a60s-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Itel A60s Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-a60s-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel A60s Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-itel-a60s-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Itel A60s Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-6-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 6 to Computer? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-itel-a60s-easily-by-drfone-android/"><u>In 2024, How To Unlock a Itel A60s Easily?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Bootloader Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Itel A60s Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-itel-a60s-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Itel A60s Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-a60s-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-itel-a60s-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-itel-a60s-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Itel A60s Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-itel-a60s-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Itel A60s Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-itel-a60s-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Itel A60s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-a60s-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel A60s Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-a60s-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel A60s Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/navigating-the-nuances-of-snapchat-high-visibility-for-2024/"><u>Navigating the Nuances of Snapchat High-Visibility for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-basic-to-advanced-mastering-motion-blur-in-final-cut-pro/"><u>New 2024 Approved From Basic to Advanced Mastering Motion Blur in Final Cut Pro</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-from-silence-to-symphony-cutting-edge-strategies-for-extracting-audio-from-mp4s/"><u>New In 2024, From Silence to Symphony Cutting-Edge Strategies for Extracting Audio From MP4s</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-10-essential-harvesting-tools-for-video-editors/"><u>New Top 10 Essential Harvesting Tools for Video Editors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/reel-your-best-footage-from-instagram-with-these-aids/"><u>Reel Your Best Footage From Instagram With These Aids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/swift-seize-video-with-soundtracking-for-2024/"><u>Swift Seize  Video with Soundtracking for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transcontinental-greetings-on-holy-sunday/"><u>Transcontinental Greetings on Holy Sunday</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-intro-creator-software-for-pc-online-and-offline-options/"><u>Updated In 2024, Best Intro Creator Software for PC Online and Offline Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-get-ahead-in-video-editing-6-insider-adobe-premiere-tips-and-techniques/"><u>Updated In 2024, Get Ahead in Video Editing 6 Insider Adobe Premiere Tips and Techniques</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-roles-of-every-crew-member-in-filming/"><u>Updated Roles of Every Crew Member in Filming</u></a></li>
+</ul></div>

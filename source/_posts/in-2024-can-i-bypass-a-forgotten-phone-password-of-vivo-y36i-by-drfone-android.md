@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y36i?
-date: 2024-05-19T19:16:53.242Z
-updated: 2024-05-20T19:16:53.242Z
+date: 2024-07-18T12:32:26.858Z
+updated: 2024-07-19T12:32:26.858Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Can I Bypass a Forgotten Phone Password Of Vivo Y36i?
 excerpt: This article describes Can I Bypass a Forgotten Phone Password Of Vivo Y36i?
 keywords: Vivo Y36i turn off google smart lock,Vivo Y36i get into locked phone,android device password reset,smart lock android device,Vivo Y36i android screen lock,Vivo Y36i fingerprint lock for android,Vivo Y36i pattern unlock without password,Vivo Y36i lock screen apps for android,unlock apps for android device,android password reset,pattern unlock without password
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## Can I Bypass a Forgotten Phone Password Of Vivo Y36i?
@@ -21,15 +21,33 @@ Many people forget their screen lock, and that's normal. That can happen if you 
 
 Here we have mentioned solutions to let you bypass your **lock screen password.** All the solutions mentioned here are safe and will work almost 100% of the time.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How Can I Set or Change My password?
 
 - Open the Settings application and tap the Security choice.
 - Under Device Security, tap Screen Lock.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screen lock](https://images.wondershare.com/drfone/article/2022/11/what-is-my-phone-password-1.jpg)
 
 - Select a Screen lock option, i.e., Swipe, Example, PIN, Password, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen lock options](https://images.wondershare.com/drfone/article/2022/11/what-is-my-phone-password-2.jpg)
 
 - When you pick your choice, follow the guidelines on the screen to set it. Enter your screen lock straightaway.
@@ -37,6 +55,9 @@ Here we have mentioned solutions to let you bypass your **lock screen password.*
 
 ## Part 2: 4 Simple Ways to Bypass Your Vivo Y36i Phone Password
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### 1\. Google Find My Device
 
 Our first approach to unlocking your device is to do a factory reset. That erases every one of the data on your phone too. You can perform this method if you have your Google account credentials and are ready. However, we want you to back up your data so you can sign once more after the reset and restore a ton of your data.
@@ -55,6 +76,9 @@ If you can't use the Find my device feature, you'll have to factory reset physic
 - Hold the power button and press the Volume up button to enter this mode.
 - Utilize the volume buttons to go to the Wipe data/Factory Reset choice. Continue with the steps to play out a factory reset.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wipe data](https://images.wondershare.com/drfone/article/2022/11/what-is-my-phone-password-4.jpg)
 
 ### 3\. Use ADB
@@ -78,6 +102,9 @@ If you want to unlock your phone without losing any data, we suggest Dr.Fone-Scr
 
 Open the tool on your PC and select the "Screen Unlock" tool.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 When the entire process is finished, you can access your Android device without entering any PIN and view all your data on the Vivo Y36i device.
@@ -92,10 +119,16 @@ We provide 2 options for you, and to unlock screen, you should select "Unlock An
 
 There are still 2 buttons to choose, "100% Remove Screen Lock" is for most Android brands, but please back your device up before you pick it.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
 Check the brands list and make sure your unlock process keeps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 4. Enter into Recovery Mode**
@@ -118,6 +151,9 @@ Then follow the instructions on the program to get the Android phone into Recove
 
 Steps in Recovery Mode are really important, find the correct options and your locked screen will be removed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![erase cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
 Now it's a phone everyone can access without password or pattern.
@@ -125,6 +161,9 @@ Now it's a phone everyone can access without password or pattern.
 ![access without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to Back up My Vivo Y36i Easily?
 
 ### Dr.Fone-Phone Backup
@@ -133,6 +172,9 @@ As we all know, unlocking a **lock screen password** involves a hard reset, whic
 
 There are several tools available to back up your files. You can use Google or your phone manufacturer's cloud services to back up your file. However, none of them are secure enough. So, we suggest Dr.Fone-Phone Backup have a secure and reliable backup experience. Dr.Fone lets you choose the files you need and back them up. Moreover, you can restore those files to your phone once it gets unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 Getting locked out of your phone can be frustrating, especially if you need an important file from it. However, there are solutions to get over this issue and unlock the **password for phone**. This article contains all you need to unlock your device and return it to be normal. Moreover, if you don't want to lose your data, give Dr.Fone a try. It is currently the best unlocking and backup tool in the market.
@@ -144,20 +186,32 @@ When losing your phone, having a reliable tool at your fingertips can make all t
 
 Now, the question is, is it possible **to track an IMEI number through Google Earth**? This question has sparked much debate on the internet, so this article aims to find it out. Keep reading and learn the secrets of **Google Earth IMEI trackers**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![google earth imei tracker](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How To Track Your Vivo Y36i on Google Earth
 
 This **Google Maps IMEI number tracking** issue has caused quite a buzz and controversy on the internet. It has raised many concerns regarding the safety and privacy of every smartphone user. To tell you the truth, Google Earth lacks IMEI location data and does not provide such capabilities. Thus, there is no truth in **tracking IMEI numbers through Google Earth**.
 
 However, if you have access to a cell phone's GPS coordinates or the location of a cell tower to which it is linked, you can use Google Earth to follow its location.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How To Locate a Smartphone Using Google Earth
 
 Many current smartphones include GPS receivers that allow them to pinpoint their exact location. If you know the phone's GPS coordinates, you can plug them into Google Earth to see where it is on the map.
 
 - **Step 1:** This process won't be possible if your location services are not enabled on your phone. To do this, navigate to **Settings,** then **Location** on Android, and **Settings** > **Privacy** > **Location Services** on iOS.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone location services](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-02.jpg)
 
 - **Step 2:** Google Earth can be downloaded and installed on your computer or mobile device. It works with Windows, macOS, Android, and iOS. Download it from your device's **Google Earth** website or the app store.
@@ -171,6 +225,9 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 - **Step 5:** Select the day you wish to see the phone's location history. Choose the Vivo Y36i device you want to track from the dropdown menu if you have numerous devices linked to the same account. The timeline displays the selected device's location history for the set date. Examine the locations visited, the routes taken, and the time spent at each spot. For further information, select a certain location or time.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps location history](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-05.jpg)
 
 **Note:** Google Earth does not support real-time location tracking by default. You can use the **Find My Device** function on Android or **Find My** on iOS instead if you want to track your phone's real-time location.
@@ -179,6 +236,9 @@ Many current smartphones include GPS receivers that allow them to pinpoint their
 
 Now that you know the truth behind **tracking an IMEI number through Google Earth**, let's talk about other ways to track your phone using your IMEI number. This section will discuss some of your other options when it comes to IMEI number location tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Using a Third-Party App
 
 If you have the IMEI number of the stolen device, you can track the phone [using IMEI for free utilizing various tools](https://drfone.wondershare.com/unlock/imei-check-iphone.html) available online.
@@ -201,6 +261,9 @@ The online IMEI TRACKER is simple to use. After searching an IMEI tracker in Goo
 
 ![online imei tracker](https://images.wondershare.com/drfone/article/2023/09/track-imei-number-through-google-earth-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pros and Cons of IMEI Trackers: Apps and Online Platforms
 
 Now that you know there are still methods to track a phone using an IMEI number, it's also important to weigh their pros and cons. See the list presented below:
@@ -241,6 +304,9 @@ Let's discuss why Dr.Fone - Screen Unlock is a game-changer in unlocking phone, 
 - **Wide Compatibility.**One of the best things about Dr.Fone - Screen Unlock is its compatibility with various mobile devices. It doesn't matter if you're using an Android or iOS device; this tool has you covered. It's like having a universal key to open many locks.
 - **Safe and Secure.**Security is a top priority when it comes to your phone. Dr.Fone - Screen Unlock ensures that your data remains safe during unlocking. Your personal information won't be compromised.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step-by-Step Guide
 
 Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone easily](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/):
@@ -268,9 +334,15 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 - **Step 8:** The next screen displays the unlocking iOS device's progress bar. Keep in mind that the Vivo Y36i device must be connected at all times; otherwise, it will brick.
 - **Step 9:** Once the iDevice has been successfully unlocked, click the **Done** button to complete the process. If your iDevice is still locked, click **Try Again** to restart the process.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone ios lock screen removed completely](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article explored the incredible world of IMEI tracking, a powerful tool for locating lost or stolen phones. You've learned that your IMEI number is capable of helping you pinpoint your device's location, but **tracking IMEI numbers through Google Earth** is impossible.
@@ -291,6 +363,9 @@ If you're at home, it's likely your android phone is locked out if you haven't a
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555162911081.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555165271526.jpg)
 
 Finally, trusted face unlocking is the ultimate face recognition system that unlocks your Android device as soon as you look at it across the front-facing camera. A face unlock first introduced with Android Jelly Bean and has been significantly improved in later versions.
@@ -306,17 +381,26 @@ Tap on Settings, which is the gear symbol.
 - • Click on Personal and tap on Security.
 - • Go to Advanced and tap on Trust agents and make sure Smart Lock is turned on.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555174399892.jpg)
 
 - • Under Screen Security tap Smart Lock.
 - • Here, you need to enter your Screen Lock. If you haven't done so, set up a password and PIN by following the on-screen prompts. The screen Lock is needed every time you have to change the Smart Lock settings.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555175242280.jpg)
 
 Within Smart Lock, there are three options for setting the system. You can set up trusted devices, trusted face, and trusted places individually, combining two or all three at the same time. You can choose just one trusted face, but you have the option to set up as many trusted devices and trusted places as needed.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555176091774.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Turn On Smart Lock For Android with Trusted Devices
 
 You can decide on a trusted device to be paired with Smart Lock Android.
@@ -338,6 +422,9 @@ Tap on Add Trusted Devices.
 
 The next screen is the Choose Device Type.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555181196889.jpg)
 
 Since you have already paired Bluetooth, it will ask you to choose the Vivo Y36i device from the list.
@@ -348,6 +435,9 @@ Since you have already paired Bluetooth, it will ask you to choose the Vivo Y36i
 - • It will show up under Trusted devices in the Smart Lock menu.
 - • When you turn the added device on, Smart Lock now unlocks the Android mobile.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555183103300.jpg)
 
 Similarly, other Bluetooth and NFC unlock android supported gadgets can be added under the list of Trusted Devices.
@@ -362,6 +452,9 @@ Check current settings first.
 
 On a new Android phone, visit Settings>Personal.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199012102.jpg)
 
 Then Lock Screen and Security.
@@ -374,6 +467,9 @@ Then Secure Lock Settings.
 
 Tap Smart Lock.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200954549.jpg)
 
 Tap on Trusted Places.
@@ -382,6 +478,9 @@ Tap on Trusted Places.
 
 Tap on Add Trusted Places
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555202394199.jpg)
 
 - • Initiate the Google Maps app on the Android phone. Make sure the Internet and GPS are on.
@@ -415,10 +514,16 @@ Tap on Add Trusted Places
 
 ## Part 4: Turn On Smart Lock For Android With Trusted Face
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555207782388.jpg)
 
 The feature recognizes your face and then unlocks the Vivo Y36i device. Once you set up the Vivo Y36i device to recognize your face as a trusted face, it will unlock the Vivo Y36i device as soon as it recognizes you.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555208588486.jpg)
 
 PRECAUTION:  At best, this can be the first level of security, as one who resembles you to some extent can unlock the Vivo Y36i device. Photographs are not stored in the system. The device does hold necessary data to recognize your face, and the security level is determined by how good the Vivo Y36i device is configured. The data is not accessed by any app or loaded onto a Google server for backup.
@@ -446,6 +551,9 @@ _How To Improve Facial Recognition In Your Bluetooth and Android NFC Unlock Devi
 
 Smart Lock Android is a great feature and is only going to improve on time. With added security measures being introduced by Google for Bluetooth and NFC unlock android devices, including configuration to Google maps and Gmail, the feature may be one of the most important features to overcome constant blocking of devices even in protected places.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Video on How to Remove Android Lock Screen Without Data Loss
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/qXw3JNztGVI" id="video-iframe-t"></iframe>
@@ -469,3 +577,37 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-all-inclusive-vsco-lens-manual/"><u>[New] All-Inclusive VSCO Lens Manual</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-speech-logging-made-easy-on-mac-the-top-5-tools-tested-and-ranked/"><u>[New] Speech Logging Made Easy on Mac  The Top 5 Tools Tested & Ranked</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-chrome-extensions-best-5-facebook-video-downloaders-for-chrome-for-2024/"><u>[Updated] Chrome Extensions | Best 5 Facebook Video Downloaders for Chrome for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ideal-fullscreen-recorder-with-macpc-support-for-2024/"><u>[Updated] Ideal Fullscreen Recorder with Mac/PC Support for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovating-film-viewing-with-iphone-tricks/"><u>[Updated] Innovating Film Viewing with iPhone Tricks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-hot-30-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-hot-30-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Hot 30 5G Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-hot-30-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-hot-30-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Hot 30 5G</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cutting-edge-the-best-mac-video-editing-apps-1-5/"><u>Cutting Edge  The Best Mac Video Editing Apps #1-#5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-hot-30-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-hot-30-5g-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-hot-30-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-hot-30-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Hot 30 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-hot-30-5g-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Hot 30 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-infinix-hot-30-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Infinix Hot 30 5G Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-by-step-setting-up-snapchat-on-mac/"><u>In 2024, Step-by-Step  Setting Up Snapchat on Mac</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-hot-30-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-30-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-hot-30-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Hot 30 5G Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-infinix-hot-30-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Infinix Hot 30 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transform-video-quality-on-tiktok-2-ways/"><u>Transform Video Quality on TikTok (2 Ways)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-hot-30-5g-by-drfone-android/"><u>Universal Unlock Pattern for Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-hot-30-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Hot 30 5G Users</u></a></li>
+</ul></div>

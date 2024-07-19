@@ -1,7 +1,7 @@
 ---
 title: In 2024, Tips and Tricks for Setting Up your Itel A05s Phone Pattern Lock
-date: 2024-04-04 14:17:33
-updated: 2024-04-05 18:56:14
+date: 2024-07-18T16:30:37.918Z
+updated: 2024-07-19T16:30:37.918Z
 tags: 
   - unlock
   - remove screen lock
@@ -10,7 +10,7 @@ categories:
 description: This article describes Tips and Tricks for Setting Up your Itel A05s Phone Pattern Lock
 excerpt: This article describes Tips and Tricks for Setting Up your Itel A05s Phone Pattern Lock
 keywords: easy pattern lock,Itel A05s gusture lock screen,android device password reset,hack wifi password android,network unlock,Itel A05s unlock screen
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## Tips and Tricks for Setting Up your Itel A05s Phone Pattern Lock
@@ -27,6 +27,9 @@ A **pattern lock** is used to identify the actual user by your Android phone. It
 
 So, if you have set a **pattern lock** as a screen lock for your device, you will need to draw the exact pattern every time you log in.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Best Tool to Unlock Your Pattern
 
 ### Dr.Fone - Screen Unlock
@@ -61,6 +64,9 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 
 **How to get into recovery mode with Bixby**
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
 **How to get into recovery mode without Bixby**
@@ -69,12 +75,18 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 
 **How to get into recovery mode with Home button**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
 **Step 5. **Instructions to Wipe Cache Partition****
 
 Now you’re in recovery mode, pick these options in the image below.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![description of erase the cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
 When the “Unlocked successfully” appears on the screen, you can access your device without a pattern lock or other locks!
@@ -84,6 +96,9 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Google Find My Device (For Android7.1.1 or later)
 
 **Step 1.** Open the Android Device Manager site by typing [https://www.google.com/android/find](https://www.google.com/android/find) in an internet browser.
@@ -94,6 +109,9 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 4.** You will get three choices here, i.e., lock, erase, and ring.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![find my device](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-1.jpg)
 
 **Step 5.** Click on the "Lock" button to reset its pattern.
@@ -136,12 +154,18 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 1:** You can bring up the power menu and hold the "Power Off" button for most phones, especially Android phones. A warning will spring up, asking whether you might want to Reboot to Safe Mode. Here, it would help if you had to press Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reboot to safe mode](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-4.jpg)
 
 **Step 2:** Clear your lock screen application's data.
 
 Clean data off your lock screen app, uninstall it, and then reboot your device to escape safe mode. When you do so, your phone or Android device will unlock.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Use ADB (USB required for Android 10 and lower)
 
 - Connect your device to your PC using a USB connector.
@@ -186,6 +210,9 @@ The stock lock screen for Android may sometime feel boring. The OS does not let 
 
 There are unique lock screen apps for android that can change the complete feel of the lock screen. You can get control over various tasks and perform actions directly from the screen. Today we will talk about the top 20 lock screen apps for android that will totally change the unlocking experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. AcDisplay
 
 It is a simple design android lock screen app which handles notifications in a minimalistic approach. You can access application directly from the lock screen. It has an active mode to wake your device using sensors.
@@ -194,14 +221,28 @@ Compatibility – Android 4.1+
 
 Download: [https://play.google.com/store/apps/details?id=com.achep.acdisplay](https://play.google.com/store/apps/details?id=com.achep.acdisplay)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AcDisplay](https://images.wondershare.com/drfone/others/acdisplay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Hi Locker
 
 Classic, Lollipo and iOS – you get three styles of unlocking with this lock screen android app. It even features fingerprint unlocking on chosen Samsung and Marshmallow devices. You can highly customize the android lock screen and even add events or weather predictions.
 
 Compatibility – Android 4.1+
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hi Locker](https://images.wondershare.com/drfone/others/hi-locker.jpg)
 
 ## 3\. CM Locker
@@ -212,6 +253,9 @@ Compatibility – Device dependent
 
 ![CM Locker](https://images.wondershare.com/drfone/others/cm-locker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. LokLok
 
 This beta app to lock Android screen is more for fun with friends. You can draw on your app screen and share with friends. Friends can also modify them and share.
@@ -220,6 +264,9 @@ Compatibility – Android 4.0+
 
 ![LokLok](https://images.wondershare.com/drfone/others/loklok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. ZUI Locker-Elegant Lock Screen
 
 With this lock screen app for Android, you can set HD wallpaper and chose different layouts and themes on an impressive and simple UI. The android lock screen wallpapers can be rendered movement by phone's gravity sensor.
@@ -234,6 +281,9 @@ For people interested in events of the world, this lock screen android app featu
 
 Compatibility – Android 4.0+
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Next News Lock Screen](https://images.wondershare.com/drfone/others/next-news-lock-screen.jpg)
 
 ## 8\. C-Locker
@@ -252,6 +302,9 @@ Compatibility – Android 4.3+
 
 ![Echo Notification Lockscreen](https://images.wondershare.com/drfone/others/echo-notification-lockscreen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. GO Locker
 
 It is one of the most popular and highly downloaded lock screen apps for android. Fully protection is guaranteed with lock home button feature. It presents a wide range of themes and unlocking styles and shortcuts too.
@@ -268,6 +321,9 @@ Compatibility – Android 4.1+
 
 ![SlideLock Locker](https://images.wondershare.com/drfone/others/slidelock-locker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12\. Cover Lock Screen
 
 Ever heard about an app that predicts your need? Cover uses real time data to place useful apps on android lock screen when you are at work, travelling or at home.
@@ -276,12 +332,18 @@ Compatibility – Android 4.1+
 
 ![Cover Lock Screen](https://images.wondershare.com/drfone/others/cover-lock-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 13\. SnapLock Smart Lock Screen
 
 You get a smooth unlocking experience featured in an elegant design in SnapLock. The app sends editor picked wallpapers daily to make things exciting. The date and time can also be arranged in many ways.
 
 Compatibility – Android 4.1+
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SnapLock Smart Lock Screen](https://images.wondershare.com/drfone/others/snapLock-smart-lock-screen.jpg)
 
 ## 14\. L Locker
@@ -290,6 +352,9 @@ Presenting the stylish design of Lollipop and Marshmallow, this applock for andr
 
 Compatibility – Android 4.0+
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![L Locker](https://images.wondershare.com/drfone/others/l-locker.jpg)
 
 ## 16\. DashClock Widget
@@ -306,14 +371,23 @@ You can use Lock Master's DIY editor to customize the android lock screen. Many 
 
 Compatibility – Android 4.0.3+
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Locker Master](https://images.wondershare.com/drfone/others/locker-master.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 20\. Dodol Locker
 
 It features best designs and themes among lock screen apps for android. You can decorate the lock screen in many ways and use powerful security features. The themes can be downloaded from Theme Shop in the app.
 
 Compatibility – Android 2.3.3+
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dodol Locker](https://images.wondershare.com/drfone/others/dodol-locker.jpg)
 
 These are some of the best lock screen apps for Android that you can find. You can get more security and do more with your Android apps, in an easy manner. Plus, do not forget that every phone should have an app lock for Android – it might be really risky not to.
@@ -326,8 +400,14 @@ If you are also facing the same issue, then you have come to the right place. Th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOBqlRz2IaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to get into a locked phone with Dr.Fone?
 
 [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) provides a hassle-free solution to unlock an Android device in minutes. It can remove a device’s PIN, password, pattern, and even fingerprint security without causing any harm to it. Therefore, you would be able to unlock your device without losing your data while using some Samsung or LG Android phones. If you want to break the locked screen with Dr.Fone from other brand phones, including iPhone, Huawei, and Oneplus, it will wipe out your phone's data after unlocking successfully.
@@ -368,6 +448,9 @@ That’s it! By following these steps, you would be able to learn how to get int
 
 _**Tips:** Cannot find your device model in the supported list or your phone is not Samsung? Worry not, as Wondershare Dr.Fone can also help you to unlock other device models (inlcluding Huawei, LG, Xiaomi, etc) in a matter of seconds. Just install this tool on your computer and connect your phone to start the unlock process!_
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Part 2: How to get into a locked phone with Android Device Manager?
 
 Google’s Android Device Manager (also known as Find My Device) can be used to locate a lost phone, erase it remotely, ring it, and change its lock. You can access it from any other device and use its features remotely.
@@ -375,11 +458,17 @@ Google’s Android Device Manager (also known as Find My Device) can be used to 
 - **Step 1.** Firstly, go to the Android Device Manager’s website right [here](http://google.com/android/devicemanager). Log in with the Google account that is already linked to your Android device.
 - **Step 2.** Once the interface is loaded, you can select your phone. It will locate the Itel A05s device automatically and provide various options.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![get into a locked phone-locate the Itel A05s device](https://images.wondershare.com/drfone/article/2017/10/15081758684058.jpg)
 
 - **Step 3.** Choose the “Lock” option to proceed.
 - **Step 4.** This will display a new prompt. From here, you can get the new password for your device and confirm it.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into a locked phone-provide the new password](https://images.wondershare.com/drfone/article/2017/10/15081758975970.jpg)
 
 - **Step 5.** Additionally, if your device is lost, you can display an optional message and contact number on the lock screen. Click on the “Lock” button to save changes and exit the screen.
@@ -401,6 +490,9 @@ If you are using a Samsung device, you can also use its Find My Mobile service t
 
 - **Step 6.** After waiting for a while, you will get the following prompt. From here, you can set up a new lock for your mobile or can click on the “Lock My Screen” option to do the same.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How to get into a locked phone using the 'Forgot Pattern' feature?
 
 If your device is based on Android 4.4 and earlier versions, you may also use its native “Forgot Pattern” feature to unlock it. Though, you should have access to the Google account credentials linked to the Itel A05s device beforehand. To learn how to get into a locked phone with this technique, follow these steps:
@@ -408,6 +500,9 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 - **Step 1.** To get the Forgot Pattern option, enter the wrong PIN/pattern on your device.
 - **Step 2.** This will display the “Forgot Pattern” button on the bottom of the screen. Just tap on it to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into a locked phone-Forgot Pattern](https://images.wondershare.com/drfone/article/2017/10/15081760134210.jpg)
 
 - **Step 3.** On the next screen, you can unlock your device by providing the backup PIN of your device or sign in using the Google credentials of the account linked to the Itel A05s device.
@@ -428,6 +523,9 @@ If nothing else seems to work, then you can also choose to factory reset your de
 
 - **Step 4.** Select the option of “wipe data/factory reset.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into a locked phone-factory reset](https://images.wondershare.com/drfone/article/2017/10/15081760902466.jpg)
 
 - **Step 5.** This will display the following prompt. Confirm your choice by selecting the “Yes” option.
@@ -436,6 +534,9 @@ If nothing else seems to work, then you can also choose to factory reset your de
 
 - **Step 6.** Wait for a while as your phone will be restarted with factory settings.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Part 6: How to get into a locked phone in Safe Mode?
 
 If you are using a third-party application to lock your device, you can easily disable it by restarting your phone in safe mode. In this way, you can get rid of the respective app without causing any damage to the Itel A05s device. You can learn how to get into a locked Android phone by following these steps:
@@ -446,6 +547,9 @@ If you are using a third-party application to lock your device, you can easily d
 
 ![get into a locked phone-tap on the “Ok”](https://images.wondershare.com/drfone/article/2017/10/15081761296376.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7: How to get into a locked phone using Custom Recovery?
 
 Since custom recovery provides a third-party recovery environment, it can learn how to get into a locked Android device. Additionally, you need to flash it via an SD card since you won’t access the phone storage on a locked device.
@@ -455,6 +559,9 @@ Since custom recovery provides a third-party recovery environment, it can learn 
 - **Step 3.** From the provided options, choose to install zip from the SD card.
 - **Step 4.** Confirm your selection and let your phone be restarted with no lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![get into a locked phone-restart the phone](https://images.wondershare.com/drfone/article/2017/10/15081761542231.jpg)
 
 ## Bonus Tip: General tips for unlocking phone successfully
@@ -485,3 +592,71 @@ By following these simple steps, you would learn how to get into a locked phone.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-calculating-riches-a-look-at-mr-beasts-wallet/"><u>[New] 2024 Approved  Calculating Riches  A Look at Mr. Beast's Wallet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastering-a-standout-linkedin-profile/"><u>[New] 2024 Approved  Mastering a Standout LinkedIn Profile</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-secure-and-convenient-a-windowsmac-downloading-guide-for-igtv-videos/"><u>[New] 2024 Approved  Secure and Convenient  A Windows/Mac Downloading Guide for IGTV Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-capture-and-share-with-confidence-a-step-by-step-guide-to-desktop-video-uploads-on-instagram/"><u>[New] In 2024, Capture & Share with Confidence  A Step-by-Step Guide to Desktop Video Uploads on Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-surge-video-popularity-with-essential-seo-aids/"><u>[New] In 2024, Surge Video Popularity with Essential SEO Aids</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pajama-plots-and-prose-critical-review-of-childrens-videos/"><u>[New] Pajama Plots and Prose  Critical Review of Children's Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-record-ruckus-samsung-phone-gaming-chronicles-for-2024/"><u>[New] Record Ruckus  Samsung Phone Gaming Chronicles for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-evaluation-chilled-delights-playback-tools/"><u>[Updated] 2024 Approved  Expert Evaluation  Chilled Delights Playback Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-vivid-palette-review-best-5-high-definition-displays/"><u>[Updated] 2024 Approved  Vivid Palette Review  Best 5 High-Definition Displays</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-dream-gear-youtube-collection-for-2024/"><u>[Updated] Gamers' Dream Gear  YouTube Collection for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-ad-elimination-techniques-for-chrome-and-safari-users/"><u>[Updated] YouTube Ad Elimination Techniques for Chrome & Safari Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-onlineoffline-animation-revolution-with-zero-price-tag/"><u>2024 Approved  Online/Offline Animation Revolution with Zero Price Tag</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-pathway-to-accessing-fb-videos-via-windowsmacos/"><u>2024 Approved  Pathway to Accessing FB Videos via Windows/macOS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-download-windows-movie-maker-now-a-simple-and-easy-guide/"><u>2024 Approved Download Windows Movie Maker Now A Simple and Easy Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-free-up-space-5-best-video-compression-apps-for-ios/"><u>2024 Approved Free Up Space 5 Best Video Compression Apps for iOS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/behind-the-scenes-youtubes-view-count-algorithm/"><u>Behind the Scenes  YouTube's View Count Algorithm</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/building-a-solid-foundation-youtube-video-script-basics-for-2024/"><u>Building a Solid Foundation  YouTube Video Script Basics for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/decoding-the-secret-of-instagrams-video-cap-for-2024/"><u>Decoding the Secret of Instagram's Video Cap for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-a2plus-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Xiaomi Redmi A2+ has native MOV support?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-tips-for-high-quality-minecraft-saves/"><u>Expert Tips for High-Quality Minecraft Saves</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-secure-mail-validity-is-securityfb-legit/"><u>Facebook Secure Mail Validity: Is @Security@fb Legit?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-8-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 8 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-itel-a60-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Itel A60 Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-itel-a60-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Itel A60 Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-itel-a60-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Itel A60 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-a60-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel A60</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-a60-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel A60 Fingerprint Lock</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-advice-sharing-youtube-videos-with-fb-ease/"><u>In 2024, Expert Advice  Sharing YouTube Videos with FB Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-itel-a60-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Itel A60 Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-itel-a60-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Itel A60? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-a60-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Itel A60 Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-itel-a60-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Itel A60</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-itel-a60-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Itel A60 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-itel-a60-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Itel A60?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-itel-a60-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Itel A60 to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-itel-a60-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Itel A60</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-a60-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel A60 Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-a60-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel A60 Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-itel-a60-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Itel A60 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Itel A60 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Itel A60 Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Itel A60 Phone without Google Account?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-itel-a60-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Itel A60 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-itel-a60-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Itel A60 Phone Now with These Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-itel-a60-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Itel A60? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-itel-a60-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Itel A60</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-a60-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel A60 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-strategy-for-developing-and-managing-youtube-collaborations/"><u>In 2024, The Ultimate Strategy for Developing & Managing YouTube Collaborations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-itel-a60-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Itel A60 Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-itel-a60-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Itel A60 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-itel-a60-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Itel A60</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-itel-a60-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Itel A60 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-a60-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel A60</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From iPhone 12 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-itel-a60-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Itel A60 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-a60-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Itel A60 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-a60s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Itel A60s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/jailbreak-joy-top-funny-faces-at-the-social-networks-limits-for-2024/"><u>Jailbreak Joy - Top Funny Faces at the Social Network’s Limits for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/maximizing-mobile-video-quality-your-phone-as-a-webcam/"><u>Maximizing Mobile Video Quality  Your Phone as a Webcam</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-generate-speech-from-text-the-best-text-to-speech-converters/"><u>New How To Generate Speech From Text | The Best Text-to-Speech Converters</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/techniques-for-swapping-your-images-tone-spectrum-for-2024/"><u>Techniques for Swapping Your Image's Tone Spectrum for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/tivo-vs-comcast-x1-which-dvr-offers-the-most-bang-for-your-buck-in-2024/"><u>TiVo vs Comcast X1 Which DVR Offers the Most Bang for Your Buck , In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unbeatable-choices-top-free-online-intros-for-2024/"><u>Unbeatable Choices  Top Free Online Intros for 2024</u></a></li>
+</ul></div>
