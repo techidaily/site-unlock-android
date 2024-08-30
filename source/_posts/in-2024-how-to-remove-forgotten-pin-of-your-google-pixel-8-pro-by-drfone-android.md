@@ -1,0 +1,535 @@
+---
+title: In 2024, How to Remove Forgotten PIN Of Your Google Pixel 8 Pro
+date: 2024-08-29T15:22:09.522Z
+updated: 2024-08-30T15:22:09.522Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - android
+description: This article describes How to Remove Forgotten PIN Of Your Google Pixel 8 Pro
+excerpt: This article describes How to Remove Forgotten PIN Of Your Google Pixel 8 Pro
+keywords: android device device manager unlock,Google Pixel 8 Pro android password reset,Google Pixel 8 Pro unlock android phone with broken screen,samfw frp tool,Google Pixel 8 Pro fingerprint lock for android,unlock phone forgot password,pattern unlock,android screen lock,remove screen lock pin on android device,reset gmail password on android,how to unlock android phone
+thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
+---
+
+## How to Remove Forgotten PIN Of Your Google Pixel 8 Pro
+
+Users of Android phones can benefit from data and file protection tools like passwords, patterns, and PINs. But there are also some significant hazards. For instance, your children may have repeatedly used the wrong password to access your Android phone, or you may have forgotten PIN on your device, pattern, or PIN.
+
+We can use various valuable techniques to remove the Android phone password. According to you, the most typical or initial option must be factory reset. However, if you try to use the factory reset, you will lose all the data on your Android phone.
+
+Read the information below, but first, let's talk about Android phone passwords and how they operate before moving on to the ways.
+
+![forgot pin](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-1.jpg)
+
+## The Importance of the Android Lock System
+
+In general, phone passwords are used to secure your device against unauthorized access and shield your files and data from it. You can try using a pattern, password, PIN, or another method to unlock your device. Although it has many benefits, there are also hazards. Risk in the sense that if you lose your device's password or pattern, you will be unable to access it and will be stuck somewhere.
+
+Several firms are making Android phones, so why shouldn't more? Because Android phones are in high demand, numerous new businesses are now producing them. We can see that more people than any other operating system use mobile devices with Android. With an Android phone, we can do many functions, be constantly connected to the outside world, and everything runs smoothly.
+
+This is an important issue that needs to be resolved right away. Therefore, some methods can assist you in getting out of it, one of which is doing a factory reset. They believe this is the most effective and secure way; thus, many try it. What about the information you have on the Google Pixel 8 Pro device, though? What should you do next because a factory reset will destroy your data?
+
+![how to find lock system](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-2.jpg)
+
+## Methods to Recover Forgotten Password or PIN
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Google Smart Lock
+
+If you have added a trusted area or device in Google Smart Lock, you can go to that trusted area and reset your password. Alternatively, you can also use trusted devices to unlock your device.
+
+### 2\. Google Find My Device
+
+As you are likely aware, every Android device is connected to a Google account. As a result, if you'd like, you may also use it to unlock Android. You'll need to know your Google account login information for this. When you're ready, use these instructions to find out how to unlock a phone password.
+
+1. Login using your Google credentials by going to the official Google Find My Device website.
+2. You will see the gadgets connected to your Google account as you enter the interface and a map of where they are.
+3. To wipe the Google Pixel 8 Pro device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
+4. Once more, select "Erase." This will reset the Google Pixel 8 Pro device and get rid of the forgot pattern lock.
+
+![google find my device](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. Recovery Mode
+
+Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. If you discover that your device is functioning strangely, it might be helpful. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
+
+However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode differ for every android device.
+
+![recovery mode](https://images.wondershare.com/drfone/article/2022/11/forgot-pin-on-android-4.jpg)
+
+### 4\. Dr.Fone - Screen Unlock
+
+On most Android handsets, it is wise to give it a try on Dr.Fone to unlock the screen lock easily. It allows you to remove the password, PIN, pattern, and fingerprint from an Android phone.
+
+**Step 1. Select Unlock Android Screen**
+
+Please select "Unlock Android Screen" to ensure you have the correct unlock process.
+
+![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**Step 2. Select device model**
+
+If you see this page, please choose the option fitting your phone, otherwise, you can't unlock your device as you wish.
+
+![select device model](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
+
+_(Enter Recovery Mode via the Samsung phone with Bixby)_
+
+![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
+
+_(Enter Recovery Mode via the Samsung phone without Bixby)_
+
+![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
+
+_(Enter Recovery Mode via the Samsung phone with the Home button)_
+
+**Step 3. Instructions to Wipe Cache Partition**
+
+On the page Recovery Mode, it's the most important step to unlock your device. Please click the right buttons.
+
+![click the right buttons](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
+
+Congratulations! Now you can access your phone again, and there're no obstacles when you do anything on your phone.
+
+![access your phone again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## FAQs
+
+1. Will Dr.Fone - Screen Unlock Do Harm To My Google Pixel 8 Pro?
+
+Answer: No, Dr.Fone is safe for your device, all hardware will be safe, and you can still use your phone as usual when you try our products, but for devices other than Samsung and LG, you may have to face data loss. So, if you want to keep your data safe, please have a backup on your phone.
+
+2. How To Keep My Data Safe?
+
+Answer: [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a good option for backing up the sensitive data on your device. If you want to know more, don't hesitate and find any required information on our website.
+
+### Conclusion
+
+Any methods mentioned above can work to overcome the obstacle of unlocking the screen with your Android handset. The best thing about all methods we said is that you just need some easy ways to complete the tasks.
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+## Full Tutorial to Bypass Your Google Pixel 8 Pro Face Lock?
+
+Your android phone face unlock may be buggy, or the camera may be damaged. It can't recognize your face. When you try multiple times in such cases, it will lock your device permanently. Are you stuck with a locked phone? And you're still confused about what just happened. Face unlock may face problems such as
+
+- Face unlock app may be buggy
+- Your face unlock settings may be unstable
+- Your phone camera or face unlock sensor may be damaged
+- Someone else may have registered their face without your permission
+
+Whatever the reason, they are equally big obstacles for you to use your phone as usual; trying to unlock your device can lead to a permanently locked phone. So how do you bypass face unlock?
+
+Follow the guide below to bypass the face unlock settings and choose the best one for yourself.
+
+![face lock](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+## How To Bypass Android Face Lock by Ourselves?
+
+If you want to bypass face lock by yourself, then different methods can help you. These are all tested and work well.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### 1\. A Picture Possibly Bypasses Face Lock
+
+You can use your photo to manipulate the face lock app. Simply use your photo to unlock the phone, which should work fine. If your phone doesn't recognize your face from a photo, try again.
+
+If it still doesn't recognize your face, try a different photo or even change the camera's lighting settings or the angles to see if that helps.
+
+Anyway, this method is still unstable because of many uncontrollable factors. If everything fails, consider the following methods to bypass the face lock.
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Hard Reset your phone
+
+To get around the Android lock screen, perform a factory reset. While resetting your phone allows you to set a new password, it also erases all data from your device. This method works like a charm, but it also requires more technical knowledge. To bypass screen lock via factory reset, follow these steps.
+
+![android hard reset](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-2.jpg)
+
+**Step 1**: Turn off your phone and hold the Power and Volume-down buttons simultaneously until the recovery mode screen appears. There are minor variations depending on the brand and model.
+
+**Step 2**: Select the Wipe data/Factory Reset option using the volume buttons. To confirm the option, press the Power button.
+
+**Step 3**: Choose Yes > Delete All User Data, then press the power button to continue. When the process is complete, turn on your phone.
+
+So, before facing such awkward cases, like data loss, we suggest you have a backup habit of keeping your data safe.
+
+### 3\. Google Find My Device
+
+Google Find My Device is a service that lets you remotely lock, track, and wipe data from stolen or lost phones. With a Google account and the password, it won't be complicated to remove any locks on your phone. You can bypass the Android lock screen by following the steps below:
+
+![google find my device data reset](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 1:** Navigate to Find My Device and sign in with your Google account.
+
+**Step 2:** Your phone receives a notification.
+
+**Step 3:** Select Erase Device, confirm, and click Erase as a warning pops up on the screen.
+
+**Step 4:** The factory reset process on your phone begins. When it's finished, choose My Google Account instead of using your phone as if it were brand new.
+
+Just like the hard reset, after using Google Find My Device, all your data and settings will be erased. Please make everything well prepared before you decide to unlock your device.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Easiest Way to Unlock Your Android Face Recognition Using Dr.Fone-Screen unlock
+
+The methods mentioned above may be hard for you, and you don't know any technical skills. If you are looking for an easy tool that can face unlocking for you, then [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is all you need.
+
+Dr.Fone by Wondershare has many useful tools, and Screen Unlock is one of them. It is the easiest and safest method to bypass the Android face lock. It is safe, secure, and easy to use.
+
+The following guide explains how to use Dr.Fone-Screen unlock to bypass the Android face lock.
+
+**Step 1: Install and open Dr.Fone on your computer**
+
+
+**Step 2: Run Dr.Fone on your PC and select "Screen Unlock" from the tools**
+
+![dr fone homescreen](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 3: Select Unlock Android Screen**
+
+Please select" Unlock Android Screen" for the rest process.
+
+![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+**Step 4: Select device model**
+
+Please click the button fitting your phone.
+
+![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+When arriving at this page, we have a lot of options to unlock your device screen for most phone brands, like Samsung, Nokia, LG, OPPO, etc.
+
+![most phone brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 5: Enter into Recovery Mode**
+
+Here are examples of Samsung phones via its Recovery Mode to unlock your Android device screen.
+
+![enter into recovery mode](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
+
+_(Recovery Mode When the Samsung phone with Bixby)_
+
+![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+_(Recovery Mode When the Samsung phone without Bixby)_
+
+![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
+
+_(Recovery Mode When the Samsung phone with Home button)_
+
+**Step 6: Instructions to Wipe Cache Partition**
+
+This step in Recovery Mode is the most important to unlock your screen. Please click the buttons as instruction.
+
+![wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now you can see your device is unlocked successfully
+
+![unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+
+### Conclusion
+
+There are various methods to bypass Android face lock, but Dr.Fone-Screen Unlock is the easiest and safest method. Dr.Fone offers Screen Unlock and many other handy tools to help you recover, remove and unlock your Android phone without geeky knowledge. Dr.Fone-Screen Unlock is a step-by-step process, and you do not need to do anything; Dr.Fone will do all you want to do on your phone!
+
+## 6 Solutions to Unlock Google Phones If You Forgot Password, PIN, Pattern
+
+Too many times, we forget the passcode of our smartphones, only to regret it later. Don't worry if you are facing the same issue. It happens to all of us at times. Fortunately, there are many ways to unlock an Android device even when you have **forgotten its password/pin/pattern lock**. This guide will teach you how to unlock Google phones if you forgot the password in five different ways. Read on and choose your preferred option if you forgot the password on your Google phone and move past every setback you face.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/68FqgS6Ym8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
+
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+## Solution 1: Unlock Google Phone using Dr.Fone - Screen Unlock (5 mins solution)
+
+Among all the solutions we are going to introduce in this article, this is the easiest one. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) can help you remove the lock screen of [some Google and Samsung devices](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) without any data loss. After the lock screen is removed, the phone will work like it's never been locked before, and all your data are there. Besides, you can use this tool to bypass the passcode on other Android phones, such as Huawei, Lenovo, Oneplus, etc. The only defect of Dr.Fone is that it will erase all the data beyond Samsung and Google after unlocking.
+
+![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+Get into the Locked Google Phone within Minutes
+
+- Available for most Google series, like LG/LG2/LG3/G4, etc.
+- Except for Google phones, it unlocks 20,000+ models of Android phones & tablets.
+- Everybody can handle it without any technical background.
+- Offer customized removal solutions to promise good success rate.
+
+**4,008,669** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How to unlock an Google phone with Dr.Fone - Screen Unlock (Android)?
+
+Step 1. Launch Dr.Fone.
+
+Download Dr.Fone from the download buttons above. Install and launch it on your computer. Then select the "**Screen Unlock**" function.
+
+![unlock lg phone - launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 2. Connect your phone.
+
+Connect your Google phone to the computer using a USB cable. Click on **Unlock Android Screen** on Dr.Fone.
+
+![unlock lg phone - connect phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+Step 3. Select the phone model.
+
+Currently, Dr.Fone supports removing lock screens on some Google and Samsung devices without data loss. Select the correct phone model information from the dropdown list.
+
+![unlock lg phone - select phone model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+Step 4. Boot the phone in download mode.
+
+- Disconnect your Google phone and power it off.
+- Press the Power Up button. While you are holding the Power Up button, plug in the USB cable.
+- Keep pressing the Power Up button until the Download Mode appears.
+
+![unlock lg phone - boot in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+Step 5. Remove the lock screen.
+
+After your phone boot in download mode, click on Remove to start to remove the lock screen. This process only takes a few minutes. Then your phone will restart in normal mode without any lock screen.
+
+![unlock lg phone - remove lock screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+For more detailed steps, please go to our guide on [unlocking Android phones with/without data loss](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
+
+## Solution 2: Unlock the Google Phone Using Android Device Manager (Need a Google account)
+
+This is probably the most convenient solution to set up a new lock for your Google device. With Android Device Manager, you can locate your device, ring it, erase its data, and even change its lock remotely. All you got to do is log in to the Google Pixel 8 Pro device Manager account using the credentials of your Google Account. Needless to say, your Google phone should be linked to your Google Account. Learn how to unlock the Google phone if forgot your password using Android Device Manager.
+
+- **Step 1.** Start by logging in to [Android Device Manager](https://www.google.co.in/android/devicemanager) by entering the credentials of your respective Google Account that is configured with your phone.
+
+![unlock lg forgot password - login android device manager](https://images.wondershare.com/drfone/article/2017/03/14892201986480.jpg)
+
+- **Step 2.** Select your device's icon to get access to various features like ring, lock, erase, and more. Out of all the provided options, click on “**lock**” to change the security lock of your device.
+
+![unlock lg forgot password - select device](https://images.wondershare.com/drfone/article/2017/03/14892202439511.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+- **Step 3.** Now, a new pop-up window will open. Here, provide the new password for your device, confirm it, and click on the “lock” button again to save these changes.
+
+![unlock lg forgot password - lock with new password](https://images.wondershare.com/drfone/article/2017/03/14892202692339.jpg)
+
+That's it! Your phone will reset its password, and you would be able to move past any problem related to forgetting the password on the Google phone using [Android Device Manager unlock](https://drfone.wondershare.com/unlock/android-device-manager-unlock.html).
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+## Solution 3: Unlock the Google Phone Using Google Login (only Android 4.4 and below)
+
+If your Google device runs on Android 4.4 and previous versions, then you can easily move past the password/pattern lock without any trouble. The provision is not available on devices, which run on newer versions of Android. Nevertheless, for all the Google Pixel 8 Pro devices running on older versions than Android 4.4, this is undoubtedly the easiest way to set a new passcode. Follow these steps to learn how to unlock your Google phone if you forgot your password using your Google credentials.
+
+- **Step 1.** Try bypassing the pattern lock at least 5 times. After all the failed attempts, you will get the option to either make an emergency call or choose the option of “**Forget pattern**”.
+
+![unlock lg forgot password - forgot pattern](https://images.wondershare.com/drfone/article/2017/03/14892203178747.jpg)
+
+- **Step 2.** Select the “Forget pattern” option and provide the correct credentials of your Google account to unlock your phone.
+
+![unlock lg forgot password - log in google account](https://images.wondershare.com/drfone/article/2017/03/14892203377058.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## Solution 4: Unlock the Google Phone Using Custom Recovery (SD card needed)
+
+If your phone has a removable SD card, you can also try this technique to disable the pattern/password on your device. Though, you need to have some custom recovery installed on your device for this method. You can always go for TWRP (Team Win Recovery Project) and flash it on your device.
+
+TWRP: <https://twrp.me/>
+
+Also, since you can't move anything to your device when it is locked, you need to do the same using its SD card. After ensuring that you have met all the basic prerequisites, follow these steps and learn how to unlock the Google phone's forgotten password using a custom recovery.
+
+- **Step 1.** Download a [Pattern Password Disable](http://forum.xda-developers.com/attachment.php?attachmentid=2532214&d=1390399283) application and save its ZIP file on your computer. Now, insert your SD card into your system and move the recently downloaded file to it.
+
+- **Step 2.** Reboot your phone into recovery mode. For instance, the TWRP recovery mode can be turned on by simultaneously pressing the Power, Home, and Volume Up button. You would get different options on your screen after entering the custom recovery mode. Tap on “Install” and browse the Pattern Password Disable application file.
+
+![unlock lg forgot password - team win recovery project](https://images.wondershare.com/drfone/article/2017/03/14892204165153.jpg)
+
+- **Step 3.** Install the above-mentioned application and wait for a few minutes. Afterward, restart your Google phone. Ideally, your phone will be restarted without any lock screen. If you get a lock screen, you can bypass it by entering any random digits.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Solution 5: Factory Reset Google Phone in Recovery Mode (erases all phone data)
+
+If none of the above-mentioned alternatives work, then you can also try to factory reset your device. This will erase every kind of data from your device and make it look brand new by resetting it. Though, you can easily resolve the forgot password on the Google phone with it. Therefore, before proceeding, you need to be familiar with all the repercussions of performing a factory reset. All you got to do is follow these steps.
+
+- **Step 1.** Put your Google phone on its recovery mode with correct key combinations. To do this, firstly, turn your device off and let it rest for a few seconds. Now, press the Power and Volume Down key at the same time. Keep pressing them until you see LG's logo on the screen. Release the buttons for a few seconds and press them again at the same time. Again, keep pressing the buttons until you see the recovery mode menu. This technique works with most Google devices, but it can differ slightly from one model to another.
+
+- **Step 2.** Choose “Wipe Data/Factory Reset.” You can use the Volume up and down key to navigate the options and the power/home key to select anything. Use these keys and select the “Wipe Data/Factory Reset” option. You might get another pop-up asking to delete all user data. Just agree it reset your device. Sit back and relax as your device will perform a hard reset.
+
+![unlock lg forgot password - enter in recovery mode](https://images.wondershare.com/drfone/article/2017/03/14892204518630.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+- **Step 3.** Select the “Reboot system now” option to restart it. Your phone will be restarted without any lock screen.
+
+![unlock lg forgot password - reboot system](https://images.wondershare.com/drfone/article/2017/03/14892204671940.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+After following these steps, you can easily overcome how to unlock the Google phone forgot password issue.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Solution 6: Unlock Google Phone Using ADB Command (need USB debugging enabled)
+
+This might be a little complicated initially, but if you don't want to follow either of the above-mentioned techniques to unlock your device, you can go with this alternative. Before proceeding, make sure that you have ADB (Android Debug Bridge) installed on your computer. If you don't have it, then you can download Android SDK right [here](https://developer.android.com/studio/index.html).
+
+Additionally, it would help if you turned on the USB Debugging feature on your phone before you forgot the password. If USB debugging is not turned on before, then this method will not work for you.
+
+After making your device ready and downloading all the essential software on your computer, follow these steps to learn how to unlock your Google phone if you forgot the password.
+
+- **Step 1.** Connect your device to the computer with a USB cable and open the command prompt when it is successfully connected. If you get a pop-up message regarding USB Debugging permission on your device, simply agree to it and continue.
+
+- **Step 2.** Now, please provide the following code on the command prompt and reboot your device when it is processed. If you want, you can also tweak the code a little and provide a new lock pin.
+
+- _ADB_ _shell_
+- _cd /data/data/com.android.providers.settings/databases_
+- _sqlite3 settings.__db_
+- _update system set value=0 where name='lock\_pattern\_autolock';_
+- _update system set value=0 where name='lockscreen__.lockedoutpermanently';_
+- _.quit_
+
+![unlock lg forgot password - command code](https://images.wondershare.com/drfone/article/2017/03/14892205231542.jpg)
+
+- **Step 3.** If the above code doesn't work, try providing the code “ADB _shell rm /data/system/gesture. the key_” to it and follow the same drill.
+
+![unlock lg forgot password - code](https://images.wondershare.com/drfone/article/2017/03/14892205424871.jpg)
+
+- **Step 4.** After restarting your device, if you still get a lock screen, then give a random password to bypass it.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+You can choose a preferred option and rectify the issue whenever you [forgot the password on the Google phone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). Make sure that you meet all the requirements and go through the respective tutorial to attain fruitful results.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-5-preferred-sites-to-download-dynamic-and-versatile-text-effects/"><u>[New] 2024 Approved  5 Preferred Sites to Download Dynamic and Versatile Text Effects</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-quality-matters-the-advantages-and-disadvantages-of-different-fps/"><u>[New] 2024 Approved  Quality Matters  The Advantages & Disadvantages of Different FPS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-unparalleled-online-success-stories-from-youtube/"><u>[New] 2024 Approved  Unparalleled Online Success Stories From YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-the-art-of-profile-video-lure/"><u>[Updated] 2024 Approved  Mastering the Art of Profile Video Lure</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-merge-movies-on-youtube-compilation-for-2024/"><u>[Updated] Merge Movies on YouTube Compilation for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-zoom-setup-made-simple-your-ultimate-guide-for-2024/"><u>[Updated] Zoom Setup Made Simple  Your Ultimate Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-snap-into-fb-shorts-saga/"><u>2024 Approved  Snap Into FB Shorts Saga</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic-v2-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic V2 Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-hot-40-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Hot 40</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-pova-5-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Pova 5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-google-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Google</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-bug-blues-the-ultimate-guide-to-stop-insurgency-sandstorm-from-crashing/"><u>Banishing Bug Blues: The Ultimate Guide to Stop Insurgency Sandstorm From Crashing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-action-recorders-with-front-view-panels/"><u>Best Action Recorders with Front View Panels</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-100-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor 100</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/convenient-technique-winning-the-art-of-fish-dialogue-alteration/"><u>Convenient Technique  Winning the Art of Fish Dialogue Alteration</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-evaluation-of-the-tp-link-ac1200-re305-wi-fi-repeater/"><u>Expert Evaluation of the TP-Link AC1200 RE305 Wi-Fi Repeater</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-magic-vs-2-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor Magic Vs 2? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-play-8t-by-drfone-android/"><u>Full Guide to Unlock Your Honor Play 8T</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-90-lock-screen-password-by-drfone-android/"><u>How To Change Honor 90 Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-easily-unlock-zte-screen-by-drfone-android/"><u>How To Easily Unlock ZTE Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-vivo-s18-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo S18 Pro Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-vivo-v30-easily-by-drfone-android/"><u>How To Unlock a Vivo V30 Easily?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-zero-5g-2023-turbo-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Zero 5G 2023 Turbo Phone without Google Account?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-6s-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 6s Activity | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-itel-a05s-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Itel A05s to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-p55t-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel P55T Fingerprint Lock</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-redmi-13c-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi Redmi 13C?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-note-12-pro-4g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi Note 12 Pro 4G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40i-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40i Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2plus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2+ Phone without Google Account?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-12r-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 12R Phone Now with These Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-hot-30-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Hot 30 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-k70e-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi K70E Device</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/next-gen-sky-dome-cutting-edge-cloud-services-of-2024/"><u>Next-Gen Sky Dome  Cutting-Edge Cloud Services of 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi 14? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-40-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/skyline-success-on-iphone-top-landscape-shots-techniques/"><u>Skyline Success on iPhone  Top Landscape Shots Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-aw-snap-errors-in-chrome-browser/"><u>Step-by-Step Guide: Resolving 'Aw, Snap' Errors in Chrome Browser</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-8-mobile-tools-transforming-slow-mo-to-fast-forward-for-2024/"><u>Top 8 Mobile Tools Transforming Slow Mo to Fast-Forward for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-of-cat5-vs-cat6-network-cable-technology/"><u>Unraveling the Mystery of Cat5 Vs. Cat6 Network Cable Technology</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ustream-live-and-comparable-platforms-for-2024/"><u>Ustream Live & Comparable Platforms for 2024</u></a></li>
+</ul></div>
