@@ -1,0 +1,539 @@
+---
+title: In 2024, How to Unlock Tecno Spark 10 5G Phone with Broken Screen
+date: 2024-09-03T06:30:04.575Z
+updated: 2024-09-04T06:30:04.575Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - android
+description: This article describes How to Unlock Tecno Spark 10 5G Phone with Broken Screen
+excerpt: This article describes How to Unlock Tecno Spark 10 5G Phone with Broken Screen
+keywords: password unlock tool,unlock android device phone with broken screen,android password reset,Tecno Spark 10 5G change android lock screen,Tecno Spark 10 5G password unlock tool,unlock android device phone without pin,Tecno Spark 10 5G forgot pattern lock,Tecno Spark 10 5G pattern lock,Tecno Spark 10 5G top anti theft apps,Tecno Spark 10 5G how to unlock android phone without google account,smart lock android,locked out of android phone
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
+---
+
+## How to Unlock Tecno Spark 10 5G Phone with Broken Screen
+
+Seeing as the only way to control your Tecno Spark 10 5G deviceis the touch screen, a broken device can cause you a lot of worries. Most people think that there is no way to get their device to work again let alone be able to unlock it if [the screen is broken or cracked](https://www.wondershare.com/android/access-android-phone-with-broken-screen.html). It is, however, important to find a way to unlock the broken device so that you can gain access to your data and create a backup to restore to a new device.
+
+In this article, we are going to look at a few simple ways you can unlock an Android device with a broken screen.
+
+**Here is a video for you to learn how to unlock Android phone or access phone with broken screen:**
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/KaWEiQhxBTQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+## Method 1: Using Android Debug Bridge (ADB)
+
+For this method, you will need your device and access to a PC. It is the most powerful method to unlock a broken Android device. It will however only work if you have enabled USB debugging on your android phone. If you haven’t, skip this method and see if method 2 or 3 might be of help.
+
+ADB creates a bridge between the PC and your device which can then be used to unlock the Tecno Spark 10 5G device. Here’s how to use this bridge.
+
+**Step 1:** Download the Android SDK package on your PC. You can download it here: [http://developer.android.com/sdk/index.html](http://developer.android.com/sdk/index.html). Extract the ZIP file on your PC.
+
+**Step 2:** Download the necessary drivers for your device. The USB drivers for your device can be found on the manufacturer’s website.
+
+**Step 3:** Launch Command Prompt on your PC and change the location of the ADB file. Type in the following into Command Prompt; _cd C:/android/platform-tools_
+
+**Step 4:** Connect the Tecno Spark 10 5G device to your PC using USB cables. Enter the command “ ADB _device_” (without quotation marks). If your phone is recognized, you will see numbers in the Command Prompt message.
+
+**Step 5:** Type in the following two commands. You will need to type in the second one immediately after the first. Replace 1234 with your password.
+
+_ADB shell input text 1234_  
+_Shell input key event 66_
+
+**Step 6:** Your phone will now be unlocked and you can proceed to back up its contents.
+
+![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+The Best Tool to Reset Phones Without Android Factory Reset Codes
+
+- It enables your Android phones to get safe, simple, and trustful after reset.
+- It is still helpful even though you don't know the OS version of your devices.
+- Everybody can handle it without any technical background.
+- Provide specific removal solutions to promise good success rate.
+
+**4,008,670** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Method 2: Using a USB Mouse and the On the Go Adapter
+
+This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the Tecno Spark 10 5G device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
+
+Before we begin, it is a good idea to ensure your device is sufficiently charged because the Mouse may drain your battery.
+
+**Step 1:** Connect the Micro USB side of the OTG adapter to your device and then plug in the USB mouse to the adapter.
+
+![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2:** As soon as the Tecno Spark 10 5G devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Tecno Spark 10 5G device’s password lock.
+
+![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_1993654" src="//a.impactradius-go.com/gen-ad-code/5597632/1993654/22993" width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+You can then go about backing up the contents of your device.
+
+## Method 3: Using your Samsung Account
+
+This method is a reliable way to unlock a Samsung device that has a broken screen or is not working correctly. While it is highly effective you will need to have a Samsung account registered with your device. The problem is that not many Samsung device users have registered their devices with the service. If you are among the lucky few who have, here’s how to use your account to unlock your device.
+
+**Step 1:** Visit the [https://findmymobile.samsung.com/login.do](https://findmymobile.samsung.com/login.do) on your PC or any other device and log in with your account information.
+
+![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
+
+**Step 2:** Select your device from the menu on the left-hand side of the screen.
+
+**Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
+
+![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
+
+## Conclusion
+
+Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to Reset a Tecno Spark 10 5G Phone that is Locked?
+
+We all have been there when put a tough to crack the lock on the smartphone and forget the password all along. Such circumstances can be tedious at times, but there is a way around it. If you have spent countless hours on **how to reset a Tecno Spark 10 5G  phone that is locked**, or how to get into a locked Tecno Spark 10 5G  phone quickly with or without Factory Reset. This is the right article for you. Here we will describe all the different ways in which you can reset your phone with the convenience of software to even reset it manually. So, without making further due, let’s jump right into it.
+
+## Part 1: What should I be aware of before resetting a Tecno Spark 10 5G  Phone that is locked?
+
+Before you go to reset your locked Tecno Spark 10 5G  phone, it's crucial to learn about a few key factors. These factors will enable you to make a well-informed choice and help avoid potential complications during the factory reset process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Data Loss
+
+Resetting your locked Tecno Spark 10 5G  phone typically involves performing a factory reset. The process erases all data and settings on the Tecno Spark 10 5G device. This includes your files, apps, contacts, and other information stored on the phone. You can easily restore these data if you have backed up data before. It's crucial to [back up essential data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) regularly to avoid data loss.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Factory Reset Protection (FRP)
+
+Tecno Spark 10 5G , like many other Android manufacturers, implements Factory Reset Protection. It acts as a preemptive safeguard against unauthorized access to a device after a reset. If your phone is linked to a Google account, you will need to input the accurate login credentials after a reset.
+
+Failing to do so may lead to your device being locked. Understanding how to bypass or recover from FRP lock is essential if you find yourself in this situation.
+
+## Part 2: How to Reset a Tecno Spark 10 5G  Phone That is Locked With Google Find My Device?
+
+Resetting a locked Tecno Spark 10 5G  phone through Google Find My Device presents a convenient solution. It, however, needs you to have activated this functionality on your device. To initiate the reset, please adhere to the following steps:
+
+**Step 1:** Open a web browser on any computer or alternative device and navigate to the Google Find My Device website. Sign in with the same Google account associated with your locked Tecno Spark 10 5G  phone.
+
+**Step 2:** Upon successful login, a list of devices linked to your Google account will be displayed. Locate your locked Tecno Spark 10 5G  phone from the list and select it. Select the "Erase Device" option from the left-hand panel, and it will trigger a remote factory reset for your locked phone.
+
+![tap on erase device](https://images.wondershare.com/drfone/article/2023/09/reset-a-motorola-phone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 3:** A confirmation dialog will appear, prompting you to input your Google account password. Finally, click the "Erase" button to initiate the factory reset process.
+
+## Part 3: How to reset a Tecno Spark 10 5G  phone that is locked without a password?
+
+In order to reset your Tecno Spark 10 5G  phone without a password, you need to have a single software known as [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It's a powerful and versatile software tool designed to help you unlock your devices under various circumstances. Whether you've forgotten your device's password, PIN, pattern, or fingerprint, or you're dealing with a locked device due to a broken screen, Dr.Fone - Screen Unlock (Android) can assist you. In order to reset phone correctly, go through the steps given below:
+
+Before resetting your Tecno Spark 10 5G  phone that is locked, you can install the [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) application on your Windows PC or Mac first.
+
+![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+The Best Unlock Tool to Reset a Tecno Spark 10 5G  Phone That Is Locked Without a Password!
+
+- Remove all Android screen locks (PIN/pattern/fingerprints/face ID) in minutes.
+- Work for forgotten passwords, second-hand Tecno Spark 10 5G  devices, etc.
+- Everyone can handle the lock screen without any tech knowledge.
+- Provide specific removal solutions to promise good success rate.
+
+**4,008,671** people have downloaded it
+
+**Step 1: Launch the Program**
+
+First of all, launch the Dr.Fone Screen Unlock on your computer, and you will be greeted with a welcome screen like this. Now, head over to the "Screen Unlock" section.
+
+![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2: Connect Device**
+
+Now, you need to connect your Tecno Spark 10 5G  phone to the computer via a USB cable and select "Android" > "Unlock Android Screen." This particular step is an application for all the Android phones out there.
+
+![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 3: Choose Device Model**
+
+Here you need to select the exact brand of your phone. In your case, you can just tap "Tecno Spark 10 5G ." The program then will start the process for the lock screen removal.
+
+![drfone advanced unlock 1](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 4: Unlock Screen**
+
+Go along with the instructions on the screen and remove all the settings of the Tecno Spark 10 5G device. Within a short while, the screen will be unlocked.
+
+![unlock motorola phone successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+After the entire process is completed, you can easily access your Tecno Spark 10 5G  Phone without the need to enter your password. All the restrictions that were set properly to unlock will be removed so that you can use your phone as intended.
+
+
+## Part 4: How to reset a Tecno Spark 10 5G  phone that is locked with a hard reset
+
+**Disclaimer:** Only perform this step if you are well accustomed to the Android recovery system or at least know your way around your Tecno Spark 10 5G  phone.
+
+That being said, you should only resort to using a hard reset if you don’t have any important data on your phone. Further including, resetting your phone with the hard reset option will wipe out any data that’s been stored in it. Now, proceed forward will all the steps are given below:
+
+**Step 1: Charge Device**
+
+Charge your Tecno Spark 10 5G  Phone so that it has a batter of at least 30% or higher. Then turn off the phone.
+
+**Step 2: Press keys**
+
+Now, you need to press the Volume Down + Power button simultaneously until the Tecno Spark 10 5G device logo shows up on the screen.
+
+![reset a motorola phone that is locked 1](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-1.jpg)
+
+![reset a motorola phone that is locked 2](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-2.jpg)
+
+**Step 3: Enter Recovery Mode**
+
+Now, press the Volume Down button to navigate to the Recovery Mode.
+
+![reset a motorola phone that is locked 3](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 4: Factory Reset**
+
+Use the buttons to navigate to the “Wipe data/factory reset” option and select it by pressing the Power button. Now, choose the option ”Factory data Reset” and wait for a few seconds till it is completed.
+
+![reset a motorola phone that is locked 4](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-4.jpg)
+
+**Step 5: Reboot Now**
+
+Again use the Volume buttons and select the “Reboot system now.”
+
+![reset a motorola phone that is locked 5](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-5.jpg)
+
+After you have successfully reset your Tecno Spark 10 5G  phone, it would take a few minutes to boot up. Once that is done, you are left with a clean slate, just like a completely new smartphone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 5: Unlock locked Tecno Spark 10 5G  phone with Gmail ID and password
+
+It is imperative to understand that unlocking your Tecno Spark 10 5G  Phone using a Gmail ID and password should be your last resort and especially if you are using an older version of Android. Among all the tricks of how to reset a Tecno Spark 10 5G  phone that is locked, it only works if you are running around version 4.4 KitKat or older than that. Neither less to say, in order for the step to work properly, you need your Gmail account to be properly configured with the Tecno Spark 10 5G device.
+
+**Step 1: Attempt Passwords**
+
+At first, you need to make five attempts to unlock your device. Whether you have used a PIN or Pattern lock, Android will always give you five attempts to get the password right. Once you get that, it will trigger the “Forget Password/Pattern” option on Your Tecno Spark 10 5G. This way, you can sneak back into the system once again.
+
+![reset a motorola phone that is locked 6](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Step 2: Enter Credentials**
+
+Once you hit the option, you will be redirected to another page, where you need to enter your Gmail id and password. Make sure that you get the information right, and select “Sign in.”
+
+![reset a motorola phone that is locked 7](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-7.jpg)
+
+Once you get everything right, this will bypass any password or pattern you once had put on your Phone. Just remember, you need to have a stable internet connection in order for the step to work seamlessly.
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_1983584" src="//a.impactradius-go.com/gen-ad-code/5597632/1983584/22993" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+## Bonus Tip: Are There Preventive Measures To Avoid Future Lockouts?
+
+Want to prevent future lockouts and ensure a smoother smartphone experience? Consider implementing the following preventive measures:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Setting Up Alternative Lock Methods
+
+One way to avoid getting locked out of your Tecno Spark 10 5G  phone is to set up alternative lock methods. In addition to PINs, passwords, and patterns, you can use biometric methods. These include fingerprint recognition or facial recognition if your device supports them. Such options provide convenient and secure ways to unlock your phone.
+
+### 2\. Regularly Backing Up Your Data
+
+Regular data backups are crucial to safeguarding your essential files and information. Utilize cloud backup services or local backup solutions to routinely save your data. In case of a lockout or a factory reset, you can quickly restore your data without loss.
+
+### 3\. Using Secure and Memorable Passwords
+
+When setting up lock methods, opt for strong, unique, and memorable passwords. Avoid using easily guessable information like birthdays or simple patterns. Strong passwords can enhance security while minimizing the chances of forgetting your credentials.
+
+## Conclusion
+
+There is no point in arguing that looking through how to reset a Tecno Spark 10 5G  phone that is locked after you have forgotten the password is indeed a hectic process. But, there is a way around it too. By going through all the steps mentioned above, you can always get an unlocked phone with ease.
+
+To our recommendation, we would suggest going through [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) so that you can make the entire process as seamless as possible. It is by far the easiest and most convenient process to work around. Neither less to say, there are a ton of video tutorials that can assist you in case you get stuck in the middle of the process.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+## How To Easily Unlock Tecno Screen?
+
+If you've ever had a Tecno phone, then you know that their screens are locked by default. It can be a pain if you want to access your messages or change your background image quickly. If you just set your Tecno password, screen lock code, pattern lock, or PIN last night or a few days ago, you are most likely to forget it.
+
+The result is that you have locked out of your phone, and you have to reset your device's password. But fortunately, there's an easy way to unlock your Tecno screen without entering any passwords. You can have your phone up and running in a few simple steps without contacting customer service.
+
+So don't wait any longer - read on for instructions on how to unlock the Tecno phone pin code.
+
+Let's get started!
+
+## 4 Easy Ways To Unlock Tecno Screen
+
+![sim pin](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-1.jpg)
+
+Like most people, you probably lock your Tecno phone as soon as you turn it on. It's a good way to keep your phone safe from prying eyes and accidental button presses. But what happens when you forget your phone's passcode? Or worse, what if your phone gets locked by a malicious app?
+
+There are a few different ways to unlock your Tecno phone. We'll show you how to do it.
+
+## Method 1. Google Find My Device (Without Password/Pin/Pattern)
+
+If you're like me, you've probably tried a million different ways to unlock your Tecno phone, only to be frustrated by the results. Luckily, there's an easy way to unlock your Tecno phone using Google's Find My Device feature.
+
+Google will use your location, phone information, and connection log to find your Nokia.
+
+Follow these steps to unlock the Tecno lock screen password without losing data:
+
+- **Step 1**: Sign into your Google account and navigate the Find My Device website.
+
+![google find my device](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- **Step 2**: Sign in with your Google account, which you used on your locked Tecno phone.
+- **Step 3**: The Android Device Manager dashboard will show your locked Tecno with three options: Ring, Lock, and Erase.
+- **Step 4**: Simply click on "Lock".
+- **Step 5**: Enter a password that is not your Google account password in the "New Password" field.
+- **Step 6**: Type the new password in the "Confirm password" field. This password lock will replace the current lock screen.
+- **Step 7**: You can leave the "Recovery message" field empty or type anything in it.
+- **Step 8**: Enter another phone number in the "Phone number" field, although this is optional.
+- **Step 9**: Choose "Lock" after entering your password and filling out the optional fields if you wish.
+- **Step 10**: If the process is successful, you will receive the unlock code within a few seconds.
+- **Step 11**: Navigate to the "Screen Settings" menu after unlocking your device.
+- **Step 12**: Use a new password; you can use the temporary password if you want.
+
+You can use it to unlock your Tecno if you have activated the Android Device Manager or Google Find My Device before your phone was locked.
+
+### A few conditions, however, must be met for this to work
+
+- You must turn on your Tecno phone.
+- Before locking your phone, you must activate Google Find My Device or Android Device Manager.
+- You must have your Tecno GPS turned on to use it.
+- You must be connected to WiFi on your device to log into your Google account.
+- Your phone needs to be set to location.
+
+## Method 2. Unlock Tecno Lock Screen With Hard Reset
+
+If you perform a hard reset on your Tecno lock screen, all data, and user information will be erased, including your screen lock, password, pattern lock, and PIN.
+
+Follow the steps below if you want to know how to unlock the Tecno phone keypad with the hard reset, follow the steps below.
+
+- **Step 1**: Turn off your Tecno phone.
+- **Step 2**: Press the “Volume down” and “Power key” buttons simultaneously for a few seconds.
+- **Step 3**: Press the “Volume Up” and “Power” buttons for a few additional seconds once the screen darkens.
+- **Step 4**: Release all buttons and keys if you did step 3 correctly. Once you release all buttons, you'll see a dark screen with options.
+- **Step 5**: Choose "Wipe data/factory reset" from the menu, using “Volume Up” to scroll up, “Volume Down” to scroll down, and “Power” to select.
+- **Step 6**: From the Android Recovery screen, select the “Yes” option by pressing the “Volume Down” button and the “Power” key.
+- **Step 7**: With the “Power” key, select "Reboot system now" from the next display.
+
+Your Tecno is now password, pattern lock, screen lock, and PIN-free after a hard reset.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Method 3. Unlock With Answer Security Questions
+
+You can reset the Tecno pattern lock using Google security questions without losing data.
+
+Follow the steps below on how to unlock the Tecno phone pin code:
+
+- **Step 1**: Power on your Nokia.
+- **Step 2**: Press “Forgot pattern” several times until you see “Forgot password”.
+- **Step 3**: Click on “Forgot pattern” to access the unlock screen.
+- **Step 4**: Enter your Google account details or answer questions to unlock the screen. Select “Answer question”.
+- **Step 5**: Enter your exact security answers and tap the “Unlock” button.
+- **Step 6**: Choose “YES” from the “YES” or “NO” menu, and the password field will appear.
+- **Step 7**: Change your password or PIN.
+- **Step 8**: You will see your Tecno unlocked soon.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Method 4. Unlock the Keypad With a Security Code
+
+You could reset your Tecno lock screen phone using the default security code, even if you haven't set any security code. Here's how to quickly unlock the Tecno lock screen security code.
+
+- **Step 1**: Shut down your device.
+- **Step 2**: Press these buttons in the following sequence on a classic phone.
+
+`Call button (green button) + Asterisk key (*) + Three (3)`
+
+- **Step 3**: Your screen displays a Formatting message when you press these keys.
+- **Step 4**: Wait for the formatting to complete before releasing the keys.
+
+`o 12345.`
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_1516072" src="//a.impactradius-go.com/gen-ad-code/5597632/1516072/16446" width="1080" height="1920" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+## Conclusion
+
+If you have a classic-style keypad phone or an Android device, unlocking a locked Tecno phone keypad is not easy. However, we believe that every problem has a solution. You can unlock Tecno Android phones using any of the methods listed above.
+
+_**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a tool that helps you keep your important data safe. It can back up all the important information on your Tecno phone, like photos, music, videos, contacts, and more and is compatible with over 8000 Android devices. The backup process is easy and only takes a few clicks. You can also restore your backup to any device you want, and choose which data you want to restore. This is a great way to make sure you never lose your important Tecno data!_
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-expanding-viewership-tweeting-to-fb-effectively/"><u>[New] Expanding Viewership  Tweeting to FB Effectively</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>[New] Expert Tips  Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unpacking-manycams-revolutionary-recording-features/"><u>[New] Unpacking ManyCam's Revolutionary Recording Features</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unpacking-twitter-video-sharing-the-whatsapp-connection-for-2024/"><u>[New] Unpacking Twitter Video Sharing  The WhatsApp Connection for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-harmonizing-audioscapevisumedia-network-for-2024/"><u>[Updated] Harmonizing Audioscape/Visumedia Network for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-download-and-alter-sacred-audio-sounds-for-2024/"><u>[Updated] How to Download and Alter Sacred Audio Sounds for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-inner-comedy-with-gif-mastery/"><u>[Updated] Unleash Your Inner Comedy with GIF Mastery</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-vr-gaming-powered-essential-oculus-players/"><u>[Updated] VR Gaming Powered  Essential Oculus Players</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-best-webcam-tripods-flex-neck-and-stands/"><u>2024 Approved  Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-preventing-sickness-while-engaging-with-vr/"><u>2024 Approved  Preventing Sickness While Engaging with VR</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-christian-tunes-customization-and-downloading/"><u>2024 Approved  Step-by-Step Christian Tunes Customization & Downloading</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/boost-your-images-advanced-online-photoshop-cropping-tips-for-2024/"><u>Boost Your Images  Advanced Online Photoshop Cropping Tips for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clearer-views-the-top-10-online-photo-fixes/"><u>Clearer Views  The Top 10 Online Photo Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/compact-cost-free-livestreaming-solutions-listed-in-a-nutshell-for-2024/"><u>Compact, Cost-Free LiveStreaming Solutions Listed in a Nutshell for 2024</u></a></li>
+<li><a href="https://techidaily.com/enhance-website-analytics-with-cookiebots-advanced-monitoring-technology/"><u>Enhance Website Analytics with Cookiebot's Advanced Monitoring Technology</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-x9a-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor X9a Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-tecno-spark-20-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Tecno Spark 20 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-x7b-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor X7b</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-90-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor 90 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-tecno-spark-20-proplus-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Google Pixel 8 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-x50i-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor X50i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-honor-play-8t-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Honor Play 8T</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-100-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor 100 Pro Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-x9a-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor X9a Phone Screen?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c67-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme C67 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-v2-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Magic V2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the Apple iPhone 6 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-honor-x7b-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Honor X7b Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-honor-magic-5-lite-easily-by-drfone-android/"><u>In 2024, How To Unlock a Honor Magic 5 Lite Easily?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-play-7t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor Play 7T Bootloader Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-gt-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 GT Bootloader Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-gt-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 GT PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pairing-podcast-with-picture/"><u>In 2024, Pairing Podcast with Picture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-picsart-app-deep-dive-full-review-analysis-and-instructions-for-the-new-year/"><u>In 2024, PicsArt App Deep Dive  Full Review, Analysis & Instructions for the New Year</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategies-for-finding-high-impact-keywords-for-youtube-content/"><u>In 2024, Strategies for Finding High-Impact Keywords for YouTube Content</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-for-maximizing-gopro-battery-life/"><u>In 2024, Techniques for Maximizing GoPro Battery Life</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-google-pixel-7a-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Google Pixel 7a Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-tecno-spark-go-2024-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Tecno Spark Go (2024) Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-honor-x50-gt-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor X50 GT Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-honor-100-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor 100 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-tecno-phantom-v-fold-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Tecno Phantom V Fold Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-artificial-intelligence-into-emotional-support-systems/"><u>Integrating Artificial Intelligence Into Emotional Support Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-delays-a-guide-to-solve-football-manager-2021-stuck-screens/"><u>Overcoming Launch Delays – A Guide to Solve Football Manager 2021 Stuck Screens</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-honor-x9a-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Honor X9a Phone Now with These Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-magic-5-lite-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor Magic 5 Lite? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-greatest-satirical-serenades-for-2024/"><u>The Greatest Satirical Serenades for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-guide-sharing-youtube-videos-on-fb-for-2024/"><u>The Ultimate Guide  Sharing YouTube Videos on FB for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-downloading-standardized-images-from-youtube-for-2024/"><u>The Ultimate Guide to Downloading Standardized Images From Youtube for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-x8b-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor X8b Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-google-pixel-fold-by-drfone-android/"><u>Top 10 Password Cracking Tools For Google Pixel Fold</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-honor-magic-6-by-drfone-android/"><u>Top 10 Password Cracking Tools For Honor Magic 6</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-windows-10-elan-pad-malfunctions/"><u>Troubleshooting Windows 10 Elan Pad Malfunctions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-tecno-camon-30-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-best-locations-for-finding-top-quality-insta-tones-and-crafting-excellent-alarms-for-2024/"><u>Unveiling the Best Locations for Finding Top-Quality Insta Tones and Crafting Excellent Alarms for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-leading-online-video-teaser-creators/"><u>Updated 2024 Approved Leading Online Video Teaser Creators</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Honor 90 Phone without Any Data Loss
-date: 2024-08-29T15:19:03.065Z
-updated: 2024-08-30T15:19:03.065Z
+date: 2024-09-03T06:25:55.362Z
+updated: 2024-09-04T06:25:55.362Z
 tags: 
   - unlock
   - remove screen lock
@@ -82,14 +82,20 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 ![Aroma File Manager download page](https://images.wondershare.com/drfone/article/2016/06/14647610652100.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 2.** Go to your Downloads folders and copy the downloaded zip file.
 
 ![Copy Aroma zip file](https://images.wondershare.com/drfone/article/2016/06/14647610755085.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3.** Plug into your PC a memory card that you can insert into your phone later. Then, go to your list of connected devices and select the memory card.
 
@@ -102,22 +108,19 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 ![arom file manager pasted](https://images.wondershare.com/drfone/article/2016/06/14647610819837.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 5.** Enter Recovery Mode for your device. Each Android device has its own ways of entering recovery mode, so take a look at this [link](http://www.digitaltrends.com/mobile/use-recovery-mode-android/) and find your device.
 
 ![Enter recovery mode android](https://images.wondershare.com/drfone/article/2016/06/14647615647569.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 6.** When you are already in Android Recovery Mode, use your volume keys to navigate to ''apply update from external storage'', then select the zip file you copied a while ago. It will be flashed on your device.
 
 ![Android system recovery](https://images.wondershare.com/drfone/article/2016/06/14647615657193.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **Step 7.** After it, restart, and recovery mode will reopen as Aroma File Manager, so go to its settings and select ''Automount all devices on start'', then restart. Back in Aroma File Manager, go to the directory data>system. Check if the ff. exist. If they do, delete them. Then restart again.
 
 - gesture.key (pattern) / password.key (password)
@@ -129,10 +132,16 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![arom file manager](https://images.wondershare.com/drfone/article/2016/06/14647610871048.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now you have your device booted up, and your Android lock screen is still locked, just gesture in or enter anything. It will be unlocked. And that's how to unlock an Android phone using your device.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe id="iframe_2127886" src="//a.impactradius-go.com/gen-ad-code/5597632/2127886/18498" width="720" height="1280" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ## Part 3. How to Unlock Android Phone Using Minimal ADB and Fastboot (with Data Loss)
 
@@ -144,9 +153,6 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 ![Minimal adb and fastboot dowload page](https://images.wondershare.com/drfone/article/2016/06/14648313491726.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2.** Download the tool's latest version.
 
 ![Minimal adb and fastboot downloaded](https://images.wondershare.com/drfone/article/2016/06/14648313521345.jpg)
@@ -159,6 +165,12 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 ![Minimal adb and fastboot installation complete](https://images.wondershare.com/drfone/article/2016/06/14648313566582.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 4.** Make sure your device is connected, then go to the Minimal ADB and Fastboot installation directory.
 
 This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[primary drive\]> Program Files \[for 32-bit\] or Program Files (x86) \[for 64-bit\] > Minimal ADB and Fasboot.
@@ -166,29 +178,23 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 ![Local Disk](https://images.wondershare.com/drfone/article/2016/06/14648313589887.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Program Files (x86) folder](https://images.wondershare.com/drfone/article/2016/06/14648313591963.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Minimal adb and fastboot folder](https://images.wondershare.com/drfone/article/2016/06/14648313625020.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 5.** Inside the folder, hold the Shift key on your keyboard, then right-click your mouse. An additional "Open command window here" will appear so select that.
 
 ![Minimal adb and fastboot open command](https://images.wondershare.com/drfone/article/2016/06/14648313653169.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 6.** ADB terminal will pop out. Now, the first is to type in ADB _devices_. This is to check if your device is recognized by ADB. If there is no device listed below, try to remove and reconnect your Honor 90 and retype the command. If there are listed devices already, proceed.
 
 ![Minimal adb and fastboot command window adb devices command](https://images.wondershare.com/drfone/article/2016/06/14648317691463.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 7.** Finally, type in the following commands **one by one****.** These commands will remove your lock screen.
 
 - _adb shell_
@@ -202,11 +208,11 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 ![Minimal adb and fastboot adb shell command](https://images.wondershare.com/drfone/article/2016/06/14648317729484.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 This would work if you have your USB debugging turned on before it was locked. That's how to unlock Android using ADB.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part 4: How to Unlock Phone via Find My Device (with Data Loss)
 
 Google Find My Device is another handy way to unlock your locked Android device. However, it requires you to have your Google ID credentials and you have previously enabled Find My Device features. Moreover, it will erase all the data on your device. Use the following steps to unlock your Android phone via Find My Device:
@@ -217,6 +223,12 @@ Google Find My Device is another handy way to unlock your locked Android device.
 
 ![tap on erase device option](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3:** You will now be asked to confirm your identity through a Google account password or using a pass-key. Afterward, follow the on-screen instructions to erase and unlock your Android device.
 
 ## Part 5: How to Unlock Android Phone without Losing Data in Safe Mode
@@ -229,6 +241,12 @@ One way to unlock your Android phone without losing the data is by utilizing Saf
 
 ![restart android device in safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6. How to Unlock Android Phone without Any Data Loss Using Google Account (Android 4.4 or lower)
 
 If luckily, you left your Wi-Fi open and luckily connected to the internet, this is the easiest way to unlock your Android phone.
@@ -239,10 +257,6 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 ![android forgot pattern lock](https://images.wondershare.com/drfone/article/2016/06/14648495587136.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **Step 2:** Check ''Enter your Google Account details'' then tap next.
 
 ![Unlock screen enter google account details](https://images.wondershare.com/drfone/article/2016/06/14648495698424.jpg)
@@ -251,13 +265,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Account unlock Google](https://images.wondershare.com/drfone/article/2016/06/14648495811338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You will be given the option to input a new password or pattern right after you enter your Google account details. But if not, Google must have emailed you your temporary password or pattern that you will input to unlock your lock screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1424529" src="//a.impactradius-go.com/gen-ad-code/5597632/1424529/16446" width="1080" height="1920" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ## How to Bypass Android Lock Screen Using Emergency Call On Honor 90?
 
@@ -277,6 +288,12 @@ All Honor devices come with the "Find My Mobile" feature. To bypass the Honor lo
 
 ![how to unlock samsung phone lock password-find my mobile](https://images.wondershare.com/drfone/others/14623529847658.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2. Use Android Device Manager to Bypass Honor Password
 
 To know how to unlock a Honor phone lock password with Android device manager, make sure the Android Device Manager is enabled on your device.
@@ -293,19 +310,10 @@ To know how to unlock a Honor phone lock password with Android device manager, m
 ![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1983549" src="//a.impactradius-go.com/gen-ad-code/5597632/1983549/22993" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 3. Google Login (Supports Only Android 4.4 or Lower)
 
@@ -319,7 +327,10 @@ If your device is still running on Android 4.4 or lower, here's how to bypass th
 ![how to unlock a samsung phone without the code-google login](https://images.wondershare.com/drfone/others/14623533542919.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe id="iframe_1938141" src="//a.impactradius-go.com/gen-ad-code/5597632/1938141/22993" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 4. 'Pattern Password Disable' and Custom Recovery (SD Card needed)
 
@@ -341,7 +352,10 @@ It is yet another option that will work only when you have enabled USB Debugging
 ![how to unlock a samsung phone without the code-adb command](https://images.wondershare.com/drfone/others/14623546208288.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 6. Factory Reset to Bypass Honor Lock Screen
 
@@ -357,13 +371,18 @@ A factory reset is the best option in almost any case if one of these solutions 
 ![how to unlock a samsung phone without the code-factory reset](https://images.wondershare.com/drfone/others/14623546631338.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Backup your Honor phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 7. Boot into Safe Mode
 
@@ -390,9 +409,6 @@ To avoid forgetting your password or PIN next time, be sure to write the pattern
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 Solutions For Honor 90  Unlock Without Password
 
 One out of three people forget their phone's password every day or make continuous wrong attempts that lock their phone. However, you can't unlock your phone without the screen lock pattern or password. If you are an Honor 90  user, and you can't remember your device's pattern or password, we have the best solution or you. Here, you will find the easiest and foolproof methods for an **Honor 90  pattern unlock**.
@@ -406,13 +422,13 @@ Here is the complete guide with five methods to unlock an Honor  device that wor
 
 ## Part 1: Lock System About Honor 90  
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1770544" src="//a.impactradius-go.com/gen-ad-code/5597632/1770544/20702" width="300" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 1: Lock Types
 
 Before we move towards the **Honor 90  pattern unlock**, let's talk about its lock types and security system. Honor 90  is one of the older versions of Honor  android phones that was released in 2016. At that time, only flagship phones from each brand came with features like fingerprint sensors and facial unlock. Honor 90  doesn't offer these lock types. You can only set up a screen lock as a password, pattern, and PIN. You can also lock apps on Honor 90  with its privacy password settings.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### 2: How to Set Them up?
 
 Follow these steps to set up any type of lock on your Honor 90  .
@@ -422,6 +438,9 @@ Follow these steps to set up any type of lock on your Honor 90  .
 - Select the "Lockscreen Password" option at the top and tap on the "Enable Lock Screen" button.
 - Select the type of lock you want to set and create a password.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3: How to Remove Them with Password or Pattern?
 
 You can easily remove the lock screen of your Honor 90  if you remember your password or pattern.
@@ -431,7 +450,10 @@ You can easily remove the lock screen of your Honor 90  if you remember your pas
 - Enter your password or pattern and wait for the system to remove the screen lock.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: 5 Solutions to Unlock Honor 90  Without Password or Pattern
 
@@ -441,18 +463,30 @@ You can use the Google Find My Device for your **Honor 90  pattern unlock**. It 
 
 ![google find my device web home page](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1498635" src="//a.impactradius-go.com/gen-ad-code/5597632/1498635/17326" width="400" height="400" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 - Open any browser on your PC and visit "Google Find My Device."
 - Make sure your phone is connected to the internet.
 - Select the "Erase Device" option and log in with your Google account.
 - After verification, click on "Ok" and wait for the system to factory reset.
 - Power on your device and enter it without any pattern or password.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1977020" src="//a.impactradius-go.com/gen-ad-code/5597632/1977020/22993" width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 2: Google Account
 
 Here is how you can do an **Honor 90  pattern unlock without PC**. You don't need any third-party software or device for this method. Every step is easy to follow, and it only takes a few minutes for you to unlock your phone. This method requires your Google account and password. Don't use this method if you don't know your Google password. If you are a beginner, it is better to use other methods because this method involves the risk of blocking your device. Follow these steps to unlock your Honor  device using your Google Account.
 
 ![Honor 90  lock screen](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Enter a random password or PIN on your phone's lock screen five times.
 - Wait for the system to give the alert message after you enter the wrong password five times.
 - Now, wait for 30 seconds until the system asks you to enter your lock screen password.
@@ -460,6 +494,9 @@ Here is how you can do an **Honor 90  pattern unlock without PC**. You don't nee
 - Now the system will ask for your Google account and password.
 - After you verify your Google account, you can enter your device.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3: Answer Security Questions
 
 If you want to unlock your Honor  phone, you can also answer some security questions and reset the password. This method does not work on all Honor  devices, but you can use it for **Honor 90  screen unlock without PC**. You will see various questions if your Google account is linked with the Honor 90 device. All questions are based on your profile and credentials. You have to answer precisely with proper spaces. Here are the steps to unlock Honor 90  with security questions.
@@ -472,6 +509,12 @@ If you want to unlock your Honor  phone, you can also answer some security quest
 - Tap on the “Next” button and answer every question that comes up.
 - If you give correct answers, the system will open the screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4: Hard Reset (data loss)
 
 A hard reset would be the best solution if you forgot your phone's lock screen password or pattern. However, you can unlock your phone with your Google account as well. Do a hard reset if you can't remember your Google account password and don't want to use third-party tools. The only problem with hard resetting is that you lose all your data, images, files, settings, and personalization. That is why you can't recover any of your data after the hard reset if you don't have a data backup. The process of hard reset is different for every device. Here are the steps for **Honor 90  pattern unlock without a PC** through a hard reset.
@@ -480,29 +523,20 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-04.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Press and hold the Volume down + Power buttons together for a few seconds. Hold the keys until you see the Honor  logo on the screen.
 
 ![volume down and power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Select the Language using the volume keys to navigate and the power key to select.
 
 ![select device language](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 - Go to the "Wipe Data and Cache" option and select twice using the power key.
 
 ![recovery mode menu](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-07.jpg)
@@ -511,22 +545,12 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![hard reset confirmation](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### 5: Dr.Fone - Screen Unlock
 
 You can easily unlock your Honor  device without your Google account password and losing data. The best way is to use an Honor 90  pattern lock removal tool. If you want an easy-to-use tool with fast and safe working, we recommend Dr.Fone - Screen Unlock. Dr.Fone enables users to unlock any android device within five minutes without password, Google account. You can unlock your Honor 90  without effort. With Dr.Fone, you can also [back up and restore your data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/), do a [system repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) for your mobile, and transfer WhatsApp with a few clicks. Here are the steps to remove the pattern lock from Honor 90  with Dr.Fone – Screen Unlock.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Unlock Honor 90  Without Any Hassle!
@@ -549,7 +573,10 @@ With the button “Unlock Android Screen”, you can unlock your Honor 90  via t
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 3. Select Unlock mode: 100% Remove Screen Lock**
 
@@ -564,17 +591,19 @@ Follow the guide step by step to complete all steps, these steps are important t
 ![oppo logo](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="780" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Now, no password or pattern to stop you from using your Honor 90  !
 
 ![unlock successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you know your Google account password, then you can easily unlock your phone after verification. If you don't know the password, you can use a hard reset to erase all data and settings from your device. Use the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) if you don't want to lose your data. Dr.Fone allows you to unlock your Honor 90  within minutes with easy-to-follow steps. It works for all old and new Honor  models, and the procedure is the same for every device. You can also use Dr.Fone to recover data, repair android software problems, and fix other issues.
