@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top Apps and Online Tools To Track Honor Magic 5 Lite Phone With/Without IMEI Number
-date: 2024-09-03T06:33:08.583Z
-updated: 2024-09-04T06:33:08.583Z
+date: 2024-09-07T18:47:38.548Z
+updated: 2024-09-08T18:47:38.548Z
 tags: 
   - unlock
   - remove screen lock
@@ -13,6 +13,12 @@ keywords: Honor Magic 5 Lite swipe screen to unlock,forgot android password,andr
 thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951f603f30c9c8797a450783bc.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top Apps and Online Tools To Track Honor Magic 5 Lite Phone [With/Without IMEI Number]
 
 Losing your smartphone can be distressing, given its importance in daily life. Ensuring the ability to trace the whereabouts of a misplaced device holds great importance. It is due to potential theft, loss, or accidental misplacement.
@@ -46,6 +52,12 @@ The internet makes it easy to deal with lost or stolen devices. Online solutions
 
 They provide a ray of optimism, even for individuals with limited tech proficiency. Below are two prominent **anti-theft apps & IMEI trackers online** that use IMEI tracking to aid in phone location:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. [<u>IMEI-Tracker</u>](https://imei-tracker.com/)
 
 The purpose of this web-based platform is to streamline the procedure for locating a misplaced or stolen mobile phone. With just the IMEI number of your lost device, you can ascertain its GPS coordinates. Employing sophisticated algorithms, the platform triangulates the rough whereabouts of the Honor Magic 5 Lite device. The following steps outline how to use IMEI-Tracker to find the location of your lost device:
@@ -56,10 +68,10 @@ The purpose of this web-based platform is to streamline the procedure for locati
 ![use imei tracker online app](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2. [<u>TrackIMEI.net</u>](https://trackimei.net/)
 
@@ -70,12 +82,33 @@ Another player in the online IMEI tracking space is TrackIMEI.net. It offers a u
 ![use track imei tool](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1975636" src="//a.impactradius-go.com/gen-ad-code/5597632/1975636/22993" width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: Anti-Theft Apps That Locate Devices Without IMEI
 
 Anti-theft apps offer a mean to locate a device even without relying on the IMEI number. These apps provide an alternative route to safeguard your valuable possessions. Moreover, these apps offer an extra layer of security and assurance. Below are two noteworthy anti-theft apps that enable users to track their devices:
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. [<u>Find My Device (IMEI Tracker)</u>](https://play.google.com/store/apps/details?id=com.swae.porpl.cdrue.imei)
 
 Available on the Play Store, the Find My Device (IMEI Tracker) is a popular choice among users. It allows you to experience the utmost simplicity in tracking your Android device. With this cutting-edge GPS tracker, you can effortlessly track your Android phone.
@@ -85,7 +118,10 @@ To activate the tracking function, the app must be installed on the targeted pho
 ![find my device imei tracker](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1328679" src="//a.impactradius-go.com/gen-ad-code/5597632/1328679/15852" width="300" height="250" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2. [<u>Anti-Theft Mobile Tracker</u>](https://play.google.com/store/apps/details?id=com.sim.location&hl=en&gl=US)
 
@@ -95,18 +131,6 @@ The **anti-theft app & IMEI tracker for all mobile location**s enables remote ac
 
 ![antitheft mobile tracker](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Part: Got Your Honor Magic 5 Lite Locked? Unlock It Easily With the Best Third-Party Utility
 
 Losing access to our own devices due to a forgotten password or lock pattern can be exasperating. In such cases, a reliable third-party utility, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/), comes to the rescue. It offers a seamless method to regain access and control over your precious devices. It is designed to provide a straightforward way to unlock locked Android devices.
@@ -116,10 +140,16 @@ The utility offers different unlock modes to cater to various scenarios. These i
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -132,12 +162,30 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 **4,008,671** people have downloaded it
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Prominent Features of Wondershare Dr.Fone
 
 1. When unlocking a locked Android Phone, like a Samsung or LG device, with Dr.Fone, you can [<u>do it without data loss</u>](https://drfone.wondershare.com/unlock/how-to-unlock-realme-phone-without-losing-data.html).
 2. It allows you to [<u>bypass Google FRP</u>](https://drfone.wondershare.com/guide/google-frp-bypass.html)lock on all major Android brands like Samsung, Mi, OPPO, etc.
 3. With Wondershare Dr.Fone, you can unlock screen locks such as PIN, password, pattern, and fingerprint.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unlocking a Locked Smartphone Using Dr.Fone – Screen Unlock (Android)
 
 Unlocking your locked Android device using Wondershare Dr.Fone is a straightforward process. Here's a simplified step-by-step guide to help you through the process of unlocking your Android screen lock:
@@ -155,10 +203,10 @@ After choosing the Honor Magic 5 Lite device type, select "Unlock Android Screen
 ![choose remove without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - Step 3: Agree to the Android Screen Unlock Terms
 
@@ -166,16 +214,31 @@ Enable the checkbox that indicates your agreement with the warning and your read
 
 ![confirm the android device details](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Step 4: Unlock Your Locked Android Device
 
 The final step is to put your Android device into Download Mode. To make it easier for you, the instructions are given on the screen. As soon as the Download Mode is activated, the Android screen unlock process will start. Click "Done" once the process has been completed.
 
 ![activate the download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In short, it can be scary to lose your smartphone due to theft, misplacement, or unauthorized access. During our exploration, we discovered many ways to locate your device if you lose it. The "**Anti-theft App & IMEI Tracker All Phone Location**" stands out as a beacon of hope. It provides a dedicated Android solution to locate devices even in adverse situations.
@@ -183,10 +246,10 @@ In short, it can be scary to lose your smartphone due to theft, misplacement, or
 As a bonus, Wondershare Dr.Fone emerged as a powerful ally for those locked out of their devices. This Android screen unlock toolkit offers a user-friendly interface and a high success rate. To conclude, as technology continues to evolve, your ability to safeguard your devices and data becomes robust.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Mastering Android Device Manager: The Ultimate Guide to Unlocking Your Honor Magic 5 Lite Device
 
@@ -199,6 +262,12 @@ In addition to this, the Android Device Manager also unlocks your password/pin-e
 _Using the Android Device Manager to track a lost phone_
 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: What is Android Device Manager lock?
 
 Android Device Manager is Google’s take on Apple’s Find My iPhone. Enabling the ADM is quite easy; just go to google.com/android/devicemanager  on your computer and search through your list of devices that are already connected to your Google account. Once you are there, you can easily send a notification to the phone you want to enable remote password application and wiping upon.
@@ -236,9 +305,6 @@ The Android Device Manager has successfully unlocked your phone!
 
 A downside to this process, is an error message faced by some users while using ADM. Many users have reported the issue, that when they have tried using ADM to unlock their locked device, an error message has occurred, saying, “since Google has verified that a screen lock is already set”. Basically, this error message conveys that you will not be able to unlock your phone using Android Device Manager, and this is a flaw on Google’s part, not your phone’s.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1977032" src="//a.impactradius-go.com/gen-ad-code/5597632/1977032/22993" width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 3: What to do if phone is locked by Android Device Manager
 
 There are 2 situations where you would want to know how to unlock the Android Device Manager lock – one, when you have unfortunately forgotten the screen lock passcode and the other is when your phone is locked by Android Device Manager.
@@ -248,7 +314,10 @@ ADM is built to completely lock your device so that unknown people cannot access
 So, now you know how to unlock the Android Device Manager lock. Do keep in mind, your device must be connected to internet or Wi-Fi, to login to your Google account.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4: Unlock Android devices with Dr.Fone - Screen Unlock (Android)
 
@@ -275,16 +344,16 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 ![Dr.Fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2\. Now, connect your Android device to the computer and select phone model in the list on the program.
 
 ![select model in the list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3\. Boot your phone into Download mode:
 
 - • Power off your Android phone.
@@ -293,20 +362,38 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 ![boot in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4\. After you get your phone into the Download mode, it will start downloading a recovery package. Wait for this to be completed.
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5\. When the recovery package download is completed, Dr.Fone toolkit will begin removing the screen lock. This process will not cause any data loss on your Android device, so do not worry. Once the whole procedure is over, you can easily access your Android phone without entering any kind of password. Hurrah!
 
 ![unlock android phone successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The Dr.Fone software is currently compatible with Samsung Galaxy S/Note/Tab series, and LG G2/G3/G4 series. For windows, it is compatible with 10/8.1/8/7/XP/Vista.
 
 The Android Device Manager is an excellent initiative taken by Google to give people the chance to not lose any data and regain access to their phones. This also teaches us to take precautions before such unfortunate incidents take place. Phones are probably one of the most important belongings of ours, in which we confide all our private and confidential documents that we wouldn’t want to be meddled with.
@@ -321,19 +408,25 @@ Google constantly comes up with features to simplify the way users interact and 
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555162221345.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Android Lollipop added a feature called Smart Lock, and the feature was devised as a smart tool to prevent the Android phone from locking once it was initially unlocked. In other words, the feature overrides an Android phone's Lock Screen feature, thereby saving users the need to enter passwords every time the Honor Magic 5 Lite device locks.
 
 If you're at home, it's likely your android phone is locked out if you haven't accessed at for some time. Smart Locks solves the problem in many ways. It allows you to allocate trusted places. Once you within range of the trusted places, your phone won't lock. Trusted devices come next. Smart Lock is assigned to Bluetooth and Android NFC unlock devices.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555162911081.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![smart lock android](https://images.wondershare.com/drfone/others/14555165271526.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Finally, trusted face unlocking is the ultimate face recognition system that unlocks your Android device as soon as you look at it across the front-facing camera. A face unlock first introduced with Android Jelly Bean and has been significantly improved in later versions.
 
@@ -345,38 +438,32 @@ Tap on Settings, which is the gear symbol.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555171833750.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - • Click on Personal and tap on Security.
 - • Go to Advanced and tap on Trust agents and make sure Smart Lock is turned on.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555174399892.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1982461" src="//a.impactradius-go.com/gen-ad-code/5597632/1982461/22993" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 - • Under Screen Security tap Smart Lock.
 - • Here, you need to enter your Screen Lock. If you haven't done so, set up a password and PIN by following the on-screen prompts. The screen Lock is needed every time you have to change the Smart Lock settings.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555175242280.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Within Smart Lock, there are three options for setting the system. You can set up trusted devices, trusted face, and trusted places individually, combining two or all three at the same time. You can choose just one trusted face, but you have the option to set up as many trusted devices and trusted places as needed.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555176091774.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Part 2: Turn On Smart Lock For Android with Trusted Devices
 
 You can decide on a trusted device to be paired with Smart Lock Android.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555177245258.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 For example, you can set up a Smart Lock for Bluetooth in your Android Bluetooth settings. It can also be done for Android NFC unlock devices. Examples include the Bluetooth system in your car, NFC unlocks, android sticker on the car's phone dock, or Bluetooth in your watch.
 
 - • Go to Settings.
@@ -387,10 +474,10 @@ For example, you can set up a Smart Lock for Bluetooth in your Android Bluetooth
 ![smart lock android](https://images.wondershare.com/drfone/others/14555179612746.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Tap on Add Trusted Devices.
 
@@ -404,12 +491,6 @@ Since you have already paired Bluetooth, it will ask you to choose the Honor Mag
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555182031784.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - • As an example, let's take the case of LG HBS800. It may show Not connected until you add it.
 - • It will show up under Trusted devices in the Smart Lock menu.
 - • When you turn the added device on, Smart Lock now unlocks the Android mobile.
@@ -417,18 +498,18 @@ Since you have already paired Bluetooth, it will ask you to choose the Honor Mag
 ![smart lock android](https://images.wondershare.com/drfone/others/14555183103300.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Similarly, other Bluetooth and NFC unlock android supported gadgets can be added under the list of Trusted Devices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: Turn On Smart Lock For Android With Trusted Locations
 
@@ -442,6 +523,12 @@ On a new Android phone, visit Settings>Personal.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199012102.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Then Lock Screen and Security.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199294567.jpg)
@@ -463,19 +550,16 @@ Tap on Add Trusted Places
 ![smart lock android](https://images.wondershare.com/drfone/others/14555202394199.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 - • Initiate the Google Maps app on the Android phone. Make sure the Internet and GPS are on.
 - • Pick a place.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555203265722.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - • Click on Settings.
 - • Click on Edit home or work. You can now add or edit the required addresses.
 - • As an example, click on the Enter work address.
@@ -483,6 +567,12 @@ Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555204276666.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - • A successful addition is listed and can be edited under the Edit work address.
 - • Close the Google Maps app.
 - • The work address is automatically propagated and configured with Smart Lock settings.
@@ -497,31 +587,40 @@ Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555206499484.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1977004" src="//a.impactradius-go.com/gen-ad-code/5597632/1977004/22993" width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 - • The phone is now configured for the work address and will unlock whenever you are at the location.
 - • Since it works on Google Maps, the feature works through an Internet connection.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Turn On Smart Lock For Android With Trusted Face
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555207782388.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The feature recognizes your face and then unlocks the Honor Magic 5 Lite device. Once you set up the Honor Magic 5 Lite device to recognize your face as a trusted face, it will unlock the Honor Magic 5 Lite device as soon as it recognizes you.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555208588486.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 PRECAUTION:  At best, this can be the first level of security, as one who resembles you to some extent can unlock the Honor Magic 5 Lite device. Photographs are not stored in the system. The device does hold necessary data to recognize your face, and the security level is determined by how good the Honor Magic 5 Lite device is configured. The data is not accessed by any app or loaded onto a Google server for backup.
 
@@ -533,18 +632,21 @@ _Setting Up Trusted Face_
 ![smart lock android](https://images.wondershare.com/drfone/others/14555210728317.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The device begins to gather data about your face. The trusted face icon appears. As a backup, in case Smart Lock does not recognize your face, use the manual system by applying the PIN or password to unlock the Honor Magic 5 Lite device.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555211623749.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In case Trusted Face is not required, tap on reset Trusted Face appearing under the Trusted Face menu. Tap on Reset to reset the option.
 
 _How To Improve Facial Recognition In Your Bluetooth and Android NFC Unlock Devices_
@@ -557,9 +659,6 @@ _How To Improve Facial Recognition In Your Bluetooth and Android NFC Unlock Devi
 
 Smart Lock Android is a great feature and is only going to improve on time. With added security measures being introduced by Google for Bluetooth and NFC unlock android devices, including configuration to Google maps and Gmail, the feature may be one of the most important features to overcome constant blocking of devices even in protected places.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Video on How to Remove Android Lock Screen Without Data Loss
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/qXw3JNztGVI" id="video-iframe-t"></iframe>

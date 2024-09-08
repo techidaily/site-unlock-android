@@ -1,7 +1,7 @@
 ---
 title: In 2024, Lock Your Tecno Spark 10 Pro Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2024-09-03T06:29:54.808Z
-updated: 2024-09-04T06:29:54.808Z
+date: 2024-09-07T18:47:43.196Z
+updated: 2024-09-08T18:47:43.196Z
 tags: 
   - unlock
   - remove screen lock
@@ -13,6 +13,12 @@ keywords: reset gmail password on android,unlock android device phone pattern lo
 thumbnail: https://thmb.techidaily.com/fff656b551e024a92bec77f08e34169fdbb7972daf3e003aecf76e9fd40fed20.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Lock Your Tecno Spark 10 Pro Phone in Style: The Top 5 Gesture Lock Screen Apps
 
 Ever wondered, if there was an easier and more interesting way to unlock and open your devices and apps without boring PINs/Passwords that you tend to forget? Worry not, gestures are here! Imagine the joy when you can unlock your phone by just waving your hand over it, or instead of getting access through confusing patterns or lengthy PINs, you can just get in by drawing an alphabet! So let’s go through some gesture lock screen apps for Android phones.
@@ -30,6 +36,12 @@ Gestures have become an iconic piece of the entire mobile operating system and e
 
 ![guesture lock screen app](https://images.wondershare.com/drfone/article/2017/10/15074553821605.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 These gestures gave Android developers an idea of creating apps, to make use of new gestures for not only in-phone functionality but also for the most basic smartphone function of locking and unlocking.
 
 Why do we need these gesture apps? –Would you not want to control your phone’s notification bar by just waving your hand over the screen, when it’s not reachable? These apps are not only fun but also useful and efficient. So, now let us discuss 5 Android gesture lock screen apps.
@@ -50,6 +62,12 @@ With over 40,000 5/5 ratings and 5,00,000-10,00,000 installs, this app proves to
 
 Download this app from here - <https://play.google.com/store/apps/details?id=qlocker.gesture&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2) Magic Unlock
 
 Magic Unlock app, developed by zonep.ro, is designed with the main aim of responding to hand movement. The future is here!The app detects the movements of your hand, preferably horizontal or vertical, through the phone’s proximity sensor and then opts to unlock the screen. Technology, I tell you!
@@ -62,18 +80,18 @@ The app was released early 2017, but Magic Unlock has already received 50,000-10
 
 Download the app from here - <https://play.google.com/store/apps/details?id=com.binarybuilding.magicunlock&hl=en>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3) Gesture Magic
 
 Another app that uses gesture to lock/unlock the screen is the Gesture Magic app, developed by Apps2all. Compatible with most Android devices, this app is very easy for you to use.
 
 ![guesture magic](https://images.wondershare.com/drfone/article/2017/10/15074554938841.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The app already suggests you with predetermined gestures to unlock the screen and open the specific apps. How convenient!
 
 Features – Don’t we all love apps that do not just stick to their main purpose but also come with extra features? This app allows you to launch apps, make calls, send text messages, and quickly access all applications with ease, everything with the help of gestures!  This app needs to use the Tecno Spark 10 Pro device Administrator permission in order to work.
@@ -103,10 +121,10 @@ With a 4.4/5-star rating in the Play Store, and with 5,000-10,000 downloads in a
 Download it from - <https://play.google.com/store/apps/details?id=com.vasu.gesturescreenlock&hl=en>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5) Gestos – Gestures
 
@@ -114,6 +132,12 @@ Developed by Imaxinacion, Gestos-Gestures is an amazing gesture screen-lock app,
 
 ![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556205078.jpg)![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556219960.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Gestos allows you to – call contacts, enable or disable settings like Wi-Fi, Bluetooth, GPS, etc, run various system options, lock or unlock your device, and access websites as well.
 
 Talking about configuration, Gestos is a well-designed app that can be activated by just a double-touch on your home screen. Its sensitivity can be adjusted according to what you prefer, a permanent notification toggle floating button is available as well!
@@ -142,9 +166,6 @@ Like most people, you probably lock your Tecno phone as soon as you turn it on. 
 
 There are a few different ways to unlock your Tecno phone. We'll show you how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1. Google Find My Device (Without Password/Pin/Pattern)
 
 If you're like me, you've probably tried a million different ways to unlock your Tecno phone, only to be frustrated by the results. Luckily, there's an easy way to unlock your Tecno phone using Google's Find My Device feature.
@@ -157,9 +178,6 @@ Follow these steps to unlock the Tecno lock screen password without losing data:
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1983552" src="//a.impactradius-go.com/gen-ad-code/5597632/1983552/22993" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 - **Step 2**: Sign in with your Google account, which you used on your locked Tecno phone.
 - **Step 3**: The Android Device Manager dashboard will show your locked Tecno with three options: Ring, Lock, and Erase.
 - **Step 4**: Simply click on "Lock".
@@ -183,7 +201,10 @@ You can use it to unlock your Tecno if you have activated the Android Device Man
 - Your phone needs to be set to location.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1977020" src="//a.impactradius-go.com/gen-ad-code/5597632/1977020/22993" width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 2. Unlock Tecno Lock Screen With Hard Reset
 
@@ -202,10 +223,16 @@ Follow the steps below if you want to know how to unlock the Tecno phone keypad 
 Your Tecno is now password, pattern lock, screen lock, and PIN-free after a hard reset.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 3. Unlock With Answer Security Questions
 
@@ -223,10 +250,10 @@ Follow the steps below on how to unlock the Tecno phone pin code:
 - **Step 8**: You will see your Tecno unlocked soon.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 4. Unlock the Keypad With a Security Code
 
@@ -243,7 +270,10 @@ You could reset your Tecno lock screen phone using the default security code, ev
 `o 12345.`
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -253,6 +283,12 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Unlock Tecno Spark 10 Pro Phone with Broken Screen
 
 Seeing as the only way to control your Tecno Spark 10 Pro deviceis the touch screen, a broken device can cause you a lot of worries. Most people think that there is no way to get their device to work again let alone be able to unlock it if [the screen is broken or cracked](https://www.wondershare.com/android/access-android-phone-with-broken-screen.html). It is, however, important to find a way to unlock the broken device so that you can gain access to your data and create a backup to restore to a new device.
@@ -263,6 +299,12 @@ In this article, we are going to look at a few simple ways you can unlock an And
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/KaWEiQhxBTQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Using Android Debug Bridge (ADB)
 
 For this method, you will need your device and access to a PC. It is the most powerful method to unlock a broken Android device. It will however only work if you have enabled USB debugging on your android phone. If you haven’t, skip this method and see if method 2 or 3 might be of help.
@@ -286,6 +328,18 @@ _Shell input key event 66_
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
@@ -307,16 +361,10 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1542129" src="//a.impactradius-go.com/gen-ad-code/5597632/1542129/16836" width="1080" height="1440" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 **Step 2:** As soon as the Tecno Spark 10 Pro devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Tecno Spark 10 Pro device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can then go about backing up the contents of your device.
 
 ## Method 3: Using your Samsung Account
@@ -328,10 +376,16 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
@@ -340,13 +394,10 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
