@@ -1,0 +1,688 @@
+---
+title: In 2024, Still Using Pattern Locks with Honor Magic 5? Tips, Tricks and Helpful Advice
+date: 2024-09-10T18:43:22.752Z
+updated: 2024-09-14T06:09:03.501Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - android
+description: This article describes Still Using Pattern Locks with Honor Magic 5? Tips, Tricks and Helpful Advice
+excerpt: This article describes Still Using Pattern Locks with Honor Magic 5? Tips, Tricks and Helpful Advice
+keywords: Honor Magic 5 how to remove previously synced google account from android,Honor Magic 5 how to lock apps on android,Honor Magic 5 network unlock,hack wifi password android,unlock android device phone without pin,how to unlock android device phone,unlock android device phone pattern lock without factory reset,Honor Magic 5 unlock with google assistant,lock screen apps for android
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
+---
+
+## Still Using Pattern Locks with Honor Magic 5? Tips, Tricks and Helpful Advice
+
+They have been along for a long, long time now – pattern locks – the easiest of all smartphone locks. You just swipe your finger across to create an **easy pattern lock** of your choosing and that’s it, it becomes your new screen lock. No more remembering tedious digits! So, why have these easy pattern locks become outdated, and why do people still continue to use them? Let’s take a dive and find out all about pattern locks.
+
+![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/easy-pattern-lock-1.jpg)
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part I: Things To Know About Pattern Locks
+
+The first cellphone locks were 4-digit number locks. Then came 6-digit codes, and even alphanumeric ones. Pattern locks were all the rage a while ago. Though pattern locks continue to be used, they are not considered safe to use any longer. What is all that about? Here’s what you need to know about pattern locks, whether you are a seasoned pattern lock user or not.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### I.I: What Are Pattern Locks?
+
+Believe it or not, technology has advanced at such a rapid pace in the last two decades that you’d be forgiven if you don’t know what a pattern lock is, especially if you have only ever used iPhones, or Android phones in just the last few years.
+
+Pattern locks are patterns you create on your smartphone and designate as a smartphone lock/ screen lock. There is a 9-point keypad of sorts, and you start swiping your finger from any point to any point for any which way you feel like. Android 13 allows a minimum of 4 points registered. They are easy to create, and easy to use, hence called easy pattern locks.
+
+Pattern locks have only ever been offered on Android devices and were commonplace a few years ago until they were deemed not secure enough for use by modern standards because they were _easy_ to figure out by malicious actors.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### I.II: Popularity and Usage
+
+Pattern lock is a feature unique to Android and has been so since the start. Naturally, it is one of the preferred ways users have come to unlock their Android devices over the years. Even though modern Android smartphones come with fingerprint recognition and face recognition technologies, there exists a large subset of users still addicted to and acclimatized with the pattern lock feature, opting over fingerprint and face recognition.
+
+There has been, however, research conducted into the safety and security offered by pattern lock in Android.
+
+### I.III: Advantages and Drawbacks
+
+Modern smartphones very nearly contain the entirety of our lives; photo memories, video memories, important documents both financial and personal in nature, banking apps, ID and ATM/ credit cards in the “wallet” apps, and whatnot. A smartphone falling into the wrong hands could very nearly be used to devastate the rightful owner, both financially and otherwise. And this is not a claim out of thin air; spyware/ malware/ phishing attacks are on the rise around the world. Locking the smartphone, once considered optional and an unnecessary hassle, is now an absolute must.
+
+#### Advantages of Pattern Locks
+
+There is no denying that using an **easy pattern lock** to lock their smartphone seems enough for most users. Swiping your finger across your smartphone to unlock it feels not only cool and futuristic but safer and more secure than remembering and punching in digits. And, for the most part, it is true, given that 4-digit PINs can only have 10,000 unique combinations!
+
+#### Disadvantages of Pattern Locks
+
+While very easy to use, security researchers and experts have come to agree that the feature is not in the least safe to use, and that is because of how people use the pattern lock feature (discussed in detail below in part II). Some go so far as to say that most pattern locks can be breached in just 5 attempts or less. Imagine that!
+
+What is more, research has found that humans have an uncanny ability to correctly guess a pattern lock simply by viewing the unlocking! The test comprised showing the test subjects videos of users unlocking their phones from different angles and varying distances, and it was found that around 64% of test subjects were able to correctly guess a 6-point pattern lock in one viewing only, and 80% could correctly guess the pattern after just two viewings. By contrast, only 11% were able to correctly deduce a 6-digit PIN after one viewing, and only 27% after viewing twice. This goes to show just how insecure pattern locks are!
+
+## Part II: How People Use Pattern Locks
+
+We might wonder how anyone would be able to guess the correct pattern of our device, but believe it or not, it is possible, eerily easily at that! We are all the same humans, after all! You know how people usually set PINs that could be significant dates in their lives? How they get car registration numbers that mean something to them? The same ‘logic’ applies to their setting pattern locks.
+
+At DEFCON 23, Marte Loge, an M.Sc. Computer Science student, presented something that stunned people around the world. She said, “Tell me who you are, and I will tell you your lock pattern.” What followed was an expert presentation outlining and detailing user behaviors around pattern locks.
+
+These are some commonly created pattern locks by people:
+
+- \- shapes of alphabets,
+- \- shapes of numerals,
+- \- any other easy-to-make, simple shape.
+
+Marte Loge presented the image below, showing how people naturally gravitate towards creating simple shape patterns, in her research.
+
+![common pattern locks](https://images.wondershare.com/drfone/article/2023/09/easy-pattern-lock-2.jpg)
+
+To further help you see how easy it might be for anyone to guess your pattern, Marte Loge also presented some statistics.
+
+- \- 77% of people started their patterns in one of the 4 corners.
+- \- 44% of Loge’s subjects started their pattern with the first dot, the top-left one. The next number was 15% for the top-right and 14% for the bottom-left.
+- \- These percentages did not vary much depending on left-handedness or right-handedness.
+- \- On average, irrespective of gender, people set 5-point patterns, with 4-point patterns being the most common. This means that the number of combinations on average was 7152 for 5-point patterns and a bogglingly low 1624 for 4-point patterns.
+
+The above data makes it amply clear how using an **easy pattern lock** is actually worse than using a 4-digit PIN, simply because how people are usually using the pattern lock feature.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part III: Tips For Using More Secure Pattern Locks
+
+Now, we know how hard it is to break habits cemented over years of use, so in case you must at all costs use a pattern lock only, the least you can do is try and change your easy pattern lock to a better, more secure hard pattern lock.
+
+#### III.I: How to Create More Secure Patterns
+
+Here are some tips to help you create a better, more secure pattern lock for your smartphone.
+
+- \- Avoid using any of the corners to start the pattern.
+- \- Never use your first initial as a pattern.
+- \- Never use a digit shape as a pattern.
+- \- You can pass through the same pattern lines multiple times over. This makes it more difficult for someone to guess your pattern correctly.
+- \- Use all 9 points on the grid while setting the pattern lock! That simple act takes the possible pattern combinations to over 140,000, significantly more than 10,000 for 4-digit PINs, and vastly superior to paltry 1624 for a 4-point **easy pattern lock**!
+
+#### III.II: Forgot Your Pattern? Unlock Your Honor Magic 5 Without Pattern Lock With Dr.Fone
+
+Supercharged with the information above, you went ahead and changed your easy pattern lock to a hard-to-guess pattern lock. Only problem is, your brain is habituated to that old pattern, and you’ve suddenly forgotten what the new pattern was! Well, worry not; Wondershare Dr.Fone - Screen Unlock (Android) will help you [unlock your phone without pattern lock](https://drfone.wondershare.com/unlock/pattern-lock.html)!
+
+![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+
+The Best Tool to Unlock Your Honor Magic 5 without Pattern Locks!
+
+- Remove all Android screen locks (PIN/pattern/fingerprints/face ID) in minutes.
+- Bypass the FRP lock of Samsung without a PIN or Google account.
+- Everyone can handle the lock screen without any tech knowledge.
+- Provide specific removal solutions to promise good success rate.
+
+**4,008,669** people have downloaded it
+
+Download the newest version of Dr.Fone from the Wondershare website and launch the app.
+
+![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 1: Go to Toolbox > Screen Unlock and click Android.
+
+![drfone android screen unlock](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 2: Click Unlock Android Screen.
+
+![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+Step 3: You will see a list of supported manufacturers on the next screen. Select yours.
+
+![drfone screen unlock brand selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+Step 4: Now, follow the onscreen guide to prepare your device for screen unlocking.
+
+![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+After completing the process, when the Next button becomes available, click it.
+
+Your device will be successfully unlocked.
+
+![screen unlock succesful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+Note that this method wipes all data on the Honor Magic 5 device. There is no way around it. You may be able to unlock select older Samsung devices without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for those devices.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Closing Words
+
+Pattern locks are outdated and not safe to use an **easy pattern lock** – there are no two ways about it. As such, our recommendation is to start using a 6-digit PIN along with biometric or face recognition. However, we do understand that sometimes, you simply cannot use biometrics or face recognition. For those instances, we recommend that you use this guide and create a more secure pattern lock for your device. In case you forgot your pattern, there is always Wondershare Dr.Fone – Screen Unlock (Android) to save the day.
+
+## Tips and Tricks for Setting Up your Honor Magic 5 Phone Pattern Lock
+
+Failing to remember the **pattern lock** of a phone is one of the most puzzling situations for Android users. Unlike the famous OS, Android gives a seamless method to eliminate the issue.
+
+You can attempt the methods below or an expert tool if you have forgotten the **pattern lock** on your gadget and reset it. However, we suggest you try Dr.Fone - Screen Unlock for a quick and safe solution. To make things more straightforward, we have given you other techniques as a workaround to the issue.
+
+So, keep following us to unlock the **lock screen pattern** and use your phone again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 1: What Is Android Pattern?
+
+A **pattern lock** is used to identify the actual user by your Android phone. It is a widely used phone locking system and a secured one. Simply put, a pattern lock includes a line pattern you choose that you can draw to unlock a lock screen. You can enable this lock screen feature from the security menu in the settings application.
+
+So, if you have set a **pattern lock** as a screen lock for your device, you will need to draw the exact pattern every time you log in.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 2: Best Tool to Unlock Your Pattern
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Dr.Fone - Screen Unlock
+
+The most effective and quick tool to unlock a **pattern lock** is Dr.Fone - Screen Unlock by Wondershare. Dr.Fone is an all-in-one tool for all your Android needs and has been in the business for a long time. We suggest you use Dr.Fone. The following steps will help you unlock your device:
+
+**Step 1.** Select the "Screen Unlock" option in the Dr.Fone interface.
+
+![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step 2. Select Unlock Android Screen**
+
+To unlock the pattern lock on your device, the “Unlock Android Screen” will guide you to finish the whole process.
+
+![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+**Step 3. Select unlock mode**
+
+If you click “Remove without Data Loss,” only some limited Samsung or LG phone models can be unlocked without losing data. To unlock most phone brands' screens, “100% Remove Screen Lock” is a better choice.
+
+![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+You can find the brand compatible with your phone in the following list.
+
+![supported device brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+**Step 4. Go into Recovery Mode**
+
+Read the program instructions carefully; entering recovery mode is the prerequisite to unlocking the pattern lock.
+
+(Here are 3 examples of Samsung phones)
+
+**How to get into recovery mode with Bixby**
+
+![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**How to get into recovery mode without Bixby**
+
+![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
+
+**How to get into recovery mode with Home button**
+
+![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Step 5. **Instructions to Wipe Cache Partition****
+
+Now you’re in recovery mode, pick these options in the image below.
+
+![description of erase the cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+When the “Unlocked successfully” appears on the screen, you can access your device without a pattern lock or other locks!
+
+![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+## Part 3: How to Bypass Android Pattern When You Forgot It?
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 1\. Google Find My Device (For Android7.1.1 or later)
+
+**Step 1.** Open the Android Device Manager site by typing [https://www.google.com/android/find](https://www.google.com/android/find) in an internet browser.
+
+**Step 2.** You must give your Google ID credentials to sign in. Remember that this should be a similar Google account connected to your phone.
+
+**Step 3.** After logging in, select your device.
+
+**Step 4.** You will get three choices here, i.e., lock, erase, and ring.
+
+![find my device](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Step 5.** Click on the "Lock" button to reset its pattern.
+
+**Step 6.** It will open another spring-up window. From here, you can give the new password to your phone.
+
+**Step 7.** After affirming your PIN/password, you can give a recovery message and number (in case of theft only).
+
+**Step 8.** Complete the process and sign out of your account on the browser.
+
+### 2\. Forgot Pattern (For Android 4.4 or earlier)
+
+**Step 1.** First and foremost, give some wrong patterns to your phone. It will tell you that you attempted the incorrect **pattern lock**.
+
+**Step 2.** On a similar window, click the "Forgot pattern" choice on the base.
+
+**Step 3.** That will open another screen, which you can use to sidestep the forgotten pattern of Android. Select the choice for entering the Google Account credentials and continue.
+
+![google account](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Step 4.** To reset the **lock screen pattern**, you must give the correct details of the Google ID previously logged into the Honor Magic 5 device.
+
+**Step 5.** After giving the correct details, you can provide another pattern lock to the phone.
+
+![draw unlock pattern](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Step 6.** Affirm your decision and set another **pattern lock** on your phone.
+
+### 3\. Emergency Call Trick (For Android 5 or 5.1.1)
+
+**Step 1:** Tap the Emergency Call button and enter ten asterisks (\*).
+
+**Step 2:** Copy and paste the asterisks on the dialer until you no longer see the paste choice.
+
+**Step 3:** Return to the lock screen and tap on the camera symbol.
+
+**Step 4:** Press the settings choice on your Android gadget after pulling down the notification tray. Now you will have the chance to enter the PIN/password, and you ought to continue unlocking your Android phone. Continue to paste until the lock screen UI crashes.
+
+### 4\. Safe Mode Boot (For Android 4.1 or later)
+
+**Step 1:** You can bring up the power menu and hold the "Power Off" button for most phones, especially Android phones. A warning will spring up, asking whether you might want to Reboot to Safe Mode. Here, it would help if you had to press Ok.
+
+![reboot to safe mode](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-4.jpg)
+
+**Step 2:** Clear your lock screen application's data.
+
+Clean data off your lock screen app, uninstall it, and then reboot your device to escape safe mode. When you do so, your phone or Android device will unlock.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 5\. Use ADB (USB required for Android 10 and lower)
+
+- Connect your device to your PC using a USB connector.
+- On your PC, open a terminal window (or command prompt).
+- Type in the commands given below. Press Enter after each line:
+
+adb shell
+
+album/data/data/com.android.providers.settings/databases
+
+sqlite3 settings.db
+
+update system set value=0 where name='lock\_pattern\_autolock';
+
+update system set value=0 where name='lockscreen.lockedoutpermanently';
+
+.quit
+
+exit
+
+adb reboot
+
+- After your gadget has rebooted, enter the command below:
+
+adb shell
+
+rm/data/framework/gesture.key
+
+exit
+
+adb reboot
+
+- Your phone will reboot. After it reboots and requests a security pattern, you can utilize any pattern, and it will unlock.
+
+### Conclusion
+
+This guide provides insight into the most common Android issue. Here, we have discussed different techniques to bypass the **pattern lock** on your Android phone. However, we suggest you go for a professional tool while carrying this out. Therefore, you should choose an expert tool like Dr.Fone - Screen Unlock to open the **lock screen pattern**.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Lock Apps on Honor Magic 5 to Protect Your Individual Information
+
+If you are not a fan of having to go through the process of getting through a [pattern](https://drfone.wondershare.com/unlock/pattern-lock.html) or password every time you want to use your phone, the good news is that you don’t have to. There are really just a few Apps on your Android device that have sensitive information you don’t want others getting access to. It would really be great if you could lock those apps individually as opposed to locking the Honor Magic 5 device as a whole.
+
+Well, in light of helping you out, this article will address just how you can lock Apps on your device and not have to type in a code every time you want to use the Honor Magic 5 device.
+
+## Part 1. Why you need to Lock Apps on Android?
+
+Before we get down to the business of locking some of your Apps, let’s look at some of the reasons why you would want to lock certain apps.
+
+- You may simply want better access on your device. Locking certain apps will allow you to easily access the Honor Magic 5 device and use it without having to remember passwords and patterns.
+- If you are a person who is not good at remembering passwords or patterns, simply locking certain apps will help you not get locked out of your entire device which can cause a lot of problems.
+- If your device is used by more than one person, locking certain apps will keep the other users out of information you would rather they didn’t access.
+- If you have children, you can eliminate the many accidental in-app purchases by locking the apps your children shouldn’t be on.
+- Locking apps is also a good way to keep children from content they shouldn’t be accessing.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 2. How to Lock Apps in Android
+
+There is always a good reason to Lock Apps on your device and we have two easy and effective methods you can use to do this. Choose the one that you are most comfortable with.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Method One: Using Smart App Protector
+
+Smart App Protector is a freeware that allows you to lock specified applications.
+
+Step 1: Download and Install Smart App Protector from the Google Play Store and Launch it. You may be required to install a helper application for Smart App Protector. This helper will ensure that the many App services running on your device will not be killed by third party apps.
+
+Step 2: The default password 7777 but you can change this in the Password & Pattern Settings.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-01.jpg)
+
+Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
+
+Step 3: Next, select the apps you would like to protect from the pop up list. Tap on the “Add” button once you have chosen your Apps.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-03.jpg)
+
+Step 4: Now close the app and the Apps chosen will now be password protected.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Method 2: Using Hexlock
+
+Step 1: Download Hexlock from the Google Play Store. Once it is installed, open it. You will be required to enter a pattern or PIN. This is the lock code that you will use every time you open the app.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-05.png)
+
+Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can create multiple lists of Apps to be locked ba\_x\_sed on your different needs. As an example, we have chosen the Work panel. Tap on “Start Locking Apps” to start.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-06.jpg)
+
+Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish to lock and then Tap the down arrow in the upper left when you are done.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
+
+## Part 3. 6 Private Apps that you should lock on your Android
+
+There are certain apps that may require to be locked more than others. Of course the choice of which apps you should lock will depend on your own uses and preferences. The following are some of the apps you would like to lock for one reason or another.
+
+### 1\. The Messaging App
+
+This is the application that allows you to send and receive messages. You may want to lock this app if you use your device to send messages of a sensitive nature that you would rather keep private. You may also want to lock this app if your device is used by more than one person and you don’t want other users reading your messages.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-08.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 2\. Email App
+
+Most people use individual email applications such as Yahoo Mail App or Gmail. This is another critical one if you are going to protect your work emails. You may want to lock the email app if your work emails are sensitive in nature and contain information that is not for all individuals.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 3\. Google Play Services
+
+This is the application that allows you to download and install applications to your device. You may want to lock this one if you are trying to prevent other users from downloading and installing further apps to your device. This is especially valuable if your device is utilized by children.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-10.jpg)
+
+### 4\. Gallery App
+
+The Gallery app displays all the images on your device. The main reason you may want to lock the Gallery app may be because you have sensitive images that are not suitable for all viewers. Again this is ideal if children make use of your device and you have images that you would rather they didn’t see.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-11.jpg)
+
+### 5\. Music Pla\_x\_yer App
+
+This is the Application that you use to play the music on your device. You may want to lock it if you don’t want anyone else making changes to your saved audio files and playlists or don’t want someone listening to your audio files.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 6\. File Manager App
+
+This is the App that displays all of the files that are saved on your device. It is the ultimate app to lock if you have sensitive information on your device that you would rather not share. Locking this app will ensure that all of the files on your device will remain safe from prying eyes.
+
+![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-13.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Having the ability to lock your Apps is an easy way to keep information out of the limelight. It also allows you to take full control of your device. Try it, it might just be freeing as opposed to locking your entire device.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-clearer-views-the-top-10-online-photo-fixes/"><u>[Updated] Clearer Views The Top 10 Online Photo Fixes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-concrete-jungles-to-eco-havens-rethinking-urban-living/"><u>[Updated] From Concrete Jungles to Eco Havens Rethinking Urban Living</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-imageclass-mf8200c-printer-drivers-compatible-with-windows-7-81-and-10/"><u>Download Canon ImageCLASS MF8200C Printer Drivers: Compatible with Windows 7, 8.1, and 10</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-evaluation-of-the-asus-rog-rapture-gt-ax11000-ultimate-speed-and-gamers-delight/"><u>Expert Evaluation of the Asus ROG Rapture GT-AX11000: Ultimate Speed and Gamers' Delight</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/how-to-edit-titles-and-descriptions-of-igtv-videos/"><u>How to Edit Titles and Descriptions of IGTV Videos?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pova-6-pro-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Tecno Pova 6 Pro 5G Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-honor-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gimbal-insights-7-best-in-market/"><u>In 2024, Gimbal Insights 7 Best in Market</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-90-gt-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor 90 GT Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-tecno-spark-10c-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Tecno Spark 10C</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-spark-20-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Tecno Spark 20 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-x50-gt-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor X50 GT Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ultimate-guide-resolving-flicker-issues-on-your-asus-notebook-display/"><u>Ultimate Guide: Resolving Flicker Issues on Your Asus Notebook Display</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-12-mini-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 12 mini Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
+
