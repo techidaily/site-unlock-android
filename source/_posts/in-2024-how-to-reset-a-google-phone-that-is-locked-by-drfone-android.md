@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset a Google Phone that is Locked?
-date: 2024-09-18T16:13:47.410Z
-updated: 2024-09-19T18:17:52.570Z
+date: 2024-09-22T17:29:07.667Z
+updated: 2024-09-27T20:18:32.094Z
 tags: 
   - unlock
   - remove screen lock
@@ -30,6 +30,19 @@ Before you go to reset your locked Google Pixel 8 Pro  phone, it's crucial to le
 
 Resetting your locked Google Pixel 8 Pro  phone typically involves performing a factory reset. The process erases all data and settings on the Google Pixel 8 Pro device. This includes your files, apps, contacts, and other information stored on the phone. You can easily restore these data if you have backed up data before. It's crucial to [back up essential data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) regularly to avoid data loss.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Factory Reset Protection (FRP)
 
 Google Pixel 8 Pro , like many other Android manufacturers, implements Factory Reset Protection. It acts as a preemptive safeguard against unauthorized access to a device after a reset. If your phone is linked to a Google account, you will need to input the accurate login credentials after a reset.
@@ -45,6 +58,13 @@ Resetting a locked Google Pixel 8 Pro  phone through Google Find My Device prese
 **Step 2:** Upon successful login, a list of devices linked to your Google account will be displayed. Locate your locked Google Pixel 8 Pro  phone from the list and select it. Select the "Erase Device" option from the left-hand panel, and it will trigger a remote factory reset for your locked phone.
 
 ![tap on erase device](https://images.wondershare.com/drfone/article/2023/09/reset-a-motorola-phone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** A confirmation dialog will appear, prompting you to input your Google account password. Finally, click the "Erase" button to initiate the factory reset process.
 
@@ -73,13 +93,6 @@ First of all, launch the Dr.Fone Screen Unlock on your computer, and you will be
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Connect Device**
 
 Now, you need to connect your Google Pixel 8 Pro  phone to the computer via a USB cable and select "Android" > "Unlock Android Screen." This particular step is an application for all the Android phones out there.
@@ -91,13 +104,6 @@ Now, you need to connect your Google Pixel 8 Pro  phone to the computer via a US
 Here you need to select the exact brand of your phone. In your case, you can just tap "Google Pixel 8 Pro ." The program then will start the process for the lock screen removal.
 
 ![drfone advanced unlock 1](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4: Unlock Screen**
 
@@ -125,18 +131,24 @@ Now, you need to press the Volume Down + Power button simultaneously until the G
 
 ![reset a motorola phone that is locked 2](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Enter Recovery Mode**
 
 Now, press the Volume Down button to navigate to the Recovery Mode.
 
 ![reset a motorola phone that is locked 3](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4: Factory Reset**
 
@@ -149,13 +161,6 @@ Use the buttons to navigate to the “Wipe data/factory reset” option and sele
 Again use the Volume buttons and select the “Reboot system now.”
 
 ![reset a motorola phone that is locked 5](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After you have successfully reset your Google Pixel 8 Pro  phone, it would take a few minutes to boot up. Once that is done, you are left with a clean slate, just like a completely new smartphone.
 
@@ -221,6 +226,13 @@ Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now, ensure that HTC Sync Manager is installed on the PC.
 
 Step 3: From the bootloader page, select your device using the drop down option as shown in the picture below.
@@ -232,13 +244,6 @@ After selecting the Google Pixel 8 Pro device, click on “Begin Unlock Bootload
 Step 4: Now, you will be presented with four steps to put the Google Pixel 8 Pro device in bootloader mode. Disconnect the Google Pixel 8 Pro  device from the PC and turn the Google Pixel 8 Pro device off completely. Press the volume down button along with the power button to switch the Google Pixel 8 Pro device on in bootloader mode.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822589729198.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Use the volume keys of the Google Pixel 8 Pro device to select Fastboot option along with pressing power button to confirm, after the Google Pixel 8 Pro device is in bootloader mode. Now, connect the Google Pixel 8 Pro device to the computer using a USB cable.
 
@@ -320,6 +325,13 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 
 While **RootJunky** offers a free method for FRP bypass, it can be incompatible with your device’s brand, requiring technical knowledge, tedious, and potentially risky. If you are looking for a simpler, safer, and more user-friendly solution, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) might be a better fit for you. If you want to learn how to use this tool to bypass FRP lock with minimal technical expertise, then keep reading.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Easier Tool Than RootJunky APK To Bypass Google FRP
 
 [<u>Google FRP</u>](https://drfone.wondershare.com/google-frp-unlock/google-pixel-frp-bypass.html) adds an extra layer of security after a device reset. However, regaining access to the smartphone can be challenging if you forget your Google account details, forget your lock screen, or just buy a used device. While methods like the **FRP RootJunky** app exist, using it can be complex or risky.
@@ -346,9 +358,23 @@ Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock?
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Select your device’s brand from the list and click **Start** to continue.
 
 ![select phone brand to remove frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:**
 
@@ -357,6 +383,13 @@ The next steps may vary depending on the brand you selected.
 - **Step 4:** Select the OS version of your device and click **Start** to continue.
 
 ![remove google frp lock interface](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** Access the secret menu on your phone using the on-screen instructions, then click **Next** to proceed to the next step.
 
@@ -396,5 +429,19 @@ The best choice boils down to your personal needs and budget. Remember, FRP bypa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-visual-storyteller-youtube-cinematic-training/"><u>[Updated] Mastering the Visual Storyteller YouTube Cinematic Training</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-get-top-quality-gifs-on-your-mac-instantly/"><u>2024 Approved Get Top-Quality GIFs on Your Mac Instantly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blending-audio-from-youtube-into-video-mediums-for-2024/"><u>Blending Audio From YouTube Into Video Mediums for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-scavengers-game-when-it-keeps-crashing-on-your-pc/"><u>Fixing the 'Scavengers' Game When It Keeps Crashing on Your PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-12-pro-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 12 Pro Max GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oneplus-12r-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track OnePlus 12R without App | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-nokia-g42-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Nokia G42 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23plus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Itel S23+ Phone without Google Account?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-s18e-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo S18e Phone With/Without IMEI Number</u></a></li>
+</ul></div>
 

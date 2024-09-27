@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting HP Screen Malfunctions: A Comprehensive Fix Guide"
-date: 2024-09-12T18:17:15.292Z
-updated: 2024-09-19T17:44:54.754Z
+date: 2024-09-22T17:11:02.855Z
+updated: 2024-09-27T18:42:27.337Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 2. In the left panel, select**GENERAL** , then toggle the switch to turn on**IN-GAME OVERLAY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-geforce-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run a game to see if your GeForce overlay shows up. If not, try the next fix.
 
 ## Fix 2: Restart your computer
@@ -83,13 +90,6 @@ If the issue remains, continue to the next fix below.
 
 If the issue remains, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Install all Windows updates
 
  Windows often releases new updates to fix the latest bugs. Some players reported that they fixed the GeForce overlay not working issue by installing the Windows updates. So we suggest that you give it a try. To do so:
@@ -100,6 +100,13 @@ If the issue remains, try the next fix below.
 3. Under Windows Update, click**check for updates** . It’ll take some time for Windows to search and install system updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-check-for-updates.png)
 4. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can check if your GeForce overlay is working.
 
@@ -120,13 +127,6 @@ Check if the GeForce overlay not functioning issue still occurs.
 
 If the issue persists, go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Enable experimental features
 
  Enabling experimental features in GeForce Experience allows you to access updates and features that haven’t been released to all users. Try this solution to see if the GeForce overlay not working issue persists. Here’s how:
@@ -140,6 +140,13 @@ Once done, check if your GeForce overlay is working.
 
 If not, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7: Disable third-party services
 
  Sometimes the third-party services may prevent GeForce overlay from working properly. Try temporarily disabling them to see if your GeForce overlay works or not. If GeForce overlay starts working again, try to enable third-party services one at a time to figure out the problematic services. Here’s how:
@@ -148,8 +155,24 @@ If not, move on to the next fix below.
 2. Type**msconfig** and click**OK** to open System Configuration.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 3. In System Configuration, navigate to the**Services** tab, check the box of**Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 4. **Uncheck** all the services EXCEPT NVIDIA services, then click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uncheck-services.jpg)
 5. Restart your computer.
 
@@ -168,21 +191,20 @@ If this method doesn’t do the trick, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/change-microsoft-visual.jpg)
 4. In the pop-up window, click**Repair** . Then wait a few minutes for the repairing process to finish.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/repair-microsoft-visual.jpg)
 5. After finishing the process, click**Close** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/close.jpg)
@@ -201,12 +223,33 @@ Check to see if GeForce overlay now works on your computer.
 2. Under Downloads,**select the appropriate edition** of Windows 10 N from the drop-down menu, then click**Confirm** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/download-media-feature-pack.jpg)
 3. According to your Windows edition, click**32-bit Download** or**64-bit Download** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/64-bit-download.jpg)
 4. After downloading the pack, follow the on-screen instructions to install it.
 
  Make sure to restart your computer after installing the media feature Pack, then check if your GeForce overlay is working properly.
 
  If this solution doesn’t work for you, check out the last fix below.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 10: Reinstall GeForce Experience
 
@@ -216,13 +259,6 @@ Check to see if GeForce overlay now works on your computer.
 2. Type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_-1.jpg)
 3. Right-click**GeForce Experience** and select**Uninstall/Change** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-change-geforce-experience.jpg)
 4. In the pop-up window, click**UNINSTALL** .  
@@ -252,5 +288,26 @@ Now you can check to see if your GeForce overlay is working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-video-capture-pro-for-windows-10-ultimate-quality/"><u>[New] 2024 Approved Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-understanding-the-implications-before-quitting-discord/"><u>[New] Understanding the Implications Before Quitting Discord</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-sonys-blu-ray-revolution-s6700-updates/"><u>[Updated] 2024 Approved Sony's Blu-Ray Revolution S6700 Updates</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fix-in-a-flash-rapid-recovery-techniques-for-disrupted-fb-lives-for-2024/"><u>[Updated] Fix in a Flash Rapid Recovery Techniques for Disrupted FB Lives for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capturing-perfection-a-deep-dive-into-apeaksofts-technology/"><u>[Updated] In 2024, Capturing Perfection A Deep Dive Into Apeaksoft's Technology</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-snapshots-from-videos-within-windows-11-photos-app-for-2024/"><u>[Updated] Snapshots From Videos Within Windows 11 Photos App for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bandwidth-blues-unlock-faster-mobile-data-with-our-step-by-step-guide/"><u>Bandwidth Blues? Unlock Faster Mobile Data with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/get-your-hands-on-the-ultimate-drive-eraser-buy-bitraser-today/"><u>Get Your Hands on the Ultimate Drive Eraser: Buy BitRaser Today!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-infinix-smart-8-plus-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Infinix Smart 8 Plus Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-itel-p55t-phone-by-drfone-android/"><u>How to Unlock a Network Locked Itel P55T Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-7t-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor Play 7T Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-zero-5g-2023-turbo-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Zero 5G 2023 Turbo Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-13t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Xiaomi 13T to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Itel P40 Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-14-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi 14 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-note-13-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi Note 13 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-itel-p55t-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Itel P55T</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972554838-quick-setup-with-lexars-usb-drivers-start-using-now/"><u>Quick Setup with Lexar's USB Drivers - Start Using Now!</u></a></li>
+</ul></div>
 
