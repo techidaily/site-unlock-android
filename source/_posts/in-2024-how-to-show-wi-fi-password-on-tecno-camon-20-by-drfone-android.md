@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Show Wi-Fi Password on Tecno Camon 20
-date: 2024-09-17T19:25:53.464Z
-updated: 2024-09-19T19:56:28.377Z
+date: 2024-09-30T23:12:38.801Z
+updated: 2024-10-02T23:05:14.948Z
 tags: 
   - unlock
   - remove screen lock
@@ -52,6 +52,13 @@ The root explorer needs to be enabled so that you can reach the root folders of 
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556292611536.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This will drop down a list of controls. Scroll down and find the **Root Explorer** option and enable it.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293052566.jpg)
@@ -61,6 +68,13 @@ Step 3: Get the passwords' file.
 Go back to ES file explorer, and this time, find the folder named **data**.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293412707.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When this folder opens, find another one named **misc**. Open it and find another one named **wifi**. Here, find a file named **wpa\_supplicant.conf**.
 
@@ -88,13 +102,6 @@ Get your Android phone and go to settings. Scroll down and find "About phone." T
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556302638925.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tap on this "build number" 5 to 6 times until a message pops up, saying, "You are now a developer".
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556303263992.jpg)
@@ -117,13 +124,6 @@ Here, we would like to test whether the ABD is working properly. To do this, con
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329984622.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5: Find the Android wifi password.
 
 Now, it is time to type the given command in the command prompt and type: _adb pull /data/misc/wifi/wpa\_supplicant.conf c:/wpa\_supplicant.conf_. This will fetch the file from your phone to the local disc C drive of the PC.
@@ -136,6 +136,13 @@ Lastly, open the file with a notepad, and there you go.
 
 Now you learned how to show the wifi password on your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Still Using Pattern Locks with Tecno Camon 20? Tips, Tricks and Helpful Advice
 
 They have been along for a long, long time now – pattern locks – the easiest of all smartphone locks. You just swipe your finger across to create an **easy pattern lock** of your choosing and that’s it, it becomes your new screen lock. No more remembering tedious digits! So, why have these easy pattern locks become outdated, and why do people still continue to use them? Let’s take a dive and find out all about pattern locks.
@@ -145,6 +152,13 @@ They have been along for a long, long time now – pattern locks – the easiest
 ## Part I: Things To Know About Pattern Locks
 
 The first cellphone locks were 4-digit number locks. Then came 6-digit codes, and even alphanumeric ones. Pattern locks were all the rage a while ago. Though pattern locks continue to be used, they are not considered safe to use any longer. What is all that about? Here’s what you need to know about pattern locks, whether you are a seasoned pattern lock user or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### I.I: What Are Pattern Locks?
 
@@ -250,6 +264,13 @@ Step 4: Now, follow the onscreen guide to prepare your device for screen unlocki
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After completing the process, when the Next button becomes available, click it.
 
 Your device will be successfully unlocked.
@@ -261,13 +282,6 @@ Note that this method wipes all data on the Tecno Camon 20 device. There is no w
 ## Closing Words
 
 Pattern locks are outdated and not safe to use an **easy pattern lock** – there are no two ways about it. As such, our recommendation is to start using a 6-digit PIN along with biometric or face recognition. However, we do understand that sometimes, you simply cannot use biometrics or face recognition. For those instances, we recommend that you use this guide and create a more secure pattern lock for your device. In case you forgot your pattern, there is always Wondershare Dr.Fone – Screen Unlock (Android) to save the day.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips and Tricks for Setting Up your Tecno Camon 20 Phone Pattern Lock
 
@@ -282,13 +296,6 @@ So, keep following us to unlock the **lock screen pattern** and use your phone a
 A **pattern lock** is used to identify the actual user by your Android phone. It is a widely used phone locking system and a secured one. Simply put, a pattern lock includes a line pattern you choose that you can draw to unlock a lock screen. You can enable this lock screen feature from the security menu in the settings application.
 
 So, if you have set a **pattern lock** as a screen lock for your device, you will need to draw the exact pattern every time you log in.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Best Tool to Unlock Your Pattern
 
@@ -312,9 +319,23 @@ If you click “Remove without Data Loss,” only some limited Samsung or LG pho
 
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can find the brand compatible with your phone in the following list.
 
 ![supported device brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4. Go into Recovery Mode**
 
@@ -358,6 +379,13 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![find my device](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5.** Click on the "Lock" button to reset its pattern.
 
 **Step 6.** It will open another spring-up window. From here, you can give the new password to your phone.
@@ -375,13 +403,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 3.** That will open another screen, which you can use to sidestep the forgotten pattern of Android. Select the choice for entering the Google Account credentials and continue.
 
 ![google account](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4.** To reset the **lock screen pattern**, you must give the correct details of the Google ID previously logged into the Tecno Camon 20 device.
 
@@ -461,5 +482,21 @@ This guide provides insight into the most common Android issue. Here, we have di
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-the-secrets-of-ken-burns-motion-in-camtasa/"><u>2024 Approved Unveiling the Secrets of Ken Burns Motion in Camtasa</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-s18-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S18 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-12t-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 12T Pro Fingerprint Lock</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/daenerys-dialer-leading-online-picks-to-download-game-ringtones-for-2024/"><u>Daenerys' Dialer Leading Online Picks to Download Game Ringtones for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-google-pixel-8-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Google Pixel 8 Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-spark-20-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Spark 20 Pro Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-exclusive-top-quintessential-4k-hd-gear-list/"><u>In 2024, Exclusive Top Quintessential 4K HD Gear List</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-y100-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y100 5G Phone that is Locked?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/leverage-your-smartphones-capability-to-store-social-snaps/"><u>Leverage Your Smartphone's Capability to Store Social Snaps</u></a></li>
+<li><a href="https://techidaily.com/solved-how-to-fix-pdf-crash-issue-by-stellar-guide/"><u>Solved - How to Fix PDF Crash Issue</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-group-communication-applications-for-2024/"><u>Ultimate Group Communication Applications for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/wie-man-auf-einem-pc-oder-mac-effizient-mpeg-dateien-aus-dvds-erstellt-tipps-mit-winxdvd/"><u>Wie Man Auf Einem PC Oder Mac Effizient MPEG-Dateien Aus DVDs Erstellt - Tipps Mit WinXDVD</u></a></li>
+</ul></div>
 
