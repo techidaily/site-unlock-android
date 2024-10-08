@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Tecno Pova 6 Pro 5G Phone with Broken Screen
-date: 2024-09-29T18:21:13.541Z
-updated: 2024-10-02T16:03:17.975Z
+date: 2024-10-05T21:50:48.187Z
+updated: 2024-10-08T01:08:59.820Z
 tags: 
   - unlock
   - remove screen lock
@@ -72,13 +72,6 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** As soon as the Tecno Pova 6 Pro 5G devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Tecno Pova 6 Pro 5G device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
@@ -125,6 +118,13 @@ Let us look at the detailed steps below to remove the swipe screen to unlock the
 
 ![android phone screen security](https://images.wondershare.com/drfone/article/2017/10/15090619794806.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Select the option called “Screen lock,” The next step is to enter your PIN code for security purposes. This step is carried out in Android phones to ensure you are the original owner of the Android device.
 
 ![confirm the screen password](https://images.wondershare.com/drfone/article/2017/10/15090620046961.jpg)
@@ -168,7 +168,21 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![android phone unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Pretty simple, right? Dr.Fone - Screen Unlock to the rescue for the issue of swipe screen to unlock.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to turn off the swipe to unlock when the pattern is enabled?
 
@@ -185,6 +199,13 @@ The steps below imply turning off of swiping screen instantly:
 **Step 3:** To turn off the swipe screen, when the pattern is enabled then, choose “Screen lock” and then click on “NONE.”
 
 ![select none](https://images.wondershare.com/drfone/2020/enable-screen-lock.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** If you have enabled your pattern choice already, it will again prompt you to enter the pattern. Once you entered the pattern, the swipe screen lock will disappear.
 
@@ -220,22 +241,16 @@ For devices running Android 11, **changing the lock screen clock** is still avai
 
 The exact names of settings may change depending on the manufacturer and version of Android. But the navigation should be similar.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How To Change Lock Screen Clock on Android \[5 Methods\]
 
 Currently, there isn’t an official method to **change the lock screen clock on Android** 12. However, there are several workarounds you can do. Let’s explore these techniques and see which works best for you.
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Change Your Wallpaper
 
@@ -245,18 +260,18 @@ In Android 11, adjusting your wallpaper is accessible through the Android Settin
 
 ![wallpaper settings on android 11](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In Android 12, the process remains consistent.
 
 - **Step 1:** Locate the **Wallpaper & style** button within the **Settings** menu**.**
 
 ![wallpaper settings on android 12](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2**: Follow the provided instructions to transform your lock screen experience. Replace the oversized clock with dynamic, changing wallpapers.
 
@@ -267,13 +282,6 @@ An alternative to avoid **the Android lock screen clock** is disabling the Alway
 - **Step 1**: Access the **Settings** menu on your Android device. Scroll down and choose **Lock** **screen** > **Always On Display**.
 
 ![android always on display setting](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** Toggle off to deactivate the **Always On Display**.
 
@@ -296,10 +304,10 @@ Originally, there was no provision to **change the lock screen clock in Android 
 **If you want to display a digital or analog clock, open the** **_**_Clock_**_** **app. Tap the** **_**_three dots_**_** **>** **_**_Settings_**_** **>** **_**_Style_**_****.**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Turn On Screensaver
@@ -312,18 +320,18 @@ An alternative method to modify the **Android lock screen clock** involves activ
 
 - **Step 2**: If you want to customize the screensaver clock’s appearance, go to **Settings** > **Display** > **Screensaver.** Choose analog, digital, or night mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Keep Unread Notifications
 
 To avoid adjusting your Android device settings, you can make the lock screen clock smaller by maintaining unread notifications. The clock occupies less space when there are unread notifications. It shifts back to the top-left corner when you receive a new notification. Simply leave notifications unread to keep the clock smaller.
 
 ![unread notifications on android lock screen](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus
 
@@ -378,23 +386,9 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2**: Choose **Android** in the next window and click on **Unlock** **Android** **Screen**.
 
 ![dr.fone unlock android option](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Choose your device brand and click **Remove** **without Data Loss**. Select the **Brand**, **Device** **Name**, and **Device** **Model** of your smartphone. Once done, toggle the checkmark on **I agree with the warning, and I am ready to proceed** button.
 
@@ -440,22 +434,22 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-15-alternative-gopro-like-cameras-for-2024/"><u>[New] The Ultimate Guide to 15 Alternative GoPro-Like Cameras for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-conceptions-unveiling-the-worlds-best-schools-for-stories-top-8/"><u>2024 Approved Crafting Conceptions Unveiling the World's Best Schools for Stories (Top 8)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175648192-affordable-pc-temperature-control-with-deepcools-as500-plus-at-just-under-45-on-amazon/"><u>Affordable PC Temperature Control with DeepCool's AS500 Plus at Just Under $45 on Amazon!</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/arw-jpeg-arw/"><u>ARW에서 JPEG로의 원향으로 기하학적 이미지 변환: 오프라인 ARW 바인딩 해제</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-v30-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo V30 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-redmi-k70e-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/find-your-perfect-editor-top-15-budget-friendly-online-solutions-for-2024/"><u>Find Your Perfect Editor Top 15 Budget-Friendly Online Solutions for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-90-lite-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor 90 Lite Face Lock?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-phantom-v-fold-easily-by-drfone-android/"><u>How To Unlock a Tecno Phantom V Fold Easily?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y100 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi 13T Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-y27-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo Y27 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-infinix-smart-8-hd-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Infinix Smart 8 HD? Try These Fixes</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamline-your-roblox-recording-mac-guide/"><u>In 2024, Streamline Your Roblox Recording Mac Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-y200e-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo Y200e 5G</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-windows-11-a-step-by-step-upgrade-guide-for-2024/"><u>Mastering Windows 11 A Step-by-Step Upgrade Guide for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-androids-prime-video-calls-top-10-cost-free-options-for-2024/"><u>[New] Android's Prime Video Calls Top 10 Cost-Free Options for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/rmvbmpegonline-movavi/"><u>無料で安定したRMVBからMPEGへのスムーズなOnline変換 - Movaviプロセスガイド</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asus-proart-review-a-visual-spectacle-unveiled/"><u>ASUS ProArt Review A Visual Spectacle Unveiled</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-list-7-cost-free-video-tags-extractors-on-youtube-for-2024/"><u>Essential List 7 Cost-Free Video Tags Extractors on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-new-arduino-usb-driver-on-your-windows-computer/"><u>How to Install New Arduino USB Driver on Your Windows Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi 14 Phone without Google Account?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y28-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo Y28 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-s23plus-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel S23+ Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-note-30-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Note 30 Pro Lock Screen Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-zero-30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Zero 30 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-mix-fold-3-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Mix Fold 3 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-hot-40-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Hot 40 Pro Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-s18-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo S18 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-13t-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi 13T Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-ranking-wireless-sound-systems-the-ultimate-guide-to-the-finest-portable-speakers/"><u>Top-Ranking Wireless Sound Systems - The Ultimate Guide to the Finest Portable Speakers</u></a></li>
 </ul></div>
 

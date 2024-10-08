@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 12 Prominent Honor V Purse Fingerprint Not Working Solutions
-date: 2024-09-09T03:54:07.947Z
-updated: 2024-09-14T05:44:48.366Z
+date: 2024-09-30T22:22:20.644Z
+updated: 2024-10-07T22:10:26.726Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,13 +23,6 @@ Dr.Fone offers a swift solution to remove the Android lock screen in five minute
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -47,6 +40,13 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 2. With Dr.Fone, bypassing screen locks can be achieved without data loss.
 3. Fone supports 2000+ Android phones and tablets from over 18 brands for screen unlocking.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide To Remove Fingerprint Type Lock on Google Pixel Using Dr.Fone
 
 With Dr.Fone, you can resolve the **Honor V Purse fingerprint sensor not working** issue within minutes. Below is a detailed walkthrough for removing a fingerprint lock on a Google Pixel:
@@ -57,18 +57,24 @@ Open Wondershare Dr.Fone and connect your Android device via a USB cable. Once t
 
 ![opt for dr fone screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2: Selecting Google As the Honor V Purse device Brand and Activating Recovery Mode**
 
 Afterward, you'll be guided to a subsequent screen prompting you to choose the Honor V Purse device brand, Google. Once you select the brand, you'll be directed to enter a specific mode corresponding to it. For Google Pixel Devices, the specific mode to enter is Recovery Mode. Simply follow the on-screen instructions to activate Recovery Mode on your device.
 
 ![put your device in recovery mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3: Initiate the Fingerprint Removal Process**
 
@@ -77,21 +83,22 @@ After entering Recovery Mode, the screen unlocking procedure will initiate autom
 ![screen unlocked successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2. 11 Conventional Solutions To Resolve Pixel Fingerprint Not Working
 
 The solution above using Wondershare Dr.Fone is an effective and comprehensive method. It can tackle fingerprint recognition issues, but sometimes, users may look for simpler alternatives. We will explore conventional solutions that can address Pixel fingerprint problems. Each solution will also explain the underlying reasons for the **Pixel 6 fingerprint sensor** issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Fingerprint Sensor Not Touched Firmly
 
@@ -118,23 +125,17 @@ One of the easiest and simplest solutions is to restart your Pixel phone. You ca
 ![restart google pixel device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Outdated Firmware
@@ -173,13 +174,6 @@ Use compressed air or a soft brush if there's visible debris or particles around
 
 ![dirty sensor or phone issue](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Screen Protector: Dirty or Damaged
 
 #### Problem
@@ -207,17 +201,10 @@ There can be air bubbles trapped under the screen protector. If there are, gentl
 ![protector screen dirty or damaged](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Clean Your Finger
@@ -238,20 +225,6 @@ Refrain from touching oily or greasy surfaces before using the fingerprint senso
 
 ![cleaning finger to use fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Covering Screen if Fingerprint on Screen
 
 #### Problem
@@ -270,13 +243,6 @@ While holding the Honor V Purse device, avoid placing your fingers or palms over
 
 ![hold phone properly](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Fingerprint Sensor Not Visible
 
 #### Problem
@@ -288,20 +254,6 @@ Misconfigured settings on your Pixel device can lead to situations where the fin
 You must adjust the display settings to ensure the fingerprint sensor is always visible. To do that, you can begin by opening the Settings app. Navigate to the "Display" tab and select "Lock Screen." On the following window, toggle on "Always show time and info."
 
 ![put sensor to always display](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. Low Touch Sensitivity
 
@@ -347,19 +299,6 @@ Boot the Honor V Purse device in safe mode to determine if third-party apps are 
 
 ![reboot google pixel to safe mode](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-16.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### 3\. Professional Assessment
 
 If you suspect hardware issues, seek professional help from authorized service centers. A clear sign of hardware issues can be visible damage or the sensor failing to function even in safe mode.
@@ -388,21 +327,7 @@ Proceed with the following steps to execute a factory reset on your Pixel device
 
 ![factory reset your device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In summary, this article detailed various methods to fix **the Honor V Purse fingerprint not working**. Diverse approaches were explored, from simple steps like sensor cleaning to advanced solutions like factory resets. However, Dr.Fone stands out among these solutions as a top-tier option. It offers a secure and efficient resolution to the persistent problem of fingerprint failure on the Honor V Purse  .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Reset your Honor V Purse Lock Screen Password
 
@@ -415,10 +340,10 @@ The device becomes inaccessible and requires an Android password reset. But ther
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 1: Dr.Fone - Screen Unlock (Android): A Direct Way to Unlock the Phone
@@ -429,13 +354,6 @@ Wondershare offers you 100% security as it only authorizes you access. It is sim
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -443,5 +361,21 @@ Wondershare offers you 100% security as it only authorizes you access. It is sim
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-all-you-need-to-know-about-adding-apple-music-to-video/"><u>[New] All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigate-the-clouds-and-crowd-fb-livestreams-via-dji/"><u>[Updated] In 2024, Navigate the Clouds and Crowd FB Livestreams via DJI</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-instant-how-to-converting-photos-to-your-youtube-channels-thumbnails/"><u>[Updated] Instant How-To Converting Photos to Your YouTube Channel's Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-hue-harmonizer-tool/"><u>[Updated] Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-secure-is-your-data-with-chatgpt-examining-the-privacy-implications/"><u>How Secure Is Your Data with ChatGPT: Examining the Privacy Implications</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-infinix-note-30-devices-by-drfone-android/"><u>How to Reset Gmail Password on Infinix Note 30 Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-smart-8-hd-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Smart 8 HD Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-vivo-s18e-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo S18e Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-k70-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi K70 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-a70-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel A70 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/omnipresent-overture-the-virtual-cinema-for-2024/"><u>Omnipresent Overture The Virtual Cinema for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-loading-hang-up-solved-a-step-by-step-guide/"><u>Roblox Loading Hang-Up Solved: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-itel-a60s-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Itel A60s</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-faster-download-rates-ultimate-tips-and-tricks-revealed/"><u>Unlock Faster Download Rates: Ultimate Tips and Tricks Revealed</u></a></li>
+</ul></div>
 

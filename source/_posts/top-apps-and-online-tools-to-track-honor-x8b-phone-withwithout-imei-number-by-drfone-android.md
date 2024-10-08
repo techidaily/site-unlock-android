@@ -1,7 +1,7 @@
 ---
 title: Top Apps and Online Tools To Track Honor X8b Phone With/Without IMEI Number
-date: 2024-09-23T18:27:15.249Z
-updated: 2024-09-27T19:45:53.789Z
+date: 2024-10-01T21:01:09.677Z
+updated: 2024-10-07T20:28:05.067Z
 tags: 
   - unlock
   - remove screen lock
@@ -35,6 +35,19 @@ This makes it an indispensable component of modern mobile technology. The IMEI n
 3. **Warranty and Support:** Manufacturers use IMEI numbers to manage warranties and provide technical support. These numbers help confirm the Honor X8b device's authenticity, purchase date, and warranty coverage. This streamlines the process of repairs and replacements.
 4. **Security Measures:** IMEI numbers play a role in security measures such as device blacklisting. If a device is reported stolen, its IMEI number can be added to a global database. This prevents it from being used on any network and renders it useless to thieves.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: A Dedicated Android Solution To Track Phone Location Using IMEI Number
 
 IMEI numbers are important for more than just working as identifiers. One practical application lies in tracking a lost or stolen phone. It is a scenario that can cause significant distress. To address this concern, a great solution is the "[**<u><b>AntiTheft App - IMEI Tracker, All Mobile Location</b></u>**](https://m.apkpure.com/antitheft-app-imei-tracker-all-mobile-location/com.antitheft.app.imei.number.tracker)."
@@ -42,13 +55,6 @@ IMEI numbers are important for more than just working as identifiers. One practi
 It is a dedicated Android app designed to harness the power of IMEI numbers for phone tracking. This **anti-theft app & IMEI tracker** provides a comprehensive method to locate a misplaced or stolen device. Its core work revolves around using the IMEI number to find the Honor X8b device's location. With it, you can send commands via SMS (text messages) from an alternate device.
 
 ![antitheft app and imei tracker app](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 These functionalities encompass using secure commands with a designated secret code. Using these commands, you can have the smartphone ring audibly at its maximum volume. It can also get the GPS coordinates of the Honor X8b device. You can also display a personalized message across the screen. Lastly, it can even capture photographs through the front-facing camera.
 
@@ -66,13 +72,6 @@ The purpose of this web-based platform is to streamline the procedure for locati
 - **Step 2:** On the next page, enter your lost device's IMEI number and select the country. Afterward, click "Track IMEI" to kickstart the tracking process.
 
 ![use imei tracker online app](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2. [<u>TrackIMEI.net</u>](https://trackimei.net/)
 
@@ -94,13 +93,6 @@ To activate the tracking function, the app must be installed on the targeted pho
 
 ![find my device imei tracker](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2. [<u>Anti-Theft Mobile Tracker</u>](https://play.google.com/store/apps/details?id=com.sim.location&hl=en&gl=US)
 
 The Anti-Theft Mobile Tracker app provides an innovative approach to tracking devices. It allows the transmission of the precise location of the lost device to a recipient device. This functionality operates without requiring an active Internet connection.
@@ -116,6 +108,13 @@ Losing access to our own devices due to a forgotten password or lock pattern can
 The utility offers different unlock modes to cater to various scenarios. These include PIN, pattern, password, and even fingerprint or facial recognition. Wondershare Dr.Fone boasts a high success rate in unlocking devices, making it a reliable option.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -214,13 +213,6 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 ![cain and abel](https://images.wondershare.com/images/utilities/cain-and-abel_39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Features of Cain & Abel:**
 
 - Used for WEP (Wired Equivalent Privacy) cracking
@@ -233,6 +225,13 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 [http://www.oxid.it](http://www.oxid.it/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. John the Ripper : Multi-platform, Powerful, Flexible password cracking tool
 
 John the Ripper is a free multi or cross platform password cracking software. Its called multi platform as it combines different password cracking features into one package.
@@ -240,6 +239,13 @@ John the Ripper is a free multi or cross platform password cracking software. It
 It’s primarily used to crack weak UNIX passwords but also available for Linux, Mac, and Windows. We can run this software against different password encryptions including many password hashes normally found in different UNIX versions. These hashes are DES, LM hash of Windows NT/2000/XP/2003, MD5, and AFS.
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features of John the Ripper**
 
@@ -288,6 +294,19 @@ It can be used to crack passwords of different protocols including HTTPS, HTTP, 
 **Site for Download:**
 
 [https://www.thc.org/thc-hydra/](https://www.thc.org/thc-hydra/)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. RainbowCrack : New Innovation in Password Hash Cracker
 
@@ -339,10 +358,10 @@ It is only available for windows operation systems. Tool has a limitation that i
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Features of Brutus**
@@ -359,10 +378,10 @@ It is only available for windows operation systems. Tool has a limitation that i
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
@@ -484,13 +503,6 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 
 ![set new lock screen](https://images.wondershare.com/drfone/article/2017/09/15057371966761.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 6.** Apply these changes and exit the window to change the lock on your device.
 
 ## Part 3: How to Unlock Android Pattern Lock Using the 'Forgot Pattern' Feature?
@@ -501,6 +513,13 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 - **Step 2.** From the bottom of the screen, you can tap on the “Forgot Pattern” feature.
 
 ![forgot pattern](https://images.wondershare.com/drfone/article/2017/09/15057372111138.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3.** Select the option to unlock your device with your Google credentials.
 
@@ -524,13 +543,6 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 - **Step 3.** Additionally, you can access various other services from here as well. Click on the “Unlock My Device” option to proceed.
 
 ![pattern unlock](https://images.wondershare.com/drfone/article/2017/09/15057373115477.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
@@ -589,24 +601,22 @@ By following this guide, you would certainly be able to learn how to unlock the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-insta-video-backup-two-methods-for-seamless-access/"><u>[New] 2024 Approved Insta Video Backup Two Methods for Seamless Access</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-beacon-of-ringtone-richness-online/"><u>[Updated] In 2024, Beacon of Ringtone Richness Online</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-compiling-the-top-windows-11-video-capture-tools/"><u>2024 Approved Compiling the Top Windows 11 Video Capture Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-is-a-quick-subscribe-worthwhile-for-youtubers/"><u>2024 Approved Is a Quick Subscribe Worthwhile for YouTubers?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-power-of-hashtags-in-growing-your-instagram-reel-presence/"><u>2024 Approved The Power of Hashtags in Growing Your Instagram Reel Presence</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-spark-go-2023-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Spark Go (2023) to Protect Your Individual Information</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-phantom-v-flip-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Phantom V Flip</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-xiaomi-mix-fold-3-easily-by-drfone-android/"><u>How To Unlock a Xiaomi Mix Fold 3 Easily?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y100i-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y100i</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-s23-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Itel S23 Phone Without Password?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/minimize-surround-loudness-economical-and-premium-solutions/"><u>Minimize Surround Loudness - Economical & Premium Solutions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-discovering-the-elite-6-leading-auto-transcribing-software-solutions/"><u>New 2024 Approved Discovering the Elite 6 Leading Auto-Transcribing Software Solutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/open-source-gaming-soundtracks-library-for-2024/"><u>Open Source Gaming Soundtracks Library for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/polarr-editor-explained-the-ultimate-visual-enhancement-pathway-for-2024/"><u>Polarr Editor Explained The Ultimate Visual Enhancement Pathway for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-discords-screen-share-blackout-problem/"><u>Resolved: Troubleshooting Discord's Screen Share Blackout Problem</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-hot-40-by-drfone-android/"><u>Universal Unlock Pattern for Infinix Hot 40</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-smart-8-by-drfone-android/"><u>Universal Unlock Pattern for Infinix Smart 8</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-strategy-for-perfect-xbox-screen-recordings/"><u>[New] The Ultimate Strategy for Perfect Xbox Screen Recordings</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-from-average-to-astounding-tiktoks-best-image-tweaks/"><u>[Updated] From Average to Astounding TikTok's Best Image Tweaks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-dynamic-youtube-music-chains/"><u>[Updated] In 2024, Building Dynamic YouTube Music Chains</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-list-of-10-online-free-jpg-to-gif-conversion-programs/"><u>[Updated] Ultimate List of 10 Online, Free JPG to GIF Conversion Programs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-zoom-videos-essential-3-part-methodology/"><u>2024 Approved Optimizing Zoom Videos Essential 3-Part Methodology</u></a></li>
+<li><a href="https://fox-http.techidaily.com/dramatic-lighting-in-hdr-portrait-photography-for-2024/"><u>Dramatic Lighting in HDR Portrait Photography for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-in-touch-with-digiartys-winxdvd-team-for-assistance-and-queries/"><u>Get in Touch with Digiarty's WinXDVD Team for Assistance & Queries</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-13t-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi 13T Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone XS Max?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-20-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Spark 20</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-itel-a70-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Itel A70 Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-note-30i-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Note 30i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-itel-a05s-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Itel A05s? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/11-on-building-sports-video-gold-for-2024/"><u>The 411 on Building Sports Video Gold for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-note-13-proplus-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi Note 13 Pro+ 5G Device</u></a></li>
 </ul></div>
 

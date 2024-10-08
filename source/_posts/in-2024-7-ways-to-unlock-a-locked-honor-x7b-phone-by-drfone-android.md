@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Ways to Unlock a Locked Honor X7b Phone
-date: 2024-09-21T17:17:22.774Z
-updated: 2024-09-27T18:18:16.171Z
+date: 2024-10-02T02:22:21.008Z
+updated: 2024-10-07T17:00:26.053Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,16 +51,16 @@ To learn how to get into a locked phone using Dr.Fone, follow these steps:
 
 ![get into a locked phone with Dr.Fone-](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Connect your Android device to the computer. Click "Android" > "Unlock Android Screen" and select the Honor X7b device brand on the list. If your device is listed in the [supported list](https://drfone.wondershare.com/reference/android-lock-screen-removal.html), you can unlock locked phone without data loss.
 
 ![get into a locked phone with Dr.Fone-Start](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3.** Now, you need to put your Android device in Download mode. To do this, you need to turn your device off by pressing the Power button. Afterward, press the Home, Power, and Volume Down buttons together. After a while, let go of these buttons and press the Volume Up button to enter the Download Mode.
 
@@ -88,13 +88,6 @@ Google’s Android Device Manager (also known as Find My Device) can be used to 
 - **Step 4.** This will display a new prompt. From here, you can get the new password for your device and confirm it.
 
 ![get into a locked phone-provide the new password](https://images.wondershare.com/drfone/article/2017/10/15081758975970.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5.** Additionally, if your device is lost, you can display an optional message and contact number on the lock screen. Click on the “Lock” button to save changes and exit the screen.
 
@@ -124,6 +117,13 @@ If your device is based on Android 4.4 and earlier versions, you may also use it
 
 ![get into a locked phone-Forgot Pattern](https://images.wondershare.com/drfone/article/2017/10/15081760134210.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3.** On the next screen, you can unlock your device by providing the backup PIN of your device or sign in using the Google credentials of the account linked to the Honor X7b device.
 
 ![get into a locked phone-unlock your device](https://images.wondershare.com/drfone/article/2017/10/15081760404056.jpg)
@@ -140,23 +140,9 @@ If nothing else seems to work, then you can also choose to factory reset your de
 
 ![get into a locked phone-enter the recovery mode](https://images.wondershare.com/drfone/article/2017/10/15081760743252.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4.** Select the option of “wipe data/factory reset.
 
 ![get into a locked phone-factory reset](https://images.wondershare.com/drfone/article/2017/10/15081760902466.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5.** This will display the following prompt. Confirm your choice by selecting the “Yes” option.
 
@@ -173,6 +159,19 @@ If you are using a third-party application to lock your device, you can easily d
 - **Step 3.** It will provide the following prompt regarding Safe Mode. Just tap on the “Ok” button to confirm your choice.
 
 ![get into a locked phone-tap on the “Ok”](https://images.wondershare.com/drfone/article/2017/10/15081761296376.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 7: How to get into a locked phone using Custom Recovery?
 
@@ -210,6 +209,19 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 
 ![setup android pattern lock screen-unlock your device](https://images.wondershare.com/drfone/article/2017/09/15057378431872.jpg) ![setup android pattern lock screen-Under the personal or privacy section](https://images.wondershare.com/drfone/article/2017/09/15057378838236.jpg) ![setup android pattern lock screen-access Lock Screen and Security](https://images.wondershare.com/drfone/article/2017/09/15057379016188.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - 4\. To set up a pattern lock screen, tap on the “Screen lock type” feature.
 - 5\. This will provide a list of all the different kinds of locks that you can apply. Ideally, it would be password, pin, pattern, swipe, or none. In “Swipe”, you can unlock a device just by swiping the screen. Whereas, in pattern, pin, or password, you would be needed to provide the respective pattern/pin/password to unlock the Honor X7b device.
 - 6\. We recommend setting up a lock screen pattern instead. To do this, tap on the “Pattern” option.
@@ -221,13 +233,6 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 - 9\. Additionally, the interface will ask you to provide a security pin as well. In case if you will forget your pattern, then you can access your phone by taking the assistance of this pin.
 
 ![setup android pattern lock screen](https://images.wondershare.com/drfone/article/2017/09/15057380143598.jpg) ![setup android pattern lock screen-provide the same pattern](https://images.wondershare.com/drfone/article/2017/09/15057380317550.jpg) ![setup android pattern lock screen-provide a security pin](https://images.wondershare.com/drfone/article/2017/09/15057380506350.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - 10\. Similarly, you would be required to confirm the pin as well to finish the setup.
 - 11\. That’s it! By completing these steps, a screen lock pattern will be implemented on your device.
@@ -291,6 +296,13 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 6](https://images.wondershare.com/drfone/article/2017/09/15057386032751.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 # 6
 
 8 > 4 > 1 > 5 > 9 > 6 > 2 > 3 > 7
@@ -314,6 +326,13 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 1 > 5 > 9 > 4 > 8 > 2 > 6 > 3 > 7
 
 ![android pattern lock idear 9](https://images.wondershare.com/drfone/article/2017/09/15057386683110.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 # 10
 
@@ -343,13 +362,6 @@ Here you will see how to set up a screen lock on your Android device:
 
 ![screen lock](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Quickly Unlock Your Screen By Dr.Fone
 
 ### Dr.Fone - Screen Unlock
@@ -376,10 +388,10 @@ The Best Tool to unlock Android Phone Screen!
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2. Select Unlock Android Screen**
@@ -448,13 +460,6 @@ Depending on your phone, the steps for this process might vary a little. Most ph
 
 After that, your Android will start the process, which can require a few minutes. However, this process will erase all your user data.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Use ADB
 
 This method is very confusing, so follow the steps cautiously on your Android phone to remove the **phone lock**. With your phone connected to your PC, and the cmd open, type the accompanying commands altogether:
@@ -490,6 +495,13 @@ This strategy to sidestep a locked screen is only a crisis workaround for the ph
 
 ![ten asterisks](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Copy and paste asterisks on the dialer until the "Paste" choice no longer appears.
 - Get back to the lock screen and tap on the camera symbol.
 - Go to the settings on your Android after pulling down the notifications bar. Now you will have the chance to enter the password, and you must continue the same thing here. Continue to paste until the Android lock screen crashes.
@@ -512,21 +524,22 @@ Passwords shield our phones from unapproved access, yet we get locked out unexpe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-step-by-step-tutorial-enhancing-your-hp-screen-recordings/"><u>[New] 2024 Approved Step-by-Step Tutorial Enhancing Your HP Screen Recordings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-next-gen-screen-capture-tools-ultra-fast-action-for-2024/"><u>[New] Next-Gen Screen Capture Tools - Ultra-Fast Action for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-optimizedusageofyourwebcamrecorder-for-2024/"><u>[New] OptimizedUsageOfYourWebcamRecorder for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-infinite-gaming-space-10-ssds-hdds-for-ps5-for-2024/"><u>[Updated] Infinite Gaming Space #10 SSDs, HDDs for PS5 for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-in-windows-media-player-for-streamlined-audio-conversion/"><u>2024 Approved Expertise in Windows Media Player for Streamlined Audio Conversion</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-go-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://fox-making.techidaily.com/comprehensive-flipwriter-guide-unlocking-the-power-of-digital-copywriting-at-flipbuildercom/"><u>Comprehensive FlipWriter Guide: Unlocking the Power of Digital Copywriting at FlipBuilder.com</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-90-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor 90</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-spark-go-2023-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-12-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi 12 Phone that is Locked?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-smart-8-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Smart 8 Pro Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12t-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12T Pro Phone without PIN</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-nubia-z50-ultra-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Nubia Z50 Ultra Phone Now with These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-app-management-with-winget-on-w11/"><u>Mastering App Management with Winget on W11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862807977-samsung-odyssey-gaming-monitor-4k-55-inches-new-generation-unprecedentedly-affordable/"><u>Samsung Odyssey Gaming Monitor (4K, 55 Inches) - New Generation, Unprecedentedly Affordable!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screenrecorder-evaluation-tool/"><u>[New] ScreenRecorder Evaluation Tool</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-transfer-guide-5-top-techniques-for-computing-files/"><u>[New] The Ultimate Transfer Guide 5 Top Techniques for Computing Files</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-winning-game-recording-guide-for-w11-users/"><u>[New] Winning Game Recording Guide for W11 Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-art-of-duality-mastering-image-turnover-on-social-media-giants/"><u>2024 Approved The Art of Duality Mastering Image Turnover on Social Media Giants</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-tecno-phantom-v-fold-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Tecno Phantom V Fold Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-spark-10-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Spark 10 5G Fingerprint Lock</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-google-pixel-8-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Google Pixel 8</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-7t-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor Play 7T Phone without Google Account?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-a05s-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel A05s Phone that is Locked?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-smart-8-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Infinix Smart 8</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-enhancing-photos-with-cropping-tools/"><u>In 2024, Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-note-30-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Note 30</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-poco-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Poco on Windows?</u></a></li>
 </ul></div>
 

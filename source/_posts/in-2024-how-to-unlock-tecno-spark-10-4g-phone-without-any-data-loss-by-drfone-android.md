@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Tecno Spark 10 4G Phone without Any Data Loss
-date: 2024-09-28T22:58:44.657Z
-updated: 2024-10-03T01:08:03.429Z
+date: 2024-10-01T06:52:43.651Z
+updated: 2024-10-08T02:09:26.751Z
 tags: 
   - unlock
   - remove screen lock
@@ -73,6 +73,13 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 That's how to unlock an Android phone with just one click using Wondershare's Dr.Fone. If your device is not Samsung or LG, you can use a more advanced mode to [unlock your phone](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How to Unlock Android Phone with Aroma File Manager (with Data Loss)/h2>
 
 If you weren't able to open your Wi-Fi or data connection or enable USB Debugging, this is the way for you to unlock your lock screen. This could be a bit complicated, but it should work.
@@ -87,6 +94,13 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![Copy Aroma zip file](https://images.wondershare.com/drfone/article/2016/06/14647610755085.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Plug into your PC a memory card that you can insert into your phone later. Then, go to your list of connected devices and select the memory card.
 
 ![open memory card on pc](https://images.wondershare.com/drfone/article/2016/06/14647610775226.jpg)
@@ -94,6 +108,13 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 **Step 4.** Paste the copied Aroma zip file. Once copied, eject it from your PC, then insert it into your Android device.
 
 ![Paste aroma file manager](https://images.wondershare.com/drfone/article/2016/06/14647610796449.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![arom file manager pasted](https://images.wondershare.com/drfone/article/2016/06/14647610819837.jpg)
 
@@ -116,13 +137,6 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![arom file manager](https://images.wondershare.com/drfone/article/2016/06/14647610871048.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you have your device booted up, and your Android lock screen is still locked, just gesture in or enter anything. It will be unlocked. And that's how to unlock an Android phone using your device.
 
 ## Part 3. How to Unlock Android Phone Using Minimal ADB and Fastboot (with Data Loss)
@@ -135,13 +149,6 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 ![Minimal adb and fastboot dowload page](https://images.wondershare.com/drfone/article/2016/06/14648313491726.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Download the tool's latest version.
 
 ![Minimal adb and fastboot downloaded](https://images.wondershare.com/drfone/article/2016/06/14648313521345.jpg)
@@ -151,13 +158,6 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
 
 ![Minimal adb and fastboot setup](https://images.wondershare.com/drfone/article/2016/06/14648313551732.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Minimal adb and fastboot installation complete](https://images.wondershare.com/drfone/article/2016/06/14648313566582.jpg)
 
@@ -191,6 +191,13 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 - _.quit_
 
 ![Minimal adb and fastboot adb shell command](https://images.wondershare.com/drfone/article/2016/06/14648317729484.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This would work if you have your USB debugging turned on before it was locked. That's how to unlock Android using ADB.
 
@@ -241,10 +248,16 @@ You will be given the option to input a new password or pattern right after you 
 You can always stay in touch with friends, family, and coworkers thanks to voicemail support, which is provided by most cell phones. However, forgetting the voicemail passcode is simple when we must remember many codes to open various devices. Fortunately, there are workarounds you can use to get back into your voicemail mailbox. Keep reading to find out what to do if you forget your voicemail password.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: 3 Easy Ways To Reset Or Change Your Lost Voicemail Password
@@ -261,6 +274,13 @@ The actions following should be followed when your carrier certifies that the vo
 
 - Take your SIM card out.
 - Put the new SIM card in. Your gadget will turn on, and you will be able to generate a new voicemail password.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use your code to reset password
 
@@ -280,13 +300,6 @@ You can also reset your voicemail password, which means that you can generate a 
 - Select the Tecno Spark 10 4G device you wish to manage by scrolling to My Devices & Add-ons.
 - Choosing Manage my device.
 - Look under Device choices & settings, choose Reset voicemail password, then adhere to the on-screen instructions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. User carriers' apps or websites
 
@@ -387,6 +400,13 @@ Note: Different brands have different steps to enter the Recovery Mode.
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5. Instructions to Wipe Cache Partition**
 
 Good! You’re now in the final step, be careful to choose the correct options so that the whole process will be perfectly over.
@@ -447,13 +467,6 @@ The purpose of this web-based platform is to streamline the procedure for locati
 
 ![use imei tracker online app](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2. [<u>TrackIMEI.net</u>](https://trackimei.net/)
 
 Another player in the online IMEI tracking space is TrackIMEI.net. It offers a user-friendly approach to locating missing devices. By inputting the IMEI number into the platform, you can pinpoint the location of your device. This service also facilitates the reporting of lost or stolen devices. Use the following steps to locate your device via TrackIMEI.net.
@@ -474,19 +487,6 @@ To activate the tracking function, the app must be installed on the targeted pho
 
 ![find my device imei tracker](https://images.wondershare.com/drfone/article/2023/08/anti-theft-app-and-imei-trackers-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2. [<u>Anti-Theft Mobile Tracker</u>](https://play.google.com/store/apps/details?id=com.sim.location&hl=en&gl=US)
 
 The Anti-Theft Mobile Tracker app provides an innovative approach to tracking devices. It allows the transmission of the precise location of the lost device to a recipient device. This functionality operates without requiring an active Internet connection.
@@ -503,13 +503,6 @@ The utility offers different unlock modes to cater to various scenarios. These i
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -520,6 +513,19 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 - Provide specific removal solutions to promise good success rate.
 
 **4,008,671** people have downloaded it
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Prominent Features of Wondershare Dr.Fone
 
@@ -575,18 +581,24 @@ As a bonus, Wondershare Dr.Fone emerged as a powerful ally for those locked out 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-acoustic-alerts-on-whatsapp-status/"><u>[New] Acoustic Alerts on WhatsApp Status</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/como-convertir-archivos-flv-a-formato-avi-sin-coste-guia-completa-con-movavi/"><u>Cómo Convertir Archivos FLV a Formato AVI Sin Coste: Guía Completa Con Movavi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-pc-issues-how-outdated-graphics-drivers-cause-minecraft-crashes/"><u>Fixing Windows PC Issues: How Outdated Graphics Drivers Cause Minecraft Crashes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/get-the-no-cost-videoaudio-format-changer-now-seamlessly-switch-your-files-from-any-source-to-mp4-and-save-mp3s/"><u>Get the No-Cost Video/Audio Format Changer Now – Seamlessly Switch Your Files From Any Source to MP4 and Save MP3s</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-a2-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Xiaomi Redmi A2 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-lite-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo V30 Lite 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2plus-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2+ Phone with Broken Screen</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/intro-to-urdu-vital-linguistic-tools-for-newcomers/"><u>Intro to Urdu: Vital Linguistic Tools for Newcomers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/iphone-update-guide-knowing-when-you-can-step-up/"><u>IPhone Update Guide: Knowing When You Can Step Up</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/leveraging-the-capabilities-of-cookiebot-to-optimize-your-online-presence/"><u>Leveraging the Capabilities of Cookiebot to Optimize Your Online Presence</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-seek-out-stimulating-youtube-snippets/"><u>[New] 2024 Approved Seek Out Stimulating YouTube Snippets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-master-installation-process-of-wm6/"><u>[Updated] 2024 Approved Master Installation Process of WM6</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-time-hopping-through-facebook-stories-a-device-based-expedition/"><u>[Updated] Time-Hopping Through Facebook Stories A Device-Based Expedition</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-smart-8-hd-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Smart 8 HD.</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-enlisted-game-performance-effective-tips-for-increasing-fps-and-eliminating-lag/"><u>Boost Your Enlisted Game Performance: Effective Tips for Increasing FPS and Eliminating Lag</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y36i-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y36i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-pop-7-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Pop 7 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-s23-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel S23 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-g2-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo G2</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-realme-c67-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Realme C67 5G FRP Locks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-vivo-y36i-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y36i Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Phone without Google Account?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamlessly-add-music-to-inshot-on-mobile-devices/"><u>In 2024, Seamlessly Add Music to InShot on Mobile Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-social-media-savvy-instagrams-best-tips-for-gif-uploads-and-posting/"><u>In 2024, Social Media Savvy Instagram's Best Tips for GIF Uploads and Posting</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-itel-p55-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Itel P55 5G Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/master-the-art-of-installing-vrecorder/"><u>Master the Art of Installing VRecorder</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-civi-3-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Civi 3</u></a></li>
 </ul></div>
 

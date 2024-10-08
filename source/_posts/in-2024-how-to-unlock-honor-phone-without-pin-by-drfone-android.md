@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Honor Phone without PIN
-date: 2024-09-30T21:24:02.643Z
-updated: 2024-10-02T21:06:33.071Z
+date: 2024-10-04T00:23:33.959Z
+updated: 2024-10-08T00:05:38.911Z
 tags: 
   - unlock
   - remove screen lock
@@ -48,22 +48,21 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 ![unlock your Android PIN-Download and install Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2:** On the interface that appears, click "Start", and then connect your Honor X9b deviceto your PC using a USB cable.
 
 ![unlock your Android PIN-connect your android device](https://images.wondershare.com/drfone/drfone/android-unlock-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3**. Select your phone's model in the list provided. Type "000000" on the blank box provide and then click the "Confirm" button.Then follow the guide provided to enter download Mode. You can also Power off the android device, and then press Power, Home and Volume Down button simultaneously and then press the Volume Up in order to enter download mode.
 
@@ -72,13 +71,6 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 **Step 4.** The program will then download recovery package automatically. Be patient until the process is complete. After that you can now remove the lock pin.
 
 ![unlock your Android PIN-download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![unlock your Android PIN-remove the lock pin](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
@@ -94,6 +86,13 @@ So how do you set up your android screen lock PIN? Here is a step-by-step guide 
 
 ![enable or disable screen lock PIN-Open ](https://images.wondershare.com/drfone/article/2016/05/14646049425841.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 On your android device, open Settings. You can find the settings app in the app; drawer. You can also tap the cog icon on the notification mode and click Settings.
 
 **Step 2**: Select the "Security" tab under "Personal"
@@ -103,6 +102,19 @@ On your android device, open Settings. You can find the settings app in the app;
 **Step 3**: Once you have clicked on "Security", Go to "Screen Lock." You will be provided with lock screen option such as None, Swipe, Pattern. PIN, and Password.
 
 ![enable or disable screen lock PIN-Go to Screen Lock](https://images.wondershare.com/drfone/article/2016/05/14646063398300.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4**. Click on "PIN" option. You will be prompted to enter preferred 4-didgit PIN number. You will then be required o key in the same 4 digits to confirm your security PIN. Click "OK" and you will have enabled your Android screen lock PIN.
 
@@ -119,30 +131,37 @@ In most occasions, in fact, 99.9%, the first thing that you will see when you po
 ![enable or disable screen lock PIN-open the ](https://images.wondershare.com/drfone/article/2016/05/14646075518966.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2.** In the interface that opens, go to "Security"
 
 ![enable or disable screen lock PIN-go to ](https://images.wondershare.com/drfone/article/2016/05/14646076268107.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**. You can then click on "Screen Lock" and select "None" to disable the screen lock PIN.
 
 ![enable or disable screen lock PIN-disable the screen lock PIN](https://images.wondershare.com/drfone/article/2016/05/14646081243209.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You will be prompted to enter the current PIN in order to disable it. Key in the PIN and you will have successfully disabled the Lock screen PIN. When you power off and the power on your android device, you will easily access your phone without any need for security PIN. Similarly, anyone can use your phone if they can gain access to it as it doesn't have any screen lock.
 
 Enabling screen lock on your Android is the smartest thing to do especially if you value your own privacy. On the other hand, it is a nightmare if you forget screen lock and you don't know how to go about it. But at this moment, at least you have known a perfect way that you can remove screen lock without losing data on your Android phone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Easily Unlock Honor Screen?
 
@@ -161,13 +180,6 @@ Let's get started!
 Like most people, you probably lock your Honor phone as soon as you turn it on. It's a good way to keep your phone safe from prying eyes and accidental button presses. But what happens when you forget your phone's passcode? Or worse, what if your phone gets locked by a malicious app?
 
 There are a few different ways to unlock your Honor phone. We'll show you how to do it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 1. Google Find My Device (Without Password/Pin/Pattern)
 
@@ -219,6 +231,13 @@ Follow the steps below if you want to know how to unlock the Honor phone keypad 
 
 Your Honor is now password, pattern lock, screen lock, and PIN-free after a hard reset.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3. Unlock With Answer Security Questions
 
 You can reset the Honor pattern lock using Google security questions without losing data.
@@ -233,13 +252,6 @@ Follow the steps below on how to unlock the Honor phone pin code:
 - **Step 6**: Choose “YES” from the “YES” or “NO” menu, and the password field will appear.
 - **Step 7**: Change your password or PIN.
 - **Step 8**: You will see your Honor unlocked soon.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4. Unlock the Keypad With a Security Code
 
@@ -261,13 +273,6 @@ If you have a classic-style keypad phone or an Android device, unlocking a locke
 
 _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a tool that helps you keep your important data safe. It can back up all the important information on your Honor phone, like photos, music, videos, contacts, and more and is compatible with over 8000 Android devices. The backup process is easy and only takes a few clicks. You can also restore your backup to any device you want, and choose which data you want to restore. This is a great way to make sure you never lose your important Honor data!_
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X9b
 
 FRP, popularly known as the Factory Reset Protection program, is an additional data protection feature for all Android users. As per the FRP feature, in any unfortunate event wherein you lose the Honor X9b device or if any unauthorized person tries to reset it, the Honor X9b device will require the Google Account ID and password to be fed in. So, this program is designed to curb the chances of theft and other fraudulent activities.
@@ -281,6 +286,13 @@ Dr.Fone - Screen Unlock can help you bypass your Google account and enter into y
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/MU8fYmLJBXg" id="video-iframe-t"></iframe>
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Features
 
@@ -313,24 +325,22 @@ You can easily download it from Dr.Fone's official website within one minute and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-crafting-igtv-cover-photos/"><u>[Updated] Step-by-Step Guide to Crafting IGTV Cover Photos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/discover-the-perfect-moment-timing-your-insta-posts/"><u>Discover the Perfect Moment Timing Your Insta Posts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-y100-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo Y100 5G?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-spark-go-2023-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Spark Go (2023) Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-13c-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 13C 5G Bootloader Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/icloud-photo-management-how-to-selectively-erase-and-preserve-memories-locally/"><u>ICloud Photo Management: How to Selectively Erase and Preserve Memories Locally</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-v30-lite-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo V30 Lite 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-11-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 11 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-smart-8-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Smart 8</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi 13T Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-zte-nubia-z60-ultra-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your ZTE Nubia Z60 Ultra Phone Pattern Lock</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigate-the-best-online-education-resources-with-our-expert-picks-for-top-notch-course-platforms/"><u>Navigate the Best Online Education Resources with Our Expert Picks for Top-Notch Course Platforms</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-xr-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone XR Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-complete-guide-to-automating-ppt-captures/"><u>The Complete Guide to Automating PPT Captures</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-hot-40i-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Hot 40i Phone Pattern Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-y100i-power-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo Y100i Power 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/king-the-mysteries-behind-youtube-wealth-ajey-nagar-edition-for-2024/"><u>Unlocking the Mysteries Behind YouTube Wealth - Ajey Nagar Edition for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-practices-sourcing-background-beats-for-boxings/"><u>[New] Best Practices Sourcing Background Beats for Boxings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-effortless-guide-to-share-your-videos-as-shorts-on-computers-and-phones/"><u>[New] In 2024, Effortless Guide to Share Your Videos as Shorts on Computers & Phones</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ipados-paint-the-creme-de-la-creation-apps/"><u>[Updated] 2024 Approved IPadOS Paint The Crème De La Création Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-innovative-techniques-for-video-editing-on-windows-8-movie-maker/"><u>[Updated] Innovative Techniques for Video Editing on Windows 8 Movie Maker</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/centre-dassistance-technique-numerique-pour-les-outils-video-winx-dvd-ripper-et-logiciels-conversion-video-expliques/"><u>Centre D'assistance Technique Numérique Pour Les Outils Vidéo : WinX DVD Ripper Et Logiciels Conversion Vidéo Expliqués</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y36i-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y36i</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-glitches-to-perfect-playback-how-to-factory-reset-a-samsung-sound-bar-system/"><u>From Glitches to Perfect Playback: How to Factory Reset a Samsung Sound Bar System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-magic-vs-2-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Magic Vs 2 to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-s23-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel S23</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-learn-the-insider-tricks-of-screening-instagram-stories/"><u>In 2024, Learn the Insider Tricks of Screening Instagram Stories</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-note-30-vip-racing-edition-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Note 30 VIP Racing Edition Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y28-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y28 5G Device</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-get-animated-best-mobile-apps-for-creating-cartoon-like-images-for-2024/"><u>New Get Animated Best Mobile Apps for Creating Cartoon-Like Images for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-zte-axon-40-lite-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost ZTE Axon 40 Lite Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-gt-10-pro-by-drfone-android/"><u>Universal Unlock Pattern for Infinix GT 10 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel Device</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-video-victory-lap-youtubes-1-10-in-one-day/"><u>Viral Video Victory Lap YouTube's #1-#10 in One Day</u></a></li>
 </ul></div>
 

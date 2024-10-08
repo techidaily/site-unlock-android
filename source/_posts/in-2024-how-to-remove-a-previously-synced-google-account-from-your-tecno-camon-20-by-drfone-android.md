@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove a Previously Synced Google Account from Your Tecno Camon 20
-date: 2024-09-25T21:09:45.379Z
-updated: 2024-10-02T22:17:06.944Z
+date: 2024-10-04T02:38:30.475Z
+updated: 2024-10-07T18:23:33.209Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,10 +51,10 @@ To confirm the removal of the account, click on the Remove account button.
 ![remove-google-account-settings-menu](https://images.wondershare.com/drfone/article/2022/06/settings-menu-account-removal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Remove the Google account from the Android phone using the computer
@@ -70,13 +70,6 @@ There is another method using which you can remotely remove the Google account a
 **Note:** This method will actually sign out you from the Google account and will not delete it permanently. To again get access to the account, a notification will appear on your phone to enter the password.
 
 ![remove-google-account-other-devices](https://images.wondershare.com/drfone/article/2022/06/other-device-account-removal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Disable Factory Reset Protection to Bypass Google Account Verification After Factory Reset
 
@@ -111,13 +104,6 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** After the Tecno Camon 20 device is connected, the Tecno Camon 20 device information will appear on the software for you to confirm and the notification for the same will be sent to your Android phone.
 
 **Step 5:** Now follow the notifications for removing the FRP lock and in the browser enter drfonetoolkit.com.
@@ -131,13 +117,6 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 **Step 7:** Keep following the steps as they appear till you reach the Google Account Sign-In page. Here click on the Skip option that will successfully remove and bypass the Google Account.
 
 ![bypass google lock completed](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The above given are the brief steps for the FRP bypass process. To learn about the entire process in detail, check [Dr.Fone-Screen Unlock (Android) guide](https://drfone.wondershare.com/guide/google-frp-bypass.html).
 
@@ -160,6 +139,19 @@ So, if you cannot sign in **with a Google account that was previously synced**,
 With the steps above, you can remove the account **previously synced on this device**.
 
 ![bypass-frp-unlockjunkey](https://images.wondershare.com/drfone/article/2022/06/unlockjunky.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Limitations of using the Unlockjunky method**:
 
@@ -215,14 +207,14 @@ Note：You can also use these tool to bypass other phone's screen including Huaw
 
 ![unlock your Android PIN-remove the lock pin](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-Well done! you have now removed the distressing pin on your phone. Next time put a pin that you can easily remember.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Well done! you have now removed the distressing pin on your phone. Next time put a pin that you can easily remember.
 
 ## Part 2.How To Enable Your Android Screen Lock PIN
 
@@ -240,15 +232,42 @@ On your android device, open Settings. You can find the settings app in the app;
 
 ![enable or disable screen lock PIN- Select the ](https://images.wondershare.com/drfone/article/2016/05/14646056432103.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**: Once you have clicked on "Security", Go to "Screen Lock." You will be provided with lock screen option such as None, Swipe, Pattern. PIN, and Password.
 
 ![enable or disable screen lock PIN-Go to Screen Lock](https://images.wondershare.com/drfone/article/2016/05/14646063398300.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4**. Click on "PIN" option. You will be prompted to enter preferred 4-didgit PIN number. You will then be required o key in the same 4 digits to confirm your security PIN. Click "OK" and you will have enabled your Android screen lock PIN.
 
 ![enable or disable screen lock PIN-confirm your security PIN](https://images.wondershare.com/drfone/article/2016/05/14646069136524.jpg)
 
 Good job. You will have to enter this PIN whenever your phone sleeps or when you reboot your phone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. How to Disable Your Android Screen Lock PIN
 
@@ -261,13 +280,6 @@ In most occasions, in fact, 99.9%, the first thing that you will see when you po
 **Step 2.** In the interface that opens, go to "Security"
 
 ![enable or disable screen lock PIN-go to ](https://images.wondershare.com/drfone/article/2016/05/14646076268107.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3**. You can then click on "Screen Lock" and select "None" to disable the screen lock PIN.
 
@@ -291,13 +303,6 @@ Android Device Manager link: <http://www.google.com/android/devicemanager>
 
 ![android Device Manager log in](https://images.wondershare.com/drfone/others/14637942446007.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Once you have logged in, you will automatically be redirected to the Android Device Manager page. If this is your first time, click the “Accept” button.
 
 ![android Device Manager start](https://images.wondershare.com/drfone/others/14637942473262.jpg)
@@ -318,18 +323,18 @@ Android Device Manager link: <http://www.google.com/android/devicemanager>
 
 ![android Device Manager Erase & Lock](https://images.wondershare.com/drfone/others/14637942582896.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7\. At this point, you will be asked to create a new lock screen password. Once you have chosen one, press “Lock.”
 
 ![android Device Manager New Lock Screen](https://images.wondershare.com/drfone/others/14637943377629.jpg)
 
 8\. Now, simply enter the new passcode on your device, and voila! It will open, and you can get back to your daily routine.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Reset Your Google Account on your Android Phone
 
@@ -350,6 +355,13 @@ If you have forgotten your Google Account password, it is still possible to unlo
 4\. Two options will then appear: the first is your phone number, and the other asks you for your backup email.
 
 ![android Google forgot password](https://images.wondershare.com/drfone/others/14637535828239.jpg)![android Google forgot pssword enter email](https://images.wondershare.com/drfone/others/14637535857339.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5\. Enter either one of these options, and you will receive a verification code via email, SMS, or a telephone call from an operator. If you have chosen to enter your backup email, at this point, you will receive detailed instructions on how to access the ‘reset password’ page.
 
@@ -414,18 +426,24 @@ We know that losing or forgetting your Android lock code can be a real pain, and
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-master-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>[New] In 2024, Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-perfect-plays-in-a-minute-tiktok-templates-for-stellar-videos-for-2024/"><u>[New] Perfect Plays in a Minute TikTok Templates for Stellar Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-you-submerge-your-iphone-13-without-damage-water-resistance-explained/"><u>Can You Submerge Your iPhone 13 Without Damage – Water Resistance Explained</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Samsung Galaxy A15 4G ?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-smart-7-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Smart 7 Lock Screen Password?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-13-pro-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 13 Pro and iPad Securely</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-halting-real-time-recordings-on-qt-player/"><u>In 2024, Halting Real-Time Recordings on QT Player</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 5G Phone without Google Account?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-hot-40i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Hot 40i Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-voice-editing-for-instagrams-media/"><u>The Ultimate Guide to Voice Editing for Instagram's Media</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-14-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi 14 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomis-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomis Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-non-google-ar-visual-interactions/"><u>[New] Exploring Non-Google Ar Visual Interactions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-streamers-in-a-dilemma-obs-or-twitch-space/"><u>[New] In 2024, Streamers in a Dilemma OBS or Twitch Space?</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-online-presence-manycams-ultimate-live-video-editing-and-virtual-camcorder-features/"><u>Enhance Your Online Presence: ManyCam's Ultimate Live Video Editing and Virtual Camcorder Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-pova-6-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Tecno Pova 6 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-civi-3-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Civi 3 to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-smart-8-plus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Smart 8 Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-world-of-warships-from-crashing-on-your-pc-five-essential-tips/"><u>How to Stop World of Warships From Crashing on Your PC – Five Essential Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-zte-nubia-z60-ultra-phone-by-drfone-android/"><u>How to Unlock a Network Locked ZTE Nubia Z60 Ultra Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y36i-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y36i</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-zte-nubia-z60-ultra-easily-by-drfone-android/"><u>In 2024, How To Unlock a ZTE Nubia Z60 Ultra Easily?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-14-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi 14? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-note-30-vip-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Note 30 VIP Phone Pattern Lock</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-the-social-media-labyrinth-30-marketing-secrets/"><u>Navigating the Social Media Labyrinth 30 Marketing Secrets</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-14-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi 14 Pro Phone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-here-weve-selected-some-of-the-best-online-video-compressors-for-compressing-webm-videos-with-best-quality/"><u>Updated 2024 Approved Here Weve Selected some of the Best Online Video Compressors for Compressing WebM Videos with Best Quality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-11-user-guide-for-professional-audio-recording/"><u>Windows 11 User Guide for Professional Audio Recording</u></a></li>
 </ul></div>
 
