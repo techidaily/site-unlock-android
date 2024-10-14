@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Tecno Spark 10C Phone without Google Account?
-date: 2024-10-04T03:16:40.245Z
-updated: 2024-10-07T20:04:47.247Z
+date: 2024-10-10T21:52:54.762Z
+updated: 2024-10-13T22:30:42.462Z
 tags: 
   - unlock
   - remove screen lock
@@ -74,6 +74,19 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 ![android Google trouble signing in](https://images.wondershare.com/drfone/others/14637535788151.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Two options will then appear: the first is your phone number, and the other asks you for your backup email.
 
 ![android Google forgot password](https://images.wondershare.com/drfone/others/14637535828239.jpg)![android Google forgot pssword enter email](https://images.wondershare.com/drfone/others/14637535857339.jpg)
@@ -81,6 +94,13 @@ If you have forgotten your Google Account password, it is still possible to unlo
 5\. Enter either one of these options, and you will receive a verification code via email, SMS, or a telephone call from an operator. If you have chosen to enter your backup email, at this point, you will receive detailed instructions on how to access the ‘reset password’ page.
 
 ![android Google automated call verification](https://images.wondershare.com/drfone/others/14637561923476.jpg)![android Google automated call verification](https://images.wondershare.com/drfone/others/14637561995841.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6\. Once you have been redirected to the ‘reset password’ page, you can input your new login information.
 
@@ -122,6 +142,19 @@ Now connect your Android phone connected with the PC, and select the Tecno Spark
 **Step 3:** After the process is complete, your Android device should be unlocked, and you can access it without the screen lock.
 
 ![Reset your Android Lock Screen Password](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -187,6 +220,32 @@ The next on the list is FingerSecurity - one of the feature-rich lock apps with 
 
 ![lock apps with fingerprint android-FingerSecurity](https://images.wondershare.com/drfone/article/2017/10/15090399282756.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Norton Applock
 
 Whenever we have heard the word anti-virus, the first name that comes to our mind is Norton. Norton is a big shot in the field of antivirus apps. Now they have also come up with free lock apps with fingerprint Android. It involves a four digits PIN or password or pattern as its lock system. It also supports icons and photos in conjunction with the apps. The app suggests you with the sanctions list which tells you which apps should be locked. Again the bonus – this is free for download on any Android devices.
@@ -202,13 +261,6 @@ Whenever we have heard the word anti-virus, the first name that comes to our min
 **Google Rating:** 4.6
 
 ![lock apps with fingerprint android-Norton Applock](https://images.wondershare.com/drfone/article/2017/10/15090399468920.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Perfect Applock
 
@@ -293,13 +345,6 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ![tap on wallpaper icon](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ****Step 2:**** Choose the option of “My wallpapers” or “Gallery” from the available list and select the wallpaper of your choice. As you select one, you will have to set it as your “Home screen,” “Lock screen,” or wallpaper for both screens.
 
 ![select the option for wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-7.jpg)
@@ -319,13 +364,6 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 ****Step 3:**** To proceed, specify where you wish to set it as your wallpaper. As the options appear on the front, select the "Lock screen" option and continue to set your wallpaper.
 
 ![select the lock screen option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### For Motorola Users
 
@@ -370,10 +408,10 @@ For exclusive access to free wallpapers of multiple categories, Interfacelift pr
 ![interfacelift android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3. [<u>Unsplash</u>](https://unsplash.com/s/photos/Android-wallpapers)
@@ -382,31 +420,11 @@ Known for keeping royalty-free, high-quality content, Unsplash can be a great An
 
 ![unsplash android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4. [<u>Mobile9</u>](https://www.mobile9.com/)
 
 For variety, you can always go for Mobile9. This unique, expressive, and productive wallpaper site provides the best Android wallpapers. Following this, it offers multiple diversity of content, including ringtones and books. However, to get your hands on the finest quality wallpaper, do consider trying the site.
 
 ![mobile9 android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-21.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5. [<u>Dribbble</u>](https://dribbble.com/)
 
@@ -414,18 +432,18 @@ If you seek the best design for your Android lock screen, Dribbble provides the 
 
 ![dribbble android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 6\. [<u>Wallpapers.com</u>](https://wallpapers.com/android)
 
 For a service that provides dedicated Android lock screen wallpapers, Wallpapers.com holds a good position. With the finest wallpapers to use on the Android device, you can also customize the available wallpapers. Dedicated categories make it easy for users to select their favorite wallpaper from the 1000+ options.
 
 ![wallpapers.com android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-23.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. [<u>Pexels</u>](https://www.pexels.com/search/android%20wallpaper/)
 
@@ -433,18 +451,18 @@ There are very few websites that offer the finest quality wallpapers for free. P
 
 ![pexels android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-24.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8\. [<u>Pixabay</u>](https://pixabay.com/images/search/android%20wallpaper/?manual_search=1)
 
 Who won’t have heard of Pixabay as a haven for lock screen wallpapers? This platform provides a different perspective on wallpaper search. To find the best option, you can diversify your search according to orientation, size, and color. This makes your search much easier and swift for changing the Android lock screen.
 
 ![pixabay android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9\. [<u>500px</u>](https://500px.com/)
 
@@ -520,19 +538,21 @@ The details provided are comprehensive in helping you change ****the lockscreen 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/astering-mobile-thumbnail-creation-for-youtube-for-2024/"><u>[New] Mastering Mobile Thumbnail Creation for YouTube for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-cataloging-fb-video-ratios/"><u>[Updated] In 2024, Cataloging FB Video Ratios</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-professional-footage-with-top-tier-stabilizers/"><u>[Updated] Professional Footage with Top-Tier Stabilizers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-media-player-dvd/"><u>[공식] 무료 WinX Media Player, DVD 리퍼 및 비디오 제조기 소프트웨어 - 다이렉트드 방법</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ight-rules-for-screenshotting-and-archiving-youtube-videos/"><u>Copyright Rules for Screenshotting and Archiving YouTube Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cut-through-the-chatter-debunking-nine-biggies-of-ai-dialogue/"><u>Cut Through the Chatter: Debunking Nine Biggies of AI Dialogue</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/t-tips-for-eradicating-extra-green-on-youtube-videos-mac-for-2024/"><u>Expert Tips for Eradicating Extra Green on YouTube Videos (Mac) for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-smart-7-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Smart 7 Pattern Lock Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-80-pro-straight-screen-edition-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor 80 Pro Straight Screen Edition Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30i-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Note 30i Phone with Broken Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-hot-40-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix Hot 40?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-itel-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Itel Phone?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://games-able.techidaily.com/rectifying-lost-components-message-in-win-1011/"><u>Rectifying Lost Components Message in Win 10/11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-quick-fix-for-identifying-imposters-in-your-instagram-community/"><u>[New] In 2024, Quick Fix for Identifying Imposters in Your Instagram Community</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/everaging-youtubes-cc-options-for-video-production/"><u>[New] Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-leading-budget-friendly-record-software-showdown-in-games/"><u>2024 Approved Leading Budget-Friendly Record Software Showdown in Games</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/empowering-american-teachers-with-free-ai-support-the-joint-venture-of-microsoft-and-khan-academy-explored-on-zdnet/"><u>Empowering American Teachers with Free AI Support: The Joint Venture of Microsoft & Khan Academy Explored on ZDNet</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-the-samsung-galaxy-watch-active-a-fitness-and-well-being-review/"><u>Exploring the Features of the Samsung Galaxy Watch Active: A Fitness and Well-Being Review</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Spark 20 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-tecno-pop-8-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Tecno Pop 8 Pattern Lock Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-magic-6-lite-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Magic 6 Lite Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-honor-x50iplus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor X50i+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-google-pixel-fold-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Google Pixel Fold Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-find-n3-flip-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo Find N3 Flip</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-side-by-side-video-editing-apps-for-ios-and-android-devices-for-2024/"><u>New Best Side-by-Side Video Editing Apps for iOS and Android Devices for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-play-7t-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Play 7T</u></a></li>
 </ul></div>
 

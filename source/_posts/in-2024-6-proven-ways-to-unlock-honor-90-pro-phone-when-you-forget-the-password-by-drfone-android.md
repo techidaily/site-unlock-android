@@ -1,7 +1,7 @@
 ---
 title: In 2024, 6 Proven Ways to Unlock Honor 90 Pro Phone When You Forget the Password
-date: 2024-10-04T07:32:55.512Z
-updated: 2024-10-07T16:30:11.292Z
+date: 2024-10-08T18:23:29.535Z
+updated: 2024-10-13T23:37:09.416Z
 tags: 
   - unlock
   - remove screen lock
@@ -92,31 +92,11 @@ You will need to put your device into Download Mode for unlocking. Depending on 
 
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4. Observe the Unlock Process**
 
 The screen displays the progress of unlocking, downloading drivers and configuration files. Once the entire process is complete, you will be able to access yours **forgot password Android** device without having to enter any passwords.
 
 ![remove android unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3. Use Google Find My Device to Remotely Unlock Your Android Phone
 
@@ -213,6 +193,13 @@ To conclude, when you have an Android Password forgot the phone at hand, this gu
 
 ## Top 10 Password Cracking Tools For Honor 90 Pro
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **What is password cracking?**
 
 Password cracking process involves recovering a password from storage locations or from data, transmitted by a computer system on network. Password cracking term refers to group of techniques used to get password from a data system.
@@ -277,13 +264,6 @@ It’s primarily used to crack weak UNIX passwords but also available for Linux,
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Features of John the Ripper**
 
 - Supportive with Brute force password cracking and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack)
@@ -320,6 +300,13 @@ THC Hydra is a supper fast network password cracking tool. It uses network to cr
 It can be used to crack passwords of different protocols including HTTPS, HTTP, FTP, SMTP, Cisco, CVS, SQL, SMTP etc. It will give you option that you may supply a dictionary file that contains list of possible passwords. It’s best when we use it in Linux environment.
 
 ![thc hydra](https://images.wondershare.com/images/utilities/thc-hydra.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features of THC Hydra**
 
@@ -394,13 +381,6 @@ It is only available for windows operation systems. Tool has a limitation that i
 
 [http://www.hoobie.net/brutus/](http://www.hoobie.net/brutus/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. L0phtCrack : Smart tool for Windows password recovery
 
 Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool uses hashes to crack passwords, with extra features of Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack).
@@ -408,13 +388,6 @@ Just like OphCrack tool L0phtCrack is also a Windows passwords recovery tool use
 It normally gains access to these hashes from directories, network servers, or domain controllers. It is capable of doing hash extraction from 32 & 64 bit Windows systems, multiprocessor algorithms, scheduling, and can also perform decoding and monitoring networks. Yet it is still the easiest to use password auditing and recovery software available.
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Features of L0phtCrack**
 
@@ -427,13 +400,6 @@ It normally gains access to these hashes from directories, network servers, or d
 
 [www.l0phtcrack.com/](http://www.l0phtcrack.com/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Pwdump : Password recovery tool for Windows
 
 Pwdump is actually different Windows programs that are used to provide [LM and NTML](http://en.wikipedia.org/wiki/LM_hash) hashes of system user accounts.
@@ -445,6 +411,13 @@ Software is update with extra feature of password histories display if history i
 Recently software is updated to new version called Fgdump as Pwdump not work fine when any antivirus program is running.
 
 ![pwdump](https://images.wondershare.com/images/utilities/pwdump.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features of Pwdump**
 
@@ -507,27 +480,20 @@ Remove Pattern Locks on Android Screen at Ease
 
 ![how to unlock pattern lock using Dr.Fone - Screen Unlock (Android)](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Connect your device to the system. Once it is detected, click on the “**Unlock Android Screen**” button.
 
 ![connect android phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3.** Select your device brand to unlock and access reboot instructions, then follow them to complete the process.
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4.** You will be notified when the process is completed. Simply disconnect your Honor 90 Pro and access it without any pattern lock.
 
@@ -566,6 +532,13 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 - **Step 4.** Provide the correct Google credentials of the account that is linked to your device.
 - **Step 5.** Later, you can set a new pattern for your device and confirm it. This will let you access your Android device with the new pattern lock.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: How to Unlock Samsung Phone Pattern Lock Using Samsung Find My Mobile?
 
 Just like Android, Samsung has also developed a dedicated feature for finding a device remotely and performing various other operations on it. The Samsung Find My Mobile service can be used to locate your device, change its lock, wipe its data, and perform a few other tasks as well. Needless to say, the service only works for Samsung Android devices. You can learn how to unlock patterns with this tool by following these instructions:
@@ -582,6 +555,13 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 ![pattern unlock](https://images.wondershare.com/drfone/article/2017/09/15057373115477.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
 
@@ -593,6 +573,13 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 - **Step 2.** Now, tap and hold the “Power off” option.
 
 ![power off android phone](https://images.wondershare.com/drfone/article/2017/09/15057373454386.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3.** This will display the following pop-up message. Agree to it and restart your phone in Safe Mode.
 - **Step 4.** Once the Honor 90 Pro device would be restarted in Safe Mode, the third-party lock screen would be disabled automatically.
@@ -625,6 +612,19 @@ By following this guide, you would certainly be able to learn how to unlock the 
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -639,18 +639,18 @@ By following this guide, you would certainly be able to learn how to unlock the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-recording-lenovo-fast-and-fuss-free-tips/"><u>[New] In 2024, Recording Lenovo Fast and Fuss-Free Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-a-huge-impact-youtube-titles-that-sell/"><u>[Updated] Crafting a Huge Impact YouTube Titles That Sell</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-maximizing-impact-best-practices-for-corporate-screencast-training/"><u>[Updated] In 2024, Maximizing Impact Best Practices for Corporate Screencast Training</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-7-tech-choices-prepping-for-the-metaverse-frontier/"><u>2024 Approved Top 7 Tech Choices Prepping for the Metaverse Frontier</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-nubia-z50-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Nubia Z50 Ultra to iPhone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-pova-6-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Pova 6 Pro 5G</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/harness-10-tools-for-free-thumbnail-acquisition/"><u>Harness 10 Tools for FREE Thumbnail Acquisition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-itel-s23-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Itel S23?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-magic-5-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Magic 5 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-100-phone-without-pin-by-drfone-android/"><u>How to Unlock Honor 100 Phone without PIN</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-s18-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo S18 Phone?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/navigating-instagram-copyright-for-2024/"><u>Navigating Instagram Copyright for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/top-free-video-capture-apps-exploring-the-leaders-for-2024/"><u>Top Free Video Capture Apps – Exploring the Leaders for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-learn-to-keep-unwanted-suggestions-away-from-ig/"><u>[Updated] 2024 Approved Learn to Keep Unwanted Suggestions Away From IG</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-budget-friendly-microphones-for-online-broadcasters-for-2024/"><u>[Updated] Budget-Friendly Microphones for Online Broadcasters for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-inaugural-zooid-creations-ranked/"><u>2024 Approved Inaugural Zooid Creations Ranked</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-20-action-recording-solutions-summary/"><u>2024 Approved Top 20 Action Recording Solutions Summary</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-comprezyme-of-creativity-and-technique-dominating-instagram-interactions/"><u>A Comprezyme of Creativity and Technique Dominating Instagram Interactions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-3d-modeling-programs-for-animators/"><u>Essential 3D Modeling Programs for Animators</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-tecno-camon-20-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Tecno Camon 20</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-camon-20-pro-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Camon 20 Pro 5G Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-honor-90-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Honor 90 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-x50iplus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor X50i+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Tecno</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-x7b-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor X7b Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 
