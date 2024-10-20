@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Honor Magic 5 Pro Phone
-date: 2024-09-07T18:50:57.152Z
-updated: 2024-09-08T18:50:57.152Z
+date: 2024-10-13T18:07:51.902Z
+updated: 2024-10-20T01:24:35.795Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,12 +36,6 @@ Although you can no longer use the **Google Assistant unlock** feature, you can 
 - Making a call
 - Asking Google for information, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Enable Google Assistant on Lock Screen: A Step-by-Step Guide
 
 Now that you're eager to try the potential of Google Assistant on your lock screen, let's walk through the simple steps on how to enable this tool.
@@ -60,12 +54,6 @@ Locate the “Lock Screen” settings and make sure to switch on “Assistant re
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. How To Use Google Assistant on Lock Screen
 
 After you've successfully enabled Google Assistant on your lock screen, let's see how to use Google Assistant to do certain tasks more efficiently and hands-free.
@@ -110,12 +98,6 @@ Google Assistant's capabilities are extensive, but there are instances where it 
 
 ![Giving command to Google Asisstant on lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tips to Make Voice Google Assistant Recognize Your Commands
 
 One of the most infuriating problems with voice Google Assistant is that users often encounter difficulties in having their commands accurately recognized. To enhance the accuracy of voice recognition with Google Assistant, you can consider implementing the following tips:
@@ -136,12 +118,6 @@ Ensure that your device's microphone is in good working condition. Dirt or debri
 
 Background noise can interfere with voice recognition. Try to issue commands in a quiet environment to minimize any potential confusion caused by external sounds.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. How to Unlock Android Phone Screen Without Passcode
 
 Now, you know that you can't **unlock phone via Google Assistant** anymore. But what if you accidentally [<u>forget your phone’s passcode</u>](https://drfone.wondershare.com/unlock/forgot-android-password.html)? Is there a reliable method to regain access to your Android device without the passcode?
@@ -150,12 +126,6 @@ Fortunately, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondersha
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Solve Your Screen Locks
@@ -175,7 +145,6 @@ Open the latest version of Wondershare Dr.Fone on your computer and connect your
 
 ![Open the Dr.Fone Screen Unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** Select Android for your device type.
 
 As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need to indicate the specific device you are using. Opt for the Android option if you are unlocking an Android device. Then, continue to choose "Unlock Android Screen" on the next screen.
@@ -187,12 +156,6 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 
 ![Choose Remove without Data Loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4:** Define Device Details
 
 Next, make sure to check and confirm the Brand, Device Name, and Device Model to unlock your Android screen. Tick the checkmark that says you agree with the warning and are ready to proceed. Click "Next" to unlock your screen.
@@ -211,12 +174,6 @@ Dr.Fone will then guide you to put your Android device into Download Mode accord
 
 ![Follow instructions to put Android in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, you can monitor the progress and wait for a few minutes until it shows “Unlocked successfully.”
 
 You May Also Interested:
@@ -227,19 +184,11 @@ You May Also Interested:
 
 [<u>Complete Guide to Unlock Mi Account Without Password In 2024</u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Google Assistant is a versatile virtual assistant that is designed to help you with a wide range of tasks and make your daily life more convenient. Accessible on most modern Android devices, it enables users to perform several tasks through voice commands.
 
 However, if you are looking for ways to **unlock phone with Google Assistant**, this function is no longer available. **Google Assistant unlock** feature has been discontinued since 2021. But in case you've forgotten the screen lock passcode, you can use Wondershare Dr.Fone Screen Unlock tool to regain access to your Android phone. This tool facilitates the unlocking process without data loss, featuring a user-friendly learning curve.
-
-
 
 ## 6 Proven Ways to Unlock Honor Magic 5 Pro Phone When You Forget the Password
 
@@ -251,12 +200,6 @@ Unfortunately, this usually ends up **forgetting the Android lock password**. Yo
 
 You can watch the video above about how to unlock your Android Phone!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 1. Try Face or Fingerprint to Unlock Honor Magic 5 Pro Phone
 
 How to unlock your phone when you forget the password? If you've forgotten your Android phone's password, the best way to unlock it is to use your device's built-in biometric authentication features, such as face unlock or fingerprint unlock.
@@ -310,23 +253,24 @@ Once you have opened the program, select the "Screen Unlock" option directly. Ne
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2. Select Your Device Brand**
 
 After this step, you will be guided to another screen where you need to choose the brand of your device.
 
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3. Enter Download Mode**
 
 You will need to put your device into Download Mode for unlocking. Depending on your device's brand and model, the instructions for doing so may vary.
@@ -334,35 +278,18 @@ You will need to put your device into Download Mode for unlocking. Depending on 
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 4. Observe the Unlock Process**
 
 The screen displays the progress of unlocking, downloading drivers and configuration files. Once the entire process is complete, you will be able to access yours **forgot password Android** device without having to enter any passwords.
 
 ![remove android unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 3. Use Google Find My Device to Remotely Unlock Your Android Phone
 
 You can use Google Find My Device to unlock your Android phone remotely with another Android phone. All you need is the Google account and its password bound to unlock Android phone forgotten password.
@@ -393,26 +320,15 @@ This feature is available on Android 4.0 and older versions. So if you are using
 
 ![add password](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 4.** Bravo! You can now reset your password.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 5. Factory Reset Your Android and Remove Password
 
 If you are not successful with the above method, you can opt to perform a factory reset. This method should be the last option since you will lose data that has not been synced to your Google Account. It is wise to remove your SD card before performing the Android reset.
@@ -429,28 +345,23 @@ You can unlock your Android phone, i.e., Samsung, Oppo, or Vivo, by factory rese
 - **Step 6.** After the reset, select "reboot system now" and tap the Power/Side button to restart your device.
 - **Step 7.** Your phone will now be unlocked, and the password will be removed.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Way 6. Unlock Samsung Phone with Samsung's Find My Mobile
 
 The best way to unlock **Android forgot password** on Samsung is to use Samsung's Find My Mobile service. This service allows you to remotely unlock your device, reset the lock screen password, and even disable the lock screen altogether.
 
 ![samsung find my mobile](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 1:** To use this service, you must first log into your Samsung account on a computer or mobile device;
 - **Step 2:** Once logged in, you can locate your device, select the "Unlock" option;
 - **Step 3:** Enter your new password. Once unlocked, you can access your device with your new password.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs About Android Unlock
 
 ### 1\. Is there any universal code to unlock the Android phone?
@@ -482,12 +393,6 @@ There are several ways how to [unlock Android phones without data loss](https://
 
 The methods discussed above in Way 1 or [Way 2](https://drfone.wondershare.com/unlock/forgot-android-password.html#Part2) can guide you better into unlocking your device using this tool.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 To conclude, when you have an Android Password forgot the phone at hand, this guide can offer you several useful perspectives. However, it is advisable to perform Android password recovery using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). This software is fast, safe, and ensures that you have a better phone experience.
@@ -502,12 +407,6 @@ In this article, we are going to look at a few simple ways you can unlock an And
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/KaWEiQhxBTQ" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Using Android Debug Bridge (ADB)
 
 For this method, you will need your device and access to a PC. It is the most powerful method to unlock a broken Android device. It will however only work if you have enabled USB debugging on your android phone. If you haven’t, skip this method and see if method 2 or 3 might be of help.
@@ -532,11 +431,12 @@ _Shell input key event 66_
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
@@ -548,6 +448,13 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 
 **4,008,670** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
 This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the Honor Magic 5 Pro device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
@@ -558,24 +465,32 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** As soon as the Honor Magic 5 Pro devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Honor Magic 5 Pro device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can then go about backing up the contents of your device.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Using your Samsung Account
 
 This method is a reliable way to unlock a Samsung device that has a broken screen or is not working correctly. While it is highly effective you will need to have a Samsung account registered with your device. The problem is that not many Samsung device users have registered their devices with the service. If you are among the lucky few who have, here’s how to use your account to unlock your device.
@@ -584,34 +499,15 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
 **Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -625,5 +521,24 @@ Being unable to unlock your device is never a good place to be. We hope one of t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-no-hassle-no-money-10-official-passport-pictures-from-our-generator/"><u>[New] In 2024, No Hassle, No Money 10 Official Passport Pictures From Our Generator</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-spotlight-on-starlets-snippet/"><u>[Updated] In 2024, Spotlight on Starlet's Snippet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-spotlight-10-anonymous-story-gazers/"><u>[Updated] Spotlight 10 Anonymous Story Gazers</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-trending-vids-unveiling-twits-highest-viewed-content/"><u>2024 Approved Trending Vids Unveiling Twit's Highest-Viewed Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-4g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Tecno Spark 10 4G Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-camera-essentials-for-adventure-videographers/"><u>In 2024, Camera Essentials for Adventure Videographers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-complete-guide-what-does-unlisted-mean-on-youtube/"><u>In 2024, Complete Guide What Does Unlisted Mean on YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20c-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20C Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-90-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor 90 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-100-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Honor 100</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-edit-like-a-pro-a-free-online-video-editing-course-using-jaycut/"><u>New 2024 Approved Edit Like a Pro A Free Online Video Editing Course Using Jaycut</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-installing-updated-epson-xp-640-drivers-in-windows-environment/"><u>Step-by-Step Tutorial for Installing Updated Epson XP-640 Drivers in Windows Environment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-camon-20-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Camon 20 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-tips-for-optimizing-gameplay-performance-on-watch-dogs-legion/"><u>Top Tips for Optimizing Gameplay Performance on Watch Dogs: Legion</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-tecno-pova-6-pro-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Pova 6 Pro 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-10-4g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Spark 10 4G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
 

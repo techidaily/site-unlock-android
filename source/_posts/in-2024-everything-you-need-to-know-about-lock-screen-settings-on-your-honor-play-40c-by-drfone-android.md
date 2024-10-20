@@ -1,7 +1,7 @@
 ---
 title: In 2024, Everything You Need to Know about Lock Screen Settings on your Honor Play 40C
-date: 2024-10-08T20:32:01.129Z
-updated: 2024-10-13T16:11:52.755Z
+date: 2024-10-15T20:41:57.261Z
+updated: 2024-10-19T18:29:29.469Z
 tags: 
   - unlock
   - remove screen lock
@@ -35,10 +35,10 @@ Options – Security – Screen Lock – Choose Screen Lock.
 Now see how to unlock your lock screen in different ways.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1.Slide
@@ -65,13 +65,6 @@ This is a way of setting pattern for lock screen from a grid of nine dots. You c
 
 Go to the lock screen setting for Pattern and then set the pattern by sliding your finger from one dot to another, then another and like that way. Remember which pattern you've set in order to unlock your device in the next time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4.PIN
 
 You might be troubled by thinking about the difference between PIN and Password. A little distinction is there for a PIN and that is it consists of numbers only whereas for password, you can associate some alphabetical letters or signs along with numbers.
@@ -87,10 +80,10 @@ In addition to PIN protection, you can consider it as password by adding some le
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6.Fingerprint
@@ -105,20 +98,19 @@ This is also a fun way of unlocking Android lock screen as you can unlock by say
 
 ![android lock screen settings](https://images.wondershare.com/drfone/others/android-lock-screen-settings-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Go to the setting from "Voice Unlock" button and record your voice such as "Open My Honor Play 40C" or as per your choice with clear sound. Repeat the voice a few more times as to match well. Then set and unlock your device from the lock screen by using the same voice command.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Customize Android Lock Screen
@@ -206,6 +198,13 @@ This is an important issue that needs to be resolved right away. Therefore, some
 
 ## Methods to Recover Forgotten Password or PIN
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Google Smart Lock
 
 If you have added a trusted area or device in Google Smart Lock, you can go to that trusted area and reset your password. Alternatively, you can also use trusted devices to unlock your device.
@@ -239,18 +238,18 @@ Please select "Unlock Android Screen" to ensure you have the correct unlock proc
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2. Select device model**
 
 If you see this page, please choose the option fitting your phone, otherwise, you can't unlock your device as you wish.
 
 ![select device model](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _(Enter Recovery Mode via the Samsung phone with Bixby)_
 
@@ -259,6 +258,19 @@ _(Enter Recovery Mode via the Samsung phone with Bixby)_
 _(Enter Recovery Mode via the Samsung phone without Bixby)_
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _(Enter Recovery Mode via the Samsung phone with the Home button)_
 
@@ -271,6 +283,13 @@ On the page Recovery Mode, it's the most important step to unlock your device. P
 Congratulations! Now you can access your phone again, and there're no obstacles when you do anything on your phone.
 
 ![access your phone again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -350,16 +369,22 @@ Now you’re in recovery mode, pick these options in the image below.
 
 ![description of erase the cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When the “Unlocked successfully” appears on the screen, you can access your device without a pattern lock or other locks!
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
 
@@ -417,13 +442,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![reboot to safe mode](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Clear your lock screen application's data.
 
 Clean data off your lock screen app, uninstall it, and then reboot your device to escape safe mode. When you do so, your phone or Android device will unlock.
@@ -480,20 +498,19 @@ This guide provides insight into the most common Android issue. Here, we have di
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[New] Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-making-an-informed-decision-on-itops-utility/"><u>[New] In 2024, Making an Informed Decision on ITop's Utility?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unplugged-joy-a-list-of-great-offline-ipad-games-for-2024/"><u>[New] Unplugged Joy A List of Great Offline iPad Games for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-drone-selection-above-9-best-for-cinematic-craft/"><u>[Updated] 2024 Approved Ultimate Drone Selection Above 9 Best for Cinematic Craft</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apeman-c450-reviewed-stellar-performance-at-an-affordable-price-point-for-onboard-safety-devices/"><u>Apeman C450 Reviewed: Stellar Performance at an Affordable Price Point for Onboard Safety Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discovering-content-iphones-and-podcasts/"><u>Discovering Content IPhones and Podcasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-design-excellence-with-chatgpts-persona-tools/"><u>Elevating Design Excellence with ChatGPT's Persona Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-90-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor 90</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-google-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Google Face Lock?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-google-pixel-8-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Google Pixel 8 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-honor-90-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Honor 90? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S23+ Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-honor-90-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Honor 90 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-honor-magic-5-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Honor Magic 5 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chat-gpt-interaction-exposed-how-to-start-meaningful-dialogues-with-ai/"><u>Chat GPT Interaction Exposed: How to Start Meaningful Dialogues with AI</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/como-tomar-capturas-de-pantalla-gratuitas-en-windows-11-sin-necesidad-de-aplicaciones-extras/"><u>Cómo Tomar Capturas De Pantalla Gratuitas en Windows 11 Sin Necesidad De Aplicaciones Extras</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-zte-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your ZTE</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-v30-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo V30 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-v-purse-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor V Purse Lock Screen Password</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-8s-proplus-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nubia Red Magic 8S Pro+ Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-s18-pro-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo S18 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-hot-30-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Hot 30 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-poco-c50-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Poco C50 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-itel-p55-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Itel P55 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-v30-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo V30 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unihertz-atom-xl-analysis-the-compact-durable-device-that-packs-a-mighty-punch/"><u>Unihertz Atom XL Analysis: The Compact, Durable Device That Packs a Mighty Punch</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-what-is-talking-avatar/"><u>Updated In 2024, What Is Talking Avatar?</u></a></li>
 </ul></div>
 

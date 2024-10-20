@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 Password Cracking Tools For Honor 90
-date: 2024-10-04T03:10:11.598Z
-updated: 2024-10-08T04:09:36.665Z
+date: 2024-10-17T22:31:09.761Z
+updated: 2024-10-19T16:18:44.125Z
 tags: 
   - unlock
   - remove screen lock
@@ -84,6 +84,13 @@ It’s primarily used to crack weak UNIX passwords but also available for Linux,
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Features of John the Ripper**
 
 - Supportive with Brute force password cracking and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack)
@@ -120,6 +127,13 @@ THC Hydra is a supper fast network password cracking tool. It uses network to cr
 It can be used to crack passwords of different protocols including HTTPS, HTTP, FTP, SMTP, Cisco, CVS, SQL, SMTP etc. It will give you option that you may supply a dictionary file that contains list of possible passwords. It’s best when we use it in Linux environment.
 
 ![thc hydra](https://images.wondershare.com/images/utilities/thc-hydra.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features of THC Hydra**
 
@@ -202,13 +216,6 @@ It normally gains access to these hashes from directories, network servers, or d
 
 ![phtcrack](https://images.wondershare.com/images/utilities/phtcrack_1233.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Features of L0phtCrack**
 
 - Available for Windows XP, NT, 2000, Server 2003,and Server 2008
@@ -243,13 +250,6 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Medusa : Speedy network password cracking tool
 
 Medusa is remote systems password cracking tool just like THC Hydra but its stability, and fast login ability prefer him over THC Hydra.
@@ -274,13 +274,6 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 ## Unlocking the Power of Smart Lock: A Beginner's Guide for Honor 90 Users
 
 Google constantly comes up with features to simplify the way users interact and complete tasks on the Android platform. One of the most important features that techies loved to debate about was the Smart Lock Android, a secure password manager functioning in sync with a Google account on the Android phone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What is Android Smart Lock?
 
@@ -315,10 +308,10 @@ Tap on Settings, which is the gear symbol.
 ![smart lock android](https://images.wondershare.com/drfone/others/14555175242280.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Within Smart Lock, there are three options for setting the system. You can set up trusted devices, trusted face, and trusted places individually, combining two or all three at the same time. You can choose just one trusted face, but you have the option to set up as many trusted devices and trusted places as needed.
@@ -358,7 +351,27 @@ Since you have already paired Bluetooth, it will ask you to choose the Honor 90 
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555183103300.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Similarly, other Bluetooth and NFC unlock android supported gadgets can be added under the list of Trusted Devices.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Turn On Smart Lock For Android With Trusted Locations
 
@@ -412,6 +425,13 @@ Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555205535430.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - • However, it is not yet configured as a Smart Lock option. Tap the location once, and it is enabled.
 - • The switch along the address to the right turns blue, indicating it is enabled.
 - • The work address is now listed under Trusted places for Work.
@@ -454,6 +474,13 @@ _How To Improve Facial Recognition In Your Bluetooth and Android NFC Unlock Devi
 
 Smart Lock Android is a great feature and is only going to improve on time. With added security measures being introduced by Google for Bluetooth and NFC unlock android devices, including configuration to Google maps and Gmail, the feature may be one of the most important features to overcome constant blocking of devices even in protected places.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Video on How to Remove Android Lock Screen Without Data Loss
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/qXw3JNztGVI" id="video-iframe-t"></iframe>
@@ -466,13 +493,6 @@ Most of the time, we use Android phones, we get faced with the need to access th
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/78mNMIr_wpI"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Show Wifi Password on Rooted Android Device
 
 ### What is Rooting?
@@ -484,10 +504,10 @@ To find the Wi-Fi passwords on your Android phone, you need to have an app to ex
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556285763404.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps of getting Wi-Fi password on Android with root
@@ -526,13 +546,6 @@ Make sure that you don't edit anything in the file. You might mess up with impor
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556294042257.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you can see above, we have found the Wi-Fi passwords on the android device. On each network profile, we have the name of the network represented by _name (ssid="{the name}")_, the network's password represented by _psk_, the network's access point represented by _key\_mgmt=WPA-PSK_ and its priority represented by _priority_.
 
 ## Part 2: Show Wifi Password on Android without Root
@@ -564,13 +577,6 @@ Step 3: Install ADB drivers.
 Now, open your Windows desktop. Download and install ADB drivers. (Use this download link [adbdriver.com](http://adbdriver.com/)). You need to download and install platform tools (minimal ADB and fastboot) from [http://forum.xda-developers.com/...](http://forum.xda-developers.com/showthread.php?t=2317790) Now open the folder where you've installed the above tools. By default, it is in the Local disc _C\\windows\\system32\\platform\_tools_ location. However, you might want to locate them by searching on the windows search engine. You have to hold the Shift key and right-click inside the folder to click on"Open Command Window Here."
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329561742.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: Test the ADB
 
@@ -604,22 +610,24 @@ Now you learned how to show the wifi password on your Android device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-recording-steps-for-youtube-audio-extraction/"><u>[New] In 2024, Essential Recording Steps for YouTube Audio Extraction</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-qualitysound-check-for-2024/"><u>[New] QualitySound Check for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-turn-swipes-to-love-powerful-tricks-and-ideas-for-standout-biographies-for-2024/"><u>[New] Turn Swipes to Love Powerful Tricks and Ideas for Standout Biographies for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-efficient-tools-simplifying-the-task-of-feedback-erasure/"><u>[Updated] In 2024, Efficient Tools Simplifying the Task of Feedback Erasure</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expert-tips-for-effortless-acquisition-of-vimeo-videos-softwares-and-no-softwares-included/"><u>[Updated] In 2024, Expert Tips for Effortless Acquisition of Vimeo Videos - Softwares & No-Softwares Included</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-tutorial-for-applying-video-filters-on-devices/"><u>[Updated] The Ultimate Tutorial for Applying Video Filters on Devices</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/a-comprehensive-walkthrough-to-add-second-display-to-a-mac-computer/"><u>A Comprehensive Walkthrough to Add Second Display to a Mac Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-90-gt-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor 90 GT Fingerprint Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-s23plus-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Itel S23+</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-conquer-video-production-obs-studio-and-android/"><u>In 2024, Conquer Video Production OBS Studio and Android</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Itel A60 Phone without Any Data Loss</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100i Power 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi 13T Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-hot-40-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix Hot 40 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-itel-p55t-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Itel P55T Phone Pattern Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-zte-axon-40-lite-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock ZTE Axon 40 Lite Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-the-power-of-email-how-to-effortlessly-chat-using-mozilla-thunderbird/"><u>Unlocking the Power of Email: How to Effortlessly Chat Using Mozilla Thunderbird</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-first-step-in-vlogging-tools-you-need/"><u>[New] 2024 Approved The First Step in Vlogging Tools You Need</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-essential-youtube-beauty-guides-you-cant-miss-for-2024/"><u>[New] The Essential YouTube Beauty Guides You Can't Miss for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-techniques-for-modifying-voice-on-instagram-profiles/"><u>[Updated] 2024 Approved Techniques for Modifying Voice on Instagram Profiles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-exposed-the-hazards-of-fake-follower-purchases-on-youtube/"><u>[Updated] Exposed The Hazards of Fake Follower Purchases on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-complexities-of-photo-hdr-in-photoshop/"><u>[Updated] Navigating the Complexities of Photo-HDR in Photoshop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-infinix-hot-40-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-v30-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo V30 Pro?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-itel-p40-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Itel P40</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-itel-s23-lock-screen-password-by-drfone-android/"><u>How to Reset your Itel S23 Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-13-ultra-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi 13 Ultra Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi A2+ Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-mix-fold-3-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Mix Fold 3 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-vlog-like-a-pro-14-essential-video-editing-software-for-popular-platforms/"><u>New 2024 Approved Vlog Like a Pro 14 Essential Video Editing Software for Popular Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-conversion-selecting-the-top-10-free-tools-for-2024/"><u>Streamline Conversion Selecting the Top 10 Free Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-z-flip-5-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-nonfunctional-razer-man-o-war-headset-mic-solutions-inside/"><u>Troubleshooting a Nonfunctional Razer Man 'O' War Headset Mic - Solutions Inside!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-y100ts-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y100ts Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 
