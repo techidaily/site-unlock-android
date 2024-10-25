@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing Gameplay Noise Hiccups in 'New World'
-date: 2024-10-17T22:47:30.827Z
-updated: 2024-10-19T18:17:29.763Z
+date: 2024-10-20T17:44:15.213Z
+updated: 2024-10-25T20:21:20.659Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -51,28 +44,28 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -91,17 +84,32 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -110,13 +118,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
@@ -150,15 +151,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-elevating-user-experience-with-personalized-youtube-card-implementation/"><u>[New] In 2024, Elevating User Experience with Personalized YouTube Card Implementation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-perfect-pairing-selecting-macpc-blu-ray-player-suites/"><u>[New] In 2024, Perfect Pairing Selecting Mac/PC Blu-Ray Player Suites</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-best-9-free-youtube-logo-makers/"><u>2024 Approved Best 9 Free YouTube Logo Makers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-ideal-iphone-photo-apps-for-slide-shows-xr-to-x/"><u>2024 Approved Ideal iPhone Photo Apps for Slide Shows (XR to X)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-youtube-viewership-6-proven-methods/"><u>2024 Approved Mastering the Art of YouTube Viewership 6 Proven Methods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-a15-4g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy A15 4G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-magic-5-lite-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor Magic 5 Lite Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-5-lite-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Magic 5 Lite Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-20-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark 20 Pro Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-camon-20-premier-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Camon 20 Premier 5G Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-revolutionize-live-streaming-top-4-approaches-to-record-on-fb/"><u>[New] Revolutionize Live Streaming Top 4 Approaches to Record on FB</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-garmins-pioneering-ultra-30-camera-a-critical-assessment-for-2024/"><u>[Updated] Garmin's Pioneering Ultra 30 Camera - A Critical Assessment for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-advice-getting-rid-of-stickers-on-videos/"><u>2024 Approved Expert Advice Getting Rid of Stickers on Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mg340-series-printer-drivers-free-download-for-windows-1087-users/"><u>Canon MG340 Series Printer Drivers - Free Download for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-magic-6-lite-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Magic 6 Lite Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-smart-7-hd-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Smart 7 HD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-y100i-power-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo Y100i Power 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-note-12r-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi Note 12R to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-infinix-note-30-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Infinix Note 30 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-itel-p55plus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Itel P55+ Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-v30-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo V30</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y28-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y28 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-compatible-thrustmaster-t300-racing-wheel-drivers-for-windows-10-and-11-free-download-links-inside/"><u>Latest Compatible Thrustmaster T300 Racing Wheel Drivers for Windows 10 and 11 – Free Download Links Inside!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/most-widely-learned-foreign-languages-for-americans/"><u>Most Widely Learned Foreign Languages for Americans</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-resolve-fifa-2eboardplatform-and-ensure-a-smooth-gaming-experience-on-your-computer-with-our-guide/"><u>No More Glitches: Resolve FIFA 2Eboard/Platform and Ensure a Smooth Gaming Experience on Your Computer with Our Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-meet-the-top-lego-stop-motion-talent/"><u>Updated Meet the Top Lego Stop Motion Talent</u></a></li>
 </ul></div>
 

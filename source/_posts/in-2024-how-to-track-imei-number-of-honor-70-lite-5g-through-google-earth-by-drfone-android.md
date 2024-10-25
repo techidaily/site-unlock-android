@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Track IMEI Number Of Honor 70 Lite 5G Through Google Earth?
-date: 2024-10-19T01:29:55.034Z
-updated: 2024-10-19T23:14:00.327Z
+date: 2024-10-23T21:19:29.690Z
+updated: 2024-10-25T21:19:27.117Z
 tags: 
   - unlock
   - remove screen lock
@@ -113,19 +113,6 @@ There are numerous scenarios where one may forget the passcode on their iOS devi
 
 ![drfone v13 interface](https://images.wondershare.com/drfone/product-2021/screen/screen_hero.png)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why Dr.Fone - Screen Unlock Is Your Go-To Solution
 
 Let's discuss why Dr.Fone - Screen Unlock is a game-changer in unlocking phone, especially when using your IMEI number.
@@ -147,23 +134,9 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 
 ![drfone enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** After the user successfully enters their iDevice into **Recovery Mode**, the platform automatically recognizes the **Device Model** and shows it in the appropriate section. Modify the model and select the **System Version** to meet your needs if necessary. After that, select **Start** to begin unlocking your device's screen.
 
 ![drfone device model system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** The following screen reveals the status of the iOS firmware download on the platform. If you want to stop the procedure, click the **Stop** button. In cases when the iOS firmware is downloading slowly on the platform, utilize the **Copy** button to copy the URL for manually downloading the iOS firmware.
 - **Step 6:** After successfully downloading the iOS firmware, it is confirmed and displayed on the next screen. Continue by clicking the **Unlock Now** button to begin the unlocking procedure.
@@ -175,6 +148,19 @@ Now, let's dive into how to use Dr.Fone - Screen Unlock to [unlock your phone ea
 - **Step 9:** Once the iDevice has been successfully unlocked, click the **Done** button to complete the process. If your iDevice is still locked, click **Try Again** to restart the process.
 
 ![drfone ios lock screen removed completely](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -204,13 +190,6 @@ Although you can no longer use the **Google Assistant unlock** feature, you can 
 - Sending texts
 - Making a call
 - Asking Google for information, etc.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enable Google Assistant on Lock Screen: A Step-by-Step Guide
 
@@ -274,6 +253,13 @@ Google Assistant's capabilities are extensive, but there are instances where it 
 
 ![Giving command to Google Asisstant on lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips to Make Voice Google Assistant Recognize Your Commands
 
 One of the most infuriating problems with voice Google Assistant is that users often encounter difficulties in having their commands accurately recognized. To enhance the accuracy of voice recognition with Google Assistant, you can consider implementing the following tips:
@@ -293,6 +279,13 @@ Ensure that your device's microphone is in good working condition. Dirt or debri
 4. **Quiet Environment**
 
 Background noise can interfere with voice recognition. Try to issue commands in a quiet environment to minimize any potential confusion caused by external sounds.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4. How to Unlock Android Phone Screen Without Passcode
 
@@ -320,6 +313,13 @@ If you are wondering how to unlock your Android phone screen without a passcode 
 Open the latest version of Wondershare Dr.Fone on your computer and connect your phone device using a USB cable. Once connected, navigate to the Toolbox > Screen Unlock to access Dr.Fone – Screen Unlock tool.
 
 ![Open the Dr.Fone Screen Unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Select Android for your device type.
 
@@ -416,13 +416,6 @@ After that, use Find My Device to unlock your Android phone without losing any d
 
 ![unlock samsung without data loss](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Sign in with your Samsung account at findmymobile.samsung.com.
 - Choose "Lock my screen" from the menu on the left, type a new PIN in the box given, and then click "LOCK."
 
@@ -450,6 +443,13 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 
 ![go to system and enter command line](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Finally, just restart your smartphone and use it as normal.
 
 ### 4\. Hard reset (data loss)
@@ -465,13 +465,6 @@ When your phone is locked, you may access the recovery menu of your phone using 
 - Allow a few seconds for the factory reset procedure to finish after selecting Yes, or Factory data reset. The phone will reboot once you pick the Reboot system. Now you may configure it as if it were a brand-new gadget.
 
 ![reboot the system and follow factory reset](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Unlock from Forgot Pattern (android 4.4 or lower)
 
@@ -501,13 +494,6 @@ Here's how you can boot into safe mode.
 - Then you will also see the option to turn off boot.
 - You can get rid of the locked phone by proceeding with that option.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Easy Tool To Unlock Android Phone Without Password
 
 If you forget the lock code, you can simply unlock your Android phone using Dr.Fone - Screen Unlock.
@@ -525,10 +511,10 @@ The Dr.Fone functionality is still usable with the old UI of the Dr.Fone Mac ver
 ![open dr fone and connect to device](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Connect your Android phone to the PC via a USB cable. then click the "Unlock Android Screen" button on the software.
@@ -556,6 +542,19 @@ The recovery package will begin downloading once you set your device in download
 
 ![download a package for recovery](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Unlock Android without erasing data**
 
 After the recovery package download is finished, click "Remove Now." This operation won't harm any data on your Android device.
@@ -563,6 +562,13 @@ After the recovery package download is finished, click "Remove Now." This operat
 When everything is done, you won't need to enter a password to access your Android smartphone, allowing you to see all of your data without any limitations.
 
 ![wait until the password removal process completes](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tips: How To Keep Our Data Safe?
 
@@ -612,19 +618,24 @@ It would be best if you had been able to answer the question, "How to unlock an 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-beginners-path-to-creating-engaging-fb-covers/"><u>[Updated] 2024 Approved A Beginner’s Path to Creating Engaging FB Covers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capturing-in-action-a-screen-recorders-journey/"><u>[Updated] In 2024, Capturing in Action A Screen Recorder's Journey</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming/"><u>[Updated] In 2024, Master Controls Navigating the World of Switch Pro and Steam Gaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-visual-entry-examination-digest/"><u>[Updated] Visual Entry Examination Digest</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/visual-alchemy-formulating-your-youtube-playlist/"><u>Audiovisual Alchemy Formulating Your YouTube Playlist</u></a></li>
-<li><a href="https://win-blog.techidaily.com/downloadador-de-conversao-de-imagens-mpe-online-gratuito-movavi/"><u>Downloadador De Conversão De Imagens MPE Online Gratuito - Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-redmi-k70-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi Redmi K70? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-g2-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo G2</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-note-30-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Note 30</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-13c-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi 13C Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leverage-cookiebot-technology-for-enhanced-web-analytics-and-seo-success/"><u>Leverage Cookiebot Technology for Enhanced Web Analytics and SEO Success</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-note-12-proplus-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi Note 12 Pro+ 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-free-visual-treasury-select-10-sites-included/"><u>[Updated] Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elevate-your-videos-with-expert-tips-on-vlc-spinning/"><u>[Updated] In 2024, Elevate Your Videos with Expert Tips on VLC Spinning</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-x50-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor X50 Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-13t-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi 13T</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/effortless-strategies-resolve-your-windows-media-players-mts-format-problem/"><u>Effortless Strategies: Resolve Your Windows Media Player's MTS Format Problem</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/future-frames-the-years-top-cinematographic-innovations-2024/"><u>Future Frames The Year's Top Cinematographic Innovations - 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-your-personal-playthrough-of-persona-3-fe-from-freezing-on-a-pc/"><u>How to Prevent Your Personal Playthrough of Persona 3 FE From Freezing on a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v30-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V30 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a23-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A23 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-note-13-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi Note 13 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-g24-power-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Motorola G24 Power?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-x6-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco X6 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-lite-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Lite 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-smart-7-hd-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Smart 7 HD Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-14-ultra-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi 14 Ultra Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-13-proplus-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 13 Pro+ 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-your-desktop-win-11-icon-recovery-tips/"><u>Reclaim Your Desktop: Win 11 Icon Recovery Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-itel-s23-by-drfone-android/"><u>Universal Unlock Pattern for Itel S23</u></a></li>
 </ul></div>
 
