@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Tecno Spark 10 Pro Phone with Broken Screen
-date: 2024-09-03T06:26:01.329Z
-updated: 2024-09-04T06:26:01.329Z
+date: 2024-10-27T16:34:47.780Z
+updated: 2024-10-31T16:37:35.902Z
 tags: 
   - unlock
   - remove screen lock
@@ -71,9 +71,6 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can then go about backing up the contents of your device.
 
 ## Method 3: Using your Samsung Account
@@ -84,24 +81,37 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
 **Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="1456" height="180"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How To Easily Unlock Tecno Screen?
 
 If you've ever had a Tecno phone, then you know that their screens are locked by default. It can be a pain if you want to access your messages or change your background image quickly. If you just set your Tecno password, screen lock code, pattern lock, or PIN last night or a few days ago, you are most likely to forget it.
@@ -120,12 +130,6 @@ Like most people, you probably lock your Tecno phone as soon as you turn it on. 
 
 There are a few different ways to unlock your Tecno phone. We'll show you how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1. Google Find My Device (Without Password/Pin/Pattern)
 
 If you're like me, you've probably tried a million different ways to unlock your Tecno phone, only to be frustrated by the results. Luckily, there's an easy way to unlock your Tecno phone using Google's Find My Device feature.
@@ -138,12 +142,6 @@ Follow these steps to unlock the Tecno lock screen password without losing data:
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 2**: Sign in with your Google account, which you used on your locked Tecno phone.
 - **Step 3**: The Android Device Manager dashboard will show your locked Tecno with three options: Ring, Lock, and Erase.
 - **Step 4**: Simply click on "Lock".
@@ -158,18 +156,6 @@ Follow these steps to unlock the Tecno lock screen password without losing data:
 
 You can use it to unlock your Tecno if you have activated the Android Device Manager or Google Find My Device before your phone was locked.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### A few conditions, however, must be met for this to work
 
 - You must turn on your Tecno phone.
@@ -179,8 +165,18 @@ You can use it to unlock your Tecno if you have activated the Android Device Man
 - Your phone needs to be set to location.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1304647" src="//a.impactradius-go.com/gen-ad-code/5597632/1304647/15852" width="300" height="250" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2. Unlock Tecno Lock Screen With Hard Reset
 
 If you perform a hard reset on your Tecno lock screen, all data, and user information will be erased, including your screen lock, password, pattern lock, and PIN.
@@ -198,8 +194,12 @@ Follow the steps below if you want to know how to unlock the Tecno phone keypad 
 Your Tecno is now password, pattern lock, screen lock, and PIN-free after a hard reset.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3. Unlock With Answer Security Questions
 
 You can reset the Tecno pattern lock using Google security questions without losing data.
@@ -230,13 +230,24 @@ You could reset your Tecno lock screen phone using the default security code, ev
 `o 12345.`
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 If you have a classic-style keypad phone or an Android device, unlocking a locked Tecno phone keypad is not easy. However, we believe that every problem has a solution. You can unlock Tecno Android phones using any of the methods listed above.
 
 _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) is a tool that helps you keep your important data safe. It can back up all the important information on your Tecno phone, like photos, music, videos, contacts, and more and is compatible with over 8000 Android devices. The backup process is easy and only takes a few clicks. You can also restore your backup to any device you want, and choose which data you want to restore. This is a great way to make sure you never lose your important Tecno data!_
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark 10 Pro
 
@@ -245,11 +256,12 @@ In addition to passwords and patterns, the fingerprint scanner is one of the hot
 However, if your phone has an inbuilt fingerprint scanner but it does not countenance you to lock the individual apps in your mobile with the fingerprint scanner, you do not need to worry at all! There are some apps that can add this option on your phone. And we are here to suggest you the 5 best options to lock apps with the fingerprint on your Android phones out of the many apps available in the app store! Here we go:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. AppLock
 
 AppLock is rated as the best one of the apps for locking apps on your Android phone. Once you download this app you will notice that it can lock apps with fingerprint practically on your Android phone. It is also capable of locking photos and videos on your device. The app features are secured when you feel that someone is trying to stealthily look at the mobile while you are unlocking your Android phone. Apart from this, you will also get the option to replace the icon so that you are capable of hiding the app. Now the bonus –You can download and use this app absolutely free for locking the apps on your iPhone or Android apps using the fingerprint.
@@ -268,15 +280,6 @@ AppLock is rated as the best one of the apps for locking apps on your Android ph
 
 ![lock apps with fingerprint android-AppLock](https://images.wondershare.com/drfone/article/2017/10/15090398843847.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<iframe id="iframe_1975648" src="//a.impactradius-go.com/gen-ad-code/5597632/1975648/22993" width="160" height="600" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 2\. App Locker: Fingerprint & Pin
 
 The subsequent name on the list of best app locks using lock apps with the fingerprint on your Android phone is App Locker. Most of the functions and features of this app are similar to the app lock. This lock apps with fingerprint iPhone have a tricky feature though, want to know? This naughty app, along with the app lock facility (using PIN, password, or fingerprint sensor), can trigger a sham crash screen which will trick the impostors to think that your phone is crashed! Isn’t it interesting? One more thing to interest you – it is also free to download and use.
@@ -295,12 +298,6 @@ The subsequent name on the list of best app locks using lock apps with the finge
 
 ![lock apps with fingerprint android-Fingerprint & Pin](https://images.wondershare.com/drfone/article/2017/10/15090399098286.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. FingerSecurity
 
 The next on the list is FingerSecurity - one of the feature-rich lock apps with fingerprint Android available for free download for your Android phones. You can lock practically any application with the help of FingerSecurity. In addition, it also has the knack to unlock multiple apps on a single go. If you are among those few people who have many locked apps, you are going to like this a lot! But one thing that you cannot negate is that despite the app being locked, the intruders may get a chance to view what is inside through the notifications. But Fingersecurity has an answer to this also – it has added a new notification locking feature!
@@ -319,12 +316,6 @@ The next on the list is FingerSecurity - one of the feature-rich lock apps with 
 
 ![lock apps with fingerprint android-FingerSecurity](https://images.wondershare.com/drfone/article/2017/10/15090399282756.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="1456" height="180"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Norton Applock
 
 Whenever we have heard the word anti-virus, the first name that comes to our mind is Norton. Norton is a big shot in the field of antivirus apps. Now they have also come up with free lock apps with fingerprint Android. It involves a four digits PIN or password or pattern as its lock system. It also supports icons and photos in conjunction with the apps. The app suggests you with the sanctions list which tells you which apps should be locked. Again the bonus – this is free for download on any Android devices.
@@ -368,7 +359,6 @@ Now since we have told you about the best lock app with a fingerprint for Androi
 
 Do not forget to share your experiences with the apps mentioned in our article. We are waiting for your response!!!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -381,5 +371,19 @@ Do not forget to share your experiences with the apps mentioned in our article. 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-precision-narrative-craftsmanship-how-to-write-impressive-docu-scripts/"><u>[New] Precision Narrative Craftsmanship How to Write Impressive Docu-Scripts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafted-clicks-guide-to-software-and-sites-for-superior-photo-framing/"><u>2024 Approved Crafted Clicks Guide to Software & Sites for Superior Photo Framing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-play-7t-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Play 7T Unlock Without Password</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/battlefield-4-sound-issues-find-relief-in-our-detailed-fixes/"><u>Battlefield 4 Sound Issues? Find Relief in Our Detailed Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-s23plus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel S23+ Phone Screen?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-se-2022-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Bootloader Easily</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-adding-closed-captioning-to-instagram-live-and-igtv/"><u>In 2024, Adding Closed Captioning to Instagram Live and IGTV</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y28-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y28 5G Phone Without Password?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-journey-through-animated-expression-your-guide-to-snapface-magic/"><u>In 2024, Journey Through Animated Expression Your Guide to Snapface Magic</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-v30-lite-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-top-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated In 2024, Top 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+</ul></div>
 

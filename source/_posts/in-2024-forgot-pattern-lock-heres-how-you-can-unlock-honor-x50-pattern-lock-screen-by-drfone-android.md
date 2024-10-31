@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor X50 Pattern Lock Screen
-date: 2024-10-23T21:30:47.157Z
-updated: 2024-10-25T18:59:46.197Z
+date: 2024-10-27T16:41:23.137Z
+updated: 2024-10-31T16:15:38.281Z
 tags: 
   - unlock
   - remove screen lock
@@ -48,31 +48,11 @@ One of the easiest and fastest ways to fix the forgot pattern lock issue on a de
 
 **Step 6.** Confirm your choice and set a new pattern lock on your device.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to get past forgot pattern lock using Dr.Fone - Screen Unlock (Android)?
 
 One of the major drawbacks of the “Forgot pattern” feature is that it doesn’t work on new Android devices. Since most of the Honor X50 devices out there have been updated, the technique has been outdated. Therefore, you can simply take the assistance of [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to bypass the forgot pattern lock on your device. Without causing any harm to your device or erasing its data, your device’s password or pattern would be removed.
 
 It is a part of the Dr.Fone toolkit and is compatible with all the leading Android devices out there. It can be used to remove passwords, patterns, pins, and more. It has an easy-to-use interface and provides a simple click-through process to resolve the forgot pattern Android lock on your device. However, this tool merely retains all the data after unlocking Samsung and LG screens. Other Android locked screens can also be unlocked, and the only thing is that it will wipe all the data after unlocking.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -105,6 +85,19 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![boot device in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 6.** After your device enters its Download Mode, it will automatically be detected by the interface. It will start downloading the needed recovery packages to resolve the issue. Sit back and relax, as it might take a while to download the recovery packages. Let the application process the essential operations, and don’t disconnect your Honor X50 until it is completed successfully.
 
 ![unlock android pattern](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
@@ -112,13 +105,6 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 **Step 7.** In the end, you will get a prompt like this on the screen, informing you that the password/pattern on the Honor X50 device has been removed.
 
 ![unlock android pattern](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That’s it! Now, you can disconnect the Honor X50 device safely and use it how you like.
 
@@ -174,6 +160,13 @@ If you have locked your device using a third-party app, there exists a simple so
 
 ![enable the safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6: How to bypass forgot pattern lock using Factory Reset
 
 Bypassing a forgotten pattern lock on an Android device using a factory reset is a last resort. The reason is it will erase all data on your device, including apps, photos, and settings. However, it can be an effective way to regain access to your device when other methods have failed. Here's how to do it:
@@ -221,13 +214,6 @@ _Shell input key event 66_
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool to Reset Phones Without Android Factory Reset Codes
@@ -249,19 +235,6 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** As soon as the Honor X50 devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Honor X50 device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
@@ -281,13 +254,6 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 **Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -362,9 +328,29 @@ If you don't wish to use the carrier unlock code, several third-party services c
 
 ![selecting brand and model of Honor X50 phone](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-05.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Click on the 'Check Availability and Price' tab; followed by choosing the price and payment method. Finally, tap 'Go to Payment'.
 
 ![providing model specifications of Honor X50 phone](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![choosing the price and payment method](https://images.wondershare.com/drfone/article/2022/08/how-to-unlock-a-network-locked-oneplus-phone-07.jpg)
 
@@ -388,10 +374,16 @@ Unlock Your Honor X50 Phone in a Flash
 Signing in a new Honor X50 contract has many factors to consider for affordable purchases and consumer safety. When entering into such deals, you should pay head-to-data allowances, upfront costs, price hikes, carrier coverage, roaming charges, contract length, flexibility, etc. A low price is not the only thing that should be taken care of.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4：Bonus Tips: iPhone SIM Unlock to Work on Any Carrier Worldwide
@@ -419,16 +411,16 @@ Visit the official Dr.Fone website and download the app to your PC. Install the 
 
 !['remove sim locked' function of drfone](https://images.wondershare.com/drfone/guide/remove-iphone-sim-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Tap 'Start' to initiate the authorization and verification process. Next, connect your iPhone to the PC and hit the 'Confirmed' button to proceed further.
 
 ![verification and authorization confirmation pop up](https://images.wondershare.com/drfone/guide/remove-iphone-sim-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Follow the instructions in the configuration profile sent by Dr.Fone to unlock the iPhone screen. It is necessary to jailbreak your iPhone to remove the SIM lock.
 
@@ -442,7 +434,21 @@ Visit the official Dr.Fone website and download the app to your PC. Install the 
 
 ![](https://images.wondershare.com/drfone/guide/remove-iphone-sim-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -462,21 +468,18 @@ Technology has a pivotal influence on today's high-tech lifestyles, which is rew
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-elevate-your-social-media-presence-by-pining-on-snapchat/"><u>[New] Elevate Your Social Media Presence by Pining on Snapchat</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-full-assessment-of-the-android-based-photo-editor-lightroom/"><u>[Updated] In 2024, A Full Assessment of the Android-Based Photo Editor, Lightroom</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-bringing-bygone-era-filmmaking-to-life-today/"><u>[Updated] In 2024, Bringing Bygone Era Filmmaking to Life Today</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/capturing-lessons-with-ease-top-screen-recorders-for-2024/"><u>Capturing Lessons with Ease Top Screen Recorders for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-camon-20-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Camon 20</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discreetly-manage-your-chatgpt-dialogue-records-without-deletion/"><u>Discreetly Manage Your ChatGPT Dialogue Records without Deletion</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-lock-screen-password-by-drfone-android/"><u>How To Change Honor Lock Screen Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-20-proplus-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-14-ultra-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-hot-40-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Hot 40 Face Lock?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12-pro-4g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12 Pro 4G Lock Screen Password?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/prime-obs-arrangements-on-economy-computers/"><u>Prime OBS Arrangements on Economy Computers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-vivo-y100-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo Y100 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-performance-drop-in-forza-horizon-5-on-pc/"><u>Troubleshooting: Resolving Performance Drop in Forza Horizon 5 on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-converting-avchd-files-to-mp4-without-losing-quality/"><u>Ultimate Guide: Converting AVCHD Files to MP4 Without Losing Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-game-top-tips-for-perfect-live-thumbnails-for-2024/"><u>[New] Elevate Your Video Game Top Tips for Perfect Live Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-asmr-a-harmonious-journey-to-wellbe-point/"><u>[New] In 2024, ASMR A Harmonious Journey to Wellbe Point</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-seamless-video-meetings-from-home-a-guide-to-proficient-use-of-skypes-screen-sharing-for-2024/"><u>[New] Seamless Video Meetings From Home A Guide to Proficient Use of Skype's Screen Sharing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flash-method-swift-signature-bg-erasure-tips/"><u>2024 Approved Flash Method Swift Signature BG Erasure Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-pro-w5700-driver-update-now-available-for-windows-users/"><u>AMD Radeon Pro W5700 Driver Update Now Available for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-malfunctions-in-star-wars-squadrons-ultimate-crash-guide-revealed/"><u>Conquering Malfunctions in Star Wars Squadrons – Ultimate Crash Guide Revealed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-xiaomi-13-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Xiaomi 13 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-zte-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of ZTE?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-14-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi 14</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-s17-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo S17 Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-pro-4g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 Pro 4G Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-redmi-k70-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Redmi K70 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-12-proplus-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi Redmi Note 12 Pro+ 5G Phone Pattern Lock</u></a></li>
 </ul></div>
 

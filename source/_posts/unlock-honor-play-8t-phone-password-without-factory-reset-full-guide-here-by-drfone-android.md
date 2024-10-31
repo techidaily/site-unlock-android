@@ -1,7 +1,7 @@
 ---
 title: Unlock Honor Play 8T Phone Password Without Factory Reset Full Guide Here
-date: 2024-10-13T21:42:55.013Z
-updated: 2024-10-19T18:04:06.669Z
+date: 2024-10-26T16:44:49.493Z
+updated: 2024-10-31T17:15:40.457Z
 tags: 
   - unlock
   - remove screen lock
@@ -56,13 +56,6 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 
 ![drfone screen unlock tool](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Click Unlock Android Screen.
 
 ![unlock motorola phone screen lock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
@@ -81,6 +74,13 @@ Dr.Fone is a collection of several modules unified in a single interface. Each o
 
 ![motorola phone screen unlock](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 7:** When all is done, you will see the following:
 
 ![motorola phone screen unlock process complete](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -96,13 +96,6 @@ There is a standard factory reset built into every Honor Play 8T  phone to allow
 **Step 2:** Tap Factory Reset > Reset Phone.
 
 **Step 3:** Tap Erase Everything.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Use Google Find My Device To Unlock Honor Play 8T  Phones (Wipes User Data)
 
@@ -124,9 +117,23 @@ Google Find My Device is an online service by Google that is used to locate and 
 
 **Step 6:** After the erasure, your device will need to be set up all over again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 5: Request Service Provider To Unlock Your Honor Play 8T  Phone
 
 If your Honor Play 8T  phone is tied to a service contract and you want to unlock your device to use it with other service providers, this method is for you. You can request your service provider to unlock your Honor Play 8T  phone provided their conditions are met. Usually, they will be happy to oblige if there are no dues and the service period is over.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tip: If You Want To Disable Screen Lock
 
@@ -190,19 +197,6 @@ Some users focus on privacy and feel uncomfortable with Google Smart Lock's acce
 
 Technical glitches in the functioning of Google Smart Lock can be frustrating. This is especially prominent when managing passwords with similar usernames across different websites. The same can happen when using similar passwords for different websites or apps. Users experiencing such issues can seek to remove it to restore regular operations.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. No Updates
 
 You should be aware that Google Smart Lock for Passwords has been deprecated. This indicates it no longer receives updates or support from Google. Developers are advised to opt for Google's One Tap Sign-in feature as an alternative by Google. It provides a more efficient and secure method for signing in to apps and websites.
@@ -242,6 +236,20 @@ As helpful as it is in managing access to your Android device, privacy concerns 
 - **Step 2.** On the following screen, head to the "Trust agents" option and toggle off the "Smart Lock (Google)" option to disable the feature on your device.
 
 ![toggle off google smart lock](https://images.wondershare.com/drfone/article/2024/01/guide-to-remove-or-disable-google-smart-lock-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 3. Disabling Google Smart Lock From Chrome
 
@@ -283,25 +291,11 @@ Select your device brand and "100% Remove Screen Lock." Selecting the Honor Play
 
 ![choose to remove screen lock fully](https://images.wondershare.com/drfone/article/2024/01/guide-to-remove-or-disable-google-smart-lock-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _**Tips:** Forget your device password and can't get access to it? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 ## Conclusion
 
 This comprehensive guide describes the significance of **Google Smart Lock**. It explains its features and various methods to disable it from Android devices and Chrome. Exploring scenarios of forgotten passcodes highlighted the critical need for a reliable solution. Wondershare Dr.Fone emerges as a savior in such situations. It offers a secure means to regain access when locked out of your device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips and Tricks for Setting Up your Honor Play 8T Phone Pattern Lock
 
@@ -310,6 +304,13 @@ Failing to remember the **pattern lock** of a phone is one of the most puzzling 
 You can attempt the methods below or an expert tool if you have forgotten the **pattern lock** on your gadget and reset it. However, we suggest you try Dr.Fone - Screen Unlock for a quick and safe solution. To make things more straightforward, we have given you other techniques as a workaround to the issue.
 
 So, keep following us to unlock the **lock screen pattern** and use your phone again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Android Pattern?
 
@@ -339,13 +340,6 @@ If you click “Remove without Data Loss,” only some limited Samsung or LG pho
 
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can find the brand compatible with your phone in the following list.
 
 ![supported device brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -368,13 +362,6 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5. **Instructions to Wipe Cache Partition****
 
 Now you’re in recovery mode, pick these options in the image below.
@@ -387,13 +374,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Google Find My Device (For Android7.1.1 or later)
 
 **Step 1.** Open the Android Device Manager site by typing [https://www.google.com/android/find](https://www.google.com/android/find) in an internet browser.
@@ -405,6 +385,13 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 4.** You will get three choices here, i.e., lock, erase, and ring.
 
 ![find my device](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5.** Click on the "Lock" button to reset its pattern.
 
@@ -423,6 +410,13 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 3.** That will open another screen, which you can use to sidestep the forgotten pattern of Android. Select the choice for entering the Google Account credentials and continue.
 
 ![google account](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4.** To reset the **lock screen pattern**, you must give the correct details of the Google ID previously logged into the Honor Play 8T device.
 
@@ -504,24 +498,24 @@ This guide provides insight into the most common Android issue. Here, we have di
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-free-subtitle-mastery-selecting-the-top-10-online-apps/"><u>[New] Free Subtitle Mastery Selecting the Top 10 Online Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-8-best-free-video-editing-software-for-youtube/"><u>[New] In 2024, 8 Best Free Video Editing Software for YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-selecting-the-prime-sky-vault-for-firms-for-2024/"><u>[Updated] Selecting the Prime Sky Vault for Firms for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-a2-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi A2 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-k70-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi K70 Pro?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-itel-p55t-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Itel P55T</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-non-functioning-logitech-webcam-audio/"><u>Effective Fixes for Non-Functioning Logitech Webcam Audio</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/explore-online-communities-with-youtube-monetization-opportunities/"><u>Explore Online Communities with YouTube Monetization Opportunities</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-x50-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor X50? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-100-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor 100</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-10-best-instagram-meme-accounts-to-make-you-laugh-with-tears/"><u>In 2024, 10 Best Instagram Meme Accounts to Make You Laugh (with Tears)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-a60-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel A60 Phone that is Locked?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-blade-a73-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock ZTE Blade A73 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi Redmi K70? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-12-pro-4g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 12 Pro 4G Device</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/rapid-recording-the-5-second-lapses-pro-for-2024/"><u>Rapid Recording The 5-Second Lapses Pro for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/strategies-for-effortless-audio-merging-in-adobe-premiere-for-2024/"><u>Strategies for Effortless Audio Merging in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-hot-40-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Infinix Hot 40 Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comparing-top-tech-does-active-live-up-to-hype/"><u>[New] Comparing Top Tech Does Active Live Up to Hype?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-use-zoom-for-skype-easy-solutions/"><u>[New] How to Use Zoom for Skype [Easy Solutions]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-art-of-minimizing-lag-with-additional-ram-for-minecraft/"><u>[New] In 2024, The Art of Minimizing Lag with Additional RAM for Minecraft</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-interplay-of-html-css-and-javascript-in-modern-web-pages/"><u>[New] In 2024, The Interplay of HTML, CSS, and JavaScript in Modern Web Pages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-reference-for-navigating-telegram-web-applications/"><u>2024 Approved Complete Reference for Navigating Telegram Web Applications</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ffmpeg-and-its-proficiency-in-original-audio-extraction/"><u>2024 Approved FFmpeg and Its Proficiency in Original Audio Extraction</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-hot-40i-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Hot 40i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-zte-nubia-z60-ultra-phone-screen-by-drfone-android/"><u>How Can We Unlock Our ZTE Nubia Z60 Ultra Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-pova-6-pro-5g-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Pova 6 Pro 5G Lock Screen Password?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005413886-how-to-check-if-you-can-connect-to-xbox-live-right-now/"><u>How to Check If You Can Connect To Xbox Live Right Now</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-p55-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P55 Without Password | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-oppo-find-n3-flip-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Oppo Find N3 Flip Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-ultra-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi 14 Ultra Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-zte-nubia-z60-ultras-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your ZTE Nubia Z60 Ultras Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://games-able.techidaily.com/peaceful-pixel-play-idling-worlds/"><u>Peaceful Pixel Play: Idling Worlds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-itel-p55-by-drfone-android/"><u>Three Ways to Sim Unlock Itel P55</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-14-ultra-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi 14 Ultra Device</u></a></li>
 </ul></div>
 

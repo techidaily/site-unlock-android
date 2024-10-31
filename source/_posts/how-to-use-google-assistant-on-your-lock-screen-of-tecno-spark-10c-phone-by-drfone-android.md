@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Tecno Spark 10C Phone
-date: 2024-10-13T21:17:49.559Z
-updated: 2024-10-19T19:13:36.403Z
+date: 2024-10-30T16:10:09.660Z
+updated: 2024-10-31T17:08:15.914Z
 tags: 
   - unlock
   - remove screen lock
@@ -59,6 +59,19 @@ Locate the “Lock Screen” settings and make sure to switch on “Assistant re
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How To Use Google Assistant on Lock Screen
 
 After you've successfully enabled Google Assistant on your lock screen, let's see how to use Google Assistant to do certain tasks more efficiently and hands-free.
@@ -84,6 +97,13 @@ When you can still **unlock with Google Assistant**, you can ask it to “unlock
 Google Assistant will then provide spoken responses and display relevant information on the lock screen. For instance, if you ask for the weather, it might verbally provide the current conditions and display a brief summary on your lock screen.
 
 ![Using Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Common Problems When Using Google Assistant
 
@@ -130,6 +150,13 @@ Now, you know that you can't **unlock phone via Google Assistant** anymore. But 
 Fortunately, [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) offers a straightforward solution for precisely such scenarios. It provides a simple and effective way to unlock your Android phone screen through Dr.Fone - Screen Unlock when the screen lock is forgotten or becomes inaccessible.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -195,13 +222,6 @@ Google Assistant is a versatile virtual assistant that is designed to help you w
 
 However, if you are looking for ways to **unlock phone with Google Assistant**, this function is no longer available. **Google Assistant unlock** feature has been discontinued since 2021. But in case you've forgotten the screen lock passcode, you can use Wondershare Dr.Fone Screen Unlock tool to regain access to your Android phone. This tool facilitates the unlocking process without data loss, featuring a user-friendly learning curve.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Show Wi-Fi Password on Tecno Spark 10C
 
 Since the invention of Android OS in 2008 by Andy Rubin, our world has faced a dramatic change. Android seems to be controlling a considerably high portion of our life. We have bought many gadgets that use this amazing OS and most of which are phones. But how much can you do with your Android phone? Developers are always making it more interesting to use this interface.
@@ -211,6 +231,19 @@ Most of the time, we use Android phones, we get faced with the need to access th
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/78mNMIr_wpI"></iframe>
 
 ## Part 1: Show Wifi Password on Rooted Android Device
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What is Rooting?
 
@@ -236,13 +269,6 @@ The root explorer needs to be enabled so that you can reach the root folders of 
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556292611536.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This will drop down a list of controls. Scroll down and find the **Root Explorer** option and enable it.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293052566.jpg)
@@ -265,23 +291,9 @@ Make sure that you don't edit anything in the file. You might mess up with impor
 
 As you can see above, we have found the Wi-Fi passwords on the android device. On each network profile, we have the name of the network represented by _name (ssid="{the name}")_, the network's password represented by _psk_, the network's access point represented by _key\_mgmt=WPA-PSK_ and its priority represented by _priority_.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Show Wifi Password on Android without Root
 
 What if I don't have root access to my Android, can I still see Android Wi-Fi password? The short answer is yes. However, this is a bit involving but simple. You don't need to be a computer guru to do it, but you need to have a computer and some internet access of course. The key thing is to find a way through which we can fetch the password file from the phone without using a root access protocol in the Android. This is made possible by some little programming insight using the Windows Command prompt.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps to show Wi-Fi password on Android without root
 
@@ -309,13 +321,6 @@ Now, open your Windows desktop. Download and install ADB drivers. (Use this down
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329561742.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Test the ADB
 
 Here, we would like to test whether the ABD is working properly. To do this, connect your phone to the PC using a USB. In the command prompt, type **adb services** and then press enter. If it's working properly, you should see a device on this list.
@@ -334,13 +339,6 @@ Lastly, open the file with a notepad, and there you go.
 
 Now you learned how to show the wifi password on your Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Enable USB Debugging on a Locked Tecno Spark 10C Phone
 
 Unlocking your Android’s potential goes beyond its surface features. Understanding USB debugging is key to troubleshooting and maximizing your device’s capabilities. In simple terms, USB debugging allows deeper access to your phone’s functionalities, aiding in software development and data recovery.
@@ -349,18 +347,18 @@ However, enabling USB debugging becomes crucial yet challenging when your phone 
 
 ![allow usb debugging](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part I. Challenges in Enabling USB Debugging on a Locked Android Phone
 
 USB debugging is a nifty tool that lets you peek behind the scenes of your Android phone’s software. It’s like having a secret key that unlocks deeper access to your device, enabling tasks like software tweaking, app testing, and even data recovery.
 
 ![usb debugging android](https://images.wondershare.com/drfone/article/2024/01/enable-usb-debugging-locked-phone-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Challenges in Enabling USB Debugging on a Locked Phone
 
@@ -369,6 +367,13 @@ Outlined below are some of the barriers, scenarios, and limitations, shedding li
 - **Locked-out access.**When your phone is locked, gaining access to the settings becomes a roadblock to enabling USB debugging.
 - **Limited functionality.**The phone’s locked state restricts the usual methods of accessing developer settings and USB debugging options.
 - **Security measures.**For security reasons, most devices limit access to sensitive settings when the phone is locked, making it tricky to enable USB debugging.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Scenarios Requiring USB Debugging on a Locked Phone
 
@@ -402,13 +407,6 @@ Enabling USB debugging on a locked phone can feel like navigating a maze with no
 ### Why Unlocking First Makes Sense
 
 Attempting to **enable USB debugging on locked phones** can hit roadblocks. That’s why unlocking your device first becomes a game-changer. Dr.Fone – Screen Unlock (Android) is the hero of this story, simplifying the process and ensuring a hassle-free experience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features and Benefits
 
@@ -445,6 +443,13 @@ Below are the steps on how you can unlock your Android device using Dr.Fone:
 
 ![drfone choose device model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** Type **000000** when asked to confirm the process. After entering the code, click **Confirm** to run the program.
 
 ![drfone screen unlock confirm](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
@@ -464,6 +469,13 @@ Dr.Fone – Screen Unlock (Android) acts as your trusty guide, leading you throu
 [<u>Unlocking Your Realme Phone Made Easy: No Data Loss!</u>](https://drfone.wondershare.com/unlock/how-to-unlock-realme-phone-without-losing-data.html)
 
 [<u>The Best Android Unlock Software of 2024</u>](https://drfone.wondershare.com/sim-unlock/android-unlock-software.html)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -485,22 +497,19 @@ Then, it’s time to consider Dr.Fone - Screen Unlock (Android). It effortlessly
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-sculpt-visual-jokes-for-giphy-space/"><u>[Updated] 2024 Approved Sculpt Visual Jokes for Giphy Space</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/a-detailed-exploration-youtubes-visionary-suite/"><u>A Detailed Exploration YouTube's Visionary Suite</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/discover-exceptional-netflix-films-in-4k-quality-complete-guide-for-free-downloads/"><u>Discover Exceptional Netflix Films in 4K Quality - Complete Guide for Free Downloads</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-mix-fold-3-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Mix Fold 3 Pattern Lock Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-100-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor 100</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-go-2024-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-lite-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo V30 Lite 5G Phone Without Password?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-altered-captions-a-video-guide/"><u>In 2024, Altered Captions A Video Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi A2?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-12-pro-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone 12 Pro iCloud Bypass</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y100t-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y100t Phone?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-meet-your-new-record-keeping-companion-the-mycam-cam/"><u>In 2024, Meet Your New Record-Keeping Companion The MyCam Cam</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-itel-a60-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Itel A60 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-the-world-of-computer-components-with-toms-hardware-guides/"><u>Mastering the World of Computer Components with Tom's Hardware Guides</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-the-momentum-channels-best-inspirational-videos-for-2024/"><u>Spark the Momentum Channel's Best Inspirational Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-undoing-your-yt-playback-sequence/"><u>[New] The Ultimate Guide Undoing Your YT Playback Sequence</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-path-to-precision-audio-a-no-mic-approach/"><u>2024 Approved The Path to Precision Audio A No-Mic Approach</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-90-gt-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 90 GT Unlock Without Password</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-imac-215-inch-4k-review/"><u>Apple iMac 21.5-Inch 4K Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/draw-deftly-delight-fast-win10s-pathway-to-proficient-picture-edits/"><u>Draw Deftly, Delight Fast Win10's Pathway to Proficient Picture Edits</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhanced-engagement-investing-in-high-quality-hardware/"><u>Enhanced Engagement: Investing in High-Quality Hardware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-guide-6-reliable-methods-to-restore-your-terraria-game-connection/"><u>Essential Guide: 6 Reliable Methods to Restore Your Terraria Game Connection</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-zte-nubia-flip-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-note-30i-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Note 30i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix Note 30 VIP Racing Edition?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-infinix-note-30-vip-racing-edition-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Infinix Note 30 VIP Racing Edition ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/sequel-of-seconds-measuring-20mb-footage/"><u>Sequel of Seconds Measuring 20MB Footage</u></a></li>
 </ul></div>
 

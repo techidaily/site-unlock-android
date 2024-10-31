@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor 80 Pro Straight Screen Edition Pattern Lock Screen
-date: 2024-10-18T16:50:24.253Z
-updated: 2024-10-25T20:53:18.402Z
+date: 2024-10-27T16:55:18.072Z
+updated: 2024-10-31T16:53:10.888Z
 tags: 
   - unlock
   - remove screen lock
@@ -69,6 +69,13 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![lock screen removal](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** To use its forgot pattern lock feature, you need to connect your Honor 80 Pro Straight Screen Edition to your system using a USB cable. Once your device has been detected automatically, just click on the "Android"> "Unlock Android Screen" button.
 
 ![forgot pattern android - start to remove](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -82,10 +89,10 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 ![forgot pattern lock - confirm operation](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 5.** Now, in order to fix the forgot pattern Android issue, you need to put your device into the Download Mode. To do this, you need to ensure that your device is switched off. Once it is off, hold the Power, Home, and Volume Down buttons simultaneously. After a while, press the Volume Up button to put your device into Download Mode.
@@ -118,13 +125,6 @@ All of this can be done by following these steps:
 
 ![lock android phone](https://images.wondershare.com/drfone/article/2017/09/15059290696992.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5.** Click on the “Lock” button to reset its password.
 
 **Step 6.** It will open a new pop-up window. From here, you can provide the new password for your device.
@@ -132,13 +132,6 @@ All of this can be done by following these steps:
 **Step 7.** After confirming your password, you can also provide an optional recovery message and phone number (if your device has been lost or stolen).
 
 ![enter new password](https://images.wondershare.com/drfone/article/2017/09/15059290882506.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 8.** Save your changes and sign out of your account from Android Device Manager.
 
@@ -154,9 +147,23 @@ However, it relies on having previously set up Samsung Find My Mobile and linked
 
 ![login into samsung find my](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** After successfully logging in, locate the locked Samsung device. Now, click on the "Unlock" feature. Upon choosing this option, a pop-up window will appear. It will prompt you to input your Samsung account password. Once you've entered your password, proceed to unlock the Honor 80 Pro Straight Screen Edition device by pressing "Next."
 
 ![use the unlock feature](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to bypass forgot pattern lock using Safe Mode
 
@@ -239,13 +246,6 @@ After that, use Find My Device to unlock your Android phone without losing any d
 
 Your smartphone will be unlocked, and the password will be changed to the new one after a brief delay.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Use ADB (Android Debug Bridge)
 
 Without a factory reset, Android phone passwords may also be unlocked using the Android Debug Bridge (ADB).
@@ -261,17 +261,23 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 
 ![activate USB debugging from settings](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Launch the command prompt in the ADB installation directory after your device is connected to the system.
 - Press enter after typing "ADB shell rm /data/system/gesture.key" into the command line.
 
 ![go to system and enter command line](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Finally, just restart your smartphone and use it as normal.
 
@@ -366,13 +372,6 @@ When everything is done, you won't need to enter a password to access your Andro
 
 ![wait until the password removal process completes](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus Tips: How To Keep Our Data Safe?
 
 Dr.Fone - Phone Backup is an excellent solution to keeping data safe and secure and baking it up before resetting your device, even if you have forgotten your password. You may quickly and conveniently back up practically all forms of Android phone data with Dr.Fone - Phone Backup (Android). Additionally, you may examine and export only certain types of data.
@@ -415,6 +414,13 @@ Most of the time, we use Android phones, we get faced with the need to access th
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/78mNMIr_wpI"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Show Wifi Password on Rooted Android Device
 
 ### What is Rooting?
@@ -445,6 +451,13 @@ This will drop down a list of controls. Scroll down and find the **Root Explorer
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293052566.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Get the passwords' file.
 
 Go back to ES file explorer, and this time, find the folder named **data**.
@@ -460,6 +473,13 @@ Step 4: Retrieve the wifi password on Android
 Make sure that you don't edit anything in the file. You might mess up with important data and fail to access the Wi-Fi(s) in the future.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556294042257.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As you can see above, we have found the Wi-Fi passwords on the android device. On each network profile, we have the name of the network represented by _name (ssid="{the name}")_, the network's password represented by _psk_, the network's access point represented by _key\_mgmt=WPA-PSK_ and its priority represented by _priority_.
 
@@ -493,13 +513,6 @@ Now, open your Windows desktop. Download and install ADB drivers. (Use this down
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329561742.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4: Test the ADB
 
 Here, we would like to test whether the ABD is working properly. To do this, connect your phone to the PC using a USB. In the command prompt, type **adb services** and then press enter. If it's working properly, you should see a device on this list.
@@ -515,13 +528,6 @@ Step 6: Get the wifi passwords.
 Lastly, open the file with a notepad, and there you go.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556331232772.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you learned how to show the wifi password on your Android device.
 
@@ -539,18 +545,14 @@ Now you learned how to show the wifi password on your Android device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-penning-powerful-film-prospectus/"><u>[New] Penning Powerful Film Prospectus</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-distinguished-makers-elite-instagram-highlight-constructors-for-2024/"><u>[Updated] Distinguished Makers Elite Instagram Highlight Constructors for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-end-video-refresher-resolution-renaissance/"><u>[Updated] Top-End Video Refresher Resolution Renaissance</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-magic-6-lite-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Magic 6 Lite to Protect Your Individual Information</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-s23plus-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Itel S23+ Phone with Broken Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-p55t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel P55T</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-brushstrokes-breakthrough-top-10-mac-drawers-at-no-cost/"><u>In 2024, Brushstrokes Breakthrough Top 10 Mac Drawers at No Cost</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-hot-40-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Hot 40</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-premium-multisport-garmin-forerunner-745-fitness-tracker/"><u>In-Depth Analysis of the Premium MultiSport Garmin Forerunner 745 Fitness Tracker</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-zte-blade-a73-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your ZTE Blade A73 5G Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-a-deep-dive-into-its-use-of-external-data-for-responses/"><u>Understanding ChatGPT: A Deep Dive Into Its Use of External Data for Responses</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-a70-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Itel A70 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-15-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 15</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-where-are-my-youtube-comments-desktopiosandroid-strategies/"><u>[New] Where Are My YouTube Comments? Desktop/iOS/Android Strategies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/advanced-streaming-equipment-for-broadcasters/"><u>Advanced Streaming Equipment for Broadcasters</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-tecno-spark-20-proplus-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Tecno Spark 20 Pro+?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-yuva-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-infinix-smart-7-hd-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Infinix Smart 7 HD to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-phantom-v-fold-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Phantom V Fold</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-itel-p55-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Itel P55 5G Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-11-pro-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 11 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-f15-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy F15 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

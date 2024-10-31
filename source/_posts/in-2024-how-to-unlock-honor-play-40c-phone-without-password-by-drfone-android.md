@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Honor Play 40C Phone Without Password?
-date: 2024-10-19T19:02:34.963Z
-updated: 2024-10-25T18:35:55.181Z
+date: 2024-10-26T16:16:20.899Z
+updated: 2024-10-31T16:45:33.088Z
 tags: 
   - unlock
   - remove screen lock
@@ -90,10 +90,24 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 
 ![activate USB debugging from settings](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Launch the command prompt in the ADB installation directory after your device is connected to the system.
 - Press enter after typing "ADB shell rm /data/system/gesture.key" into the command line.
 
 ![go to system and enter command line](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - Finally, just restart your smartphone and use it as normal.
 
@@ -163,18 +177,18 @@ Nearly all Android devices feature locked displays, including Android. Because t
 
 ![choose the Honor Play 40C device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3. Switch to download mode**
 
 If you then adhere to the instructions on the software, the phone will enter Download Mode.
 
 ![switch to download mode and follow instructions](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Offset your phone.
 - Hold down the Power, Home, and Volume Down keys all at once.
@@ -252,13 +266,6 @@ Android Device Manager can unlock your phone under a specific set of circumstanc
 - • Thirdly, the Honor Play 40C device you are using for ADM, must be connected to Wi-Fi or internet, to login to your Google account.
 - • Lastly, Android Device Manager is not compatible for all Android versions. For now, it is only compatible with devices running Android 4.4 and above, so your phone must be in this category for ADM to work.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to unlock Android phone with Android Device Manager?
 
 Just act according to the following steps, and the Android Device Manager will unlock your phone.
@@ -283,6 +290,13 @@ The Android Device Manager has successfully unlocked your phone!
 
 A downside to this process, is an error message faced by some users while using ADM. Many users have reported the issue, that when they have tried using ADM to unlock their locked device, an error message has occurred, saying, “since Google has verified that a screen lock is already set”. Basically, this error message conveys that you will not be able to unlock your phone using Android Device Manager, and this is a flaw on Google’s part, not your phone’s.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: What to do if phone is locked by Android Device Manager
 
 There are 2 situations where you would want to know how to unlock the Android Device Manager lock – one, when you have unfortunately forgotten the screen lock passcode and the other is when your phone is locked by Android Device Manager.
@@ -290,13 +304,6 @@ There are 2 situations where you would want to know how to unlock the Android De
 ADM is built to completely lock your device so that unknown people cannot access it. So, if your phone is locked by Android Device Manager, you might be in a problem.While ADM is a wonderful tool to lock your phone or erase and wipe data if its stolen or lost, most of the users have reported the issue that they cannot unlock their phones that are locked by Android Device Manager. A possible solution to this is adding a temporary password via Google login and bypassing the ADM lock. Or, you can try resetting the password again by entering a new password via ADM. If that does not work, you can make use of several third-party applications which can be found in the internet, that will help to completely erase the Android Device Manager lock.
 
 So, now you know how to unlock the Android Device Manager lock. Do keep in mind, your device must be connected to internet or Wi-Fi, to login to your Google account.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Unlock Android devices with Dr.Fone - Screen Unlock (Android)
 
@@ -358,17 +365,10 @@ If you are also facing the same issue, then you have come to the right place. Th
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to get into a locked phone with Dr.Fone?
@@ -376,19 +376,6 @@ If you are also facing the same issue, then you have come to the right place. Th
 [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) provides a hassle-free solution to unlock an Android device in minutes. It can remove a device’s PIN, password, pattern, and even fingerprint security without causing any harm to it. Therefore, you would be able to unlock your device without losing your data while using some Samsung or LG Android phones. If you want to break the locked screen with Dr.Fone from other brand phones, including iPhone, Huawei, and Oneplus, it will wipe out your phone's data after unlocking successfully.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -410,13 +397,6 @@ To learn how to get into a locked phone using Dr.Fone, follow these steps:
 - **Step 2.** Connect your Android device to the computer. Click "Android" > "Unlock Android Screen" and select the Honor Play 40C device brand on the list. If your device is listed in the [supported list](https://drfone.wondershare.com/reference/android-lock-screen-removal.html), you can unlock locked phone without data loss.
 
 ![get into a locked phone with Dr.Fone-Start](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3.** Now, you need to put your Android device in Download mode. To do this, you need to turn your device off by pressing the Power button. Afterward, press the Home, Power, and Volume Down buttons together. After a while, let go of these buttons and press the Volume Up button to enter the Download Mode.
 
@@ -457,10 +437,24 @@ If you are using a Samsung device, you can also use its Find My Mobile service t
 
 ![get into a locked phone-access various features](https://images.wondershare.com/drfone/article/2017/10/15081759638999.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4.** From the provided options on the left panel, click on the “Unlock My Screen” option.
 - **Step 5.** Click on the “Unlock” button again to move past the lock screen of your device.
 
 ![get into a locked phone-Unlock](https://images.wondershare.com/drfone/article/2017/10/15081759851833.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6.** After waiting for a while, you will get the following prompt. From here, you can set up a new lock for your mobile or can click on the “Lock My Screen” option to do the same.
 
@@ -493,13 +487,6 @@ If nothing else seems to work, then you can also choose to factory reset your de
 
 ![get into a locked phone-factory reset](https://images.wondershare.com/drfone/article/2017/10/15081760902466.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5.** This will display the following prompt. Confirm your choice by selecting the “Yes” option.
 
 ![get into a locked phone-Confirm your choice](https://images.wondershare.com/drfone/article/2017/10/15081761107986.jpg)
@@ -515,6 +502,13 @@ If you are using a third-party application to lock your device, you can easily d
 - **Step 3.** It will provide the following prompt regarding Safe Mode. Just tap on the “Ok” button to confirm your choice.
 
 ![get into a locked phone-tap on the “Ok”](https://images.wondershare.com/drfone/article/2017/10/15081761296376.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 7: How to get into a locked phone using Custom Recovery?
 
@@ -552,16 +546,18 @@ By following these simple steps, you would learn how to get into a locked phone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-engage-and-captivate-viewers-ultimate-tips-for-cutting-edge-youtube-edits/"><u>[New] In 2024, Engage and Captivate Viewers Ultimate Tips for Cutting-Edge Youtube Edits</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-use-snap-camera-on-zoom/"><u>[Updated] 2024 Approved How to Use Snap Camera on Zoom?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-k70-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-12plus-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-poco-c55-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-x7b-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor X7b Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18e-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo S18e Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-smart-7-hd-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Smart 7 HD Unlock Without Password</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-nuances-of-chatgptenticing-api-use/"><u>Navigating the Nuances of ChatGPT'enticing API Use</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-common-steamvr-error-code-308/"><u>Troubleshooting the Common SteamVR Error Code 308</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-the-invisible-touch-methods-to-apply-fading-effects-on-sound-in-imovie-for-2024/"><u>Updated The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-igniting-interest-how-to-elevate-your-instagram-contents-impact/"><u>[New] In 2024, Igniting Interest How to Elevate Your Instagram Content's Impact</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-captivating-anime-concepts-that-topped-the-tiktok-list-for-2024/"><u>[Updated] Captivating Anime Concepts that Topped the TikTok List for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-hdr-evaluation-is-aurora-a-game-changer/"><u>[Updated] In 2024, HDR Evaluation Is Aurora a Game-Changer?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-revolutionize-visual-storytelling-by-incorporating-cg-centrals-look-up-tables-luts/"><u>[Updated] In 2024, Revolutionize Visual Storytelling by Incorporating CG Central's Look-Up Tables (Luts)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-poco-c55-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Poco C55 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-magic-5-lite-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor Magic 5 Lite Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a05s-bootloader-easily-by-drfone-android/"><u>How to Unlock Itel A05s Bootloader Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Without Password?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-gionee-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Gionee Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-k70-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi K70 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-14-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi 14 Pro Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-gone-volume-control-symbol-issue-on-windows-10-with-illustrated-instructions/"><u>Solve the Gone Volume Control Symbol Issue on Windows 10 with Illustrated Instructions</u></a></li>
 </ul></div>
 
