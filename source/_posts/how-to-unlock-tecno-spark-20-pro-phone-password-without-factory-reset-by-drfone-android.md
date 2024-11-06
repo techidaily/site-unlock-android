@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Tecno Spark 20 Pro Phone Password Without Factory Reset?
-date: 2024-10-26T16:13:44.322Z
-updated: 2024-10-31T16:59:36.296Z
+date: 2024-11-03T01:09:12.568Z
+updated: 2024-11-06T07:22:13.000Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,31 +51,31 @@ Follow the following steps to unlock your Android password without factory reset
 
 ![Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** After that, select the phone model from the list or choose "I can't find my device model from the list above" on the next screen.
 
 ![start to unlock android password](https://images.wondershare.com/drfone/drfone-android/drfone-lock-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Now, there will be three steps mentioned that you must follow to get your phone into the Download mode. The first is to power off the phone. The second is to press and hold the Volume button along with the Home button and Power button. The third step is to press the volume up the option to get into the download mode.
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Once your phone is in download mode, the program will start downloading the recovery package and then unlock your Android password without factory reset or data loss.
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** You will see that the icon showing “Remove Password Completed” will pop up. This whole process takes only a few minutes to get your work done without any loss of any data.
 
@@ -93,25 +93,11 @@ With very simple steps and a few minutes at hand, you can get rid of your passwo
 
 ![drfone](https://images.wondershare.com/drfone/article/2017/10/15090637463876.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Here you will see three options: “Ring,” “Lock,” and “Erase.” Select the “Lock” option
 
 **Step 3.** A window will appear where you need to type any temporary password. Do not enter your Google password, and you need not enter the recovery message. Click on “Lock ” again.
 
 ![enter temporary password](https://images.wondershare.com/drfone/article/2017/10/15090638114424.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once successful, you will get a confirmation message below the three buttons: Ring, Lock, and the Erase option.
 
@@ -163,13 +149,6 @@ AppLock is rated as the best one of the apps for locking apps on your Android ph
 
 ![lock apps with fingerprint android-AppLock](https://images.wondershare.com/drfone/article/2017/10/15090398843847.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. App Locker: Fingerprint & Pin
 
 The subsequent name on the list of best app locks using lock apps with the fingerprint on your Android phone is App Locker. Most of the functions and features of this app are similar to the app lock. This lock apps with fingerprint iPhone have a tricky feature though, want to know? This naughty app, along with the app lock facility (using PIN, password, or fingerprint sensor), can trigger a sham crash screen which will trick the impostors to think that your phone is crashed! Isn’t it interesting? One more thing to interest you – it is also free to download and use.
@@ -187,13 +166,6 @@ The subsequent name on the list of best app locks using lock apps with the finge
 **Google Rating:** 4.5
 
 ![lock apps with fingerprint android-Fingerprint & Pin](https://images.wondershare.com/drfone/article/2017/10/15090399098286.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. FingerSecurity
 
@@ -246,6 +218,13 @@ Perfect App Lock is yet another great lock apps with the fingerprint for Android
 
 ![lock apps with fingerprint android-Perfect Applock](https://images.wondershare.com/drfone/article/2017/10/15090399729810.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Apart from the aforesaid apps, there are many lock apps with fingerprint locking method for Android phones; however, these have been selected purely based on user ratings. If you are using the iPhone, you can have some app locks based on fingerprint sensors like 1Password, Scanner Pro, LastPass, or Mint to lock apps with the fingerprint on your iPhone.
 
 Do you know of any other apps which can offer similar or even better features?
@@ -255,6 +234,13 @@ Do share them with us!!!
 Now since we have told you about the best lock app with a fingerprint for Android that can be used to lock your apps and phone using fingerprint sensors, go ahead downloading one for your device. You can understand the pros and cons by yourself and enjoy the benefits of your downloaded app. You have got the list of five of the best fingerprint scanner apps which are available on the play store. If you have any suggestions you are most welcome to contact us.
 
 Do not forget to share your experiences with the apps mentioned in our article. We are waiting for your response!!!
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reset Gmail Password on Tecno Spark 20 Pro Devices
 
@@ -278,6 +264,13 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** In this step, you may be asked to fill in a CAPCHA form. Just simply do it and move to the next page. There you had better type in the last password that you are still able to recall if possible, then click on the Continue button to move. Or else, you can skip this step by clicking on I don't know button.
 
 ![reset Gmail password on Android-fill in a CAPCHA form](https://images.wondershare.com/drfone/others/14546022088819.jpg)
@@ -286,9 +279,23 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android-submit the process](https://images.wondershare.com/drfone/others/14546022423041.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** In this step, a blank bar will appear and it will demand you to type in your verification code. Just do it carefully to make sure there is no error. Once you have done it, a new screen will appear to tell you.
 
 ![reset Gmail password on Android-type in your verification code](https://images.wondershare.com/drfone/others/14546022635082.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![reset Gmail password on Android-account assistance](https://images.wondershare.com/drfone/others/14546022939368.jpg)
 
@@ -307,10 +314,10 @@ Step 2: Find the Password option in the list. Tap on it to be moved to another s
 ![reset Gmail password on Android-Find the Password option](https://images.wondershare.com/drfone/others/14546023423449.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Bonus Tips
@@ -322,13 +329,6 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 3. You are capable of sorting your mails with a certain level of accuracy once you are fully aware of the features of Gmail app on Android devices. Just click on the email, then choose Settings menu and mark it as "Mark as not important", "Mark important" or "Report to spam" owing to the priority of your email.
 4. Gmail app provided you with the ability to have conversations online, and whenever a message comes, there will be a sound. In case you are in a vital conference, or you don't want to be disturbed by the noise, you can mute it. All you have to do is to tap into the conversation, choose the three dots icon then click on the Mute option in the menu.
 5. Enhance the speed and the accuracy of your search with the use of certain phrases. Let's take an instance to see what Gmail can do for you in this case. If you want to search for the mails which have been sent by a certain person, typefrom:(name of the person on Gmail) in the searching bar. And in case you would love to look for a private message from that person, please type is:chat:(name of the person on Gmail) .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Video on How to Reset Gmail Password on Android Devices
 
@@ -348,24 +348,20 @@ Gmail is undoubtedly a marvelous tool to use on Android devices, but have you re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/solved-vanguard-not-initialized-in-valorant/"><u>[SOLVED] Vanguard Not Initialized in Valorant</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-kajis-wealth-kid-star-earnings-surpass-major-celebrities/"><u>2024 Approved Kaji’s Wealth Kid Star Earnings Surpass Major Celebrities</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/expert-techniques-for-changing-your-instagram-sound-for-2024/"><u>Expert Techniques for Changing Your Instagram Sound for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-spark-20-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-vivo-y100i-power-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo Y100i Power 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-redmi-note-12-proplus-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Redmi Note 12 Pro+ 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y100t-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y100t Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock ZTE Phone without Any Data Loss</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-s23plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Itel S23+</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-superlative-picture-based-adventure-builder/"><u>In 2024, Superlative Picture-Based Adventure Builder</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-art-of-screenshots-iphoneipad-video-recordings-explained/"><u>In 2024, The Art of Screenshots IPhone/iPad Video Recordings Explained</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v30-lite-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V30 Lite 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-itel-p55-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Itel P55 5G Phone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-beyond-youtube-innovative-videostreaming-communities-for-2024/"><u>Top 3 Beyond Youtube Innovative Videostreaming Communities for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-unlock-your-chromebook-how-to-run-linux/"><u>Updated Unlock Your Chromebook How to Run Linux</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/windows-10-and-11bitlocker/"><u>Windows 10 & 11上最高效的BitLocker数据恢复软件</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-v-purse-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor V Purse Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-best-cloud-space-solutions/"><u>Android's Best Cloud Space Solutions</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-nord-ce-3-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Nord CE 3 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/crafting-the-best-video-aspect-ratio-experience-for-2024/"><u>Crafting the Best Video Aspect Ratio Experience for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-techniques-to-repair-pacific-drive-malfunctions-on-your-computer/"><u>Effective Techniques to Repair Pacific Drive Malfunctions on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-play-7t-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor Play 7T Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-x50iplus-easily-by-drfone-android/"><u>How To Unlock a Honor X50i+ Easily?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared-for-2024/"><u>Immerse in Pixel Worlds The Best PC VR Playback Titles Compared for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-xs-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone XS Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-6-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 6?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y28-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y28 5G Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-itel-a60-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Itel A60</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-a34-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy A34 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-p40-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Itel P40 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-13-ultra-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi 13 Ultra</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Spark 10 5G
-date: 2024-10-27T17:18:02.447Z
-updated: 2024-10-31T16:49:13.088Z
+date: 2024-11-01T02:05:02.030Z
+updated: 2024-11-06T03:25:04.164Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,6 +54,13 @@ Old android phones have removable batteries. If you can remove your phone batter
 
 ![removable battery](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Dr.Fone - Screen Unlock
 
 On Android handsets, you can attempt Dr.Fone to remove the fingerprint without professional skills. It allows you to delete the password, PIN, pattern, and fingerprint from an Android phone.
@@ -85,6 +92,13 @@ _(Get into Recovery Mode in Samsung phone with Bixby)_
 _(Get into Recovery Mode in Samsung phone without Bixby)_
 
 ![mode without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _(Get into Recovery Mode in Samsung phone with the Home button)_
 
@@ -119,13 +133,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 3. To wipe the Tecno Spark 10 5G device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
 4. Once more, select "Erase." This will reset the Tecno Spark 10 5G device and get rid of the dysfunctional fingerprint lock.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Seek Help from Local Dealers
 
 It might be a complicated case if you cannot reset your lock screen fingerprint through the methods described above. In this situation, you need to visit your nearest mobile technician, who can help you restore your device.
@@ -141,13 +148,6 @@ The fingerprint module should be clean, just like a clean finger is. Unfortunate
 ![fingerprint lock issue](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-8.jpg)
 
 Please inspect the fingerprint module for any fluids or debris and clean it with a dry cloth to resolve this. If the dirt is on the module, clean it with wipes or a moist cloth wet with water.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Software Update
 
@@ -211,11 +211,25 @@ You can also set your favorite picture as the ****Android lock screen wallpaper*
 
 ![choose set as wallpaper option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change Lock Screen Wallpaper on Different Brands of Android Phones
 
 The provided methods in the above part are comprehensive in changing the lock screen wallpaper of any Android smartphone. This, however, is not the same and is true for every Android device in the market. Since the difference in operation brings a clash for many users, the need for an idea for different smartphone brands is essential.
 
 For this part, we will bring a guide explaining ****how to change the lock screen wallpaper on Android**** of different brands:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### For Samsung Users
 
@@ -231,6 +245,13 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ![apply the wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ****Step 1:**** As you access the home screen of your Google Pixel, continue to hold the space. This will open a list of options where you must tap on "Wallpaper & style." Continue to select the "Change wallpaper" option to bring new colors to your Google Pixel.
 
 ![tap on change wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-9.jpg)
@@ -238,13 +259,6 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 ****Step 2:**** On the next screen, select any particular category you want to set the lock screen wallpaper. For instance, if you selected "My photos," choose your image and preview it on the following screen.
 
 ![choose your favorite wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ****Step 3:**** To proceed, specify where you wish to set it as your wallpaper. As the options appear on the front, select the "Lock screen" option and continue to set your wallpaper.
 
@@ -255,6 +269,13 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 ****Step 1:**** Lead into the “Settings” of your Motorola device and look for the “Wallpaper & style” option in the list.
 
 ![tap on wallpaper and style](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ****Step 2:**** Select any options appearing on the next screen that defines the location from where you will add the new wallpaper. Selecting a particular wallpaper from the available options leads to the "Preview" screen.
 
@@ -286,13 +307,6 @@ Zedge is one of the most premium websites for accessing wallpapers for Android d
 
 ![zedge android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2. [<u>Interfacelift</u>](https://interfacelift.com/wallpaper/downloads/downloads/any/)
 
 For exclusive access to free wallpapers of multiple categories, Interfacelift provides some impressive and high-quality results. This intuitive wallpaper site provides some captivating options. Along with that, it asserts a special force on photographs of landscapes, which makes it a great site.
@@ -304,6 +318,13 @@ For exclusive access to free wallpapers of multiple categories, Interfacelift pr
 Known for keeping royalty-free, high-quality content, Unsplash can be a great Android wallpaper site. Download your favorite wallpapers that will perfectly suit your Android device. Along with its smooth interface, Unsplash offers diversity with its dedicated Unsplash+ plan.
 
 ![unsplash android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-20.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4. [<u>Mobile9</u>](https://www.mobile9.com/)
 
@@ -322,13 +343,6 @@ If you seek the best design for your Android lock screen, Dribbble provides the 
 For a service that provides dedicated Android lock screen wallpapers, Wallpapers.com holds a good position. With the finest wallpapers to use on the Android device, you can also customize the available wallpapers. Dedicated categories make it easy for users to select their favorite wallpaper from the 1000+ options.
 
 ![wallpapers.com android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-23.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 7\. [<u>Pexels</u>](https://www.pexels.com/search/android%20wallpaper/)
 
@@ -354,6 +368,13 @@ From desktop to Android wallpapers, Wallpaperswide holds a diverse set of option
 
 ![wallpaperswide android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-27.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus Part: How To Unlock Android Screen if Forgotten the Password
 
 Although you have learned ****how to change the lock screen wallpaper on Android,**** multiple complications can arise. One such problem that can occur on your device involves it getting locked. If the Tecno Spark 10 5G device gets locked, you cannot use it. For an Android whose password is locked, you will require a platform to amend the problem.
@@ -367,13 +388,6 @@ Such options make it the finest platform to resolve issues with the Android devi
 You need to download and launch Dr.Fone on your computer and continue to the “Screen Unlock” tool. On accessing the tool, connect your Android device with a cable.
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ****Step 2: Start Unlocking the Android****
 
@@ -398,13 +412,6 @@ Put your Android device in Download Mode by powering it off. Continue to press t
 The package starts downloading as the Tecno Spark 10 5G device gets into Download Mode. It will take a while until it completes. Once the download process gets completed, press the “Remove Now” button to remove the Android screen lock.
 
 ![start removing screen lock](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ****Image name: lock-screen-wallpaper-on-android-32.jpg****
 
@@ -441,13 +448,6 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 - 9\. Additionally, the interface will ask you to provide a security pin as well. In case if you will forget your pattern, then you can access your phone by taking the assistance of this pin.
 
 ![setup android pattern lock screen](https://images.wondershare.com/drfone/article/2017/09/15057380143598.jpg) ![setup android pattern lock screen-provide the same pattern](https://images.wondershare.com/drfone/article/2017/09/15057380317550.jpg) ![setup android pattern lock screen-provide a security pin](https://images.wondershare.com/drfone/article/2017/09/15057380506350.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - 10\. Similarly, you would be required to confirm the pin as well to finish the setup.
 - 11\. That’s it! By completing these steps, a screen lock pattern will be implemented on your device.
@@ -559,22 +559,20 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-finding-the-balance-adding-videos-to-text-on-a-budget/"><u>[New] In 2024, Finding the Balance Adding Videos to Text on a Budget</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-dissecting-illusions-how-to-detect-fake-likes-and-followers-for-2024/"><u>[Updated] Dissecting Illusions How to Detect Fake Likes and Followers for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/aerial-mastery-with-husqvarna-h501x4-fpv-analysis/"><u>Aerial Mastery with Husqvarna H501X4 FPV Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-12-free-touch-typing-tutorials-ideal-for-all-generations-online/"><u>Best 12 Free Touch-Typing Tutorials Ideal for All Generations Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-google-pixel-7a-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Google Pixel 7a</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fast-no-cost-solutions-transform-your-3gp-videos-into-mp4-format-seamlessly/"><u>Fast, No-Cost Solutions: Transform Your 3GP Videos Into MP4 Format Seamlessly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-90-by-drfone-android/"><u>Full Guide to Unlock Your Honor 90</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-12-4g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 12 4G Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-hot-30i-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Hot 30i</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-vivo-y100t-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y100t Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-vivo-s18e-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo S18e Through Google Earth?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-13t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi 13T</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-experts-to-follow-on-igtv/"><u>In 2024, Experts to Follow on IGTV</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-mobile-methods-for-capturing-snapchat-content/"><u>In 2024, Mobile Methods for Capturing Snapchat Content</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-optimize-your-teams-virtual-meetings/"><u>[New] 2024 Approved How to Optimize Your Team's Virtual Meetings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-blueprint-revolutionizing-your-mobile-capture-experience-with-mobizen-for-2024/"><u>[Updated] Ultimate Blueprint Revolutionizing Your Mobile Capture Experience with Mobizen for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-the-latest-features-top-5-must-try-innovations-on-the-new-ios-18-preview-zdnet/"><u>Explore the Latest Features: Top 5 Must-Try Innovations on the New iOS 18 Preview - ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-camon-20-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Camon 20 Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix Smart 7 HD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-vivo-y100t-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y100t Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-next-chapter-of-cinema-vr-revolution/"><u>In 2024, The Next Chapter of Cinema VR Revolution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/interactive-photography-sharing-immersive-360-photos-via-mobile-devices-for-2024/"><u>Interactive Photography Sharing Immersive 360 Photos via Mobile Devices for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macbook-air-with-m1-chip-now-at-unbeatable-price-of-649-the-ultimate-deal/"><u>MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-noise-continuity-overcoming-sound-hiccups-in-windows-11-systems/"><u>Mastering Noise Continuity: Overcoming Sound Hiccups in Windows 11 Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-apple-iphone-8-by-drfone-ios/"><u>Removing Device From Apple ID For your Apple iPhone 8</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-vivo-s18-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo S18 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-bringing-videos-to-life-in-vr-expert-conversion-techniques/"><u>Updated In 2024, Bringing Videos to Life in VR Expert Conversion Techniques</u></a></li>
 </ul></div>
 
