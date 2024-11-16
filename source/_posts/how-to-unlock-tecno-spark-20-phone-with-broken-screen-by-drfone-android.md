@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Tecno Spark 20 Phone with Broken Screen
-date: 2024-11-02T06:04:48.343Z
-updated: 2024-11-05T19:15:07.141Z
+date: 2024-11-14T16:30:32.038Z
+updated: 2024-11-16T17:08:22.064Z
 tags: 
   - unlock
   - remove screen lock
@@ -75,13 +75,6 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 **Step 2:** As soon as the Tecno Spark 20 devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Tecno Spark 20 device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can then go about backing up the contents of your device.
 
@@ -207,19 +200,6 @@ Rating: 4.4
 
 Download Link: [AppLock by DoMobile Lab](https://play.google.com/store/apps/details?id=com.domobile.applockwatcher&hl=en_US&gl=US)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. LOCKit
 
 LOCKit is a complete security app that can help you protect your photos, apps, notifications, and more. It also comes with a photo and video vault to protect your media files. You can fool any intruder with a fake crash screen and capture their photo as well.
@@ -235,13 +215,6 @@ LOCKit is a complete security app that can help you protect your photos, apps, n
 Rating: 4.6
 
 Download Link: [LOCKit](https://play.google.com/store/apps/details?id=com.ushareit.lockit)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Fingerprint Locker
 
@@ -287,6 +260,13 @@ Google constantly comes up with features to simplify the way users interact and 
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555162221345.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Android Lollipop added a feature called Smart Lock, and the feature was devised as a smart tool to prevent the Android phone from locking once it was initially unlocked. In other words, the feature overrides an Android phone's Lock Screen feature, thereby saving users the need to enter passwords every time the Tecno Spark 20 device locks.
 
 If you're at home, it's likely your android phone is locked out if you haven't accessed at for some time. Smart Locks solves the problem in many ways. It allows you to allocate trusted places. Once you within range of the trusted places, your phone won't lock. Trusted devices come next. Smart Lock is assigned to Bluetooth and Android NFC unlock devices.
@@ -294,6 +274,19 @@ If you're at home, it's likely your android phone is locked out if you haven't a
 ![smart lock android](https://images.wondershare.com/drfone/others/14555162911081.jpg)
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555165271526.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Finally, trusted face unlocking is the ultimate face recognition system that unlocks your Android device as soon as you look at it across the front-facing camera. A face unlock first introduced with Android Jelly Bean and has been significantly improved in later versions.
 
@@ -304,13 +297,6 @@ The feature is enabled by first accessing settings. For example, in a Samsung Ga
 Tap on Settings, which is the gear symbol.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555171833750.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - • Click on Personal and tap on Security.
 - • Go to Advanced and tap on Trust agents and make sure Smart Lock is turned on.
@@ -326,18 +312,18 @@ Within Smart Lock, there are three options for setting the system. You can set u
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555176091774.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Turn On Smart Lock For Android with Trusted Devices
 
 You can decide on a trusted device to be paired with Smart Lock Android.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555177245258.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 For example, you can set up a Smart Lock for Bluetooth in your Android Bluetooth settings. It can also be done for Android NFC unlock devices. Examples include the Bluetooth system in your car, NFC unlocks, android sticker on the car's phone dock, or Bluetooth in your watch.
 
@@ -351,13 +337,6 @@ For example, you can set up a Smart Lock for Bluetooth in your Android Bluetooth
 Tap on Add Trusted Devices.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555180455802.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next screen is the Choose Device Type.
 
@@ -387,24 +366,50 @@ On a new Android phone, visit Settings>Personal.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199012102.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Then Lock Screen and Security.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199294567.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then Secure Lock Settings.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200321422.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Tap Smart Lock.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200954549.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tap on Trusted Places.
 
@@ -418,6 +423,13 @@ Tap on Add Trusted Places
 - • Pick a place.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555203265722.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - • Click on Settings.
 - • Click on Edit home or work. You can now add or edit the required addresses.
@@ -460,16 +472,16 @@ _Setting Up Trusted Face_
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555210728317.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The device begins to gather data about your face. The trusted face icon appears. As a backup, in case Smart Lock does not recognize your face, use the manual system by applying the PIN or password to unlock the Tecno Spark 20 device.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555211623749.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In case Trusted Face is not required, tap on reset Trusted Face appearing under the Trusted Face menu. Tap on Reset to reset the option.
 
@@ -501,20 +513,24 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-creative-techniques-for-incorporating-alternate-shots-for-2024/"><u>[New] Creative Techniques for Incorporating Alternate Shots for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-debut-video-capture-review-and-alternative/"><u>[Updated] 2024 Approved Debut Video Capture Review and Alternative</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-tips-for-constructing-motivating-daily-routine-vids/"><u>[Updated] 2024 Approved Tips for Constructing Motivating Daily Routine Vids</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-ultimate-video-monitors-face-off/"><u>2024 Approved Ultimate Video Monitors Face-Off</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2024s-ultimate-iphone-selection-in-depth-testing-and-expert-opinions-featured/"><u>2024'S Ultimate iPhone Selection: In-Depth Testing & Expert Opinions Featured</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-error-30005-for-unsuccessful-file-generation/"><u>Addressing Windows Error 30005 for Unsuccessful File Generation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-honor-magic-5-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Honor Magic 5 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-efficient-techniques-for-secure-and-effective-lecture-capturing-using-imac/"><u>In 2024, Efficient Techniques for Secure and Effective Lecture Capturing Using iMac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-100-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor 100 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-play-40c-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Play 40C? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-tecno-pop-8-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Tecno Pop 8 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-70-lite-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor 70 Lite 5G Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-tecno-pop-8-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Pop 8 Device</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-accessing-espnplus-streams-on-your-lg-smart-tv/"><u>Step-by-Step Guide: Accessing ESPN+ Streams on Your LG Smart TV</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Camon 20 Premier 5G Phone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-media-spotlight-top-tiktok-tweets/"><u>[New] 2024 Approved Social Media Spotlight Top TikTok Tweets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-free-converters-at-your-fingertenaside-download-and-enjoy-videos-anywhere/"><u>[Updated] 2024 Approved Free Converters at Your Fingertenaside Download & Enjoy Videos Anywhere</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streamline-searchability-expert-techniques-for-tag-application-for-2024/"><u>[Updated] Streamline Searchability Expert Techniques for Tag Application for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-viral-video-legends-youtubed-for-millions/"><u>[Updated] Viral Video Legends YouTubed for Millions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-disseminating-tweeted-videos-on-the-worlds-biggest-social-site/"><u>2024 Approved Disseminating Tweeted Videos on the World's Biggest Social Site</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/deciphering-the-meanings-behind-facebooks-status-symbols-a-closer-look-at-the-blues/"><u>Deciphering the Meanings Behind Facebook's Status Symbols A Closer Look at the Blues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expert-guide-to-curing-wins-usb-issues/"><u>Expert Guide to Curing WIN's USB Issues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ideas-for-creating-sequences-of-iphone-burst-images/"><u>Ideas for Creating Sequences of iPhone Burst Images</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-tecno-spark-10-pro-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Tecno Spark 10 Pro Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-deep-dive-into-vscos-creative-palette/"><u>In 2024, A Deep Dive Into VSCO's Creative Palette</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-play-8t-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor Play 8T</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-honor-magic5-ultimate-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Honor Magic5 Ultimate Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-play-8t-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor Play 8T?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-google-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Google</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-magic-5-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor Magic 5 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-x50-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Honor X50 Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-choice-best-microphone-for-youtubers/"><u>Prime Choice Best Microphone for YouTubers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-google-pixel-8-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Google Pixel 8 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 
