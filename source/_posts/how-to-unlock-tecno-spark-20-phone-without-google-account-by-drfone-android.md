@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Tecno Spark 20 Phone without Google Account?
-date: 2024-11-12T16:09:13.609Z
-updated: 2024-11-16T16:09:40.906Z
+date: 2024-11-19T01:38:42.084Z
+updated: 2024-11-25T17:53:50.068Z
 tags: 
   - unlock
   - remove screen lock
@@ -58,6 +58,10 @@ Android Device Manager link: <http://www.google.com/android/devicemanager>
 
 8\. Now, simply enter the new passcode on your device, and voila! It will open, and you can get back to your daily routine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Reset Your Google Account on your Android Phone
 
 If you have forgotten your Google Account password, it is still possible to unlock your account and access the information within. Here is how you can unlock your Google account on your Android phone.
@@ -65,13 +69,6 @@ If you have forgotten your Google Account password, it is still possible to unlo
 1\. On your browser, go to the Google home page and try to sign in. You will fail, but that is good! It will lead you to the next step.
 
 ![android Google web page](https://images.wondershare.com/drfone/others/14637535742329.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. Since you cannot sign in on the sign-in page, you can now select the ‘Help’ link.
 
@@ -97,6 +94,14 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 ![android Google reset password input new password](https://images.wondershare.com/drfone/others/14637552534874.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How to Remove Locked Screen on Android using Dr.Fone
 
 It supports removing screen lock from mainstream models, such as Samsung, LG, Lenovo, Xiaomi, etc. For some older version Samsung models, you can remove the lock without data loss. It will erase data after unlocking for other models.
@@ -111,13 +116,6 @@ Remove Android Screen Lock In One Click
 - It will complete the unlocking process in minutes.
 
 **3,981,454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to use Dr.Fone to unlock
 
@@ -149,6 +147,10 @@ This article is for you if you have been locked out of your Tecno phone. Many in
 
 There are multiple ways to unlock your locked Tecno device. All the solutions mentioned here are effective and work 99% of the time. However, we suggest you use Dr.Fone. Dr.Fone is expert software to answer all your Android needs. It is safe, secure, and free of data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: 3 Easy Ways to Remove Your Tecno Spark 20 Lock
 
 ### 1\. Google Find My Device
@@ -162,10 +164,7 @@ Google Find My Device is an inbuilt feature in Tecno phones to unlock your phone
 ![google find my device](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-password-unlock-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Answer Security Questions
@@ -180,13 +179,6 @@ To unlock this way, you need to press the Forgot Password option. If you can't s
 ![answer question](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-password-unlock-2.jpg)
 
 - It will automatically unlock your device if you answer all questions accurately. Then, it will expect you to set another screen lock for your OPPO. Therefore, keep the new PIN to yourself.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Hard Reset
 
@@ -218,18 +210,15 @@ We’ll offer you a phone brands list, almost all Android devices are here, for 
 
 ![download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4. Unlock your Tecno Spark 20 now**
 
 The following steps are the key to unlocking your Tecno device. Attention! The unlock process will also wipe your data!
 
 ![](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Great! Now the unlocking progress is done, and you can use your phone without entering password.
 
@@ -281,9 +270,17 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![best way to unlock Android fingerprint lock-Install Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Connect your Android phone and then select the Tecno Spark 20 device mode on the list. If it's not on the list, select "I can't find my device model from the list above".
 
 ![best way to unlock Android fingerprint lock-Connect your Android phone](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** Type the download mode on your Android gadget.
 
@@ -292,6 +289,10 @@ Remove 4 Types of Android Screen Lock without Data Loss
 **Step 4**. Have recovery package downloaded.
 
 ![best way to unlock Android fingerprint lock-Have recovery package downloaded](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Remove Android lock screen without losing any data.This process will take some times.
 
@@ -324,10 +325,7 @@ One of many free to download Android Fingerprint Lock app is Finger Scanner. It 
 ![best way to unlock Android fingerprint lock-Finger Scanner](https://images.wondershare.com/drfone/others/finger-scanner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4th - GO Locker - Theme & Wallpaper
@@ -354,25 +352,11 @@ With [Start](https://play.google.com/store/apps/details?id=com.celltick.lockscre
 
 ![best way to unlock Android fingerprint lock-Solo Locker (DIY Locker)](https://images.wondershare.com/drfone/others/solo-locker-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8th – Widget Locker
 
 Out of all the apps that we have listed here, Widget Locker is the one that is not free to download. It will cost you 2, 99 United States Dollars and it has really attractive features such as a control of the mood and layouts of your smartphone. "Your privacy is the app's number one priority" (that is what the designers of Widget Locker state). Drag and drop options, selectable sliders, Slide to Launch a Camera or Slide to call My Mom options and easy resizing of widgets are some of the really efficient features of this fingerprint lock app for android devices.
 
 ![best way to unlock Android fingerprint lock-Widget Locker](https://images.wondershare.com/drfone/others/widget-locker.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 9th - M Locker - KKM Marshmallow 6.0
 
@@ -402,19 +386,22 @@ The unlock method that was described in the beginning of our content, is the mos
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-improve-your-zoom-meet-by-sharpening-views/"><u>[New] In 2024, Improve Your Zoom Meet by Sharpening Views</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos/"><u>[Updated] In 2024, Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-airplay-to-download-apple-podcasts-simplified/"><u>2024 Approved From Airplay to Download Apple Podcasts Simplified</u></a></li>
-<li><a href="https://win-dash.techidaily.com/guide-to-the-newest-video-driver-downloads-and-setup-instructions-for-toshiba-satellite-models-windows-compatible/"><u>Guide to the Newest Video Driver Downloads & Setup Instructions for Toshiba Satellite Models - Windows Compatible</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phantom-v-flip-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phantom V Flip PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-honor-x50iplus-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Honor X50i+ Phone Now with These Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-20c-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark 20C</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-x7b-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor X7b Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic 5 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win-trending.techidaily.com/overcoming-common-issues-with-flixster-downloads-expert-tips-for-fixing-download-problems-and-pending-errors/"><u>Overcoming Common Issues with Flixster Downloads - Expert Tips for Fixing Download Problems and Pending Errors</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/protecting-your-system-a-detailed-tutorial-for-creating-copies-of-hidden-windows-restore-partitions/"><u>Protecting Your System: A Detailed Tutorial for Creating Copies of Hidden Windows Restore Partitions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-magic-5-lite-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor Magic 5 Lite Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-technical-operation-of-gpt-4-in-7-apps/"><u>Understanding the Technical Operation of GPT-4 in 7 Apps</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/windows-11-outlook-backup-made-easy/"><u>Windows 11 Outlook Backup Made Easy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-freepaid-luts-for-canon-camera/"><u>[New] 10 Free/Paid LUTs for Canon Camera</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-comprehensive-android-lightroom-assessment/"><u>[New] 2024 Approved Comprehensive Android Lightroom Assessment</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-best-bites-tiktoks-top-chefs/"><u>[New] Best Bites TikTok's Top Chefs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-loop-youtube-videos-on-tv/"><u>[New] How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-innovative-methods-for-overwatch-audio-capture/"><u>[New] In 2024, Innovative Methods for Overwatch Audio Capture</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/our-step-by-step-approach-to-youtube-copyright-mastery/"><u>[New] Your Step-by-Step Approach to YouTube Copyright Mastery</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-voice-overhaul-two-efficient-ways-revealed/"><u>[Updated] Snapchat Voice Overhaul Two Efficient Ways Revealed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-infinix-smart-8-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Infinix Smart 8</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-xiaomi-13-ultra-easily-by-drfone-android/"><u>How To Unlock a Xiaomi 13 Ultra Easily?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo Y100 5G Phone without Google Account?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi 13T Phone with Broken Screen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p55t-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel P55T Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v30-lite-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V30 Lite 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-14-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Xiaomi 14</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-vivo-v30-lite-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo V30 Lite 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unmatched-mac-streaming-discover-the-1-5-tools-for-2024/"><u>Unmatched Mac Streaming Discover the #1-5 Tools for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Honor X9a Lock Screen Password?
-date: 2024-11-09T16:08:05.902Z
-updated: 2024-11-16T16:52:38.756Z
+date: 2024-11-25T02:38:59.424Z
+updated: 2024-11-25T23:43:03.882Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,6 +36,10 @@ Select Screen Lock Type under Settings > Lock Screen. From there, you may select
 
 ![how to set up password](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Swipe:** This lock type allows you to swipe in any direction on your screen to unlock your phone.
 
 **Pattern:** If you opt to unlock your phone in this manner, you must create a pattern on a 3-by-3-dot grid.
@@ -58,13 +62,6 @@ With fingerprints, you can quickly touch your finger to unlock your phone.
 
 Follow on-screen instructions if you decide to employ one of these sophisticated security technologies, or go to Settings > Biometrics and security for more customization choices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to look up saved passwords on my device?
 
 The way that Google Chrome manages your usernames and passwords is excellent. But what if you want to log in to a particular website from another device but can't recall your password, and the website won't load the data for you? You may quickly obtain a list of all saved passwords by browsing through Chrome's settings, then manually keying it in.
@@ -72,13 +69,6 @@ The way that Google Chrome manages your usernames and passwords is excellent. Bu
 You may access the passwords saved in the Google Chrome app on a Mac or PC because the app is connected to your Google account. Any passwords saved on your Android phone can easily be removed via the Chrome app.
 
 ## How to Change your Password when you forget it?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Google Find My Device
 
@@ -132,6 +122,10 @@ Please select "Unlock Android Screen."
 On this page, please choose the option fitting your phone.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Only when you select the right phone brand so the unlock process will go with success.
 
@@ -187,13 +181,6 @@ Before we get down to the business of locking some of your Apps, let’s look at
 
 There is always a good reason to Lock Apps on your device and we have two easy and effective methods you can use to do this. Choose the one that you are most comfortable with.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method One: Using Smart App Protector
 
 Smart App Protector is a freeware that allows you to lock specified applications.
@@ -222,26 +209,20 @@ Step 1: Download Hexlock from the Google Play Store. Once it is installed, open 
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can create multiple lists of Apps to be locked ba\_x\_sed on your different needs. As an example, we have chosen the Work panel. Tap on “Start Locking Apps” to start.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish to lock and then Tap the down arrow in the upper left when you are done.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
@@ -262,6 +243,10 @@ Most people use individual email applications such as Yahoo Mail App or Gmail. T
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Google Play Services
 
 This is the application that allows you to download and install applications to your device. You may want to lock this one if you are trying to prevent other users from downloading and installing further apps to your device. This is especially valuable if your device is utilized by children.
@@ -275,16 +260,7 @@ The Gallery app displays all the images on your device. The main reason you may 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Music Pla\_x\_yer App
@@ -292,6 +268,10 @@ The Gallery app displays all the images on your device. The main reason you may 
 This is the Application that you use to play the music on your device. You may want to lock it if you don’t want anyone else making changes to your saved audio files and playlists or don’t want someone listening to your audio files.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. File Manager App
 
@@ -344,6 +324,10 @@ A corrupted bootloader can also lead to the **Android OEM Unlock missing** probl
 Connectivity Issues
 
 A poor connection between your device and computer can also prevent the OEM Unlocking from showing up. Check your cables and try using different USB ports to ensure a stable connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Enable Missing OEM Unlock Without a Password?
 
@@ -404,13 +388,6 @@ Developer Options, a hidden menu in Android, offers advanced features like app d
 
 ![software information settings](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Tap on the **Build number** repeatedly (7 times) until you see a message saying, "**You are now a developer!**" or similar.
 - **Step 4:** Go back to **Settings** \> **System** and find the **Developer options** menu.
 - **Step 5:** Scroll down and tap the toggle switch next to **Enable OEM Unlock** to turn it on.
@@ -437,6 +414,10 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 
 ![turn off automatic date and time](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Tap on **Set date** and choose the desired older date from the calendar.
 - **Step 6:** Tap on **Set time** and choose the desired time from the clock.
 - **Step 7:** Tap on **Done** to save the changes.
@@ -448,6 +429,10 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 
 ![turn off auto download over wi-fi](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This method should **enable the OEM unlock missing** issue. Otherwise, proceed to the next section for another solution.
 
 ## Part 5: How To Fix OEM Unlock Missing by Removing SIM Card?
@@ -458,13 +443,6 @@ Certain carriers restrict bootloader unlocking on their devices to ensure compat
 - **Step 2:** Go to **Settings** > **General Management** > **Reset**, then select **Factory data reset**. Enter your PIN or password if needed.
 
 ![android factory data reset](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Review the warning and tap **Reset** to confirm.
 - **Step 4:** Once the reset is complete, your phone will restart. Connect to Wi-Fi when prompted.
@@ -492,19 +470,18 @@ _**Tips:** Forget your device password and can't get access to it? No worries as
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-ultimate-guide-to-iphone-ringtones-refinement/"><u>[New] In 2024, The Ultimate Guide to iPhone Ringtones Refinement</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-master-the-art-of-sharing-funny-gifs-instagrams-latest-trend-explained-in-4-steps/"><u>[New] Master the Art of Sharing Funny GIFs Instagram's Latest Trend Explained in 4 Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-voice-transformation-tools-magic-edition-highlighted/"><u>[New] Voice Transformation Tools Magic Edition Highlighted</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-the-dark-we-trust-iphone-photography/"><u>2024 Approved In the Dark We Trust, iPhone Photography</u></a></li>
-<li><a href="https://win-studio.techidaily.com/el-software-mas-completo-de-copia-de-seguridad-restauracion-y-clonacion-con-aomei-para-dispositivos-cualquiera-en-el-mundo-entero/"><u>El Software Más Completo De Copia De Seguridad, Restauración Y Clonación Con AOMEI Para Dispositivos Cualquiera en El Mundo Entero</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/guide-pratique-pour-fabriquer-votre-propria-version-movil-simplifie/"><u>Guide Pratique Pour Fabriquer Votre Propria Versión Móvil - Simplifié!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-70-lite-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor 70 Lite 5G?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-magic-5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor Magic 5</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phantom-v-fold-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phantom V Fold Phone without Any Data Loss</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Phantom V Fold</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-magic-vs-2-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor Magic Vs 2 Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-honor-100-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Honor 100 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/tailored-touch-up-top-6-apps-to-exclude-unwanted-elements-from-photos-for-2024/"><u>Tailored Touch-Up Top 6 Apps to Exclude Unwanted Elements From Photos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-integrity-of-format-with-ffmpegs-audio-recapture-methods/"><u>[New] The Integrity of Format with FFmpeg's Audio Recapture Methods</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exploring-youtubes-payment-mechanisms-for-content-makers/"><u>2024 Approved Exploring YouTube's Payment Mechanisms for Content Makers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-handheld-guide-to-youtube-production/"><u>2024 Approved The Essential Handheld Guide to YouTube Production</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007027478-breaking-down-the-persistent-crash-issues-in-immortals-fenyx-rising-solutions-inside/"><u>Breaking Down the Persistent Crash Issues in Immortals Fenyx Rising - Solutions Inside!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-power-of-wax-a-free-video-editor-tutorial-for-2024/"><u>Discover the Power of Wax A Free Video Editor Tutorial for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-nvme-drivers-on-windows-a-step-by-step-guide/"><u>Download & Install NVMe Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-dynamic-visual-snapshot-providers/"><u>In 2024, Dynamic Visual Snapshot Providers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-soundscape-design-with-expert-crossfading-techniques-audacity/"><u>In 2024, Seamless Soundscape Design with Expert Crossfading Techniques (Audacity)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-k70e-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-twist-and-tell-the-art-of-angling-your-videos-for-instagram-audiences/"><u>In 2024, Twist & Tell The Art of Angling Your Videos for Instagram Audiences</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Redmi Note 12 4G Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-smart-8-plus-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Smart 8 Plus Phone Pattern Lock</u></a></li>
 </ul></div>
 

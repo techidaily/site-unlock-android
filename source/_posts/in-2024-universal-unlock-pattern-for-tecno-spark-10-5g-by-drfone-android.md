@@ -1,7 +1,7 @@
 ---
 title: In 2024, Universal Unlock Pattern for Tecno Spark 10 5G
-date: 2024-11-11T16:24:05.241Z
-updated: 2024-11-16T16:09:41.490Z
+date: 2024-11-23T18:56:36.379Z
+updated: 2024-11-26T00:53:43.428Z
 tags: 
   - unlock
   - remove screen lock
@@ -65,6 +65,10 @@ Remove Android lock screen in 5 minutes
 
 ![unlock android screen 3](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4**: Now, turn your phone into download mode. Turn it off and simultaneously hit the Home, Power, and Volume Down keys. Then, on your device, hit the Volume Up key to enter Download Mode.
 
 ![unlock android screen 4](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
@@ -78,6 +82,10 @@ Remove Android lock screen in 5 minutes
 ![unlock android screen 7](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Other ways to Unlock Pattern for Android
 
@@ -155,13 +163,6 @@ After pressing the "Lock" button, a popup will appear, asking for a new password
 
 Type the new password once, then confirm it by typing it again. This will change the password in a few minutes and the new password can be used to unlock the Tecno Spark 10 5G device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 5: Use Forgot Pattern Feature \[Android 4.4 Version and Earlier\]
 
 If you use an older Android version, you can get rid of the **universal unlock pattern** by forgot pattern feature. On earlier Android devices, this feature is enabled by default. After a few failed attempts, the warning "Try again in 30 seconds" appears and here is where the steps begin. Let us get to know in detail.
@@ -212,6 +213,10 @@ To confirm the removal of the account, click on the Remove account button.
 
 ![remove-google-account-settings-menu](https://images.wondershare.com/drfone/article/2022/06/settings-menu-account-removal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Remove the Google account from the Android phone using the computer
 
 There is another method using which you can remotely remove the Google account associated with your phone. The steps for the method are listed below.
@@ -234,19 +239,6 @@ Though there are multiple tools available we recommend Dr. Fone - Screen Unlock 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Get into Locked Phones within Minutes
@@ -265,10 +257,7 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** Next, choose Unlock Android Screen/FRP and then select the Remove Google FRP Lock option.
@@ -315,6 +304,10 @@ With the steps above, you can remove the account **previously synced on this dev
 
 ![bypass-frp-unlockjunkey](https://images.wondershare.com/drfone/article/2022/06/unlockjunky.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Limitations of using the Unlockjunky method**:
 
 - This is a paid service.
@@ -322,27 +315,17 @@ With the steps above, you can remove the account **previously synced on this dev
 - There is no surety that the service will work for removing the FRP lock on your devices.
 - If you have to remove the FRP lock from multiple devices, a separate payment for each device has to be done.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Above we have listed several ways to **remove a previously synced Google account** on your Android device. The best of all the listed solutions is Dr. Fone - Screen Unlock (Android) as it supports bypassing FRP lock on multiple Android devices in a hassle-free manner. Once the license is purchased, you can unlock as many numbers of devices as you want without any worries.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Ultimate Guide to Tecno Spark 10 5G Pattern Lock Screen: Everything You Need to Know
 
 Do you want to revamp your phone’s pattern lock screen and give it a new life? Well, you are not the only one! Lots of Android users keep looking for numerous ways to change their screen lock pattern and make it more secure. After all, if your lock screen pattern is strong, then it will certainly keep an intruder away. In today’s world, our privacy is everything and we should take every needed measure to protect it. To help you do the same, we have come up with this informative guide. Read on and learn how to set up a strong pattern lock screen on your device and what to do if you have forgotten it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to set up Pattern Lock Screen on Tecno Spark 10 5G?
 
@@ -353,6 +336,10 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 - 3\. In some versions, the option is also listed right at the top of the settings (in its quick access).
 
 ![setup android pattern lock screen-unlock your device](https://images.wondershare.com/drfone/article/2017/09/15057378431872.jpg) ![setup android pattern lock screen-Under the personal or privacy section](https://images.wondershare.com/drfone/article/2017/09/15057378838236.jpg) ![setup android pattern lock screen-access Lock Screen and Security](https://images.wondershare.com/drfone/article/2017/09/15057379016188.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - 4\. To set up a pattern lock screen, tap on the “Screen lock type” feature.
 - 5\. This will provide a list of all the different kinds of locks that you can apply. Ideally, it would be password, pin, pattern, swipe, or none. In “Swipe”, you can unlock a device just by swiping the screen. Whereas, in pattern, pin, or password, you would be needed to provide the respective pattern/pin/password to unlock the Tecno Spark 10 5G device.
@@ -367,10 +354,7 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 ![setup android pattern lock screen](https://images.wondershare.com/drfone/article/2017/09/15057380143598.jpg) ![setup android pattern lock screen-provide the same pattern](https://images.wondershare.com/drfone/article/2017/09/15057380317550.jpg) ![setup android pattern lock screen-provide a security pin](https://images.wondershare.com/drfone/article/2017/09/15057380506350.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - 10\. Similarly, you would be required to confirm the pin as well to finish the setup.
@@ -378,18 +362,15 @@ Out of all the provided options for screen locks, pattern lock is mostly used du
 
 Later, you can follow the same drill to change your device’s lock screen pattern as well. Though, you would be needed to provide the existing pattern to access these features. Out of all the lock screen options, you should go with the pattern lock. Not only it is the most accessible option, it also provides fast results with an added security.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: What to do if you forget Android pattern lock?
 
 After following the above-mentioned tutorial, you would be able to set up a pattern lock screen on your device. Since it is recommended to have a strong pattern lock, users often forget their pattern lock after implementing it. This prohibits them from using their own Android device. If you have a similar experience, then don’t worry. There are plenty of ways to unlock a device and remove its pattern lock without causing any harm to the system. Visit our informative tutorial and learn different ways to [unlock or bypass the Android pattern lock screen.](https://drfone.wondershare.com/unlock/pattern-lock.html)
 
 Out of all the provided options, it is recommended to use [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It provides fast and reliable results without getting rid of your device’s content. The tool is a part of the Dr.Fone toolkit and is already compatible with all the leading Android smartphones. By following its simple click-through process, you can unlock the screen lock pattern on your device in no time. Although this tool can help you keep all data after unlocking screen passcode on your Samsung or LG phone, it will wipe all data after unlocking other Android phone including Huawei, Oneplus and so on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -460,18 +441,15 @@ For your convenience, we have marked the dots as 1-9. This will help you know th
 
 ![android pattern lock idear 8](https://images.wondershare.com/drfone/article/2017/09/15057386529029.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 # 9
 
 1 > 5 > 9 > 4 > 8 > 2 > 6 > 3 > 7
 
 ![android pattern lock idear 9](https://images.wondershare.com/drfone/article/2017/09/15057386683110.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 # 10
 
@@ -497,22 +475,17 @@ Now when you know every essential thing about pattern lock screen on Android, yo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-to-digital-marketing-triumphs/"><u>[New] 2024 Approved The Ultimate Guide to Digital Marketing Triumphs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-affordable-video-capture-maximum-potential-via-obs-for-2024/"><u>[New] Affordable Video Capture - Maximum Potential via OBS for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-streamline-your-memories-on-ios-organized-albums-and-efficient-icloud-synchronization/"><u>[Updated] In 2024, Streamline Your Memories on iOS Organized Albums & Efficient iCloud Synchronization</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-movement-with-music-instagrams-reel-synergy-guide/"><u>2024 Approved Harmonizing Movement with Music Instagram's Reel Synergy Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721470547583-experiencing-issues-with-vpn-on-your-iphone-correct-it-with-our-top-ve-7-solutions/"><u>Experiencing Issues with VPN on Your iPhone? Correct It With Our Top Ve 7 Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-z-flip-5-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy Z Flip 5 to Roku | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-honor-play-8t-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Honor Play 8T Unlock Without Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-play-8t-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor Play 8T</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-google-pixel-7a-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Google Pixel 7a</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-digital-deviants-titles-mirroring-gta-v-experience/"><u>In 2024, Digital Deviants Titles Mirroring GTA V Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-pova-5-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno Pova 5 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-google-pixel-7a-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Google Pixel 7a Lock Screen Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-magic-vs-2-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor Magic Vs 2 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-samsung-galaxy-z-flip-5-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Samsung Galaxy Z Flip 5? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tart-traffic-top-tier-video-seo-tools/"><u>Jumpstart Traffic – Top-Tier Video SEO Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-tecno-pop-8-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Tecno Pop 8? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-google-pixel-7a-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Google Pixel 7a Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fraps-screen-recorder-review/"><u>[New] In 2024, Fraps Screen Recorder Review</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-getting-started-with-action-cams-latest-2023-insights/"><u>[New] In 2024, Getting Started with Action Cams – Latest 2023 Insights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-movie-buffs-secret-2023-recommendations/"><u>2024 Approved Movie Buffs' Secret 2023 Recommendations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-google-pixel-7a-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Google Pixel 7a Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-abrupt-shifts-to-serene-journeys-expert-crossfade-guidance-with-audacity/"><u>From Abrupt Shifts to Serene Journeys Expert Crossfade Guidance with Audacity</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-hot-40i-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Hot 40i Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-itel-a05s-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Itel A05s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-itel-p55plus-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Itel P55+ Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-note-30-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Note 30</u></a></li>
+<li><a href="https://win-forum.techidaily.com/simplify-your-pc-cleanup-with-revo-uninstallers-hunter-mode/"><u>Simplify Your PC Cleanup with Revo Uninstaller's Hunter Mode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-instructions-for-leveraging-chatgpt-on-google-sheets-using-gpt-tools/"><u>Step-by-Step Instructions for Leveraging ChatGPT on Google Sheets Using GPT Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-11-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock Apple iPhone 11 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
 

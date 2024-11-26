@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Lock Apps on Honor 100 Pro to Protect Your Individual Information
-date: 2024-11-12T16:16:51.521Z
-updated: 2024-11-16T16:56:09.053Z
+date: 2024-11-22T23:29:32.333Z
+updated: 2024-11-25T17:19:47.792Z
 tags: 
   - unlock
   - remove screen lock
@@ -60,6 +60,10 @@ Step 4: Now close the app and the Apps chosen will now be password protected.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Using Hexlock
 
 Step 1: Download Hexlock from the Google Play Store. Once it is installed, open it. You will be required to enter a pattern or PIN. This is the lock code that you will use every time you open the app.
@@ -76,16 +80,13 @@ Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish t
 
 You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. 6 Private Apps that you should lock on your Android
 
 There are certain apps that may require to be locked more than others. Of course the choice of which apps you should lock will depend on your own uses and preferences. The following are some of the apps you would like to lock for one reason or another.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The Messaging App
 
@@ -117,13 +118,6 @@ This is the Application that you use to play the music on your device. You may w
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. File Manager App
 
 This is the App that displays all of the files that are saved on your device. It is the ultimate app to lock if you have sensitive information on your device that you would rather not share. Locking this app will ensure that all of the files on your device will remain safe from prying eyes.
@@ -143,6 +137,10 @@ Here is the complete guide with five methods to unlock an Honor  device that wor
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/PNC9VCRYu18" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Part 1: Lock System About Honor 100 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1: Lock Types
 
@@ -173,11 +171,19 @@ You can use the Google Find My Device for your **Honor 100 Pro  pattern unlock**
 
 ![google find my device web home page](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Open any browser on your PC and visit "Google Find My Device."
 - Make sure your phone is connected to the internet.
 - Select the "Erase Device" option and log in with your Google account.
 - After verification, click on "Ok" and wait for the system to factory reset.
 - Power on your device and enter it without any pattern or password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2: Google Account
 
@@ -198,6 +204,10 @@ If you want to unlock your Honor  phone, you can also answer some security quest
 
 ![Honor 100 Pro  forgot pattern interface](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Use a random password or PIN five times and wait for the 30 seconds alert message.
 - Tap on the “Forgot Pattern” option and move to the next screen.
 - Select the “Answer Question” option if you want to unlock security questions. You can also select "Enter Google account details" if you know your Google account password.
@@ -216,13 +226,6 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 
 ![volume down and power key](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Select the Language using the volume keys to navigate and the power key to select.
 
 ![select device language](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-06.jpg)
@@ -240,6 +243,10 @@ A hard reset would be the best solution if you forgot your phone's lock screen p
 You can easily unlock your Honor  device without your Google account password and losing data. The best way is to use an Honor 100 Pro  pattern lock removal tool. If you want an easy-to-use tool with fast and safe working, we recommend Dr.Fone - Screen Unlock. Dr.Fone enables users to unlock any android device within five minutes without password, Google account. You can unlock your Honor 100 Pro  without effort. With Dr.Fone, you can also [back up and restore your data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/), do a [system repair](https://tools.techidaily.com/wondershare/drfone/android-repair/) for your mobile, and transfer WhatsApp with a few clicks. Here are the steps to remove the pattern lock from Honor 100 Pro  with Dr.Fone – Screen Unlock.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -274,16 +281,13 @@ Follow the guide step by step to complete all steps, these steps are important t
 
 ![oppo logo](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, no password or pattern to stop you from using your Honor 100 Pro  !
 
 ![unlock successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -325,23 +329,9 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 
 ![rootjunky frp bypass apk file](https://images.wondershare.com/drfone/article/2024/01/rootjunky-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3:** Go to **Settings** > **Security** and tap **Install unknown apps**. Then, enable unknown sources to allow installation of apps from outside the Play Store. Connect your device to a Wi-Fi network.
 
 ![android phone security and privacy settings](https://images.wondershare.com/drfone/article/2024/01/rootjunky-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** On your Android phone, open a file explorer app and install the downloaded **RootJunky APK** file.
 - **Step 5:** Connect your smartphone to your computer using a USB cable.
@@ -350,13 +340,6 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 - **Step 8:** On the RealTerm program, enter the correct port number under the **Ports** tab, then click **Change**.
 
 ![android phone security and privacy settings](https://images.wondershare.com/drfone/article/2024/01/rootjunky-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 9:** Click **Send** to establish a connection. Enter the two commands:
 
@@ -394,15 +377,16 @@ Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock?
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select your device’s brand from the list and click **Start** to continue.
 
 ![select phone brand to remove frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:**
@@ -453,19 +437,20 @@ The best choice boils down to your personal needs and budget. Remember, FRP bypa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-15-best-gopro-alternatives-for-all-your-needs-for-2024/"><u>[New] 15 Best GoPro Alternatives for All Your Needs for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-perfect-your-videos-first-impression-20-best-fonts/"><u>[New] 2024 Approved Perfect Your Video's First Impression 20 Best Fonts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-voice-modification-gear-top-picks-for-creators/"><u>[New] In 2024, Voice Modification Gear Top Picks for Creators</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-beyond-playfulness-a-closer-look-at-snapchats-emojis/"><u>[Updated] Beyond Playfulness A Closer Look at Snapchat's Emojis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expected-video-gb-for-continuous-24-hour-viewing-for-2024/"><u>Expected Video GB for Continuous 24-Hour Viewing for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-overcome-the-access-denied-error-during-usb-setup/"><u>How to Overcome the 'Access Denied' Error During USB Setup</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-a54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy A54 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-x8b-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor X8b</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-play-8t-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Play 8T Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-tecno-spark-10-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Tecno Spark 10 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-camon-20-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Camon 20 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-spark-10c-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Spark 10C Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/trouble-using-iphone-vpn-discover-7-effective-solutions/"><u>Trouble Using iPhone VPN? Discover 7 Effective Solutions</u></a></li>
-<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-11-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-effortless-tiktok-integration-on-your-macbook-wonderland/"><u>[New] In 2024, Effortless TikTok Integration on Your MacBook Wonderland</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-pinnacle-of-photonic-innovation-sonys-xperia-xz-premium/"><u>[New] In 2024, The Pinnacle of Photonic Innovation Sony's Xperia XZ Premium</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtubing-101-the-right-devices/"><u>[Updated] Youtubing 101 The Right Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-130-music-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia 130 Music Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-13t-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi 13T Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/erwerben-sie-eine-einzelplatzlizenz-fur-digiartys-winxdvd-pro-lizenzvereinbarung/"><u>Erwerben Sie Eine Einzelplatzlizenz Für Digiarty's WinXDVD Pro: Lizenzvereinbarung</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-pop-7-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Pop 7 Pro Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y100t-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y100t?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock ZTE Bootloader Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-9xl-vs-iphone-2023-capturing-the-winning-shots-and-unexpected-results-revealed-by-zdnet/"><u>Pixel 9XL vs iPhone 2023: Capturing the Winning Shots & Unexpected Results Revealed by ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-s23-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Itel S23 Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-5-best-video-editors-for-avchd-files/"><u>Updated The 5 Best Video Editors for AVCHD Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-is-an-rtx-graphics-card/"><u>What Is an RTX Graphics Card?</u></a></li>
 </ul></div>
 

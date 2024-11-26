@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Google Pixel 8 Pro Lock Screen Password?
-date: 2024-11-11T16:18:52.973Z
-updated: 2024-11-16T17:26:11.334Z
+date: 2024-11-20T01:18:10.043Z
+updated: 2024-11-25T20:26:02.972Z
 tags: 
   - unlock
   - remove screen lock
@@ -35,6 +35,10 @@ You'll need to reset your Google Account password if you forget it or become loc
 Select Screen Lock Type under Settings > Lock Screen. From there, you may select from a variety of lock screen options:
 
 ![how to set up password](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Swipe:** This lock type allows you to swipe in any direction on your screen to unlock your phone.
 
@@ -72,20 +76,25 @@ As you are likely aware, every Android device is connected to a Google account. 
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Login in using your Google credentials by going to the official Google Find My Device website.
 2. You will see the gadgets connected to your Google account as you enter the interface, along with a map of where they are.
 3. To wipe the Google Pixel 8 Pro device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
 4. Once more, select "Erase." This will reset the Google Pixel 8 Pro device and get rid of the forgot pattern lock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using Recovery Mode
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. It might be helpful if you discover that your device is functioning strangely. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
@@ -109,13 +118,6 @@ Use the shell's following command to start
 Rm /data/system/gesture.key using the adb shell
 
 Turn the phone back on normally. Any pattern will unlock the screen, and you will be prompted to enter one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Method: Dr.Fone - Screen Unlock
 
@@ -147,16 +149,13 @@ _(Recovery Mode When the Samsung phone via Bixby)_
 
 ![bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _(Recovery Mode When the Samsung phone via Bixby)_
 
 ![via bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _(Recovery Mode When the Samsung phone via Home button)_
 
@@ -185,10 +184,7 @@ If you encounter the **OEM unlock missing** on your Android phone despite wantin
 ![using a phone at work](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Why Is OEM Unlock Missing on Your Device?
@@ -273,14 +269,11 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 ![screen lock successfully removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now that you've regained access to your device thanks to Dr.Fone - Screen Unlock, you can move forward with enabling the **OEM unlock missing** option. Next up, we'll guide you through the steps in several ways. Let's start with the Developer options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Enable OEM Unlock Missing From the Developer Options?
 
@@ -330,13 +323,6 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 
 This method should **enable the OEM unlock missing** issue. Otherwise, proceed to the next section for another solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How To Fix OEM Unlock Missing by Removing SIM Card?
 
 Certain carriers restrict bootloader unlocking on their devices to ensure compatibility and prevent unauthorized modifications. For these phones, unlocking the SIM card becomes crucial before you can toggle the OEM unlock option. Here are the steps to fix the **OEM Unlock missing** or greyed out using SIM card removal:
@@ -345,13 +331,6 @@ Certain carriers restrict bootloader unlocking on their devices to ensure compat
 - **Step 2:** Go to **Settings** > **General Management** > **Reset**, then select **Factory data reset**. Enter your PIN or password if needed.
 
 ![android factory data reset](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Review the warning and tap **Reset** to confirm.
 - **Step 4:** Once the reset is complete, your phone will restart. Connect to Wi-Fi when prompted.
@@ -383,9 +362,17 @@ As one of the initial measures, backup the Google Pixel 8 Pro device completely 
 
 ![unlock bootloader htc](https://images.wondershare.com/drfone/article/2016/12/14822577889251.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and once the sign up is done, log in to HTC dev.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, ensure that HTC Sync Manager is installed on the PC.
 
@@ -393,18 +380,15 @@ Step 3: From the bootloader page, select your device using the drop down option 
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578344435.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After selecting the Google Pixel 8 Pro device, click on “Begin Unlock Bootloader”, and then confirm all the dialogue boxes which come your way on screen.
 
 Step 4: Now, you will be presented with four steps to put the Google Pixel 8 Pro device in bootloader mode. Disconnect the Google Pixel 8 Pro  device from the PC and turn the Google Pixel 8 Pro device off completely. Press the volume down button along with the power button to switch the Google Pixel 8 Pro device on in bootloader mode.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822589729198.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Use the volume keys of the Google Pixel 8 Pro device to select Fastboot option along with pressing power button to confirm, after the Google Pixel 8 Pro device is in bootloader mode. Now, connect the Google Pixel 8 Pro device to the computer using a USB cable.
 
@@ -442,19 +426,24 @@ Use volume keys to select and power button to confirm. Once this is done, the Go
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-audio-pioneers-the-power-of-crossfading/"><u>[New] Audio Pioneers The Power of Crossfading</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia/"><u>[New] Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-start-a-new-story-install-xps-videographer-tools/"><u>[Updated] 2024 Approved Start a New Story, Install XP’s Videographer Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-syncing-images-pc-to-iphone-file-sharing/"><u>[Updated] In 2024, Syncing Images PC-to-iPhone File Sharing</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-toolwiz-photography-companion-a-thorough-2023-breakdown/"><u>[Updated] Toolwiz Photography Companion A Thorough 2023 Breakdown</u></a></li>
-<li><a href="https://win-great.techidaily.com/copia-la-partizione-di-un-disco-su-un-altro-in-windows-11/"><u>Copia La Partizione Di Un Disco Su Un Altro in Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-pro-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-tecno-pop-8-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Tecno Pop 8 Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-play-40c-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor Play 40C</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-honor-x7b-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Honor X7b?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-magic-v2-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor Magic V2 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-90-lite-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor 90 Lite Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-tecno-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Tecno Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ps4-troubleshooting-expert-tips-to-overcome-system-freezing-issues/"><u>PS4 Troubleshooting: Expert Tips to Overcome System Freezing Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-solutions-to-unlock-infinix-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>6 Solutions to Unlock Infinix Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-your-textbooks-to-pdf-format-with-vitalsource-seamless-digital-solutions/"><u>Convert Your Textbooks to PDF Format with Vitalsource: Seamless Digital Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/detailed-study-exploring-the-capabilities-of-android-lightroom/"><u>Detailed Study Exploring the Capabilities of Android Lightroom</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-easytime-timer-service-for-free/"><u>Elite EasyTime Timer Service for Free</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-magic-6-lite-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor Magic 6 Lite? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-spark-20-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Spark 20</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-magic-6-lite-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor Magic 6 Lite</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-x9a-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor X9a Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-infinix-note-30i-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Infinix Note 30i Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-v30-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo V30 Pro Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-techniques-for-superior-canva-visuals-for-2024/"><u>Innovative Techniques for Superior Canva Visuals for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-4-key-miscalculations-to-dodge-for-optimal-chatgpt-powered-content-creation/"><u>The 4 Key Miscalculations to Dodge for Optimal ChatGPT-Powered Content Creation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-magic-6-lite-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor Magic 6 Lite Phones</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-infinix-smart-7-hd-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Infinix Smart 7 HD Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-p55-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Itel P55 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unraveling-the-complexities-of-whatsapp-communication/"><u>Unraveling the Complexities of WhatsApp Communication</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-top-10-anime-movies-of-all-time/"><u>Updated In 2024, Top 10 Anime Movies of All Time</u></a></li>
 </ul></div>
 
