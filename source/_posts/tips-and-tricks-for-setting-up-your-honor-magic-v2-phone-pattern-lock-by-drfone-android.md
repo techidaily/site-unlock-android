@@ -1,7 +1,7 @@
 ---
 title: Tips and Tricks for Setting Up your Honor Magic V2 Phone Pattern Lock
-date: 2024-11-20T02:22:12.152Z
-updated: 2024-11-26T03:06:25.629Z
+date: 2024-12-04T20:20:01.757Z
+updated: 2024-12-05T21:21:23.490Z
 tags: 
   - unlock
   - remove screen lock
@@ -72,10 +72,6 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **How to get into recovery mode with Home button**
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
@@ -89,10 +85,6 @@ Now you’re in recovery mode, pick these options in the image below.
 When the “Unlocked successfully” appears on the screen, you can access your device without a pattern lock or other locks!
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
 
@@ -188,6 +180,10 @@ adb reboot
 
 - Your phone will reboot. After it reboots and requests a security pattern, you can utilize any pattern, and it will unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 This guide provides insight into the most common Android issue. Here, we have discussed different techniques to bypass the **pattern lock** on your Android phone. However, we suggest you go for a professional tool while carrying this out. Therefore, you should choose an expert tool like Dr.Fone - Screen Unlock to open the **lock screen pattern**.
@@ -201,7 +197,7 @@ Among these tools, **Techeligible FRP** stands out, known for its reliability an
 ![frp bypass](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part I. A Comprehensive Overview of Techeligible
@@ -212,6 +208,10 @@ Techeligible is a useful platform that offers useful solutions to help most Andr
 
 ![frp bypass tools](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Useful Features of Techeligible
 
 Check out the main features that Techeligible has to offer below:
@@ -220,10 +220,6 @@ Check out the main features that Techeligible has to offer below:
 - **Unlocking Android Smartphones.**The tools assist users in unlocking Android smartphones. It also does not require passwords or Google account information.
 - **FRP APK Download.**Techeligible makes it simple to obtain FRP APK utilities.
 - **File Management.**It assists in the management of critical files to improve the overall user experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Where and How To Download FRP Tools by Techeligible
 
@@ -250,6 +246,10 @@ These tools function similarly to a bridge. To begin, connect the Android device
 - **Step 3:** To begin downloading, click the **Download** button.
 
 **_**_Note:_**_** **Download the APK directly from your phone to install it when FRP locks the Honor Magic V2 device. APK can also be installed using OTG or ADB.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Phone Brands Supported by Techeligible
 
@@ -357,6 +357,10 @@ Using the appropriate Google Account Manager, you may effortlessly download the 
 
 ![techeligible google account manager](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### FRP Bypass APK Tools
 
 If you want to reset your devices, you can utilize several bypass APK programs that will be connected to your PC. The graphic below shows several distinct sorts of APK tools.
@@ -386,10 +390,6 @@ Unlocking an Android device locked by FRP barriers is a little complicated with 
 
 ![drfone unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Advantages of Dr.Fone - Screen Unlock
 
 Revel in the benefits that Dr.Fone – Screen Unlock has to offer, making it an excellent choice for unlocking Android devices:
@@ -402,10 +402,6 @@ Revel in the benefits that Dr.Fone – Screen Unlock has to offer, making it an 
 - It’s not only about opening a locked screen; Dr.Fone provides a variety of unlock modes targeted to certain conditions, such as a forgotten password, PIN, pattern, or fingerprint.
 - **High Rate of Success.**Fone - Screen Unlock delivers a dependable solution, even for difficult lock cases, with a high success rate in unlocking locked screens.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide to Unlocking Android With Dr.Fone
 
 Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android device. Its user-friendly interface and effective functionality offer a smoother, more accessible alternative to Techeligible. This ensures that unlocking your Android device becomes a hassle-free experience. Learn how to use Dr.Fone – Screen Unlock (Android) below:
@@ -413,6 +409,10 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 - **Step 1:** Download the most recent Wondershare Dr.Fone version and connect your Android device to your computer via a USB cable. Access the unlock screen tool after connecting by navigating to the **Toolbox** and selecting **Screen Unlock**.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Select **Android** to unlock your Android screen lock when prompted. You’ll see two options on the next screen. Select **Unlock Android Screen**.
 - **Step 3:** You will then be led to a new screen where you may select the brand of your mobile device.
@@ -426,6 +426,10 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 - **Step 5:** To unlock the Android screen, you must first select the **Brand**, **Device Name**, and **Device Model**. To advance, click the associated checkbox to enable the option that states **I agree with the warning and am ready to proceed**. Click **Next** to proceed with unlocking the screen.
 
 ![drfone choose device model](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** When prompted to confirm the process, enter **000000**. To start the software, input the code and then click **Confirm**.
 - **Step 7:** Once you’ve identified your Android device’s model, Dr.Fone will guide you through entering **Download Mode**. Following the on-screen directions will take you to the next steps, where you may complete the operation. The following screens show the status of the screen unlocking procedure, which includes downloading the platform’s required drivers and configuration files.
@@ -464,13 +468,13 @@ Keep reading to know more in detail about **how to bypass previously synced goog
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/QWNdasc1y1c"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Remove Previously Synced Google Account from Android Phone Without Phone Reset
 
 In this part, we will discuss the methods that can be used for removing the previously synced account from your Android phone without a phone reset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Removing Google Account using the Android Settings Menu
 
@@ -485,10 +489,6 @@ The steps for this method are listed below.
 To confirm the removal of the account, click on the Remove account button.
 
 ![remove-google-account-settings-menu](https://images.wondershare.com/drfone/article/2022/06/settings-menu-account-removal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Remove the Google account from the Android phone using the computer
 
@@ -511,6 +511,10 @@ The Factory Reset Protection (FRP) is a security feature for the Android device 
 Though there are multiple tools available we recommend Dr. Fone - Screen Unlock (Android) as the best and the most reliable option. Using this excellent Windows and Mac-based software, FRP lock on all popular Android devices including Samsung, LG, HTC, and others. The tool is simple to use and requires no technology. There is also an option where you can unlock your device if you do not know the OS version.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -543,6 +547,10 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_android10_1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:** Next, click on the Android 6/9/10 button, choose Open Settings and select the PIN option to set a PIN to be used in the further steps.
 
 ![google frp removal](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10-4.png)
@@ -550,10 +558,6 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 **Step 7:** Keep following the steps as they appear till you reach the Google Account Sign-In page. Here click on the Skip option that will successfully remove and bypass the Google Account.
 
 ![bypass google lock completed](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The above given are the brief steps for the FRP bypass process. To learn about the entire process in detail, check [Dr.Fone-Screen Unlock (Android) guide](https://drfone.wondershare.com/guide/google-frp-bypass.html).
 
@@ -584,10 +588,6 @@ With the steps above, you can remove the account **previously synced on this dev
 - There is no surety that the service will work for removing the FRP lock on your devices.
 - If you have to remove the FRP lock from multiple devices, a separate payment for each device has to be done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Above we have listed several ways to **remove a previously synced Google account** on your Android device. The best of all the listed solutions is Dr. Fone - Screen Unlock (Android) as it supports bypassing FRP lock on multiple Android devices in a hassle-free manner. Once the license is purchased, you can unlock as many numbers of devices as you want without any worries.
@@ -606,19 +606,15 @@ Above we have listed several ways to **remove a previously synced Google account
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-expert-recommendations-top-15-no-cost-audiosite-collections/"><u>[New] 2024 Approved Expert Recommendations Top 15 No-Cost Audiosite Collections</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-understanding-hdr-techniques-in-modern-photoshoots/"><u>[New] 2024 Approved Understanding HDR Techniques in Modern Photoshoots</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-mergecombinejoin-youtube-flv-videos-for-2024/"><u>[New] How to Merge/Combine/Join YouTube (FLV) Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-visual-storytelling-with-clear-backdrops-in-figma/"><u>[New] Transform Your Visual Storytelling with Clear Backdrops in Figma</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-recorders-report-card-best-in-class-rated/"><u>[Updated] 2024 Approved The Recorder's Report Card Best in Class Rated</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-seamless-collaboration-the-top-5-video-call-recorder-choices/"><u>[Updated] In 2024, Seamless Collaboration The Top 5 Video Call Recorder Choices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-80-pro-straight-screen-edition-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor 80 Pro Straight Screen Edition Phone</u></a></li>
-<li><a href="https://article-files.techidaily.com/9-techniques-for-attractive-and-engaging-unboxings-on-instagram-for-2024/"><u>9 Techniques for Attractive and Engaging Unboxings on Instagram for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-xiaomi-redmi-note-12-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Xiaomi Redmi Note 12 5G Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Note 30 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-xiaomi-redmi-note-13-proplus-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-infinix-zero-30-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Infinix Zero 30 5G? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Note 30 Phone Without Password?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/precision-video-capture-experts/"><u>Precision Video Capture Experts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/levating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>[New] Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-capitalizing-on-hairstyle-demonstrations/"><u>[Updated] 2024 Approved Capitalizing on Hairstyle Demonstrations</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-zte-nubia-flip-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your ZTE Nubia Flip 5G Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-magic-6-lite-phone-by-drfone-android/"><u>How to Reset a Locked Honor Magic 6 Lite Phone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-comprehensive-guide-to-modern-versatile-game-recording-software/"><u>In 2024, A Comprehensive Guide to Modern, Versatile Game Recording Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-the-quality-of-googles-voice-call-features/"><u>In-Depth Analysis: The Quality of Google's Voice Call Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-efficient-approach-to-persona-creation-with-chatgpt/"><u>The Efficient Approach to Persona Creation with ChatGPT</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-picks-for-alac-audio-format-a-complete-guide-to-transforming-and-saving-your-music-in-apple-lossless/"><u>Top Picks for ALAC Audio Format: A Complete Guide to Transforming and Saving Your Music in Apple Lossless</u></a></li>
 </ul></div>
 

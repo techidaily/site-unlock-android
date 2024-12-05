@@ -1,7 +1,7 @@
 ---
 title: Top 12 Prominent Honor Magic V2 Fingerprint Not Working Solutions
-date: 2024-11-20T16:03:24.535Z
-updated: 2024-11-25T20:03:21.471Z
+date: 2024-11-30T21:46:40.063Z
+updated: 2024-12-05T19:48:11.625Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,10 +27,6 @@ Facing a malfunctioning fingerprint on your Honor Magic V2 can be frustrating. I
 Dr.Fone offers a swift solution to remove the Android lock screen in five minutes. It effectively removes 4 types of screen locks. These include patterns, PINs, passwords, and fingerprints. Dr.Fone can [bypass the Android FRP lock](https://drfone.wondershare.com/guide/google-frp-bypass.html) without needing a PIN or Google account. It ensures accessibility to the Android device without such credentials.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -58,10 +54,6 @@ With Dr.Fone, you can resolve the **Honor Magic V2 fingerprint sensor not workin
 Open Wondershare Dr.Fone and connect your Android device via a USB cable. Once the connection is established, navigate to the "Toolbox" tab and choose "Screen Unlock." Upon reaching the new screen, choose the “Android” option. Then, select “Unlock Android Screen” from the options on the following screen.
 
 ![opt for dr fone screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2: Selecting Google As the Honor Magic V2 device Brand and Activating Recovery Mode**
 
@@ -91,6 +83,14 @@ Ensure you firmly place your finger on the sensor, covering it entirely. Avoid t
 
 ![gently press fingerprint sensor](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Device Showing Glitches
 
 #### Problem
@@ -102,14 +102,6 @@ Glitches or software bugs in your Pixel device may cause disruptions. This can i
 One of the easiest and simplest solutions is to restart your Pixel phone. You can do that by pressing the "Power" and the "Volume Up" keys. It will lead to a pop-up power menu where you must choose "Restart" to reboot your device.
 
 ![restart google pixel device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Outdated Firmware
 
@@ -126,7 +118,7 @@ The best way to resolve this issue is to update your Pixel device. Having an out
 ![update device to latest version](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Dirty Phone or Sensor
@@ -150,10 +142,6 @@ Gently wipe the fingerprint sensor area using a clean, dry cloth to ensure thoro
 Use compressed air or a soft brush if there's visible debris or particles around the sensor. Be cautious not to apply excessive pressure that might damage the sensor.
 
 ![dirty sensor or phone issue](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Screen Protector: Dirty or Damaged
 
@@ -181,10 +169,6 @@ There can be air bubbles trapped under the screen protector. If there are, gentl
 
 ![protector screen dirty or damaged](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Clean Your Finger
 
 #### Problem
@@ -204,7 +188,7 @@ Refrain from touching oily or greasy surfaces before using the fingerprint senso
 ![cleaning finger to use fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Covering Screen if Fingerprint on Screen
@@ -237,10 +221,6 @@ You must adjust the display settings to ensure the fingerprint sensor is always 
 
 ![put sensor to always display](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 9\. Low Touch Sensitivity
 
 #### Problem
@@ -254,6 +234,10 @@ The fingerprint sensor may have [low touch sensitivity](https://drfone.wondersha
 Accessories like a screen protector might impact the performance of your Pixel device's touch sensitivity. When using a screen protector, your Pixel enhances touch sensitivity. To do that, navigate to the Settings app and open it. Move to the "Display" window and scroll down to the last option. Toggle on the "Screen protector mode" to increase the screen sensitivity.
 
 ![turn on screen protector mode](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### 2\. Finger Re-Enrollment
 
@@ -309,6 +293,10 @@ Proceed with the following steps to execute a factory reset on your Pixel device
 
 ![head to system settings](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** In "Reset Options," choose "Erase All Data (Factory Reset)” to continue. Afterward, select "Erase All Data" on the next screen and follow the instructions to complete the process.
 
 ![factory reset your device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-18.jpg)
@@ -323,6 +311,10 @@ This article will guide you through removing or bypassing the serviceon your pho
 
 ![knox manage admin portal](https://images.wondershare.com/drfone/article/2024/01/remove-knox-enrollment-service-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Is the Knox Enrollment Service?
 
 **Knox Enrollment Service** is an integral part of Samsung’s Knox, a toolbox of security features for enterprise-level management of mobile devices. This service is pivotal in how companies manage and secure their mobile devices, especially in a corporate environment.
@@ -336,10 +328,6 @@ This article will guide you through removing or bypassing the serviceon your pho
 The service allows IT administrators to pre-configure settings and apps and manage other aspects of the Honor Magic V2 device’s functionality. When a device is enrolled, it can be remotely controlled and monitored. The administrators can push updates, track device locations, remotely wipe data for security, and enforce specific compliance policies. This automation of device enrollment simplifies the setup process for both the IT department and the end-user.
 
 ![knox mobile enrolment page](https://images.wondershare.com/drfone/article/2024/01/remove-knox-enrollment-service-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Advantages
 
@@ -383,6 +371,10 @@ However, this method is risky and not recommended for the average user. It will 
 
 **Removing Knox Enrollment Service** from your phone is feasible but requires careful consideration, especially in a corporate context. Always ensure you have the necessary permissions and understand the risks of modifying your device’s software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### If You Can’t Use the Above Methods
 
 If none of the above methods are feasible, and you find your phone locked or restricted due to Knox, read through the next section. It will provide additional insights on what to do next.
@@ -393,11 +385,19 @@ When faced with a locked phone due to Knox security features, and if conventiona
 
 Wondershare Dr.Fone is a versatile software suite that tackles various smartphone issues, including unlocking screens. Its Screen Unlock feature is useful for bypassing security barriers without requiring extensive technical knowledge. It hosts several features, such as those you need for [<u>data recovery</u>](https://drfone.wondershare.com/android-recovery/recover-lost-samsung.html), system repairs, and other smartphone services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone’s Screen Unlock Feature
 
 The Screen Unlock feature in Dr.Fone is specifically designed to bypass screen locks. Often, you can use it for issues such as forgotten passwords or the like. The great thing is that it can also bypass those locks enforced by Knox. You can do all these without causing data loss or significant changes to your device’s system.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -409,19 +409,22 @@ The Screen Unlock feature in Dr.Fone is specifically designed to bypass screen l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-banishing-blackout-blues-from-youtube-videos/"><u>[New] 2024 Approved Banishing Blackout Blues From YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-supercharging-instagram-videos-on-the-go-mobile/"><u>[New] In 2024, Supercharging Instagram Videos on the Go (Mobile)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-countdown-chronicles-the-best-mobile-clocks-for-weddings/"><u>[Updated] In 2024, Countdown Chronicles The Best Mobile Clocks For Weddings</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-detailed-guide-to-pc-capturing-of-consoles-games/"><u>[Updated] In 2024, Detailed Guide to PC Capturing of Consoles Games</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-perfecting-motion-capture-a-guide-to-gopro-time-lapse-photos-for-2024/"><u>[Updated] Perfecting Motion Capture A Guide to GoPro Time Lapse Photos for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-download-apple-podcasts/"><u>2024 Approved How to Download Apple Podcasts?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevate-your-experience-from-win10s-32-bit-to-64-bit-world/"><u>Elevate Your Experience: From Win10's 32-Bit to 64-Bit World</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-spark-10c-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Spark 10C to Protect Your Individual Information</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi Note 12R?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Mix Fold 3</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-plus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Plus Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-wondershare-photo-story-platinum/"><u>In 2024, Wondershare Photo Story Platinum</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-drivers-enhanced-performance-for-win-11/"><u>Nvidia Drivers - Enhanced Performance for Win 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-troubleshoot-your-instagram-live-solutions-await/"><u>[New] Troubleshoot Your Instagram Live Solutions Await</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-implementing-gradual-audio-reduction-tricks-in-audacity/"><u>[Updated] 2024 Approved Implementing Gradual Audio Reduction Tricks in Audacity</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud/"><u>[Updated] 2024 Approved The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-video-size-mastery-on-mac-the-instagram-automation-way-for-2024/"><u>[Updated] Video Size Mastery on Mac The Instagram Automation Way for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-assessing-cloud-price-trends-and-economical-alternatives/"><u>2024 Approved Assessing Cloud Price Trends & Economical Alternatives</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-beginner-to-master-chef-top-8-techniques-for-skillful-home-kitchens/"><u>From Beginner to Master Chef: Top 8 Techniques for Skillful Home Kitchens</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-mix-fold-3-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-vivo-y36i-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y36i Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-90-gt-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor 90 GT Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-gt-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor 90 GT Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-design-source-best-affordable-vectors-online/"><u>In 2024, Innovative Design Source – Best Affordable Vectors Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-p55-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel P55 5G Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-s23plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel S23+ Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ate-voice-transformation-tools-for-social-media-stars-for-2024/"><u>Ultimate Voice Transformation Tools for Social Media Stars for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-best-free-gaming-platforms-top-10-sites-for-pc-and-android-downloads-for-2024/"><u>Updated Best Free Gaming Platforms Top 10 Sites for PC and Android Downloads for 2024</u></a></li>
 </ul></div>
 
