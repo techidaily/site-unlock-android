@@ -1,7 +1,7 @@
 ---
 title: Rootjunky APK To Bypass Google FRP Lock For Honor 90 Pro
-date: 2024-12-01T21:39:03.034Z
-updated: 2024-12-05T21:09:30.726Z
+date: 2024-12-07T20:03:27.092Z
+updated: 2024-12-11T19:13:17.201Z
 tags: 
   - unlock
   - remove screen lock
@@ -66,10 +66,6 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 
 ![android phone security and privacy settings](https://images.wondershare.com/drfone/article/2024/01/rootjunky-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 9:** Click **Send** to establish a connection. Enter the two commands:
 
 - at + creg? \\ r \\ n
@@ -110,6 +106,10 @@ Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock?
 
 ![select phone brand to remove frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:**
 
 The next steps may vary depending on the brand you selected.
@@ -122,6 +122,10 @@ The next steps may vary depending on the brand you selected.
 
 ![instructions to access device secret menu](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** When your Samsung prompts you to activate USB debugging, tap **Allow**. Then, on your computer screen, click **Authorized** to confirm.
 
 ![allow usb debugging on phone](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-6.png)
@@ -129,6 +133,10 @@ The next steps may vary depending on the brand you selected.
 - **Step 7:** You will see the FRP lock being bypassed on your Android device on the next screen.
 
 ![dr.fone bypassing google frp lock](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** Click **Done** if the FRP lock removal was successful, otherwise, click **Try Again** to repeat the process.
 
@@ -162,6 +170,10 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android](https://images.wondershare.com/drfone/others/14546021103734.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** After that, you will be moved to the Google Account Recovery page. There will be 3 main options which indicate 3 frequent problems. Select the first one, which is entitled "I don't know my password". Once you have chosen it, you will be required to fill in your Gmail address in the bar provided. Click on the Continue button as long as you have made sure to finish all these tasks.
 
 ![reset Gmail password on Android-create an account](https://images.wondershare.com/drfone/others/14546022254697.jpg)
@@ -193,10 +205,6 @@ Step 1: Make sure your Android device is connected with the Internet. Then get a
 Step 2: Find the Password option in the list. Tap on it to be moved to another screen. In the menu, type in your new password that you wish to exchange, confirm it and then click on the Change password button.
 
 ![reset Gmail password on Android-Find the Password option](https://images.wondershare.com/drfone/others/14546023423449.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Bonus Tips
 
@@ -242,10 +250,6 @@ Step 2: The default password 7777 but you can change this in the Password & Patt
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
@@ -255,7 +259,7 @@ Step 3: Next, select the apps you would like to protect from the pop up list. Ta
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Now close the app and the Apps chosen will now be password protected.
@@ -268,17 +272,9 @@ Step 1: Download Hexlock from the Google Play Store. Once it is installed, open 
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Once the PIN or Password is set, you are now ready to lock apps. You can create multiple lists of Apps to be locked ba\_x\_sed on your different needs. As an example, we have chosen the Work panel. Tap on “Start Locking Apps” to start.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-06.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish to lock and then Tap the down arrow in the upper left when you are done.
 
@@ -287,7 +283,7 @@ Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish t
 You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. 6 Private Apps that you should lock on your Android
@@ -299,6 +295,10 @@ There are certain apps that may require to be locked more than others. Of course
 This is the application that allows you to send and receive messages. You may want to lock this app if you use your device to send messages of a sensitive nature that you would rather keep private. You may also want to lock this app if your device is used by more than one person and you don’t want other users reading your messages.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Email App
 
@@ -312,15 +312,15 @@ This is the application that allows you to download and install applications to 
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Gallery App
 
 The Gallery app displays all the images on your device. The main reason you may want to lock the Gallery app may be because you have sensitive images that are not suitable for all viewers. Again this is ideal if children make use of your device and you have images that you would rather they didn’t see.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Music Pla\_x\_yer App
 
@@ -329,7 +329,7 @@ This is the Application that you use to play the music on your device. You may w
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. File Manager App
@@ -339,7 +339,7 @@ This is the App that displays all of the files that are saved on your device. It
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Having the ability to lock your Apps is an easy way to keep information out of the limelight. It also allows you to take full control of your device. Try it, it might just be freeing as opposed to locking your entire device.
@@ -358,17 +358,18 @@ Having the ability to lock your Apps is an easy way to keep information out of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-attract-more-viewers-crafting-impressive-youtube-description-with-custom-templates-for-2024/"><u>[New] Attract More Viewers Crafting Impressive Youtube Description with Custom Templates for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-leading-edge-the-ultimate-15-camera-guide-for-2024/"><u>[Updated] Leading Edge The Ultimate 15 Camera Guide for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expeditious-windows-file-audit-tactics/"><u>2024 Approved Expeditious Windows File Audit Tactics</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/breaking-down-asuss-revolutionary-new-wireless-speed-monarch-the-rt-be96u/"><u>Breaking Down Asus's Revolutionary New Wireless Speed Monarch: The RT-BE96U</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cross-border-lexicon-enriching-english/"><u>Cross-Border Lexicon Enriching English</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-to-solving-error-encountered-on-geforce-software/"><u>Expert Guide to Solving ‘Error Encountered’ on GeForce Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-hot-40-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-x7b-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor X7b Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-itel-p55t-phone-by-drfone-android/"><u>How to Reset a Locked Itel P55T Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-p55plus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Itel P55+ Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-final-cut-pro-with-ease-an-insiders-guide-for-2024/"><u>Navigating Final Cut Pro with Ease An Insider's Guide for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/renewable-resources-vs-energy-demand-a-balancing-act/"><u>Renewable Resources Vs. Energy Demand: A Balancing Act</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-techniques-for-stronger-video-content-with-b-clips/"><u>[New] Techniques for Stronger Video Content with B-Clips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-complete-lowdown-on-io-image-recording-software-for-2024/"><u>[New] The Complete Lowdown on IO Image Recording Software for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-zen-journey-tracks-copyright-free-legally-downloaded-playlist-for-2024/"><u>[Updated] Zen Journey Tracks - Copyright-Free, Legally Downloaded Playlist for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/authentic-praise-amplified-branding-for-2024/"><u>Authentic Praise, Amplified Branding for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-ultimate-3gp-creator-effortlessly-convert-your-videos-from-avimpeg-to-3gp-standard/"><u>Download the Ultimate 3GP Creator - Effortlessly Convert Your Videos From AVI/MPEG to 3GP Standard</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-tecno-spark-20-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y100t-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y100t Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-zte-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock ZTE Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-s23plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Itel S23+</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v30-lite-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V30 Lite 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://facebook.techidaily.com/thrive-in-social-media-economy-with-these-5-steps/"><u>Thrive in Social Media Economy with These 5 Steps</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-your-apple-id-the-truth-behind-disappearing-accounts/"><u>Understanding Your Apple ID: The Truth Behind 'Disappearing' Accounts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 6 Proven Ways to Unlock Honor 90 Pro Phone When You Forget the Password
-date: 2024-11-28T21:58:06.953Z
-updated: 2024-12-05T19:03:49.294Z
+date: 2024-12-05T16:42:34.480Z
+updated: 2024-12-11T22:03:47.662Z
 tags: 
   - unlock
   - remove screen lock
@@ -86,6 +86,10 @@ After this step, you will be guided to another screen where you need to choose t
 
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3. Enter Download Mode**
 
 You will need to put your device into Download Mode for unlocking. Depending on your device's brand and model, the instructions for doing so may vary.
@@ -156,7 +160,15 @@ The best way to unlock **Android forgot password** on Samsung is to use Samsung'
 - **Step 2:** Once logged in, you can locate your device, select the "Unlock" option;
 - **Step 3:** Enter your new password. Once unlocked, you can access your device with your new password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs About Android Unlock
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Is there any universal code to unlock the Android phone?
 
@@ -186,6 +198,10 @@ No, there is no universal code for unlocking Android phones. They are different 
 There are several ways how to [unlock Android phones without data loss](https://drfone.wondershare.com/guide/android-lock-screen-removal.html). One of the most recommended ways is that you can set up the method to unlock with a fingerprint or face. Because it has an official guarantee, and you don’t need professional skills. Moreover, if your phone has Android version 4.0 or even older, unlocking your phone via "Forgot Pattern' will also help you finish the goal.
 
 The methods discussed above in Way 1 or [Way 2](https://drfone.wondershare.com/unlock/forgot-android-password.html#Part2) can guide you better into unlocking your device using this tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -229,10 +245,6 @@ We can easily access CUDA through libraries, directives and with the help of dif
 
 Given below is the list of Top10 Password cracking tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Cain and Abel : Top password cracking tool for Windows
 
 Cain & Abel is one of the top cracking tool for password cracking and password recovery for Windows OS.
@@ -242,7 +254,7 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 ![cain and abel](https://images.wondershare.com/images/utilities/cain-and-abel_39.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Features of Cain & Abel:**
@@ -264,10 +276,6 @@ John the Ripper is a free multi or cross platform password cracking software. It
 It’s primarily used to crack weak UNIX passwords but also available for Linux, Mac, and Windows. We can run this software against different password encryptions including many password hashes normally found in different UNIX versions. These hashes are DES, LM hash of Windows NT/2000/XP/2003, MD5, and AFS.
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of John the Ripper**
 
@@ -327,10 +335,6 @@ Password cracking using rainbow table is faster than the normal brute force atta
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Rainbow Crack**
 
 - Support verity of Rainbow tables
@@ -371,7 +375,7 @@ It is only available for windows operation systems. Tool has a limitation that i
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Features of Brutus**
@@ -406,6 +410,10 @@ It normally gains access to these hashes from directories, network servers, or d
 
 [www.l0phtcrack.com/](http://www.l0phtcrack.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Pwdump : Password recovery tool for Windows
 
 Pwdump is actually different Windows programs that are used to provide [LM and NTML](http://en.wikipedia.org/wiki/LM_hash) hashes of system user accounts.
@@ -418,6 +426,10 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 
 ![pwdump](https://images.wondershare.com/images/utilities/pwdump.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Pwdump**
 
 - Available for Windows XP, 2000
@@ -428,6 +440,10 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 **Site for Download:**
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Medusa : Speedy network password cracking tool
 
@@ -487,10 +503,6 @@ Remove Pattern Locks on Android Screen at Ease
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** You will be notified when the process is completed. Simply disconnect your Honor 90 Pro and access it without any pattern lock.
 
 ![pattern lock removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -536,10 +548,6 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 ![find my mobile](https://images.wondershare.com/drfone/article/2017/09/15057372744992.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** You can select your device from the left panel. By default, it will provide its location on the map.
 
 ![select the Honor 90 Pro device](https://images.wondershare.com/drfone/article/2017/09/15057372918464.jpg)
@@ -550,10 +558,6 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to Unlock Android Pattern Lock in Safe Mode?
 
@@ -570,7 +574,7 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 ![android safe mode](https://images.wondershare.com/drfone/article/2017/09/15057373753769.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 5.** Later, you can go to the Honor 90 Pro device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
@@ -584,10 +588,6 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 - **Step 3.** Use the Volume Up and Down key to navigate and the Power/Home button to make a choice.
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15057373935558.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 4.** Select the wipe data/factory reset option to perform pattern unlock.
 - **Step 5.** Confirm your choice to factory reset your device.
@@ -617,20 +617,19 @@ By following this guide, you would certainly be able to learn how to unlock the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-small-businesss-safest-video-conferencing-top-picks/"><u>[New] 2024 Approved Small Business's Safest Video Conferencing Top Picks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-expert-advice-incorporating-voiceovers-for-visual-impact/"><u>[New] Expert Advice Incorporating Voiceovers for Visual Impact</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/20-best-non-copyrighted-pubg-montage-thumbnail/"><u>20 Best Non Copyrighted PUBG Montage Thumbnail</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-aural-archive-download-preserve-and-examine-tracks/"><u>2024 Approved Aural Archive Download, Preserve & Examine Tracks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-hot-40-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Hot 40 Pro Phone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/explore-unlimited-access-to-fcp-for-2024/"><u>Explore Unlimited Access to FCP for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-14-ultra-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi 14 Ultra</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-spark-10-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Tecno Spark 10 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-infinix-smart-8-plus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Infinix Smart 8 Plus Phone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic5-ultimate-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Magic5 Ultimate Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/illuminating-the-path-to-youtube-success-keyword-research-for-2024/"><u>Illuminating the Path to YouTube Success Keyword Research for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-redmi-note-12-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi Redmi Note 12 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-zte-blade-a73-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your ZTE Blade A73 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-cursor-brightness-in-windows-1011-systems/"><u>Mastering Cursor Brightness in Windows 10/11 Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-redmi-note-13-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi Redmi Note 13 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-multiple-perspectives-with-fb-lives-split-view-functionality-for-2024/"><u>[New] Navigating Multiple Perspectives with FB Live's Split View Functionality for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-faster-more-effective-vocal-alterations-for-pubg-players/"><u>[New] Unlocking Faster, More Effective Vocal Alterations for PUBG Players</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-step-by-step-method-to-share-subtitle-text-online/"><u>[Updated] In 2024, Step-by-Step Method to Share Subtitle Text Online</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210655305-9781454913771-a-spell-a-day/"><u>A Spell a Day | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-itel-a70-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Itel A70?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cracking-into-an-ipad-without-knowing-the-lock-code-a-comprehensive-method/"><u>Cracking Into an iPad Without Knowing the Lock Code: A Comprehensive Method</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oppo-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-13-ultra-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi 13 Ultra Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Google Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-y100-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo Y100 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mambos-in-the-mangroves-for-2024/"><u>Mambos in the Mangroves for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-fishing-cameras-the-essentials-of-5/"><u>Premier Fishing Cameras - The Essentials of 5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/undercover-window-wiz-windows-11s-hidden-tools-exposed/"><u>Undercover Window Wiz: Windows 11'S Hidden Tools Exposed</u></a></li>
 </ul></div>
 

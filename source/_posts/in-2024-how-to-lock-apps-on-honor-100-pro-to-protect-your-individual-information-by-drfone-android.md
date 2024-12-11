@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Lock Apps on Honor 100 Pro to Protect Your Individual Information
-date: 2024-11-29T18:47:02.274Z
-updated: 2024-12-05T16:38:57.604Z
+date: 2024-12-04T19:35:52.551Z
+updated: 2024-12-11T18:46:23.336Z
 tags: 
   - unlock
   - remove screen lock
@@ -35,16 +35,12 @@ Before we get down to the business of locking some of your Apps, let’s look at
 - Locking apps is also a good way to keep children from content they shouldn’t be accessing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. How to Lock Apps in Android
 
 There is always a good reason to Lock Apps on your device and we have two easy and effective methods you can use to do this. Choose the one that you are most comfortable with.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method One: Using Smart App Protector
 
@@ -60,17 +56,9 @@ Step 3: The next step is to add apps to the Smart App Protector. Open the Runnin
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Next, select the apps you would like to protect from the pop up list. Tap on the “Add” button once you have chosen your Apps.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Now close the app and the Apps chosen will now be password protected.
 
@@ -126,6 +114,10 @@ This is the Application that you use to play the music on your device. You may w
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. File Manager App
 
 This is the App that displays all of the files that are saved on your device. It is the ultimate app to lock if you have sensitive information on your device that you would rather not share. Locking this app will ensure that all of the files on your device will remain safe from prying eyes.
@@ -147,7 +139,7 @@ Here is the complete guide with five methods to unlock an Honor  device that wor
 ## Part 1: Lock System About Honor 100 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1: Lock Types
@@ -173,21 +165,25 @@ You can easily remove the lock screen of your Honor 100 Pro  if you remember you
 
 ## Part 2: 5 Solutions to Unlock Honor 100 Pro  Without Password or Pattern
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1: Google Find My Device
 
 You can use the Google Find My Device for your **Honor 100 Pro  pattern unlock**. It is a simple privacy and security Google feature that enables users to reset their android phones. Most people use it to factory reset their phones when someone steals their phones. Although Google Find My Device works every time, it is not the ideal solution if you don't want to lose your data. With a hard reset, you lose all your data and settings. It is not worth it if all you want to do is unlock your screen. Here are the steps to unlock Honor 100 Pro  with Find My Device.
 
 ![google find my device web home page](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Open any browser on your PC and visit "Google Find My Device."
 - Make sure your phone is connected to the internet.
 - Select the "Erase Device" option and log in with your Google account.
 - After verification, click on "Ok" and wait for the system to factory reset.
 - Power on your device and enter it without any pattern or password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2: Google Account
 
@@ -202,6 +198,10 @@ Here is how you can do an **Honor 100 Pro  pattern unlock without PC**. You don'
 - Now the system will ask for your Google account and password.
 - After you verify your Google account, you can enter your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3: Answer Security Questions
 
 If you want to unlock your Honor  phone, you can also answer some security questions and reset the password. This method does not work on all Honor  devices, but you can use it for **Honor 100 Pro  screen unlock without PC**. You will see various questions if your Google account is linked with the Honor 100 Pro device. All questions are based on your profile and credentials. You have to answer precisely with proper spaces. Here are the steps to unlock Honor 100 Pro  with security questions.
@@ -209,7 +209,7 @@ If you want to unlock your Honor  phone, you can also answer some security quest
 ![Honor 100 Pro  forgot pattern interface](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-03.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Use a random password or PIN five times and wait for the 30 seconds alert message.
@@ -275,6 +275,10 @@ When you’re on this page, “100% Remove Screen Lock” can unlock most phone 
 
 ![select brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Now, it's time to start removing the lock screen**
 
 Follow the guide step by step to complete all steps, these steps are important to unlock your Honor 100 Pro  .
@@ -298,10 +302,6 @@ FRP automatically activates when you add a Google account to your Android phone.
 While Google FRP is a valuable security feature, it’s vital to acknowledge that there are legitimate situations where bypassing it might be necessary. These instances include forgotten Google account credentials, buying a second-hand device, and device issues. In these cases, tools like **RootJunky** can help you [<u>bypass FRP Lock</u>](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-with-computer.html). We’ll explore how to use **RootJunky APK** later, but first, let’s define what it is and its role in FRP bypass.
 
 ![holding an android smartphone](https://images.wondershare.com/drfone/article/2024/01/rootjunky-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The **RootJunky APK** is a free Android application also called RootJunky SDL or **RootJunky FRP** Bypass tool. This app’s primary function is to bypass the Google Account FRP lock on Samsung devices. Rootjunky uses the weaknesses in Android’s setup process to create a new user account or switch existing ones, letting you bypass the FRP and regain control of your phone.
 
@@ -328,10 +328,6 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 - **Step 2:** On your phone, download the **Rootjunky APK** (com.rootjunky.frpbypass-1.0.apk) file from the official website or other reputable sites.
 
 ![rootjunky frp bypass apk file](https://images.wondershare.com/drfone/article/2024/01/rootjunky-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Go to **Settings** > **Security** and tap **Install unknown apps**. Then, enable unknown sources to allow installation of apps from outside the Play Store. Connect your device to a Wi-Fi network.
 
@@ -377,6 +373,10 @@ Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock?
 
 ![dr.fone toolbox interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Choose **Android** as your device type. This will take you to the next screen, where you can select **Remove Google FRP Lock** to proceed.
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
@@ -409,13 +409,13 @@ The next steps may vary depending on the brand you selected.
 
 ![successful frp lock removal](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-samsung.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 That’s it! With Dr.Fone Screen Unlock, you can easily bypass Google FRP and regain access to your Android device, leaving the complexities of **RootJunky** behind.
 
 _**Tips:** Are you searching for a powerful FRP bypass tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -437,16 +437,24 @@ The best choice boils down to your personal needs and budget. Remember, FRP bypa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-these-12-websites-offering-free-stock-photo-collections/"><u>[New] Explore These 12 Websites Offering Free Stock Photo Collections</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-unlocking-the-power-of-forced-deletion-on-folders-in-windows-11-with-revouninstaller/"><u>Complete Guide: Unlocking the Power of Forced Deletion on Folders in Windows 11 with RevoUninstaller</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>Full Guide to Unlock Your Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-oppo-a18-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Oppo A18 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-g2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo G2 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>In 2024, Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-note-30-vip-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Note 30 VIP Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-a05s-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Itel A05s Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-high-efficiency-video-minimizers-cutting-down-footage-size-by-90-while-preserving-excellent-visuals/"><u>Ultimate Guide to High-Efficiency Video Minimizers: Cutting Down Footage Size by 90% While Preserving Excellent Visuals</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/visual-studio-code-wiederherstellung-von-geloschten-dateien-die-nicht-im-papierkorb-waren/"><u>Visual Studio Code: Wiederherstellung Von Gelöschten Dateien, Die Nicht Im Papierkorb Waren</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fast-forward-finesse-in-presentation-media/"><u>[New] Fast-Forward Finesse in Presentation Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-spotlight-on-highly-praised-instagram-after-effects-plugins-for-2024/"><u>[New] Spotlight on Highly Praised Instagram After Effects Plugins for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elevate-skype-call-audio-excellence/"><u>[Updated] Elevate Skype Call Audio Excellence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-expert-a-compreenhensive-fcp-guide/"><u>[Updated] From Novice to Expert A Compreenhensive FCP Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-behind-the-photo-instagram-selfie-credibility-explored/"><u>2024 Approved Behind the Photo Instagram Selfie Credibility Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>2024 Approved Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/3-methodes-pour-enregistrer-des-pieces-joindre-dans-gmail-sur-un-nas-qnap/"><u>3 Méthodes Pour Enregistrer Des Pièces Joindre Dans Gmail Sur Un NAS QNAP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y100-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y100 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-phantom-v-fold-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Phantom V Fold Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12-5g-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12 5G Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-camon-30-pro-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Camon 30 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-x8b-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor X8b Lock Screen Password</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13-ultra-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-win11-external-drive-access/"><u>Streamlining Win11 External Drive Access</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-itel-a05s-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Itel A05s Phone</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/ultimate-tutorial-how-to-enhance-drone-videos-with-background-music/"><u>Ultimate Tutorial: How To Enhance Drone Videos with Background Music</u></a></li>
 </ul></div>
 

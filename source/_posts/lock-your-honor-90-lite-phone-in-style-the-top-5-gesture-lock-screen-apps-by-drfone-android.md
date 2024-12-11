@@ -1,7 +1,7 @@
 ---
 title: Lock Your Honor 90 Lite Phone in Style The Top 5 Gesture Lock Screen Apps
-date: 2024-12-01T17:09:41.212Z
-updated: 2024-12-05T19:55:12.627Z
+date: 2024-12-08T17:08:03.291Z
+updated: 2024-12-11T19:39:05.018Z
 tags: 
   - unlock
   - remove screen lock
@@ -81,15 +81,15 @@ Launched on 17th August 2017, the app has already fetched 100,000-500,000 instal
 
 Download this app from here - <https://play.google.com/store/apps/details?id=com.gesture.action&hl=en>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4) Gesture Lock Screen
 
 Developed by Prank App, Gesture Lock Screen is a wonderful app that allows to securing your Android phone with letters, signatures or a pull-down gesture. This is an intelligent gesture screen-lock app that detects and adjusts to the letters that are created every time and stored as lock screen passwords. You can be creative with this app as well; hearts, circles, triangles, squares, make any shape, letter, number and save it as the gesture lock.
 
 ![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555834839.jpg)![gesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074555845748.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Gesture Lock Screen is designed to allow you to launch any personal application through your personalized gesture, so you do not have to worry about anyone meddling with the contents of your phone. The app comes with the following range of features:
 
@@ -122,7 +122,7 @@ Download it from here - <https://play.google.com/store/apps/details?id=com.imaxi
 As Android reaches new heights every year, gestures are getting more and more enhanced, as their functionalities increase as well. Gestures have always been an exciting feature in Android phones and a convenient one as well. They are practical and fun to use, and the apps mentioned above are some of the best gesture-lock apps amongst the vast number of such apps in the Google Play Store. If you want to make your tasks easier by using gestures on your phone, feel free to try some of the mentioned apps here.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Delete Gmail Account With/Without Password On Honor 90 Lite
@@ -132,6 +132,10 @@ Email accounts have proven their worth in digital devices beyond sending emails.
 To this day, it is known that Gmail accounts can be removed with or without a password. However, one should know that if they consider deleting their Gmail account, they won't be able to send or receive emails. With that, let's proceed to reveal all essential methods that can be used to **delete a Gmail account permanently**. This article will also focus on a perfect tool that assists in making the process easier.
 
 ![deleting gmail account permanently](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Synopsis: Things To Know Before Deleting Gmail Account
 
@@ -167,16 +171,16 @@ For the first method, we will discuss **how to delete a Google account** with yo
 ![download data from takeout](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. Delete Your Gmail Account From Your Smartphone: Android & iOS
 
 If you use a smartphone device and want to delete your Gmail account from that particular device, you are at the right place. The following methods will help you understand **how to delete Gmail** from your Android and iOS devices:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Android Devices
 
@@ -194,9 +198,17 @@ If you use a smartphone device and want to delete your Gmail account from that p
 
 ![open signed in accounts apple](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Discover the option of "Gmail" in the list of signed-in accounts and continue to the next screen. Select "Delete Account" to remove the account from your iOS device.
 
 ![delete gmail account ios](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Don’t Know Password of Device? Reset To Delete Gmail Account
 
@@ -208,10 +220,6 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 ![put android in recovery mode](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Once you boot into the Recovery Mode, use the Power and Volume buttons to scroll through the menu. Scroll down with the Volume buttons and select the "Wipe data/factory reset" option with the Power button.
 
 ![select factory reset option](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-12.jpg)
@@ -219,6 +227,14 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 - **Step 3.** Select "Factory data reset" on the next screen and confirm that factory reset your Android device successfully. The device automatically gets out of Recovery Mode and starts normally after resetting.
 
 ![confirm factory reset android](https://images.wondershare.com/drfone/article/2024/01/delete-gmail-account-with-without-password-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### iOS Devices
 
@@ -244,17 +260,9 @@ What if you've [forgotten the password](https://drfone.wondershare.com/app-passw
 
 While you seek some appropriate way **to close a Gmail account** from a device whose password you’ve forgotten, you might get into Wondershare Dr.Fone. This all-in-one service offers a unique Screen Unlock feature that helps you restore your device. If you have forgotten the lock screen password of your Android device, Dr.Fone – Screen Unlock (Android) makes it exceptionally easy to recover.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Features of Wondershare Dr.Fone
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -295,10 +303,6 @@ According to your selected device brand, Dr.Fone provides guidelines for enterin
 
 ![successfully unlock device](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This article has specifically provided you with some important details on **how to delete a Gmail account** with ease. The article explains everything from the methods of deleting it from the computer to removing it from the Honor 90 Lite device. Furthermore, it also serves as a guidance for those who have forgotten their device passwords. For that, they've provided an insight into Wondershare Dr.Fone – Screen Unlock and its unique functions.
@@ -320,7 +324,7 @@ Note that you can unlock your android lock screen by a hard reset, but it will c
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -369,10 +373,6 @@ Here are the step-by-step guidelines for unlocking a locked screen.
 
 ![Android Multi Tool Android Pattern Remover](https://images.wondershare.com/drfone/article/2016/07/14696572121462.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 1.** Download the latest version of the tool on your PC and run it there.
 - **Step 2.** SConnect your Android phone to your PC via USB cable. Make sure that your Android device is connected to your PC properly. Otherwise, it will not work.
 - **Step 3.** SAfter running the Android Multi tool on your PC, you will see onscreen instructions like different numbers for different functions. Press on a number for which action you want to perform. For unlocking patterns, there is a numbering button so you will go for that.
@@ -419,24 +419,19 @@ Whether you prefer user-friendly software like [Dr.Fone – Screen Unlock (Andro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-truth-behind-your-instagram-selfie/"><u>[New] In 2024, The Truth Behind Your Instagram Selfie</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-free-switch-console-simulations/"><u>[New] Ultimate Free Switch Console Simulations</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-master-the-pinning-process-for-a-personal-touch-in-snapchat/"><u>[Updated] In 2024, Master the Pinning Process for a Personal Touch in Snapchat</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-logitech-g29-steering-wheel-setup-for-windows-os-win-10117/"><u>Get Your Logitech G29 Steering Wheel Setup for Windows OS (Win 10/11/7)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-tecno-phantom-v-fold-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Tecno Phantom V Fold Phone Screen?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-tecno-camon-30-pro-5g-easily-by-drfone-android/"><u>How To Unlock a Tecno Camon 30 Pro 5G Easily?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x50iplus-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor X50i+ Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70e-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70E Phone with Broken Screen</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-upside-down-your-instagram-videos-complete-manual-for-2024/"><u>How to Upside Down Your Instagram Videos [Complete Manual] for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-s18-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo S18 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi A2+ Phone?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo S18 Phone Without Password?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-lava-yuva-3-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Lava Yuva 3 Pro Android SIM Unlock APK</u></a></li>
-<li><a href="https://windows11.techidaily.com/legitimate-procedures-vs-chatbots-for-secure-win-11-access/"><u>Legitimate Procedures Vs. Chatbots for Secure Win 11 Access</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-civi-3-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Civi 3 Phone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-video-and-photography-makers-who-mix-sounds/"><u>[New] 2024 Approved Essential Video & Photography Makers Who Mix Sounds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-brilliance-bunch-leading-gk-video-channels/"><u>[New] Brilliance Bunch Leading GK Video Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphone-solutions-for-reverse-playback/"><u>[New] IPhone Solutions for Reverse Playback</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elevate-your-ride-with-these-10-sj4000-essentials-for-2024/"><u>[Updated] Elevate Your Ride with These 10 SJ4000 Essentials for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-crafting-professional-edits-including-sounds-in-premiere-projects/"><u>[Updated] In 2024, Crafting Professional Edits Including Sounds in Premiere Projects</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-swiftly-slide-through-content-advanced-techniques-to-accelerate-video-viewing-on-tiktok/"><u>[Updated] Swiftly Slide Through Content Advanced Techniques to Accelerate Video Viewing on TikTok</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-find-n3-flip-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo Find N3 Flip Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-14-ultra-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi 14 Ultra Phone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminating-issues-effective-solutions-when-your-logitech-g430-microphone-fails/"><u>Eliminating Issues: Effective Solutions When Your Logitech G430 Microphone Fails</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-x50i-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor X50i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-k70-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi K70 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-v30-lite-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo V30 Lite 5G Phone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-essential-guide-for-proficiently-playing-games-with-switch-pro-in-steam/"><u>The Essential Guide for Proficiently Playing Games with Switch Pro in Steam</u></a></li>
 </ul></div>
 

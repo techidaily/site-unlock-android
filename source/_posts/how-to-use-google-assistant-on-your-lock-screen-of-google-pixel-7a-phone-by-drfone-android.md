@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Google Pixel 7a Phone
-date: 2024-12-01T18:28:11.771Z
-updated: 2024-12-05T16:43:05.312Z
+date: 2024-12-05T21:55:13.949Z
+updated: 2024-12-11T18:53:00.779Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,6 +28,10 @@ Let's dig deeper into how you can **use Google Assistant on the lock screen** an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. What You Can Do With Voice Google Assistant
 
 Google Assistant is a virtual assistant powered by artificial intelligence (AI) developed by tech giant Google. This application is readily available on most recent mobile phone models, especially those operating on Android 6.0 and newer versions.
@@ -40,6 +44,10 @@ Although you can no longer use the **Google Assistant unlock** feature, you can 
 - Sending texts
 - Making a call
 - Asking Google for information, etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Enable Google Assistant on Lock Screen: A Step-by-Step Guide
 
@@ -58,10 +66,6 @@ You can ask, "Hey Google, open the Google Assistant settings," and it will show 
 Locate the “Lock Screen” settings and make sure to switch on “Assistant responses on lock screen.”
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How To Use Google Assistant on Lock Screen
 
@@ -90,7 +94,7 @@ Google Assistant will then provide spoken responses and display relevant informa
 ![Using Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. Common Problems When Using Google Assistant
@@ -110,10 +114,6 @@ While Google Assistant is adept at understanding individual commands, it may str
 Google Assistant's capabilities are extensive, but there are instances where it may struggle to execute specific tasks. For example, it can’t execute tasks that involve interacting with certain third-party applications or services. You can't also **unlock phone with voice Google Assistant.**
 
 ![Giving command to Google Asisstant on lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tips to Make Voice Google Assistant Recognize Your Commands
 
@@ -136,7 +136,7 @@ Ensure that your device's microphone is in good working condition. Dirt or debri
 Background noise can interfere with voice recognition. Try to issue commands in a quiet environment to minimize any potential confusion caused by external sounds.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. How to Unlock Android Phone Screen Without Passcode
@@ -196,7 +196,7 @@ Dr.Fone will then guide you to put your Android device into Download Mode accord
 ![Follow instructions to put Android in Download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After that, you can monitor the progress and wait for a few minutes until it shows “Unlocked successfully.”
@@ -278,6 +278,10 @@ Here are the steps to unlock Android phone using Dr.Fone - Screen Unlock (Androi
 
 ![connect device to remove android lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** A device brand will appear. Select your phone’s brand, i.e., Samsung.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -315,10 +319,6 @@ Here's how to unlock the Google Pixel 7a  pattern lock without losing data using
 
 If you don't remember your Google account details, you can still unlock your Google Pixel 7a  phone using a third-party tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Using Security Question
 
 Another way to unlock your Google Pixel 7a  phone using Google is by answering the security question. When we set up our Google account, we usually choose a security question and an answer. This comes in handy if you want to recover your Google account, reset the password, or if you want to unlock your phone's screen.
@@ -343,10 +343,6 @@ Here are the steps for it:
 
 Your Google Pixel 7a  phone will be hard reset, and all the locks will be removed. When you turn it on again, you will have to set it up like a new phone using your Google account details.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Unlock Google Pixel 7a  with Google  Companion?
 
 If you've forgotten the screen lock of your Google Pixel 7a  device, you can use Sony's official software, Google  Companion, to unlock your device. Google  Companion is a reliable method that can help you regain access to your Google  without data loss. Here's how to unlock your Google Pixel 7a  using Google  Companion:
@@ -363,9 +359,17 @@ If you've forgotten the screen lock of your Google Pixel 7a  device, you can use
 
 ![preparing the computer](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Once correctly connected to the PC, the program will download the necessary software and upload it to your device. After completing the process, you can unplug the Google Pixel 7a device and turn it on.
 
 ![updating the xiaomi device](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove Operator Lock on Google Pixel 7a ?
 
@@ -379,17 +383,9 @@ An operator lock, also called a carrier lock, constitutes a limitation imposed o
 
 ![check the network status](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** The next step involves getting your device’s IMEI number. To accomplish this task, simply input "\*#06#" on your device. Once you have the IMEI number, use a reliable service from the internet to the unlocking code. Insert the SIM card of another network and provide the code you gained to unlock your Google Pixel 7a  device.
 
 ![enter the sim unlock code](https://images.wondershare.com/drfone/article/2023/10/unlock-sony-xperia-pin-code-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: How to Unlock Bootloader?
 
@@ -479,6 +475,10 @@ Open the tool on your PC and select the "Screen Unlock" tool.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the entire process is finished, you can access your Android device without entering any PIN and view all your data on the Google Pixel 7a device.
 
 **Step 2. Select Unlock Android Screen tool**
@@ -492,10 +492,6 @@ We provide 2 options for you, and to unlock screen, you should select "Unlock An
 There are still 2 buttons to choose, "100% Remove Screen Lock" is for most Android brands, but please back your device up before you pick it.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Check the brands list and make sure your unlock process keeps.
 
@@ -512,6 +508,10 @@ Then follow the instructions on the program to get the Android phone into Recove
 **Recovery Mode in Samsung Phone without Bixby**
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Recovery Mode in Samsung Phone with Home Button**
 
@@ -553,21 +553,24 @@ Getting locked out of your phone can be frustrating, especially if you need an i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/1-free-youtube-playlist-downloaders-onlinepcandroidios/"><u>[New] 11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS]</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/e-a-youtube-music-playlist-on-web-and-mobile-a-detailed-guidance-for-2024/"><u>Create a YouTube Music Playlist on Web and Mobile - A Detailed Guidance for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-the-motivation-behind-openai-leaders-call-for-reinforced-regulation-in-artificial-intelligence/"><u>Delving Into the Motivation Behind OpenAI Leader's Call for Reinforced Regulation in Artificial Intelligence</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-itel-p55-5g-by-drfone-android/"><u>Full Guide to Unlock Your Itel P55 5G</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y28-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y28 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi Note 13 Pro+ 5G Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-infinix-smart-7-hd-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Infinix Smart 7 HD Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-vivo-s18e-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo S18e Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-a60-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel A60 Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-progressive-visual-reveal/"><u>In 2024, Progressive Visual Reveal</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-to-ioss-best-psp-gaming-tools/"><u>In 2024, The Ultimate Guide to iOS's Best PSP Gaming Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/inside-teslas-enhanced-performance-feature-decoding-the-intricacies-of-track-mode/"><u>Inside Tesla's Enhanced Performance Feature - Decoding the Intricacies of Track Mode</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/k-immersive-worlds-with-youtubes-top-10-vr-videos/"><u>Unlock Immersive Worlds with YouTube's Top 10 VR Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-contender-is-it-chatgpt-plus-or-perplexity/"><u>Unveiling the Top Contender: Is It ChatGPT Plus or Perplexity?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-mp4-software-elevate-your-mac-productions/"><u>2024 Approved Essential MP4 Software Elevate Your Mac Productions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-protouch-4k-uniscreen-hub-systems/"><u>2024 Approved ProTouch 4K UniScreen Hub Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-itel-p55plus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Itel P55+</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/addressing-inaudible-audio-steps-for-obs-broadcasting-for-2024/"><u>Addressing Inaudible Audio Steps for OBS Broadcasting for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/fix-your-game-nightmares-resolving-age-of-empires-4-non-launch-situations/"><u>Fix Your Game Nightmares: Resolving Age of Empires 4 Non-Launch Situations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-ready-secure-your-apple-watch-series-10-today-with-exclusive-pre-order-tips-and-savings-tricks-from-zdnet/"><u>Get Ready: Secure Your Apple Watch Series 10 Today with Exclusive Pre-Order Tips & Savings Tricks From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-13c-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-k70-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi K70 to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-tecno-camon-30-pro-5g-phone-by-drfone-android/"><u>How to Reset a Locked Tecno Camon 30 Pro 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-13-ultra-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi 13 Ultra Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor Magic 5 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-redmi-13c-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi Redmi 13C 5G Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/professional-photography-hacks-perfecting-motion-blur-with-adobe-tools/"><u>Professional Photography Hacks Perfecting Motion Blur with Adobe Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-zte-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent ZTE Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-models-in-depth-analysis-and-reviews-by-experts-techradar/"><u>Top Rated Apple Watch Models : In-Depth Analysis & Reviews by Experts | TechRadar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-honor-magic-5-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Honor Magic 5 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/windows-1011onedrive/"><u>Windows 10/11における自動的なOneDrive同期の効果的手順</u></a></li>
 </ul></div>
 
