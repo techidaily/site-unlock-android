@@ -1,7 +1,7 @@
 ---
 title: How to Use Google Assistant on Your Lock Screen Of Tecno Pova 5 Pro Phone
-date: 2024-11-03T16:16:18.521Z
-updated: 2024-11-06T01:17:48.248Z
+date: 2024-12-15T20:21:09.368Z
+updated: 2024-12-17T21:24:58.576Z
 tags: 
   - unlock
   - remove screen lock
@@ -58,6 +58,10 @@ You can ask, "Hey Google, open the Google Assistant settings," and it will show 
 Locate the “Lock Screen” settings and make sure to switch on “Assistant responses on lock screen.”
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How To Use Google Assistant on Lock Screen
 
@@ -203,12 +207,20 @@ Many people forget their screen lock, and that's normal. That can happen if you 
 
 Here we have mentioned solutions to let you bypass your **lock screen password.** All the solutions mentioned here are safe and will work almost 100% of the time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How Can I Set or Change My password?
 
 - Open the Settings application and tap the Security choice.
 - Under Device Security, tap Screen Lock.
 
 ![screen lock](https://images.wondershare.com/drfone/article/2022/11/what-is-my-phone-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Select a Screen lock option, i.e., Swipe, Example, PIN, Password, etc.
 
@@ -217,33 +229,7 @@ Here we have mentioned solutions to let you bypass your **lock screen password.*
 - When you pick your choice, follow the guidelines on the screen to set it. Enter your screen lock straightaway.
 - Then redo your screen lock on the following screen, then, at that point, tap Confirm.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: 4 Simple Ways to Bypass Your Tecno Pova 5 Pro Phone Password
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Google Find My Device
 
@@ -287,6 +273,10 @@ Open the tool on your PC and select the "Screen Unlock" tool.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the entire process is finished, you can access your Android device without entering any PIN and view all your data on the Tecno Pova 5 Pro device.
 
 **Step 2. Select Unlock Android Screen tool**
@@ -295,18 +285,15 @@ We provide 2 options for you, and to unlock screen, you should select "Unlock An
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3. Select device model**
 
 There are still 2 buttons to choose, "100% Remove Screen Lock" is for most Android brands, but please back your device up before you pick it.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check the brands list and make sure your unlock process keeps.
 
@@ -324,16 +311,13 @@ Then follow the instructions on the program to get the Android phone into Recove
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Recovery Mode in Samsung Phone with Home Button**
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5. Instructions to Erase Cache Partition**
 
@@ -346,16 +330,7 @@ Now it's a phone everyone can access without password or pattern.
 ![access without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Back up My Tecno Pova 5 Pro Easily?
@@ -365,13 +340,6 @@ Now it's a phone everyone can access without password or pattern.
 As we all know, unlocking a **lock screen password** involves a hard reset, which can delete your user data. Therefore, you must back up your files before hard resetting.
 
 There are several tools available to back up your files. You can use Google or your phone manufacturer's cloud services to back up your file. However, none of them are secure enough. So, we suggest Dr.Fone-Phone Backup have a secure and reliable backup experience. Dr.Fone lets you choose the files you need and back them up. Moreover, you can restore those files to your phone once it gets unlocked.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -386,6 +354,10 @@ FRP automatically activates when you add a Google account to your Android phone.
 While Google FRP is a valuable security feature, it’s vital to acknowledge that there are legitimate situations where bypassing it might be necessary. These instances include forgotten Google account credentials, buying a second-hand device, and device issues. In these cases, tools like **RootJunky** can help you [<u>bypass FRP Lock</u>](https://drfone.wondershare.com/google-frp-unlock/bypass-frp-with-computer.html). We’ll explore how to use **RootJunky APK** later, but first, let’s define what it is and its role in FRP bypass.
 
 ![holding an android smartphone](https://images.wondershare.com/drfone/article/2024/01/rootjunky-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **RootJunky APK** is a free Android application also called RootJunky SDL or **RootJunky FRP** Bypass tool. This app’s primary function is to bypass the Google Account FRP lock on Samsung devices. Rootjunky uses the weaknesses in Android’s setup process to create a new user account or switch existing ones, letting you bypass the FRP and regain control of your phone.
 
@@ -414,10 +386,7 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 ![rootjunky frp bypass apk file](https://images.wondershare.com/drfone/article/2024/01/rootjunky-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** Go to **Settings** > **Security** and tap **Install unknown apps**. Then, enable unknown sources to allow installation of apps from outside the Play Store. Connect your device to a Wi-Fi network.
@@ -468,6 +437,10 @@ Ready to leave the hassle of using **RootJunky** and easily bypass the FRP lock?
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select your device’s brand from the list and click **Start** to continue.
 
 ![select phone brand to remove frp](https://images.wondershare.com/drfone/guide/remove-android-frp-lock-1.png)
@@ -479,13 +452,6 @@ The next steps may vary depending on the brand you selected.
 - **Step 4:** Select the OS version of your device and click **Start** to continue.
 
 ![remove google frp lock interface](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Access the secret menu on your phone using the on-screen instructions, then click **Next** to proceed to the next step.
 
@@ -527,19 +493,22 @@ The best choice boils down to your personal needs and budget. Remember, FRP bypa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-exploring-the-creme-de-la-creme-instas-influential-elite-for-2024/"><u>[New] Exploring the Crème De La Crème Insta's Influential Elite for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-from-confinement-to-comedy-selecting-lighthearted-fb-incarceration-moments/"><u>[New] From Confinement to Comedy Selecting Lighthearted FB Incarceration Moments</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unveiling-the-top-5-ios-tools-for-psp-gameplay/"><u>[Updated] In 2024, Unveiling the Top 5 iOS Tools for PSP Gameplay</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/davinci-resolve-issues-why-it-fails-to-open-and-solutions-for-windows-users/"><u>DaVinci Resolve Issues: Why It Fails to Open and Solutions for Windows Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-magic-v2-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor Magic V2</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-tecno-pova-5-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Tecno Pova 5 Pro Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-magic-vs-2-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor Magic Vs 2 Through Google Earth?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-honor-100-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Honor 100 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-motorola-moto-g24-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Motorola Moto G24 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mp4youtube8/"><u>MP4でYouTube動画ダウンロード可能な最高のツール/ホットサイト8選を紹介します。</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-honor-90-gt-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Honor 90 GT? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-entry-point-missing-error-in-microsoft-windows-environments/"><u>Understanding and Fixing the Entry Point Missing Error in Microsoft Windows Environments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-stepwise-blend-integrating-obs-and-zoom/"><u>[New] In 2024, Stepwise Blend Integrating OBS and Zoom</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-innovative-vr-experiences-from-elite-designers/"><u>2024 Approved Innovative VR Experiences From Elite Designers</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-reno-11f-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Reno 11F 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y100-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y100 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-xiaomi-redmi-note-12r-lock-screen-password-by-drfone-android/"><u>How To Change Xiaomi Redmi Note 12R Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y100-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y100 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi Note 12 4G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-vivo-y100-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y100 5G Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-13c-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi 13C 5G Fingerprint Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-s18-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo S18</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-k70e-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi K70E Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-hot-40-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Hot 40 Pro Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rclass-on-uploading-youtube-vids-to-fb-groups-for-2024/"><u>Masterclass on Uploading YouTube Vids to FB Groups for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-animation-pack-for-text/"><u>Superior Animation Pack for Text</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-poco-c65-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Poco C65 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/windowshdd-hdd/"><u>Windows環境下でのHDDコピー: 小型から大容量HDDへ自動複製</u></a></li>
 </ul></div>
 

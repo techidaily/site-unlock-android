@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Camon 20 Phone
-date: 2024-11-05T00:24:03.956Z
-updated: 2024-11-06T07:40:30.176Z
+date: 2024-12-14T20:35:09.882Z
+updated: 2024-12-18T00:09:48.672Z
 tags: 
   - unlock
   - remove screen lock
@@ -60,16 +60,7 @@ Locate the “Lock Screen” settings and make sure to switch on “Assistant re
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2. How To Use Google Assistant on Lock Screen
@@ -116,6 +107,10 @@ Google Assistant's capabilities are extensive, but there are instances where it 
 
 ![Giving command to Google Asisstant on lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips to Make Voice Google Assistant Recognize Your Commands
 
 One of the most infuriating problems with voice Google Assistant is that users often encounter difficulties in having their commands accurately recognized. To enhance the accuracy of voice recognition with Google Assistant, you can consider implementing the following tips:
@@ -135,6 +130,10 @@ Ensure that your device's microphone is in good working condition. Dirt or debri
 4. **Quiet Environment**
 
 Background noise can interfere with voice recognition. Try to issue commands in a quiet environment to minimize any potential confusion caused by external sounds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. How to Unlock Android Phone Screen Without Passcode
 
@@ -174,6 +173,10 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 
 ![Choose Remove without Data Loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Define Device Details
 
 Next, make sure to check and confirm the Brand, Device Name, and Device Model to unlock your Android screen. Tick the checkmark that says you agree with the warning and are ready to proceed. Click "Next" to unlock your screen.
@@ -201,19 +204,6 @@ You May Also Interested:
 [<u>8 Safe and Effective Methods to Unlock Your iPhone Without a Passcode</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html)
 
 [<u>Complete Guide to Unlock Mi Account Without Password In 2024</u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -254,13 +244,6 @@ Follow the following steps to unlock your Android password without factory reset
 
 ![Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** After that, select the phone model from the list or choose "I can't find my device model from the list above" on the next screen.
 
 ![start to unlock android password](https://images.wondershare.com/drfone/drfone-android/drfone-lock-02.jpg)
@@ -268,6 +251,10 @@ Follow the following steps to unlock your Android password without factory reset
 **Step 3:** Now, there will be three steps mentioned that you must follow to get your phone into the Download mode. The first is to power off the phone. The second is to press and hold the Volume button along with the Home button and Power button. The third step is to press the volume up the option to get into the download mode.
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Once your phone is in download mode, the program will start downloading the recovery package and then unlock your Android password without factory reset or data loss.
 
@@ -322,10 +309,7 @@ Through this easy method, you can now access your Android phone without using a 
 The problem of getting your mobile locked and not being able to open it is a common problem on Android phones these days. Many of us tend to panic when such problems arise. However, now that we have given some easy solutions and methods to unlock Android phone passwords without factory reset and losing any data, things would be much easier. Thus, you will solve your problems in no time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Top 12 Prominent Tecno Camon 20 Fingerprint Not Working Solutions
@@ -355,13 +339,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 2. With Dr.Fone, bypassing screen locks can be achieved without data loss.
 3. Fone supports 2000+ Android phones and tablets from over 18 brands for screen unlocking.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step-by-Step Guide To Remove Fingerprint Type Lock on Google Pixel Using Dr.Fone
 
 With Dr.Fone, you can resolve the **Tecno Camon 20 fingerprint sensor not working** issue within minutes. Below is a detailed walkthrough for removing a fingerprint lock on a Google Pixel:
@@ -384,13 +361,6 @@ After entering Recovery Mode, the screen unlocking procedure will initiate autom
 
 ![screen unlocked successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2. 11 Conventional Solutions To Resolve Pixel Fingerprint Not Working
 
 The solution above using Wondershare Dr.Fone is an effective and comprehensive method. It can tackle fingerprint recognition issues, but sometimes, users may look for simpler alternatives. We will explore conventional solutions that can address Pixel fingerprint problems. Each solution will also explain the underlying reasons for the **Pixel 6 fingerprint sensor** issue.
@@ -406,13 +376,6 @@ If the fingerprint sensor fails to recognize your fingerprint, it might be due t
 Ensure you firmly place your finger on the sensor, covering it entirely. Avoid too much pressure, but make sure the sensor fully contacts your fingerprint.
 
 ![gently press fingerprint sensor](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Device Showing Glitches
 
@@ -462,13 +425,6 @@ Use compressed air or a soft brush if there's visible debris or particles around
 
 ![dirty sensor or phone issue](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Screen Protector: Dirty or Damaged
 
 #### Problem
@@ -512,6 +468,10 @@ Remove any dirt, oil, or moisture that might cause issues with the fingerprint s
 Refrain from touching oily or greasy surfaces before using the fingerprint sensor. These substances can transfer onto your fingers, affecting sensor accuracy. If your fingers are dirty or damp, pause to clean them using a dry, clean cloth.
 
 ![cleaning finger to use fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Covering Screen if Fingerprint on Screen
 
@@ -565,9 +525,17 @@ Delete existing fingerprints and re-register them. This re-enrollment can someti
 
 ![navigate to security settings](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Tap "Fingerprint Unlock" on the following screen and delete the previously enrolled fingerprints. Then, press "Add fingerprint" and follow the on-screen prompts to complete the process.
 
 ![add new fingerprint](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 10\. Other Hardware Issues
 
@@ -611,6 +579,10 @@ Proceed with the following steps to execute a factory reset on your Pixel device
 
 ![head to system settings](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** In "Reset Options," choose "Erase All Data (Factory Reset)” to continue. Afterward, select "Erase All Data" on the next screen and follow the instructions to complete the process.
 
 ![factory reset your device](https://images.wondershare.com/drfone/article/2024/01/pixel-7-fingerprint-not-working-18.jpg)
@@ -631,19 +603,22 @@ In summary, this article detailed various methods to fix **the Tecno Camon 20 fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-importance-of-channel-consistency-on-youtube-for-2024/"><u>[New] The Importance of Channel Consistency on YouTube for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unboxing-flight-comprehensive-guide-to-dji-phantom-4-for-2024/"><u>[New] Unboxing Flight Comprehensive Guide to DJI Phantom 4 for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-boost-engagement-by-personalizing-your-twitter-videos-with-new-thumbnails/"><u>[Updated] Boost Engagement by Personalizing Your Twitter Videos with New Thumbnails</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-meme-mastery-iphone-edition/"><u>[Updated] Meme Mastery IPhone Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/comparative-study-of-vsdc-vs-best-video-recorders/"><u>Comparative Study of VSDC vs Best Video Recorders</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/descubre-la-forma-facil-y-efectiva-de-clonar-discos-dvd-en-su-mac-con-big-sur-sin-comprometer-la-calidad-visual/"><u>Descubre La Forma Fácil Y Efectiva De Clonar Discos DVD en Su Mac Con Big Sur Sin Comprometer La Calidad Visual</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-pova-5-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Pova 5 Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-google-pixel-7a-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Google Pixel 7a?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-100-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 100 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-70-lite-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor 70 Lite 5G Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-honor-magic-vs-2-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Honor Magic Vs 2</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-google-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Google Phone Now with These Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/realize-your-vision-a-comprehensible-list-of-3d-animation-software/"><u>Realize Your Vision A Comprehensible List of 3D Animation Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-no-cost-face-generation-top-online-platforms-for-2024/"><u>Updated No-Cost Face Generation Top Online Platforms for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-keywords-in-the-world-of-selling-monetized-youtube-channels/"><u>[New] Keywords in the World of Selling Monetized Youtube Channels</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-in-depth-gopro-hero5-testing-report/"><u>[Updated] 2024 Approved In-Depth GoPro Hero5 Testing Report</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-smooth-steps-top-20-chill-out-country-hits-for-grooving-tiktok/"><u>[Updated] Smooth Steps Top 20 Chill-Out Country Hits for Grooving (TikTok)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/buffer-free-entertainment-in-kodi-effective-techniques-to-ensure-seamless-playback/"><u>Buffer-Free Entertainment in Kodi: Effective Techniques to Ensure Seamless Playback</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cutting-edge-openings-at-no-cost-the-best-youtube-intro-makers-for-2024/"><u>Cutting-Edge Openings at No Cost The Best YouTube Intro Makers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-unconventional-perspectives-in-photos-for-2024/"><u>Exploring Unconventional Perspectives in Photos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-infinix-hot-40-pro-by-drfone-android/"><u>Full Guide to Unlock Your Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-pova-6-pro-5g-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-itel-p55-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Itel P55 5G? Try These Fixes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-how-to-optimize-your-channels-with-youtubes-featured-spotlight/"><u>In 2024, How to Optimize Your Channels with YouTube’s Featured Spotlight</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-s18e-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo S18e</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-g2-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo G2</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-ultimate-fb-downloading-kit-best-for-ff-browser-users/"><u>In 2024, Ultimate FB Downloading Kit - Best for FF Browser Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-infinix-hot-40i-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Infinix Hot 40i Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006434771-now-divide-both-sides-by-72-to-solve-for-x/"><u>Now, Divide Both Sides by 72 to Solve for X:</u></a></li>
 </ul></div>
 

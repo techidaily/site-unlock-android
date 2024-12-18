@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Tecno Spark 20 Phone with Broken Screen
-date: 2024-12-08T16:03:30.208Z
-updated: 2024-12-11T19:03:57.832Z
+date: 2024-12-16T23:54:38.066Z
+updated: 2024-12-17T19:40:17.132Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,10 +27,6 @@ In this article, we are going to look at a few simple ways you can unlock an And
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Using Android Debug Bridge (ADB)
 
@@ -66,6 +62,10 @@ The Best Tool to Reset Phones Without Android Factory Reset Codes
 
 **4,008,670** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Using a USB Mouse and the On the Go Adapter
 
 This is a great solution if you don’t have USB debugging enabled on your device. You will need your device, an OTG adapter and a USB mouse. It involves connecting the Tecno Spark 20 device to the USB mouse using the OTG adapter. Check if your device can be connected to a USB mouse. You can find an OTG adapter online, they are relatively inexpensive and very useful.
@@ -80,7 +80,15 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can then go about backing up the contents of your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 3: Using your Samsung Account
 
@@ -96,13 +104,13 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Being unable to unlock your device is never a good place to be. We hope one of the above solutions will work for you. You can then gain access to your device and back up the files and contacts. This way your life doesn’t have to be disrupted- you can just restore the backup on a new device or the old one once the screen is fixed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark 20 Phone
 
@@ -115,10 +123,6 @@ Let’s start our listicle by exploring some of the best fingerprint scanner loc
 The Fingerprint Pattern App Lock app will be an ideal solution to safeguard your privacy. Besides locking your mobile screen with fingerprint, pattern, and pin code, it can also lock Facebook Messenger, Snapchat, Instagram, Whatapps, Chrome, or any other apps!
 
 ![Fingerprint Pattern App Lock](https://images.wondershare.com/drfone/article/2021/06/fingerprint-pattern-app-lock.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Full customization
 - It doesn’t require the rooting of the Tecno Spark 20 device
@@ -218,6 +222,10 @@ LOCKit is a complete security app that can help you protect your photos, apps, n
 
 ![LOCKit](https://images.wondershare.com/drfone/article/2017/10/15075533804457.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Full customization of fingerprint lock with PIN and password
 - Multiple language support
 - Can lock incoming calls and customize the notification bar
@@ -234,10 +242,6 @@ The fingerprint lock app is compatible with all the Tecno Spark 20 devices runni
 
 ![Fingerprint Locker](https://images.wondershare.com/drfone/article/2017/10/15075534055610.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Can lock all the popular apps with your fingerprint
 - Lightweight and fast
 - Freely available with no ads
@@ -252,10 +256,6 @@ Download Link: [Fingerprint Locker](https://play.google.com/store/apps/details?i
 Setting a fingerprint lock or PIN, password, pattern, or even FRP lock on an Android phone is a common way to prevent our important data or private info from being prying eyes. However, if you forgot the fingerprint, or get your Android phone broken with a screen cracked, and enter the wrong password several times, you will be stuck on the problem and won’t be able to access your phone and all the apps on the Tecno Spark 20 device. Don't be too worried. Dr.Fone - Screen Unlock (Android) provides you with an Android phone unlocking feature to unlock any phone fingerprint and any screen locks, including numeric password, pattern, 4-digit/6-digit/custom PIN, fingerprint ID, face recognition, etc.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -277,16 +277,12 @@ When you know about all the popular options for the fingerprint screen lock app,
 Google constantly comes up with features to simplify the way users interact and complete tasks on the Android platform. One of the most important features that techies loved to debate about was the Smart Lock Android, a secure password manager functioning in sync with a Google account on the Android phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What is Android Smart Lock?
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555162221345.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Android Lollipop added a feature called Smart Lock, and the feature was devised as a smart tool to prevent the Android phone from locking once it was initially unlocked. In other words, the feature overrides an Android phone's Lock Screen feature, thereby saving users the need to enter passwords every time the Tecno Spark 20 device locks.
 
@@ -316,6 +312,10 @@ Tap on Settings, which is the gear symbol.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555175242280.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Within Smart Lock, there are three options for setting the system. You can set up trusted devices, trusted face, and trusted places individually, combining two or all three at the same time. You can choose just one trusted face, but you have the option to set up as many trusted devices and trusted places as needed.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555176091774.jpg)
@@ -335,9 +335,17 @@ For example, you can set up a Smart Lock for Bluetooth in your Android Bluetooth
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555179612746.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tap on Add Trusted Devices.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555180455802.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The next screen is the Choose Device Type.
 
@@ -379,6 +387,10 @@ Tap Smart Lock.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200954549.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tap on Trusted Places.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555201755742.jpg)
@@ -391,10 +403,6 @@ Tap on Add Trusted Places
 - • Pick a place.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555203265722.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - • Click on Settings.
 - • Click on Edit home or work. You can now add or edit the required addresses.
@@ -411,10 +419,6 @@ Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555205535430.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - • However, it is not yet configured as a Smart Lock option. Tap the location once, and it is enabled.
 - • The switch along the address to the right turns blue, indicating it is enabled.
 - • The work address is now listed under Trusted places for Work.
@@ -427,10 +431,6 @@ Tap on Add Trusted Places
 ## Part 4: Turn On Smart Lock For Android With Trusted Face
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555207782388.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The feature recognizes your face and then unlocks the Tecno Spark 20 device. Once you set up the Tecno Spark 20 device to recognize your face as a trusted face, it will unlock the Tecno Spark 20 device as soon as it recognizes you.
 
@@ -479,16 +479,24 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-discover-top-gratis-graphic-shops-where-quality-matters-most/"><u>[New] 2024 Approved Discover Top Gratis Graphic Shops Where Quality Matters Most</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-power-of-precision-crafting-effective-video-titles-for-2024/"><u>[New] The Power of Precision Crafting Effective Video Titles for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-building-a-business-from-blogs-and-video-reviews/"><u>[Updated] Building a Business From Blogs and Video Reviews</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-exclusive-review-10-best-free-video-meeting-apps-iosandroid/"><u>[Updated] Exclusive Review 10 Best Free Video Meeting Apps iOS/Android</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-engage-viewers-directly-tips-for-live-video-screen-share/"><u>[Updated] In 2024, Engage Viewers Directly Tips for Live Video Screen-Share</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-honor-magic-v2-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor Magic V2 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel P55 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-civi-3-disney-100th-anniversary-edition-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi Civi 3 Disney 100th Anniversary Edition Through Google Earth?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-c55-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme C55</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-13t-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi 13T Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-hot-30i-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Hot 30i</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-maximize-your-mobile-podcast-experience-on-iphone/"><u>[Updated] 2024 Approved Maximize Your Mobile Podcast Experience on iPhone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expertly-selected-graphics-cards-for-peak-streaming-clarity/"><u>[Updated] In 2024, Expertly Selected Graphics Cards for Peak Streaming Clarity</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-video-updates-on-youtube/"><u>2024 Approved Streamlining Video Updates on YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-google-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Google Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-honor-magic-5-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Honor Magic 5 Phone When You Forget the Password</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/effective-techniques-for-reducing-video-file-sizes-in-bulk/"><u>Effective Techniques for Reducing Video File Sizes in Bulk</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-honor-x7b-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Honor X7b? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-spark-10-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Spark 10 Pro? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-tecno-pova-5-pro-by-drfone-android/"><u>Full Guide to Unlock Your Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-zte-nubia-flip-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your ZTE Nubia Flip 5G</u></a></li>
+<li><a href="https://techidaily.com/revolutionize-recycling-13-ingenious-ways-to-repurpose-your-retired-android-smartphone/"><u>Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-deleted-messages-across-iphone-models-iphone-5-4s-6-etc/"><u>Step-by-Step Guide: Retrieving Deleted Messages Across iPhone Models (iPhone 5, 4S, 6, Etc.)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-photographers-guide-to-pc-gaming-scenes-for-2024/"><u>The Photographer’s Guide to PC Gaming Scenes for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleash-a-new-sound-personality-on-instagram-for-2024/"><u>Unleash a New Sound Personality on Instagram for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-v30-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo V30 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-here-are-some-of-the-best-face-swap-apps-for-your-iphone-or-android-device-that-allows-you-to-swap-face-easily/"><u>Updated 2024 Approved Here Are some of the Best Face Swap Apps for Your iPhone or Android Device that Allows You to Swap Face Easily</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-edit-flv-files-with-ease-top-windows-8-video-editing-software/"><u>Updated Edit FLV Files with Ease Top Windows 8 Video Editing Software</u></a></li>
 </ul></div>
 

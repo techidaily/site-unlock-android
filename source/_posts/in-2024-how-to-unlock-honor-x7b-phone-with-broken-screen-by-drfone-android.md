@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Honor X7b Phone with Broken Screen
-date: 2024-12-07T17:21:25.910Z
-updated: 2024-12-11T18:52:34.839Z
+date: 2024-12-16T21:39:22.798Z
+updated: 2024-12-18T03:57:43.411Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,6 +27,10 @@ In this article, we are going to look at a few simple ways you can unlock an And
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Using Android Debug Bridge (ADB)
 
@@ -72,6 +76,10 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** As soon as the Honor X7b devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Honor X7b device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
@@ -79,7 +87,7 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 You can then go about backing up the contents of your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Using your Samsung Account
@@ -89,6 +97,10 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 **Step 1:** Visit the [https://findmymobile.samsung.com/login.do](https://findmymobile.samsung.com/login.do) on your PC or any other device and log in with your account information.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933993021.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Select your device from the menu on the left-hand side of the screen.
 
@@ -121,19 +133,11 @@ These gestures gave Android developers an idea of creating apps, to make use of 
 
 Why do we need these gesture apps? –Would you not want to control your phone’s notification bar by just waving your hand over the screen, when it’s not reachable? These apps are not only fun but also useful and efficient. So, now let us discuss 5 Android gesture lock screen apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1) Gesture Lock Screen
 
 A top-rated app in the Google Play Store, for gestures, the Gesture Lock Screen is a wonderful gesture app that locks and unlocks Android lock screens. Rated 4/5 stars in the Google Play Store, this app was developed by Q Locker.
 
 ![guesture lock screen](https://images.wondershare.com/drfone/article/2017/10/15074554194436.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Gesture Lock Screen is an all-in-one gesture app that locks the screen as well as provides you with other good features. The app allows you to draw anything or gesture to unlock your phone; you can draw letter, signatures, various shapes, whatever you want to unlock your device! This app gives you the convenience to unlock your phone through fingerprints, gestures, and recover passwords as well.  
 
@@ -144,6 +148,10 @@ Gesture Lock Screen is an all-in-one gesture app that locks the screen as well a
 With over 40,000 5/5 ratings and 5,00,000-10,00,000 installs, this app proves to be the top gesture app for locking your phone.
 
 Download this app from here - <https://play.google.com/store/apps/details?id=qlocker.gesture&hl=en>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2) Magic Unlock
 
@@ -170,10 +178,6 @@ Features – Don’t we all love apps that do not just stick to their main purpo
 Launched on 17th August 2017, the app has already fetched 100,000-500,000 installs and has maintained a 4/5-star rating, proving why it’s worth using despite being a new-comer.
 
 Download this app from here - <https://play.google.com/store/apps/details?id=com.gesture.action&hl=en>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4) Gesture Lock Screen
 
@@ -226,7 +230,7 @@ Dr.Fone - Screen Unlock can help you bypass your Google account and enter into y
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Features
@@ -250,6 +254,10 @@ A little pricey, but worth it.
 
 You can easily download it from Dr.Fone's official website within one minute and use it with our detailed instructions. Even if you don't know the specific model of your Samsung device, Dr.Fone - Screen Unlock will provide you with quality service and assistance. Check [the bypass FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail to help you disable your Google account on your Android smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Bypass Android FRP Lock without Google Account or a PIN Code.
@@ -268,7 +276,7 @@ Bypass Android FRP Lock without Google Account or a PIN Code.
 ![frp bypass tools-samsung-frp-lock-removal](https://images.wondershare.com/drfone/article/2018/03/samsung-frp-lock-removal.jpg "Tool 2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Features
@@ -315,6 +323,10 @@ FRP Bypass Solutions is tested and updated for the process of bypassing Google v
 
 ![frp bypass tools-Tool 5](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-5.jpg "Tool 5")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Features
 
 - It works with all Android devices such as Moto series, LG, ZTE, HUAWEI, Vodafone, Samsung, Lenovo, HISENSE, XPERIA, and lots more.
@@ -329,19 +341,11 @@ FRP Bypass Solutions is tested and updated for the process of bypassing Google v
 
 **Cons**: You need to purchase the tool to use all its features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tool 5: D&G Password Unlocker
 
 D&G unlocker tool assists you in step by step and comprehensive way to unlock your Android phones. It can help Android users to remove FRP restrictions from their mobiles and tablets in a few seconds. The program will work for major brands including Samsung, Lenovo, Motorola, Xiaomi, Huawei, HTC, and Yuphoria.
 
 ![frp bypass tools-Tool 6](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-6.jpg "Tool 6")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Features
 
@@ -361,6 +365,10 @@ D&G unlocker tool assists you in step by step and comprehensive way to unlock yo
 The processing time is just about 10 minutes. This facility is for the Authorized Google account owner. With this tool, the FRP lock will get removed.
 
 ![frp bypass tools-Tool 7](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-7.jpg "Tool 7")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Features
 
@@ -425,10 +433,6 @@ GSM flasher uses an easy and accessible way to bypass an Android device's lock t
 
 ![frp bypass tools-Tool 10](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-10.jpg "Tool 10")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Features
 
 - a. GSM flasher software setup is easy to use.
@@ -443,10 +447,6 @@ GSM flasher uses an easy and accessible way to bypass an Android device's lock t
 **Pros**: It can be used for all types of Android devices.
 
 **Cons**: Can also act as a reactivator for lock removers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tool 10: FRP Bypass APK Download Samsung for Android
 
@@ -507,15 +507,22 @@ The article above gives useful information on some of the important tools for th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[New] Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-solving-problems-missing-facebook-video-suggestions/"><u>[Updated] In 2024, Solving Problems Missing Facebook Video Suggestions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-v-purse-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor V Purse Fingerprint Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-itel-p55-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Itel P55? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-xiaomi-redmi-note-13-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Xiaomi Redmi Note 13 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-infinix-hot-30-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Infinix Hot 30 5G Users</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-x-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone X i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/successfully-installing-handbrake-on-windows-11-a-step-by-step-guide/"><u>Successfully Installing Handbrake on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-bluestacks-stability-issues-in-under-five-moves/"><u>Troubleshoot BlueStacks Stability Issues in Under Five Moves</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/versatile-biz-decks-free-template-and-resource-options/"><u>Versatile Biz Decks FREE Template and Resource Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-advanced-motion-cameras-12-featuring-accurate-position-tracking-for-2024/"><u>[New] Advanced Motion Cameras 12 Featuring Accurate Position Tracking for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/est-mobile-film-and-picture-capture-tools-for-iphones-and-androids-for-2024/"><u>[New] Best Mobile Film & Picture Capture Tools for iPhones & Androids for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-diving-into-twitter-starting-fresh-for-2024/"><u>[New] Diving Into Twitter Starting Fresh for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>[New] In 2024, Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-video-editors-for-youtube-on-the-houseno-cost-included/"><u>[New] Top Video Editors for YouTube on the House—No Cost Included</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-tecno-spark-20-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Tecno Spark 20</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-infinix-note-30i-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Infinix Note 30i Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-12-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 12 Pattern Lock Screen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-picks-affordable-high-quality-4k-home-theatres/"><u>In 2024, Top Picks Affordable, High Quality 4K Home Theatres</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-ultimate-gear-review-nine-exceptional-podcast-microphones-for-the-pros/"><u>In 2024, Ultimate Gear Review Nine Exceptional Podcast Microphones for the Pros</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-note-30i-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Note 30i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-13t-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi 13T Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-itel-p55t-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Itel P55T</u></a></li>
+<li><a href="https://win-trending.techidaily.com/type-iii-interferons-ifn-lambda-are-a-newer-classification-and-act-similarly-to-type-i-but-in-specific-epithelial-tissues/"><u>Type III Interferons (IFN-Lambda) Are a Newer Classification and Act Similarly to Type I but in Specific Epithelial Tissues.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-note-13-proplus-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi Note 13 Pro+ 5G Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-note-12-4g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi Note 12 4G Users</u></a></li>
 </ul></div>
 
