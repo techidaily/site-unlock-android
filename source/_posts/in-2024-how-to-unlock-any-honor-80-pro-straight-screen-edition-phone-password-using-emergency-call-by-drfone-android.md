@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Any Honor 80 Pro Straight Screen Edition Phone Password Using Emergency Call
-date: 2024-12-22T16:57:59.253Z
-updated: 2024-12-26T16:07:46.245Z
+date: 2024-12-31T03:25:08.425Z
+updated: 2025-01-05T01:31:05.070Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,6 +42,14 @@ But don’t worry – if you’re locked out of a newer phone, you can try sever
 
 ![android emergency screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How To Perform Emergency Call Bypass To Unlock Screen
 
 Unlocking your Android phone without a password using the Emergency Call Bypass method can be tricky, but it’s doable, especially on devices running Android OS 5.0 (Lollipop) and below. Here’s a step-by-step guide on **how to unlock any phone password using the emergency call** feature:
@@ -71,6 +79,14 @@ While the **emergency call bypass for Android** method is interesting, it’s la
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -98,21 +114,17 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![device selection screen](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Click **Remove without Data Loss** to ensure your data stays intact.
 
 ![screen unlock options](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** Confirm device details. Then, enter “000000” to confirm and initiate the unlocking process.
 
 ![confirmation 00000 screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 7:** The software will provide specific instructions to put your device into download mode. Follow them.
 
@@ -121,10 +133,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 - **Step 8:** Once the process is complete, click **Done.** If it doesn’t work the first time, try again.
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Using “Forgot PIN/Passcode” and Google Account
 
@@ -147,7 +155,7 @@ This guide explored **how to bypass the Android lock screen using an emergency c
 Learning to unlock your phone screen ensures you’re never locked out of your device, keeping it within your reach. Consider using Dr. Fone- Screen Unlock for a secure and effective way to bypass phone lock screens. It’s an excellent tool for regaining access to your device without risking your data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How To Easily Unlock Honor Screen?
@@ -167,6 +175,10 @@ Let's get started!
 Like most people, you probably lock your Honor phone as soon as you turn it on. It's a good way to keep your phone safe from prying eyes and accidental button presses. But what happens when you forget your phone's passcode? Or worse, what if your phone gets locked by a malicious app?
 
 There are a few different ways to unlock your Honor phone. We'll show you how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1. Google Find My Device (Without Password/Pin/Pattern)
 
@@ -248,7 +260,7 @@ You could reset your Honor lock screen phone using the default security code, ev
 `o 12345.`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -293,10 +305,6 @@ If you click “Remove without Data Loss,” only some limited Samsung or LG pho
 
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can find the brand compatible with your phone in the following list.
 
 ![supported device brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -329,15 +337,7 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Google Find My Device (For Android7.1.1 or later)
 
@@ -360,7 +360,7 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 8.** Complete the process and sign out of your account on the browser.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Forgot Pattern (For Android 4.4 or earlier)
@@ -380,7 +380,7 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 ![draw unlock pattern](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 6.** Affirm your decision and set another **pattern lock** on your phone.
@@ -457,20 +457,19 @@ This guide provides insight into the most common Android issue. Here, we have di
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-best-way-to-use-obs-live-stream-to-facebook-for-2024/"><u>[New] The Best Way to Use OBS Live Stream to Facebook for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlock-creative-expression-mastering-jump-cut-usage/"><u>2024 Approved Unlock Creative Expression Mastering Jump Cut Usage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fine-tune-your-videos-mood-with-custom-sound-design-for-2024/"><u>Fine-Tune Your Video's Mood with Custom Sound Design for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-galaxy-a14-4g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Galaxy A14 4G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phantom-v-fold-bootloader-easily-by-drfone-android/"><u>How to Unlock Tecno Phantom V Fold Bootloader Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-x50iplus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor X50i+?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-phantom-v-fold-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Phantom V Fold?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-google-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Google Lock Screen Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-magic-5-lite-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor Magic 5 Lite Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-vs-2s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic Vs 2s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/mastering-pc-hardware-repairs-on-windows-expert-advice-by-yl-software-professionals/"><u>Mastering PC Hardware Repairs on Windows: Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-guide-for-reducing-powerpoint-files-with-audios-standard-procedures-and-various-alternates/"><u>Step-by-Step Guide for Reducing PowerPoint Files with Audios: Standard Procedures and Various Alternates</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-eliminating-deadly-bugs-in-black-ops-4/"><u>Step-by-Step Solution: Eliminating Deadly Bugs in Black Ops 4</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-tecno-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Tecno Phone Pattern Lock</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v27e-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27e Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-camera-mended-problems-resolved-with-obs/"><u>[Updated] 2024 Approved Camera Mended, Problems Resolved with OBS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-visual-storytelling-of-pc-playtime-top-6-screenshot-secrets/"><u>[Updated] In 2024, Visual Storytelling of PC Playtime - Top 6 Screenshot Secrets</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-google-pixel-8-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Google Pixel 8 Phone When You Forget the Password</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/correcting-windows-11-screen-reflection-flaw/"><u>Correcting Windows 11 Screen Reflection Flaw</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/essential-first-timer-props-for-gopros/"><u>Essential First-Timer Props for GoPros</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266343980-experience-the-difference-of-a-cookiebot-empowered-website/"><u>Experience the Difference of a Cookiebot Empowered Website</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-ultra-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Ultra Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-radiate-on-screen-quicker-ways-to-brighten-iphone-media/"><u>In 2024, Radiate on Screen Quicker Ways to Brighten iPhone Media</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-s18e-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo S18e Device</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-huawei-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Huawei</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-a2s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi A2s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-13t-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi 13T Pro Device</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-error-0xc0000185-comprehensive-guide-on-its-causes-and-remedies/"><u>Unraveling Error 0xC0000185: Comprehensive Guide on Its Causes & Remedies</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 </ul></div>
 

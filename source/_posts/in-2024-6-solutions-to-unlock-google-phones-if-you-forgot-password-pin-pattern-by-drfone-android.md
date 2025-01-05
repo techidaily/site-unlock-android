@@ -1,7 +1,7 @@
 ---
 title: In 2024, 6 Solutions to Unlock Google Phones If You Forgot Password, PIN, Pattern
-date: 2024-10-13T21:16:38.491Z
-updated: 2024-10-19T23:23:57.379Z
+date: 2025-01-02T19:11:12.073Z
+updated: 2025-01-04T22:09:43.937Z
 tags: 
   - unlock
   - remove screen lock
@@ -30,6 +30,10 @@ Among all the solutions we are going to introduce in this article, this is the e
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Get into the Locked Google Phone within Minutes
@@ -41,13 +45,6 @@ Get into the Locked Google Phone within Minutes
 
 **4,008,669** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to unlock an Google phone with Dr.Fone - Screen Unlock (Android)?
 
 Step 1. Launch Dr.Fone.
@@ -55,13 +52,6 @@ Step 1. Launch Dr.Fone.
 Download Dr.Fone from the download buttons above. Install and launch it on your computer. Then select the "**Screen Unlock**" function.
 
 ![unlock lg phone - launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2. Connect your phone.
 
@@ -91,6 +81,10 @@ After your phone boot in download mode, click on Remove to start to remove the l
 
 For more detailed steps, please go to our guide on [unlocking Android phones with/without data loss](https://drfone.wondershare.com/guide/android-lock-screen-removal.html).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solution 2: Unlock the Google Phone Using Android Device Manager (Need a Google account)
 
 This is probably the most convenient solution to set up a new lock for your Google device. With Android Device Manager, you can locate your device, ring it, erase its data, and even change its lock remotely. All you got to do is log in to the Google Pixel 8 Pro device Manager account using the credentials of your Google Account. Needless to say, your Google phone should be linked to your Google Account. Learn how to unlock the Google phone if forgot your password using Android Device Manager.
@@ -100,10 +94,7 @@ This is probably the most convenient solution to set up a new lock for your Goog
 ![unlock lg forgot password - login android device manager](https://images.wondershare.com/drfone/article/2017/03/14892201986480.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2.** Select your device's icon to get access to various features like ring, lock, erase, and more. Out of all the provided options, click on “**lock**” to change the security lock of your device.
@@ -113,13 +104,6 @@ This is probably the most convenient solution to set up a new lock for your Goog
 - **Step 3.** Now, a new pop-up window will open. Here, provide the new password for your device, confirm it, and click on the “lock” button again to save these changes.
 
 ![unlock lg forgot password - lock with new password](https://images.wondershare.com/drfone/article/2017/03/14892202692339.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 That's it! Your phone will reset its password, and you would be able to move past any problem related to forgetting the password on the Google phone using [Android Device Manager unlock](https://drfone.wondershare.com/unlock/android-device-manager-unlock.html).
 
@@ -188,19 +172,6 @@ After making your device ready and downloading all the essential software on you
 
 ![unlock lg forgot password - command code](https://images.wondershare.com/drfone/article/2017/03/14892205231542.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** If the above code doesn't work, try providing the code “ADB _shell rm /data/system/gesture. the key_” to it and follow the same drill.
 
 ![unlock lg forgot password - code](https://images.wondershare.com/drfone/article/2017/03/14892205424871.jpg)
@@ -228,6 +199,10 @@ Resetting your locked Google Pixel 8 Pro  phone typically involves performing a 
 Google Pixel 8 Pro , like many other Android manufacturers, implements Factory Reset Protection. It acts as a preemptive safeguard against unauthorized access to a device after a reset. If your phone is linked to a Google account, you will need to input the accurate login credentials after a reset.
 
 Failing to do so may lead to your device being locked. Understanding how to bypass or recover from FRP lock is essential if you find yourself in this situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Reset a Google Pixel 8 Pro  Phone That is Locked With Google Find My Device?
 
@@ -305,10 +280,7 @@ Now, you need to press the Volume Down + Power button simultaneously until the G
 ![reset a motorola phone that is locked 2](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Enter Recovery Mode**
@@ -317,18 +289,15 @@ Now, press the Volume Down button to navigate to the Recovery Mode.
 
 ![reset a motorola phone that is locked 3](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Factory Reset**
 
 Use the buttons to navigate to the “Wipe data/factory reset” option and select it by pressing the Power button. Now, choose the option ”Factory data Reset” and wait for a few seconds till it is completed.
 
 ![reset a motorola phone that is locked 4](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5: Reboot Now**
 
@@ -356,6 +325,10 @@ Once you hit the option, you will be redirected to another page, where you need 
 
 Once you get everything right, this will bypass any password or pattern you once had put on your Phone. Just remember, you need to have a stable internet connection in order for the step to work seamlessly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: Are There Preventive Measures To Avoid Future Lockouts?
 
 Want to prevent future lockouts and ensure a smoother smartphone experience? Consider implementing the following preventive measures:
@@ -368,16 +341,13 @@ One way to avoid getting locked out of your Google Pixel 8 Pro  phone is to set 
 
 Regular data backups are crucial to safeguarding your essential files and information. Utilize cloud backup services or local backup solutions to routinely save your data. In case of a lockout or a factory reset, you can quickly restore your data without loss.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Using Secure and Memorable Passwords
 
 When setting up lock methods, opt for strong, unique, and memorable passwords. Avoid using easily guessable information like birthdays or simple patterns. Strong passwords can enhance security while minimizing the chances of forgetting your credentials.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -413,6 +383,10 @@ Step 3: From the bootloader page, select your device using the drop down option 
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578344435.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After selecting the Google Pixel 8 Pro device, click on “Begin Unlock Bootloader”, and then confirm all the dialogue boxes which come your way on screen.
 
 Step 4: Now, you will be presented with four steps to put the Google Pixel 8 Pro device in bootloader mode. Disconnect the Google Pixel 8 Pro  device from the PC and turn the Google Pixel 8 Pro device off completely. Press the volume down button along with the power button to switch the Google Pixel 8 Pro device on in bootloader mode.
@@ -439,6 +413,10 @@ Step 10: On the Google Pixel 8 Pro , one message will appear asking if you want 
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822585759420.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use volume keys to select and power button to confirm. Once this is done, the Google Pixel 8 Pro  device will restart once and it’s done. The device is now bootloader unlocked.
 
 <ins class="adsbygoogle"
@@ -455,24 +433,21 @@ Use volume keys to select and power button to confirm. Once this is done, the Go
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-hashtag-hits-top-10-viral-tiktoks-on-twitter/"><u>[New] 2024 Approved Hashtag Hits Top 10 Viral TikToks on Twitter</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-can-you-view-all-shared-videos-and-photos-on-messenger/"><u>[Updated] How Can You View All Shared Videos And Photos on Messenger?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972734722-behringer-drives-enhance-your-mixing-skills-free-download-available/"><u>Behringer Drives: Enhance Your Mixing Skills - FREE Download Available</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-p55-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel P55</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-google-pixel-7a-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Google Pixel 7a?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gtx-gems-the-best-for-high-res-gaming/"><u>GTX Gems The Best for High-Res Gaming</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-honor-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Honor?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-create-captivating-colleagues-on-instagram-in-minutes-for-2024/"><u>How to Create Captivating Colleagues on Instagram in Minutes for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-itel-p55-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Itel P55 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-camon-20-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Camon 20 Phone?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor 90 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-ultra-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi 14 Ultra Phone without Google Account?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-14-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi 14 Face Lock?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-proven-methods-to-record-your-favorite-streaming-hulu-shows/"><u>In 2024, Proven Methods to Record Your Favorite Streaming Hulu Shows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-social-networks-roadmap-making-the-most-of-daily-use/"><u>In 2024, The Social Network's Roadmap Making the Most of Daily Use</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovo-x1-carbon-driver-installation-for-windows-107-quick-and-simple-download-steps/"><u>Lenovo X1 Carbon Driver Installation for Windows 10/7: Quick & Simple Download Steps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-y100-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo Y100 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-zte-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your ZTE Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-deciphering-the-unheard-advanced-audio-separation-techniques-for-digital-videos-for-2024/"><u>Updated Deciphering the Unheard Advanced Audio Separation Techniques for Digital Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-decoding-facebooks-video-ratio-standards-for-excellence-for-2024/"><u>[Updated] Decoding Facebook's Video Ratio Standards for Excellence for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonymix-pro-mac-and-windows-version/"><u>2024 Approved HarmonyMix Pro Mac & Windows Version</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unifying-platforms-the-art-of-incorporating-linktree-in-tiktok-biographies/"><u>2024 Approved Unifying Platforms The Art of Incorporating Linktree in TikTok Biographies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-zte-nubia-z60-ultra-unlock-without-password-by-drfone-android/"><u>5 Solutions For ZTE Nubia Z60 Ultra Unlock Without Password</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-in-class-chromebook-recording-app/"><u>Best in Class Chromebook Recording App</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/essential-strategies-in-data-deletion-insights-and-writings-from-stellar/"><u>Essential Strategies in Data Deletion: Insights & Writings From Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-phantom-v-fold-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Phantom V Fold</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-tecno-spark-10-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Tecno Spark 10 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V30 Phone without PIN</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-7-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 7 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-zero-5g-2023-turbo-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Zero 5G 2023 Turbo Phone Now with These Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/m1-demystified-apple-redefines-chipset-technology/"><u>M1 Demystified Apple Redefines Chipset Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-drawing-apps-for-android-unleash-your-inner-artist/"><u>Top 10 Drawing Apps for Android Unleash Your Inner Artist</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-cutting-edge-tools-for-podcasters-a-guide-to-the-best-free-and-paid-audio-editing-software-on-the-market/"><u>Updated Cutting-Edge Tools for Podcasters A Guide to the Best Free & Paid Audio Editing Software on the Market</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-video-podcasts-everything-you-need-to-know-for-2024/"><u>Updated Video Podcasts Everything You Need to Know for 2024</u></a></li>
 </ul></div>
 

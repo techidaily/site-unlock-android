@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Honor 90 Lock Screen Clock in Seconds
-date: 2024-12-25T16:57:53.728Z
-updated: 2024-12-26T19:48:28.209Z
+date: 2025-01-03T18:58:59.429Z
+updated: 2025-01-04T16:44:07.206Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,6 +46,10 @@ The exact names of settings may change depending on the manufacturer and version
 
 Currently, there isn’t an official method to **change the lock screen clock on Android** 12. However, there are several workarounds you can do. Let’s explore these techniques and see which works best for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Change Your Wallpaper
 
 In Android 11, adjusting your wallpaper is accessible through the Android Settings menu.
@@ -84,6 +88,10 @@ Originally, there was no provision to **change the lock screen clock in Android 
 
 ![double line clock android settings](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Toggle the **Double-line clock** off.
 
 **_**_Note_**_**
@@ -106,20 +114,12 @@ To avoid adjusting your Android device settings, you can make the lock screen cl
 
 ![unread notifications on android lock screen](https://images.wondershare.com/drfone/article/2024/01/change-lock-screen-clock-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Bonus
 
 For users who prefer not to have a lock screen clock, follow these steps:
 
 - **Step 1**: Open **Settings** > **Lock screen** or **Security & lock screen**.
 - **Step 2**: Look for **Clock and FaceWidgets** or a similar option. Disable or toggle off the **Clock** or **Show clock** setting. Save changes, and your lock screen should no longer display the clock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. An Exception: Change the Lock Screen Clock on Samsung Phones
 
@@ -205,10 +205,6 @@ On the other hand, if you accidentally lock yourself out of your smartphone, Dr.
 
 Google constantly comes up with features to simplify the way users interact and complete tasks on the Android platform. One of the most important features that techies loved to debate about was the Smart Lock Android, a secure password manager functioning in sync with a Google account on the Android phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is Android Smart Lock?
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555162221345.jpg)
@@ -245,6 +241,14 @@ Within Smart Lock, there are three options for setting the system. You can set u
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555176091774.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Turn On Smart Lock For Android with Trusted Devices
 
 You can decide on a trusted device to be paired with Smart Lock Android.
@@ -259,10 +263,6 @@ For example, you can set up a Smart Lock for Bluetooth in your Android Bluetooth
 - • Initially, trusted devices will show None.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555179612746.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Tap on Add Trusted Devices.
 
@@ -282,10 +282,6 @@ Since you have already paired Bluetooth, it will ask you to choose the Honor 90 
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555183103300.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Similarly, other Bluetooth and NFC unlock android supported gadgets can be added under the list of Trusted Devices.
 
 ## Part 3: Turn On Smart Lock For Android With Trusted Locations
@@ -304,6 +300,10 @@ Then Lock Screen and Security.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555199294567.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then Secure Lock Settings.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555200321422.jpg)
@@ -315,6 +315,10 @@ Tap Smart Lock.
 Tap on Trusted Places.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555201755742.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap on Add Trusted Places
 
@@ -332,10 +336,6 @@ Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555204276666.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - • A successful addition is listed and can be edited under the Edit work address.
 - • Close the Google Maps app.
 - • The work address is automatically propagated and configured with Smart Lock settings.
@@ -344,15 +344,15 @@ Tap on Add Trusted Places
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555205535430.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - • However, it is not yet configured as a Smart Lock option. Tap the location once, and it is enabled.
 - • The switch along the address to the right turns blue, indicating it is enabled.
 - • The work address is now listed under Trusted places for Work.
 
 ![smart lock android](https://images.wondershare.com/drfone/others/14555206499484.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - • The phone is now configured for the work address and will unlock whenever you are at the location.
 - • Since it works on Google Maps, the feature works through an Internet connection.
@@ -394,6 +394,10 @@ Smart Lock Android is a great feature and is only going to improve on time. With
 
 <iframe frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/qXw3JNztGVI" id="video-iframe-t"></iframe>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Easily Unlock Honor Screen?
 
 If you've ever had a Honor phone, then you know that their screens are locked by default. It can be a pain if you want to access your messages or change your background image quickly. If you just set your Honor password, screen lock code, pattern lock, or PIN last night or a few days ago, you are most likely to forget it.
@@ -403,10 +407,6 @@ The result is that you have locked out of your phone, and you have to reset your
 So don't wait any longer - read on for instructions on how to unlock the Honor phone pin code.
 
 Let's get started!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4 Easy Ways To Unlock Honor Screen
 
@@ -442,6 +442,10 @@ Follow these steps to unlock the Honor lock screen password without losing data:
 
 You can use it to unlock your Honor if you have activated the Android Device Manager or Google Find My Device before your phone was locked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A few conditions, however, must be met for this to work
 
 - You must turn on your Honor phone.
@@ -449,10 +453,6 @@ You can use it to unlock your Honor if you have activated the Android Device Man
 - You must have your Honor GPS turned on to use it.
 - You must be connected to WiFi on your device to log into your Google account.
 - Your phone needs to be set to location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2. Unlock Honor Lock Screen With Hard Reset
 
@@ -500,7 +500,7 @@ You could reset your Honor lock screen phone using the default security code, ev
 `o 12345.`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -523,18 +523,24 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-step-by-step-username-modification-guide-for-meet-sessions/"><u>[New] 2024 Approved Step-by-Step Username Modification Guide for Meet Sessions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-masterful-use-of-luts-in-obs-studio-for-professional-results/"><u>[New] In 2024, Masterful Use of LUTs in OBS Studio for Professional Results</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-manual-to-earn-through-vimeos-revenue-channels/"><u>[New] In 2024, The Ultimate Manual to Earn Through Vimeo's Revenue Channels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-audio-matters-ensuring-excellent-sound-in-your-youtube-shots/"><u>[Updated] 2024 Approved Audio Matters Ensuring Excellent Sound in Your YouTube Shots</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/10-proven-methods-for-converting-your-dvd-files-into-mp4-format-on-pc-or-mac/"><u>10 Proven Methods for Converting Your DVD Files Into MP4 Format on PC or Mac</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-oneplus-nord-ce-3-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on OnePlus Nord CE 3 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Tecno Phantom V Flip</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 12 mini?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-spark-10c-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Spark 10C Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/masterclass-on-blending-sound-and-sight-for-media-professionals/"><u>Masterclass on Blending Sound & Sight for Media Professionals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-how-to-transfer-steam-gift-codes-securely/"><u>Step-by-Step Instructions: How to Transfer Steam Gift Codes Securely</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-phantom-v-fold-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Phantom V Fold</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-creative-command-center-studio-for-youtubers/"><u>[New] In 2024, Creative Command Center Studio for YouTubers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-free-online-short-video-downloading/"><u>2024 Approved The Ultimate Guide to Free, Online Short Video Downloading</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-the-ultimate-guide-to-picture-perfect-framing-24/"><u>2024 Approved The Ultimate Guide to Picture-Perfect Framing '24</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-vivo-y36i-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y36i Unlock Without Password</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ace-your-gaming-experience-with-new-logitech-g203-controllers-download-the-best-compatible-drivers-for-windows-now/"><u>Ace Your Gaming Experience with New Logitech G203 Controllers - Download the Best Compatible Drivers for Windows Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-light-filmographys-five-essential-camera-techniques-of-24/"><u>Capture the Light Filmography's Five Essential Camera Techniques of '24</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-instructions-on-how-to-erase-your-yahoo-mail-account-for-good/"><u>Comprehensive Instructions on How to Erase Your Yahoo Mail Account for Good</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-google-pixel-fold-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Google Pixel Fold? Try These Fixes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-asus-deskmouse-software-installed-on-a-windows-pc/"><u>Get Your ASUS DeskMouse Software Installed on a Windows PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-smart-8-pro-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Smart 8 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-100-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor 100 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-zte-axon-40-lite-by-drfone-android/"><u>How To Fix OEM Unlock Missing on ZTE Axon 40 Lite?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-no-entry-price-voice-transformation-for-valorant-gamers/"><u>In 2024, Best No-Entry Price Voice Transformation for Valorant Gamers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-infinix-hot-40-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Infinix Hot 40 Pattern Lock Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y200e-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y200e 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-zte-axon-40-lite-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/mastering-bare-metal-recovery-with-wbadmin-across-incompatible-pc-components/"><u>Mastering Bare Metal Recovery with WBAdmin Across Incompatible PC Components</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/preventing-unwanted-filming-in-quicktime/"><u>Preventing Unwanted Filming in QuickTime</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-v30-pro-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo V30 Pro Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

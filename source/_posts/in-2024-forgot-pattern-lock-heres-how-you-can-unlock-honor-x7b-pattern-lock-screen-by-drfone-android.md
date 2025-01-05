@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor X7b Pattern Lock Screen
-date: 2024-11-03T09:40:17.579Z
-updated: 2024-11-06T01:05:30.012Z
+date: 2024-12-31T20:59:52.441Z
+updated: 2025-01-04T21:26:44.032Z
 tags: 
   - unlock
   - remove screen lock
@@ -73,9 +73,17 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![forgot pattern android - start to remove](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Select the correct phone brand. It is important to ensure phone brand correctness to prevent bricking.
 
 ![forgot pattern lock - select model details](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Then, enter "confirm" in the box to tell the tool that you agree to proceed.
 
@@ -119,16 +127,13 @@ All of this can be done by following these steps:
 
 ![enter new password](https://images.wondershare.com/drfone/article/2017/09/15059290882506.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 8.** Save your changes and sign out of your account from Android Device Manager.
 
 This will automatically reset the old pattern on your device to the new password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to bypass forgot Samsung pattern lock using Samsung Find My Mobile
 
@@ -140,23 +145,9 @@ However, it relies on having previously set up Samsung Find My Mobile and linked
 
 ![login into samsung find my](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** After successfully logging in, locate the locked Samsung device. Now, click on the "Unlock" feature. Upon choosing this option, a pop-up window will appear. It will prompt you to input your Samsung account password. Once you've entered your password, proceed to unlock the Honor X7b device by pressing "Next."
 
 ![use the unlock feature](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How to bypass forgot pattern lock using Safe Mode
 
@@ -169,10 +160,7 @@ If you have locked your device using a third-party app, there exists a simple so
 ![enable the safe mode](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 6: How to bypass forgot pattern lock using Factory Reset
@@ -188,13 +176,6 @@ Bypassing a forgotten pattern lock on an Android device using a factory reset is
 ## Wrap it up
 
 If you have also forgotten the pattern lock on your device, then you can simply remove or reset it by following these solutions. In this way, you won’t even lose your important data files or cause any harm to your device. Without facing any unwanted setbacks, you would be able to [bypass forgot pattern Android using Dr. Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It provides a fast, reliable, and secure solution to remove the lock screen security of an Android device in an effortless way.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Top 10 Password Cracking Tools For Honor X7b
 
@@ -320,6 +301,10 @@ Password cracking using rainbow table is faster than the normal brute force atta
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Rainbow Crack**
 
 - Support verity of Rainbow tables
@@ -329,19 +314,6 @@ Password cracking using rainbow table is faster than the normal brute force atta
 Site for Download:
 
 [http://project-rainbowcrack.com/](http://project-rainbowcrack.com/)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. OphCrack : Tool for Windows password cracking
 
@@ -404,6 +376,10 @@ It normally gains access to these hashes from directories, network servers, or d
 
 [www.l0phtcrack.com/](http://www.l0phtcrack.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Pwdump : Password recovery tool for Windows
 
 Pwdump is actually different Windows programs that are used to provide [LM and NTML](http://en.wikipedia.org/wiki/LM_hash) hashes of system user accounts.
@@ -437,6 +413,10 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 ![medusa](https://images.wondershare.com/images/utilities/medusa_1037.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Medusa**
 
 - Available for Windows, SunOS, BSD, and Mac OS X
@@ -448,6 +428,10 @@ Medusa is pthread-based tool, this feature prevent unnecessarily duplicate of in
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips and Tricks for Setting Up your Honor X7b Phone Pattern Lock
 
 Failing to remember the **pattern lock** of a phone is one of the most puzzling situations for Android users. Unlike the famous OS, Android gives a seamless method to eliminate the issue.
@@ -455,13 +439,6 @@ Failing to remember the **pattern lock** of a phone is one of the most puzzling 
 You can attempt the methods below or an expert tool if you have forgotten the **pattern lock** on your gadget and reset it. However, we suggest you try Dr.Fone - Screen Unlock for a quick and safe solution. To make things more straightforward, we have given you other techniques as a workaround to the issue.
 
 So, keep following us to unlock the **lock screen pattern** and use your phone again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What Is Android Pattern?
 
@@ -526,10 +503,7 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Google Find My Device (For Android7.1.1 or later)
@@ -567,6 +541,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 5.** After giving the correct details, you can provide another pattern lock to the phone.
 
 ![draw unlock pattern](https://images.wondershare.com/drfone/article/2022/10/tips-for-pattern-lock-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6.** Affirm your decision and set another **pattern lock** on your phone.
 
@@ -642,22 +620,20 @@ This guide provides insight into the most common Android issue. Here, we have di
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhance-your-footage-reducing-size-for-instagram-on-a-mac/"><u>[New] 2024 Approved Enhance Your Footage Reducing Size for Instagram on a Mac</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-achieve-striking-visuals-your-guide-to-uploading-at-correct-dimensions/"><u>[New] Achieve Striking Visuals Your Guide to Uploading at Correct Dimensions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>[New] In 2024, The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-unlocking-full-image-potential-incorporating-luts-in-adobe-photoshop-cs6/"><u>[New] In 2024, Unlocking Full Image Potential Incorporating LUTs in Adobe Photoshop CS6</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/best-practices-for-youtube-thumbnail-dimensions/"><u>Best Practices for YouTube Thumbnail Dimensions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/capture-your-rides-top-7-camcorders-for-skiingsnowboarding-for-2024/"><u>Capture Your Rides Top 7 Camcorders for Skiing/Snowboarding for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-desktop-to-handhran-gaming-with-steam-link-and-phones/"><u>From Desktop to Handhran: Gaming with Steam Link and Phones</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Spark 10 4G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic-6-lite-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic 6 Lite</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-magic-5-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor Magic 5 Pro?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-magic-5-lite-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor Magic 5 Lite Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-google-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Google</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-partner-vids-for-rapid-channelnode-growth/"><u>In 2024, Partner Vids for Rapid Channelnode Growth</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-tecno-camon-20-premier-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Tecno Camon 20 Premier 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/insight-into-googles-mobile-game-service-for-windows/"><u>Insight Into Google's Mobile Game Service for Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-honor-x9a-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor X9a Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-go-2024-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark Go (2024) Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-selecting-the-perfect-day-for-podcast-drops-for-2024/"><u>[New] Selecting the Perfect Day for Podcast Drops for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-easily-download-specific-youtube-sections/"><u>2024 Approved Easily Download Specific YouTube Sections</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-p55plus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel P55+</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-editing-software-for-dummies-top-picks-for-easy-edits/"><u>Free Video Editing Software for Dummies Top Picks for Easy Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-x8b-by-drfone-android/"><u>Full Guide to Unlock Your Honor X8b</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-pova-6-pro-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Pova 6 Pro 5G Face Lock?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-redmi-12-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Redmi 12 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-y100-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y100 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-channeling-wealth-through-beauty-online-platforms/"><u>In 2024, Channeling Wealth Through Beauty Online Platforms</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-finding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth/"><u>In 2024, Finding the Sweet Spot Optimal YouTube Video Upload Rates for Growth</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-p40-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel P40 Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-hot-30-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Hot 30 5G Device</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-redmi-12-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Redmi 12 5G Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 
