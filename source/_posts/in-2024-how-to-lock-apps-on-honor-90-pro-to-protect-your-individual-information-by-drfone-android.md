@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Lock Apps on Honor 90 Pro to Protect Your Individual Information
-date: 2024-12-29T17:51:54.258Z
-updated: 2025-01-04T19:45:09.216Z
+date: 2025-01-05T16:33:42.306Z
+updated: 2025-01-11T22:46:07.635Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,10 +34,6 @@ Before we get down to the business of locking some of your Apps, let’s look at
 - If you have children, you can eliminate the many accidental in-app purchases by locking the apps your children shouldn’t be on.
 - Locking apps is also a good way to keep children from content they shouldn’t be accessing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. How to Lock Apps in Android
 
 There is always a good reason to Lock Apps on your device and we have two easy and effective methods you can use to do this. Choose the one that you are most comfortable with.
@@ -55,6 +51,10 @@ Step 2: The default password 7777 but you can change this in the Password & Patt
 Step 3: The next step is to add apps to the Smart App Protector. Open the Running Tab on Smart Protector and tap on the “Add” button.
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Next, select the apps you would like to protect from the pop up list. Tap on the “Add” button once you have chosen your Apps.
 
@@ -78,15 +78,15 @@ Step 3: You will see a list of Apps to choose from.  Choose the Apps you wish t
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can then Swipe to the left to move to other lists such as “Home” and proceed to lock apps in this group as well.
 
 ## Part 3. 6 Private Apps that you should lock on your Android
 
 There are certain apps that may require to be locked more than others. Of course the choice of which apps you should lock will depend on your own uses and preferences. The following are some of the apps you would like to lock for one reason or another.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. The Messaging App
 
@@ -101,7 +101,7 @@ Most people use individual email applications such as Yahoo Mail App or Gmail. T
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-09.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Google Play Services
@@ -123,7 +123,11 @@ This is the Application that you use to play the music on your device. You may w
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. File Manager App
@@ -132,17 +136,21 @@ This is the App that displays all of the files that are saved on your device. It
 
 ![lock app on android](https://images.wondershare.com/drfone/others/android-lock-apps-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Having the ability to lock your Apps is an easy way to keep information out of the limelight. It also allows you to take full control of your device. Try it, it might just be freeing as opposed to locking your entire device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove a Previously Synced Google Account from Your Honor 90 Pro
 
 The setting up process of a new Android phone requires you to add a Google account that saves all activities and data of the phone like search history, details of online shipping, play store purchases, and more. Once the account is set, it cannot be changed till you delete everything from your phone. Moreover, with the introduction of FRP lock, even a factory reset will not remove the synced Google account.
 
 ![how-to-remove-previously-synced-google-account](https://images.wondershare.com/drfone/article/2022/06/main-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 So, now what if you want to sell your phone or have purchased a second-hand device that is still associated with the previous owner's Google account? No, worries as there are workarounds available that will help you remove your previously synced google account from your Android device.
 
@@ -155,10 +163,6 @@ Keep reading to know more in detail about **how to bypass previously synced goog
 ## Part 1: Remove Previously Synced Google Account from Android Phone Without Phone Reset
 
 In this part, we will discuss the methods that can be used for removing the previously synced account from your Android phone without a phone reset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Removing Google Account using the Android Settings Menu
 
@@ -188,6 +192,10 @@ There is another method using which you can remotely remove the Google account a
 
 ![remove-google-account-other-devices](https://images.wondershare.com/drfone/article/2022/06/other-device-account-removal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Disable Factory Reset Protection to Bypass Google Account Verification After Factory Reset
 
 The Factory Reset Protection (FRP) is a security feature for the Android device that allows factory reset only after the associated Google ID and password are entered correctly. With multiple accounts and passwords to remember there is quite a possibility that you may forget your Android phone Google account details and here the need to bypass Google account verification arises.
@@ -212,6 +220,10 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 **Step 1:** Download, install and run the software on your system, and from the main interface choose the Screen Unlock option. Make sure that your phone is connected to WiFi.
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Next, choose Unlock Android Screen/FRP and then select the Remove Google FRP Lock option.
 
@@ -268,10 +280,6 @@ With the steps above, you can remove the account **previously synced on this dev
 
 Above we have listed several ways to **remove a previously synced Google account** on your Android device. The best of all the listed solutions is Dr. Fone - Screen Unlock (Android) as it supports bypassing FRP lock on multiple Android devices in a hassle-free manner. Once the license is purchased, you can unlock as many numbers of devices as you want without any worries.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lock Your Honor 90 Pro Phone in Style: The Top 5 Gesture Lock Screen Apps
 
 Ever wondered, if there was an easier and more interesting way to unlock and open your devices and apps without boring PINs/Passwords that you tend to forget? Worry not, gestures are here! Imagine the joy when you can unlock your phone by just waving your hand over it, or instead of getting access through confusing patterns or lengthy PINs, you can just get in by drawing an alphabet! So let’s go through some gesture lock screen apps for Android phones.
@@ -292,10 +300,6 @@ Gestures have become an iconic piece of the entire mobile operating system and e
 These gestures gave Android developers an idea of creating apps, to make use of new gestures for not only in-phone functionality but also for the most basic smartphone function of locking and unlocking.
 
 Why do we need these gesture apps? –Would you not want to control your phone’s notification bar by just waving your hand over the screen, when it’s not reachable? These apps are not only fun but also useful and efficient. So, now let us discuss 5 Android gesture lock screen apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1) Gesture Lock Screen
 
@@ -325,19 +329,11 @@ The app was released early 2017, but Magic Unlock has already received 50,000-10
 
 Download the app from here - <https://play.google.com/store/apps/details?id=com.binarybuilding.magicunlock&hl=en>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3) Gesture Magic
 
 Another app that uses gesture to lock/unlock the screen is the Gesture Magic app, developed by Apps2all. Compatible with most Android devices, this app is very easy for you to use.
 
 ![guesture magic](https://images.wondershare.com/drfone/article/2017/10/15074554938841.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The app already suggests you with predetermined gestures to unlock the screen and open the specific apps. How convenient!
 
@@ -373,6 +369,10 @@ Developed by Imaxinacion, Gestos-Gestures is an amazing gesture screen-lock app,
 
 ![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556205078.jpg)![Gestos](https://images.wondershare.com/drfone/article/2017/10/15074556219960.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Gestos allows you to – call contacts, enable or disable settings like Wi-Fi, Bluetooth, GPS, etc, run various system options, lock or unlock your device, and access websites as well.
 
 Talking about configuration, Gestos is a well-designed app that can be activated by just a double-touch on your home screen. Its sensitivity can be adjusted according to what you prefer, a permanent notification toggle floating button is available as well!
@@ -397,21 +397,21 @@ As Android reaches new heights every year, gestures are getting more and more en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-android-guide-inverting-video-playback/"><u>[New] 2024 Approved Android Guide Inverting Video Playback</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-celebrating-matrimony-the-best-wedding-movies-from-youtube-to-vimeo-for-2024/"><u>[Updated] Celebrating Matrimony The Best Wedding Movies From YouTube to Vimeo for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/movavi-aacmov/"><u>「Movaviで簡単! オンライン無料AAC形式へのMOVファイル変換」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-next-gen-vector-software-for-designers/"><u>2024 Approved Exploring Next-Gen Vector Software for Designers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-list-action-cameras-ideal-mics/"><u>2024 Approved Ultimate List Action Camera's Ideal Mics</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-pova-5-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Pova 5 Pro? Try These Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-itel-a60s-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Itel A60s</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-14-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi 14 Pro Through Google Earth?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-x7b-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor X7b Phone without Any Data Loss</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-12-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 12 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/installing-print-driver-software-on-windows-a-detailed-tutorial-by-yl-computing-pros/"><u>Installing Print Driver Software on Windows: A Detailed Tutorial by YL Computing Pros</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-networking-essentials-managing-arp-cache/"><u>Windows Networking Essentials: Managing ARP Cache</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-joining-the-world-of-live-broadcasts-a-roku-primer/"><u>[New] In 2024, Joining the World of Live Broadcasts A Roku Primer</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-conversations-and-sharing-in-facebook-world-for-2024/"><u>[New] Mastering Conversations and Sharing in Facebook World for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-diving-into-the-world-of-youtube-search-engine-rankings/"><u>[Updated] Diving Into the World of YouTube Search Engine Rankings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-mixed-realitys-impact-on-interaction/"><u>2024 Approved Understanding Mixed Reality's Impact on Interaction</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-magic-v2-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor Magic V2 Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-smart-7-hd-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Smart 7 HD Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/acer-nitro-5-gaming-laptop-sale-secure-savings-of-up-to-250-now/"><u>Acer Nitro 5 Gaming Laptop Sale - Secure Savings of Up To $250 Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digestible-dishes-chatgpts-recipe-advisor/"><u>Digestible Dishes: ChatGPT's Recipe Advisor</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-cinematic-cadence-top-cameras-for-elegant-slow-movement/"><u>In 2024, Cinematic Cadence Top Cameras for Elegant Slow Movement</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Zero 5G 2023 Turbo?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-hot-30-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix Hot 30 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18e-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18e Phone without Google Account?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y200e-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y200e 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-photographers-pathway-transitioning-from-camera-to-computer-screen-for-2024/"><u>The Photographer's Pathway Transitioning From Camera to Computer Screen for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tips-for-posting-and-sharing-links-to-chatgpt-dialogues/"><u>Tips for Posting and Sharing Links to ChatGPT Dialogues</u></a></li>
 </ul></div>
 
