@@ -1,7 +1,7 @@
 ---
 title: In 2024, 6 Proven Ways to Unlock Honor 90 Pro Phone When You Forget the Password
-date: 2025-01-07T16:44:28.379Z
-updated: 2025-01-11T16:31:48.838Z
+date: 2025-01-12T11:54:04.226Z
+updated: 2025-01-17T09:13:59.861Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,6 +28,10 @@ You can watch the video above about how to unlock your Android Phone!
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 1. Try Face or Fingerprint to Unlock Honor 90 Pro Phone
 
 How to unlock your phone when you forget the password? If you've forgotten your Android phone's password, the best way to unlock it is to use your device's built-in biometric authentication features, such as face unlock or fingerprint unlock.
@@ -48,10 +52,6 @@ However, you must use the face or fingerprint unlock correctly on your Android p
 - **Step 8:** Make sure that your device is not rooted or running any custom ROMs.
 
 If you are still unable to unlock your device, you may need to follow the solutions below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Way 2. Unlocking Forgotten Password on Android Phones Using Dr.Fone Screen Unlock
 
@@ -84,10 +84,6 @@ Once you have opened the program, select the "Screen Unlock" option directly. Ne
 
 ![remove screen lock without data loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2. Select Your Device Brand**
 
 After this step, you will be guided to another screen where you need to choose the brand of your device.
@@ -105,6 +101,10 @@ You will need to put your device into Download Mode for unlocking. Depending on 
 The screen displays the progress of unlocking, downloading drivers and configuration files. Once the entire process is complete, you will be able to access yours **forgot password Android** device without having to enter any passwords.
 
 ![remove android unlock](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3. Use Google Find My Device to Remotely Unlock Your Android Phone
 
@@ -136,11 +136,11 @@ This feature is available on Android 4.0 and older versions. So if you are using
 
 ![add password](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-3.jpg)
 
-- **Step 4.** Bravo! You can now reset your password.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+- **Step 4.** Bravo! You can now reset your password.
 
 ## Way 5. Factory Reset Your Android and Remove Password
 
@@ -183,6 +183,10 @@ No, there is no universal code for unlocking Android phones. They are different 
 - **Step 5:** Enter your current password, then tap Continue.
 - **Step 6:** Enter your new password twice, then tap OK.
 - **Step 7:** Your new password will now be in effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Don’t you have face or fingerprint unlock? Let’s set them up.
 
@@ -269,10 +273,6 @@ It’s primarily used to crack weak UNIX passwords but also available for Linux,
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of John the Ripper**
 
 - Supportive with Brute force password cracking and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack)
@@ -283,6 +283,10 @@ It’s primarily used to crack weak UNIX passwords but also available for Linux,
 **Site for Download:**
 
 [http://www.openwall.com](http://www.openwall.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Aircrack : Fast and effective WEP/WPA cracking tool
 
@@ -360,6 +364,10 @@ Ophcrack is completely free to download, Windows based password cracker that use
 
 [http://ophcrack.sourceforge.net/](http://ophcrack.sourceforge.net/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Brutus : A brute force attack cracker for remote systems
 
 Brutus is the fastest, most flexible, and most popular software used to crack remote system passwords. It guess password through applying different permutations or by using a dictionary.
@@ -402,10 +410,6 @@ It normally gains access to these hashes from directories, network servers, or d
 
 [www.l0phtcrack.com/](http://www.l0phtcrack.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Pwdump : Password recovery tool for Windows
 
 Pwdump is actually different Windows programs that are used to provide [LM and NTML](http://en.wikipedia.org/wiki/LM_hash) hashes of system user accounts.
@@ -428,10 +432,6 @@ Recently software is updated to new version called Fgdump as Pwdump not work fin
 **Site for Download:**
 
 [http://www.darknet.org.uk/](http://www.darknet.org.uk/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Medusa : Speedy network password cracking tool
 
@@ -487,6 +487,10 @@ Remove Pattern Locks on Android Screen at Ease
 
 ![connect android phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Select your device brand to unlock and access reboot instructions, then follow them to complete the process.
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -511,7 +515,7 @@ Besides Dr.Fone, there are also a few more options to learn how to unlock patter
 ![set new lock screen](https://images.wondershare.com/drfone/article/2017/09/15057371966761.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 6.** Apply these changes and exit the window to change the lock on your device.
@@ -526,7 +530,7 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 ![forgot pattern](https://images.wondershare.com/drfone/article/2017/09/15057372111138.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3.** Select the option to unlock your device with your Google credentials.
@@ -555,10 +559,6 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 - **Step 4.** Now, all you need to do is click on the “Unlock” button to perform pattern unlock on your device.
 - **Step 5.** After unlocking your Samsung device, you will be informed of an on-screen message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: How to Unlock Android Pattern Lock in Safe Mode?
 
 This is a simple and effective solution to knowing how to unlock patterns on an Android device. Nevertheless, this solution will only work for third-party lock screen apps. If you are using your phone’s native lock feature, then it might not work. After restarting your phone in Safe Mode, you can easily move past its pattern lock without any trouble. All you need to do is follow these steps:
@@ -585,6 +585,10 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15057373935558.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** Select the wipe data/factory reset option to perform pattern unlock.
 - **Step 5.** Confirm your choice to factory reset your device.
 
@@ -598,10 +602,6 @@ Consider this as your last resort, as it will wipe the data and saved settings o
 By following this guide, you would certainly be able to learn how to unlock the pattern lock on your device without much trouble. We recommend using [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) to perform pattern unlock with no data loss. It has a user-friendly interface and is sure to yield the desired results. Now when you know how to unlock patterns on an Android device, you can share this information with others as well to help them!
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -617,24 +617,20 @@ By following this guide, you would certainly be able to learn how to unlock the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-maximizing-inner-illumination-with-natures-glow-for-2024/"><u>[New] Maximizing Inner Illumination with Nature's Glow for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-metaverse-expedition-leading-vr-accessories-reviewed/"><u>[New] Metaverse Expedition Leading VR Accessories Reviewed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-eye-candy-extravaganza-highest-watched-videos-in-a-day/"><u>[Updated] 2024 Approved Eye Candy Extravaganza Highest Watched Videos in a Day</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-8-stream-modifiers-for-flawless-webcam-videos-for-2024/"><u>Best 8 Stream Modifiers for Flawless Webcam Videos for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-s23-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel S23</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-xiaomi-redmi-k70e-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Xiaomi Redmi K70E</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-tecno-spark-10c-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Tecno Spark 10C</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi 13T Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-14-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi 14 Pro Phone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-drone-titans-for-industrial-lifting-challenges/"><u>In 2024, Drone Titans for Industrial Lifting Challenges</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-zte-blade-a73-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of ZTE Blade A73 5G Through Google Earth?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a60s-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel A60s Phone with Broken Screen</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722968355715-instant-access-to-validity-fingerprint-drivers-download-and-protect-your-gadgets-today/"><u>Instant Access to Validity Fingerprint Drivers - Download & Protect Your Gadgets Today!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mosaic-masterpieces-elevating-your-living-space-for-2024/"><u>Mosaic Masterpieces Elevating Your Living Space for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-infinix-note-30i-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Infinix Note 30i Phone Pattern Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-infinix-smart-7-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Smart 7 Device</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-screens-to-spreads-the-dos-and-donts-of-live-blogging-for-2024/"><u>[New] From Screens to Spreads The Do's and Don'ts of Live Blogging for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-peak-craft-space-25-appraisal/"><u>[Updated] Peak Craft Space 25 Appraisal</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-persistent-screen-recording-device/"><u>2024 Approved Persistent Screen Recording Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-new-era-of-creativity-pinpointing-the-best-10-budget-friendly-video-art-communities-on-youtube/"><u>A New Era of Creativity Pinpointing the Best 10 Budget-Friendly Video Art Communities on YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-k70-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi K70?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/does-chatgpt-have-weaknesses-to-exploit/"><u>Does ChatGPT Have Weaknesses to Exploit?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-your-oratory-skills-free-tools-for-sound-modification/"><u>Elevate Your Oratory Skills - Free Tools for Sound Modification</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-laptop-speaker-issues-solutions-to-restore-audio/"><u>Fixing Laptop Speaker Issues: Solutions to Restore Audio</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-phone-without-google-account-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP Phone without Google Account?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-become-a-pro-at-tweeting-live-video-responses/"><u>In 2024, Become a Pro at Tweeting Live Video Responses</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-infinix-hot-40i-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Infinix Hot 40i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-infinix-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Infinix</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-s23-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Itel S23 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-say-goodbye-to-blemishes-fcpx-skin-smoothing-without-plugins/"><u>Updated In 2024, Say Goodbye to Blemishes FCPX Skin Smoothing Without Plugins</u></a></li>
 </ul></div>
 

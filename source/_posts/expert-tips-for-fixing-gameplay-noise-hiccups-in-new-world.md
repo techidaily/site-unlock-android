@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing Gameplay Noise Hiccups in 'New World'
-date: 2025-01-05T19:50:45.866Z
-updated: 2025-01-11T18:06:06.894Z
+date: 2025-01-13T00:44:01.497Z
+updated: 2025-01-16T19:43:03.026Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -44,16 +48,8 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
@@ -61,6 +57,10 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -77,16 +77,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -100,7 +104,7 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
@@ -108,10 +112,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -137,16 +137,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-strategizing-your-approach-highlight-and-story-downloads/"><u>[New] 2024 Approved Strategizing Your Approach Highlight & Story Downloads</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-direct-video-tweet-release-avoid-the-rt/"><u>[Updated] 2024 Approved Direct Video Tweet Release Avoid the 'RT'</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-screenshot-to-masterpiece-explore-these-top-8-multimedia-apps/"><u>[Updated] From Screenshot to Masterpiece Explore These Top 8 Multimedia Apps</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-unpacking-the-secrets-of-du-recorder/"><u>[Updated] In 2024, Ultimate Guide Unpacking the Secrets of Du Recorder</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-note-30i-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Note 30i</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-zte-blade-a73-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change ZTE Blade A73 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-infinix-hot-30i-easily-by-drfone-android/"><u>How To Unlock a Infinix Hot 30i Easily?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-13-ultra-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi 13 Ultra Face Lock?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://article-posts.techidaily.com/perfecting-the-pause-how-to-craft-exceptional-slow-motion-videos-for-2024/"><u>Perfecting the Pause How to Craft Exceptional Slow Motion Videos for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-why-does-tormented-souls-keep-freezing-or-closing-on-windowsmac/"><u>Resolved: Why Does Tormented Souls Keep Freezing or Closing on Windows/Mac?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-fiscal-picture-for-content-makers-on-youtube-shorts-platform/"><u>[New] 2024 Approved The Fiscal Picture for Content Makers on YouTube Shorts Platform</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-motion-control-top-camera-gadgets/"><u>[New] In 2024, Mastering Motion Control - Top Camera Gadgets</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-seamless-srt-to-sub-a-comprehensive-guide-for-2024/"><u>[New] Seamless SRT to SUB A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-boosting-your-youtube-with-partner-videos/"><u>[Updated] 2024 Approved Boosting Your YouTube with Partner Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mint-magic-in-depth-analysis-and-instructions-for-ice-cream-cam/"><u>[Updated] 2024 Approved Mint Magic In-Depth Analysis & Instructions for Ice Cream Cam</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-adding-realism-to-portraits-applying-motion-blur-in-picsart/"><u>[Updated] In 2024, Adding Realism to Portraits Applying Motion Blur in Picsart</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-paramounts-best-vr-movies-to-watch-now/"><u>2024 Approved Paramount's Best VR Movies to Watch Now</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-camon-20-pro-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Camon 20 Pro 5G Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-note-30-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Note 30 Pro Unlock Without Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-infinix-hot-30i-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Infinix Hot 30i Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-hot-40-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Hot 40 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/top-techniques-to-add-watermarks-to-your-iphone-photographs/"><u>Top Techniques to Add Watermarks to Your iPhone Photographs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/windows-11-tutorial-how-to-save-online-radio-and-video-broadcasts-onto-your-pc/"><u>Windows 11 Tutorial: How to Save Online Radio and Video Broadcasts Onto Your PC</u></a></li>
 </ul></div>
 

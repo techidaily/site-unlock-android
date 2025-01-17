@@ -1,7 +1,7 @@
 ---
 title: How to Show Wi-Fi Password on Tecno Spark 10 4G
-date: 2024-08-17T03:55:30.006Z
-updated: 2024-08-18T03:55:30.006Z
+date: 2025-01-15T01:05:34.370Z
+updated: 2025-01-17T07:59:12.674Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,6 +31,14 @@ To find the Wi-Fi passwords on your Android phone, you need to have an app to ex
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556285763404.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps of getting Wi-Fi password on Android with root
 
 In only four steps, we, at this moment, learn how we can find the password of a Wi-Fi on an Android phone.
@@ -51,6 +59,10 @@ This will drop down a list of controls. Scroll down and find the **Root Explorer
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293052566.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Get the passwords' file.
 
 Go back to ES file explorer, and this time, find the folder named **data**.
@@ -59,10 +71,11 @@ Go back to ES file explorer, and this time, find the folder named **data**.
 
 When this folder opens, find another one named **misc**. Open it and find another one named **wifi**. Here, find a file named **wpa\_supplicant.conf**.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293762552.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Retrieve the wifi password on Android
 
@@ -76,9 +89,6 @@ As you can see above, we have found the Wi-Fi passwords on the android device. O
 
 What if I don't have root access to my Android, can I still see Android Wi-Fi password? The short answer is yes. However, this is a bit involving but simple. You don't need to be a computer guru to do it, but you need to have a computer and some internet access of course. The key thing is to find a way through which we can fetch the password file from the phone without using a root access protocol in the Android. This is made possible by some little programming insight using the Windows Command prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Steps to show Wi-Fi password on Android without root
 
 Step 1: Access the Developer authority
@@ -103,9 +113,6 @@ Step 3: Install ADB drivers.
 
 Now, open your Windows desktop. Download and install ADB drivers. (Use this download link [adbdriver.com](http://adbdriver.com/)). You need to download and install platform tools (minimal ADB and fastboot) from [http://forum.xda-developers.com/...](http://forum.xda-developers.com/showthread.php?t=2317790) Now open the folder where you've installed the above tools. By default, it is in the Local disc _C\\windows\\system32\\platform\_tools_ location. However, you might want to locate them by searching on the windows search engine. You have to hold the Shift key and right-click inside the folder to click on"Open Command Window Here."
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329561742.jpg)
 
 Step 4: Test the ADB
@@ -113,6 +120,10 @@ Step 4: Test the ADB
 Here, we would like to test whether the ABD is working properly. To do this, connect your phone to the PC using a USB. In the command prompt, type **adb services** and then press enter. If it's working properly, you should see a device on this list.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329984622.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Find the Android wifi password.
 
@@ -136,50 +147,26 @@ That’s where emergency call bypass is a nifty little trick that can be a lifes
 
 ![android emergency call screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-01.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What Is the Emergency Call Bypass Method?
 
 The **Android emergency call bypass** method is a lesser-known workaround for those unfortunate moments when you’re locked out of your phone. This method exploits a loophole in the phone’s lock screen, allowing you to access your device even when you’ve [<u>forgotten your password, PIN, or pattern</u>](https://drfone.wondershare.com/unlock/9-ways-to-bypass-samsung-lock-screen-pattern-pin-password-fingerprint.html). It’s like finding a secret backdoor when the front door is bolted shut.
 
 **“How can unlocking Vivo, Oppo, and Samsung phones using emergency calls** be effective?” You may ask. Imagine you need to access important information on your phone but can’t remember your lock screen code. Instead of panicking or rushing to a technician, the emergency call bypass can be a quick and handy solution. It’s particularly useful when immediate access to your phone is crucial and you don’t have time to [<u>reset your password </u>](https://drfone.wondershare.com/reset-android/how-to-reset-privacy-password-in-oppo.html) through official channels.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Limitations of the Emergency Call Bypass Method
 
 However, it’s important to note that this method has its limitations. It primarily works on older Android devices, specifically those running Android 5.0 (Lollipop) and below. As smartphone technology has evolved, manufacturers have patched many loopholes to enhance security. So, this method might not work for you if you have a more recent Android version.
 
 But don’t worry – if you’re locked out of a newer phone, you can try several other methods, which you will explore later in this article. Remember, the **emergency call bypass** can be a lifesaver in specific scenarios. However, it’s always best to use such methods responsibly and ethically. And, of course, you should always note your passwords.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![android emergency screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-02.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How To Perform Emergency Call Bypass To Unlock Screen
 
 Unlocking your Android phone without a password using the Emergency Call Bypass method can be tricky, but it’s doable, especially on devices running Android OS 5.0 (Lollipop) and below. Here’s a step-by-step guide on **how to unlock any phone password using the emergency call** feature:
 
 - **Step 1:** Start by tapping the **Emergency Call** button on your lock screen. This will bring up the emergency dialer screen.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![android tap to add emergency contacts](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-03.jpg)
 
 - **Step 2:** Type a series of special symbols on the dialer screen, such as asterisks (\*). Do this several times in a row.
@@ -189,16 +176,14 @@ Unlocking your Android phone without a password using the Emergency Call Bypass 
 - **Step 6:** When prompted for a password, long-press and paste the copied string into the password field. Repeat this several times until the option to paste is no longer available.
 - **Step 7:** Keep pasting the string until the interface crashes. The lock screen should disappear, and the camera interface will expand. After some time, the camera app should also crash, and your device will unlock, displaying the home screen.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![android home screen](https://images.wondershare.com/drfone/article/2024/01/unlock-emergency-call-phone-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This method, while unconventional, has been known to work on various Android 5 devices, including Samsung models. However, using this technique responsibly and only on devices you own or have permission to access is important. Remember, this method exploits a security flaw and should be used as a last resort.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Other Ways To Unlock Your Screen
 
 While the **emergency call bypass for Android** method is interesting, it’s largely unreliable and outdated, mainly effective on older Android versions. Modern devices have significantly improved security, making this method obsolete. There are other, more reliable methods for those needing to unlock their phone’s screen.
@@ -209,9 +194,6 @@ While the **emergency call bypass for Android** method is interesting, it’s la
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
@@ -225,11 +207,7 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 - **Step 1:** Launch the Dr.Fone toolkit and go to **Toolbox** > **Screen Unlock.** Connect your Android device to your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2:** On the next page, choose **Android.**
 
@@ -249,9 +227,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 - **Step 6:** Confirm device details. Then, enter “000000” to confirm and initiate the unlocking process.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirmation 00000 screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
 
 - **Step 7:** The software will provide specific instructions to put your device into download mode. Follow them.
@@ -262,9 +237,6 @@ The Best UnlockJunky Alternative to Bypass FRP and Solve Your Screen Locks
 
 ![screen unlock success](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Using “Forgot PIN/Passcode” and Google Account
 
 You can use the **Forgot PIN/Passcode** feature if you’ve linked your phone to a Google account. After multiple failed attempts to unlock your phone, you’ll see a prompt to reset the password via your Google account credentials.
@@ -272,6 +244,10 @@ You can use the **Forgot PIN/Passcode** feature if you’ve linked your phone to
 ### Method 3: Forcing a Data Reset on Your Android Phone
 
 As a last resort, you can [<u>perform a factory reset</u>](https://drfone.wondershare.com/reset-android/how-to-factory-reset-huawei-phone-when-locked.html). This will erase all data on your device but remove the lock screen. Access the recovery mode by pressing a combination of keys (usually volume up/down and the power button) and then selecting **Wipe data/Factory reset**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Booting Into Safe Mode
 
@@ -285,32 +261,14 @@ This guide explored **how to bypass the Android lock screen using an emergency c
 
 Learning to unlock your phone screen ensures you’re never locked out of your device, keeping it within your reach. Consider using Dr. Fone- Screen Unlock for a secure and effective way to bypass phone lock screens. It’s an excellent tool for regaining access to your device without risking your data.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reset a Tecno Spark 10 4G Phone that is Locked?
 
 We all have been there when put a tough to crack the lock on the smartphone and forget the password all along. Such circumstances can be tedious at times, but there is a way around it. If you have spent countless hours on **how to reset a Tecno Spark 10 4G  phone that is locked**, or how to get into a locked Tecno Spark 10 4G  phone quickly with or without Factory Reset. This is the right article for you. Here we will describe all the different ways in which you can reset your phone with the convenience of software to even reset it manually. So, without making further due, let’s jump right into it.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Part 1: What should I be aware of before resetting a Tecno Spark 10 4G  Phone that is locked?
 
 Before you go to reset your locked Tecno Spark 10 4G  phone, it's crucial to learn about a few key factors. These factors will enable you to make a well-informed choice and help avoid potential complications during the factory reset process.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Data Loss
 
 Resetting your locked Tecno Spark 10 4G  phone typically involves performing a factory reset. The process erases all data and settings on the Tecno Spark 10 4G device. This includes your files, apps, contacts, and other information stored on the phone. You can easily restore these data if you have backed up data before. It's crucial to [back up essential data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) regularly to avoid data loss.
@@ -321,9 +279,6 @@ Tecno Spark 10 4G , like many other Android manufacturers, implements Factory Re
 
 Failing to do so may lead to your device being locked. Understanding how to bypass or recover from FRP lock is essential if you find yourself in this situation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Reset a Tecno Spark 10 4G  Phone That is Locked With Google Find My Device?
 
 Resetting a locked Tecno Spark 10 4G  phone through Google Find My Device presents a convenient solution. It, however, needs you to have activated this functionality on your device. To initiate the reset, please adhere to the following steps:
@@ -344,9 +299,6 @@ Before resetting your Tecno Spark 10 4G  phone that is locked, you can install t
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Unlock Tool to Reset a Tecno Spark 10 4G  Phone That Is Locked Without a Password!
@@ -362,18 +314,12 @@ The Best Unlock Tool to Reset a Tecno Spark 10 4G  Phone That Is Locked Without 
 
 First of all, launch the Dr.Fone Screen Unlock on your computer, and you will be greeted with a welcome screen like this. Now, head over to the "Screen Unlock" section.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Connect Device**
 
 Now, you need to connect your Tecno Spark 10 4G  phone to the computer via a USB cable and select "Android" > "Unlock Android Screen." This particular step is an application for all the Android phones out there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 **Step 3: Choose Device Model**
@@ -390,7 +336,6 @@ Go along with the instructions on the screen and remove all the settings of the 
 
 After the entire process is completed, you can easily access your Tecno Spark 10 4G  Phone without the need to enter your password. All the restrictions that were set properly to unlock will be removed so that you can use your phone as intended.
 
-
 ## Part 4: How to reset a Tecno Spark 10 4G  phone that is locked with a hard reset
 
 **Disclaimer:** Only perform this step if you are well accustomed to the Android recovery system or at least know your way around your Tecno Spark 10 4G  phone.
@@ -405,14 +350,8 @@ Charge your Tecno Spark 10 4G  Phone so that it has a batter of at least 30% or 
 
 Now, you need to press the Volume Down + Power button simultaneously until the Tecno Spark 10 4G device logo shows up on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 1](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 2](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-2.jpg)
 
 **Step 3: Enter Recovery Mode**
@@ -425,10 +364,11 @@ Now, press the Volume Down button to navigate to the Recovery Mode.
 
 Use the buttons to navigate to the “Wipe data/factory reset” option and select it by pressing the Power button. Now, choose the option ”Factory data Reset” and wait for a few seconds till it is completed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 4](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Reboot Now**
 
@@ -439,8 +379,9 @@ Again use the Volume buttons and select the “Reboot system now.”
 After you have successfully reset your Tecno Spark 10 4G  phone, it would take a few minutes to boot up. Once that is done, you are left with a clean slate, just like a completely new smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5: Unlock locked Tecno Spark 10 4G  phone with Gmail ID and password
 
 It is imperative to understand that unlocking your Tecno Spark 10 4G  Phone using a Gmail ID and password should be your last resort and especially if you are using an older version of Android. Among all the tricks of how to reset a Tecno Spark 10 4G  phone that is locked, it only works if you are running around version 4.4 KitKat or older than that. Neither less to say, in order for the step to work properly, you need your Gmail account to be properly configured with the Tecno Spark 10 4G device.
@@ -449,18 +390,16 @@ It is imperative to understand that unlocking your Tecno Spark 10 4G  Phone usin
 
 At first, you need to make five attempts to unlock your device. Whether you have used a PIN or Pattern lock, Android will always give you five attempts to get the password right. Once you get that, it will trigger the “Forget Password/Pattern” option on Your Tecno Spark 10 4G. This way, you can sneak back into the system once again.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 6](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Enter Credentials**
 
 Once you hit the option, you will be redirected to another page, where you need to enter your Gmail id and password. Make sure that you get the information right, and select “Sign in.”
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![reset a motorola phone that is locked 7](https://images.wondershare.com/drfone/article/2020/12/reset-a-motorola-phone-that-is-locked-7.jpg)
 
 Once you get everything right, this will bypass any password or pattern you once had put on your Phone. Just remember, you need to have a stable internet connection in order for the step to work seamlessly.
@@ -481,17 +420,11 @@ Regular data backups are crucial to safeguarding your essential files and inform
 
 When setting up lock methods, opt for strong, unique, and memorable passwords. Avoid using easily guessable information like birthdays or simple patterns. Strong passwords can enhance security while minimizing the chances of forgetting your credentials.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 There is no point in arguing that looking through how to reset a Tecno Spark 10 4G  phone that is locked after you have forgotten the password is indeed a hectic process. But, there is a way around it too. By going through all the steps mentioned above, you can always get an unlocked phone with ease.
 
 To our recommendation, we would suggest going through [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) so that you can make the entire process as seamless as possible. It is by far the easiest and most convenient process to work around. Neither less to say, there are a ton of video tutorials that can assist you in case you get stuck in the middle of the process.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -505,10 +438,20 @@ To our recommendation, we would suggest going through [Dr.Fone - Screen Unlock (
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-amplify-your-channel-effortless-tactics-for-more-views/"><u>[New] 2024 Approved Amplify Your Channel Effortless Tactics for More Views</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-to-profiting-from-youtube-shorts-key-requirements-and-potential-income-for-2024/"><u>[Updated] Guide to Profiting From YouTube Shorts Key Requirements & Potential Income for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-your-chromebooks-zoom-capabilities/"><u>2024 Approved Optimizing Your Chromebook's Zoom Capabilities</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-picks-for-virtual-globe-tourists/"><u>2024 Approved Top Picks for Virtual Globe Tourists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/classic-lookup-resurrecting-w11-file-explorer/"><u>Classic Lookup: Resurrecting W11 File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-ftdibussys-explaining-its-effect-on-memory-security/"><u>Deciphering ftdibus.sys: Explaining Its Effect on Memory Security</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-itel-a70-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Itel A70</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-magic-6-lite-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor Magic 6 Lite Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12r-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12R Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-13t-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi 13T Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/system-recovery-how-to-access-windows-11s-restore-settings/"><u>System Recovery: How to Access Windows 11'S Restore Settings</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Use Google Assistant on Your Lock Screen Of Honor Magic 5 Pro Phone
-date: 2024-12-31T01:44:38.074Z
-updated: 2025-01-04T18:13:17.018Z
+date: 2025-01-15T19:25:25.783Z
+updated: 2025-01-16T18:17:42.958Z
 tags: 
   - unlock
   - remove screen lock
@@ -58,10 +58,6 @@ You can ask, "Hey Google, open the Google Assistant settings," and it will show 
 Locate the “Lock Screen” settings and make sure to switch on “Assistant responses on lock screen.”
 
 ![Enable Google Assistant on the lock screen](https://images.wondershare.com/drfone/article/2024/01/unlock-phone-with-voice-google-assistant-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. How To Use Google Assistant on Lock Screen
 
@@ -165,10 +161,6 @@ As the Dr.Fone Screen Unlock tool supports both Android and iOS, you will need t
 
 ![Choose Remove without Data Loss](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Define Device Details
 
 Next, make sure to check and confirm the Brand, Device Name, and Device Model to unlock your Android screen. Tick the checkmark that says you agree with the warning and are ready to proceed. Click "Next" to unlock your screen.
@@ -251,10 +243,6 @@ You may access the passwords saved in the Google Chrome app on a Mac or PC becau
 
 ## How to Change your Password when you forget it?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Google Find My Device
 
 As you are likely aware, every Android device is connected to a Google account. As a result, if you'd like, you may use it to unlock Android as well. You'll need to know your Google account login information for this. When you're ready, use these instructions to find out how to unlock a phone password.
@@ -273,6 +261,10 @@ As you are likely aware, every Android device is connected to a Google account. 
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. It might be helpful if you discover that your device is functioning strangely. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
 
 However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode are different for every android device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Forgot Password Feature (Android 4.4 and Lower)
 
@@ -308,10 +300,6 @@ On this page, please choose the option fitting your phone.
 
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Only when you select the right phone brand so the unlock process will go with success.
 
 ![unlock process](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -329,10 +317,6 @@ _(Recovery Mode When the Samsung phone via Bixby)_
 _(Recovery Mode When the Samsung phone via Bixby)_
 
 ![via bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _(Recovery Mode When the Samsung phone via Home button)_
 
@@ -361,7 +345,7 @@ Along with the basic methods, the article will redirect its discussion to changi
 Every Android smartphone has its interface to follow while changing the lock screen wallpaper or screen saver of the Honor Magic 5 Pro device. However, before we dive into the Honor Magic 5 Pro device-specific details, let's dissect the two common methods to change ****the lock screen wallpaper on Android:****
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Pressing Home Screen Method
@@ -374,9 +358,17 @@ The first thing to try for changing the lock screen wallpaper includes the long 
 
 ![tap on wallpaper icon](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** Out of all the wallpapers, select any of them and tap on the “Apply” button to set it as your lock screen wallpaper.
 
 ![select the required wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Using Your Gallery
 
@@ -410,13 +402,13 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ![tap on wallpaper icon](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 2:**** Choose the option of “My wallpapers” or “Gallery” from the available list and select the wallpaper of your choice. As you select one, you will have to set it as your “Home screen,” “Lock screen,” or wallpaper for both screens.
 
 ![select the option for wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ****Step 3:**** Once you observe the image on the preview window, tap on the button on the bottom to set it as your lock screen wallpaper.
 
@@ -448,9 +440,17 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ![confirm the lock screen wallpaper](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 1:**** Launch the “Settings” application on your OnePlus smartphone and continue to the “Personalizations” option.
 
 ![choose personalization option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ****Step 2:**** On the next screen, continue to the "Wallpapers" section and go through the available media to select a new wallpaper.
 
@@ -459,6 +459,10 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 ****Step 3:**** As you select a particular wallpaper and continue to the preview screen, select the “Apply” button and proceed to choose “Lock Screen” from the pop-up menu.
 
 ![tap on lock screen option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Top 10 Download Sites About Cool Screen Wallpaper on Android
 
@@ -506,11 +510,19 @@ There are very few websites that offer the finest quality wallpapers for free. P
 
 ![pexels android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-24.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. [<u>Pixabay</u>](https://pixabay.com/images/search/android%20wallpaper/?manual_search=1)
 
 Who won’t have heard of Pixabay as a haven for lock screen wallpapers? This platform provides a different perspective on wallpaper search. To find the best option, you can diversify your search according to orientation, size, and color. This makes your search much easier and swift for changing the Android lock screen.
 
 ![pixabay android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-25.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 9\. [<u>500px</u>](https://500px.com/)
 
@@ -518,19 +530,11 @@ To access the best wallpapers in the world, 500px is a good platform to keep in 
 
 ![500px android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-26.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 10\. [<u>Wallpaperswide</u>](http://wallpaperswide.com/)
 
 From desktop to Android wallpapers, Wallpaperswide holds a diverse set of options. This platform is designed to provide a diversity of categories to its users. With a simple interface, it is a great option for gathering content.
 
 ![wallpaperswide android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-27.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Part: How To Unlock Android Screen if Forgotten the Password
 
@@ -545,10 +549,6 @@ Such options make it the finest platform to resolve issues with the Android devi
 You need to download and launch Dr.Fone on your computer and continue to the “Screen Unlock” tool. On accessing the tool, connect your Android device with a cable.
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ****Step 2: Start Unlocking the Android****
 
@@ -598,22 +598,19 @@ The details provided are comprehensive in helping you change ****the lockscreen 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-are-you-prepared-for-the-changed-facebook-algorithm/"><u>[New] 2024 Approved Are You Prepared for the Changed Facebook Algorithm?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-strategies-obs-streams-to-facebook-success-for-2024/"><u>[New] Expert Strategies OBS Streams to Facebook Success for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-8-windows-11-video-snatchers-unveiled-for-2024/"><u>[New] Top 8 Windows 11 Video Snatchers Unveiled for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/digital-photo-management-incorporating-dates-seamlessly/"><u>Digital Photo Management Incorporating Dates Seamlessly</u></a></li>
-<li><a href="https://facebook.techidaily.com/dodging-digital-deceptions-securing-transactions-in-the-social-swap-sphere/"><u>Dodging Digital Deceptions – Securing Transactions in the Social Swap Sphere</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/efficiently-convert-your-vlc-files-into-mp4-using-the-movavi-video-tool-a-comprehensive-guide/"><u>Efficiently Convert Your VLC Files Into MP4 Using the Movavi Video Tool - A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-vivo-v30-lite-5g-by-drfone-android/"><u>Full Guide to Unlock Your Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-itel-a60-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Itel A60</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-honor-play-8t-easily-by-drfone-android/"><u>How To Unlock a Honor Play 8T Easily?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-use-social-media-scheduling-tools-on-twitter-effectively/"><u>How to Use Social Media Scheduling Tools on Twitter Effectively</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-zte-nubia-z60-ultra-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked ZTE Nubia Z60 Ultra Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y36i-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y36i Through Google Earth?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-rhythmic-beak-boogie/"><u>In 2024, Rhythmic Beak Boogie</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-12-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi 12 Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-visual-journey-of-iphone-photos-with-leading-lines/"><u>The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-creating-popular-jujutsu-kaisen-tiktok-content-for-2024/"><u>[New] Creating Popular Jujutsu Kaisen TikTok Content for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-10-emerging-youtube-channels-to-spark-motivation-for-2024/"><u>[New] Top 10 Emerging YouTube Channels to Spark Motivation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-understanding-imovie-video-trimming/"><u>[New] Understanding iMovie Video Trimming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-streaming-screens-using-netflixs-pip-mode/"><u>[Updated] Unveiling Streaming Screens Using Netflix's PIP Mode</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screen-recorder-no-time-limits/"><u>2024 Approved Screen Recorder No Time Limits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-f5-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-itel-a60-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Itel A60 Phone that is Locked?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-hot-30i-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Hot 30i Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-a70-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel A70 Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a70-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Itel A70 Phone without PIN</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revitalizing-microsofts-windows-11-with-enhanced-recall-features/"><u>Revitalizing Microsoft's Windows 11 with Enhanced Recall Features</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-coding-top-10-ways-to-merge-chatgpt-with-vs-code/"><u>Revolutionizing Coding - Top 10 Ways to Merge ChatGPT with VS Code</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/zoom-makeover-effortless-background-softening/"><u>Zoom Makeover Effortless Background Softening</u></a></li>
 </ul></div>
 

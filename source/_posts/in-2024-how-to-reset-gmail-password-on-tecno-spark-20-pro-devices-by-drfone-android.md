@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Reset Gmail Password on Tecno Spark 20 Pro Devices
-date: 2025-01-07T17:39:09.120Z
-updated: 2025-01-11T16:50:01.706Z
+date: 2025-01-12T12:46:20.389Z
+updated: 2025-01-16T21:05:40.650Z
 tags: 
   - unlock
   - remove screen lock
@@ -52,10 +52,6 @@ There will be times when you come into the situation of not knowing what your Gm
 
 ![reset Gmail password on Android-type in your verification code](https://images.wondershare.com/drfone/others/14546022635082.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![reset Gmail password on Android-account assistance](https://images.wondershare.com/drfone/others/14546022939368.jpg)
 
 **Step 6:** After you have done all the previous steps, you will know how to reset your Gmail password directly from your Android device.
@@ -67,6 +63,10 @@ Besides not knowing your password, there are still circumstances when you wish t
 Step 1: Make sure your Android device is connected with the Internet. Then get access to the link myaccount.google.com. After logging into your account (or maybe you have already done this), scroll down, find the Sign-in and security option and choose it.
 
 ![reset Gmail password on Android-find the Sign-in and security option](https://images.wondershare.com/drfone/others/14546023162049.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Find the Password option in the list. Tap on it to be moved to another screen. In the menu, type in your new password that you wish to exchange, confirm it and then click on the Change password button.
 
@@ -113,10 +113,6 @@ If it still doesn't recognize your face, try a different photo or even change th
 
 Anyway, this method is still unstable because of many uncontrollable factors. If everything fails, consider the following methods to bypass the face lock.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Hard Reset your phone
 
 To get around the Android lock screen, perform a factory reset. While resetting your phone allows you to set a new password, it also erases all data from your device. This method works like a charm, but it also requires more technical knowledge. To bypass screen lock via factory reset, follow these steps.
@@ -124,7 +120,7 @@ To get around the Android lock screen, perform a factory reset. While resetting 
 ![android hard reset](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 1**: Turn off your phone and hold the Power and Volume-down buttons simultaneously until the recovery mode screen appears. There are minor variations depending on the brand and model.
@@ -135,19 +131,11 @@ To get around the Android lock screen, perform a factory reset. While resetting 
 
 So, before facing such awkward cases, like data loss, we suggest you have a backup habit of keeping your data safe.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Google Find My Device
 
 Google Find My Device is a service that lets you remotely lock, track, and wipe data from stolen or lost phones. With a Google account and the password, it won't be complicated to remove any locks on your phone. You can bypass the Android lock screen by following the steps below:
 
 ![google find my device data reset](https://images.wondershare.com/drfone/article/2022/11/face-unlock-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 1:** Navigate to Find My Device and sign in with your Google account.
 
@@ -203,6 +191,10 @@ _(Recovery Mode When the Samsung phone without Bixby)_
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _(Recovery Mode When the Samsung phone with Home button)_
 
 **Step 6: Instructions to Wipe Cache Partition**
@@ -236,7 +228,7 @@ So, if you have set a **pattern lock** as a screen lock for your device, you wil
 ## Part 2: Best Tool to Unlock Your Pattern
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock
@@ -247,21 +239,25 @@ The most effective and quick tool to unlock a **pattern lock** is Dr.Fone - Scre
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2. Select Unlock Android Screen**
 
 To unlock the pattern lock on your device, the “Unlock Android Screen” will guide you to finish the whole process.
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3. Select unlock mode**
 
 If you click “Remove without Data Loss,” only some limited Samsung or LG phone models can be unlocked without losing data. To unlock most phone brands' screens, “100% Remove Screen Lock” is a better choice.
 
 ![to select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can find the brand compatible with your phone in the following list.
 
@@ -281,6 +277,10 @@ Read the program instructions carefully; entering recovery mode is the prerequis
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **How to get into recovery mode with Home button**
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
@@ -295,15 +295,7 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 ![access android device again](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to Bypass Android Pattern When You Forgot It?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Google Find My Device (For Android7.1.1 or later)
 
@@ -325,6 +317,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 8.** Complete the process and sign out of your account on the browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Forgot Pattern (For Android 4.4 or earlier)
 
 **Step 1.** First and foremost, give some wrong patterns to your phone. It will tell you that you attempted the incorrect **pattern lock**.
@@ -343,10 +339,6 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 
 **Step 6.** Affirm your decision and set another **pattern lock** on your phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Emergency Call Trick (For Android 5 or 5.1.1)
 
 **Step 1:** Tap the Emergency Call button and enter ten asterisks (\*).
@@ -356,6 +348,10 @@ When the “Unlocked successfully” appears on the screen, you can access your 
 **Step 3:** Return to the lock screen and tap on the camera symbol.
 
 **Step 4:** Press the settings choice on your Android gadget after pulling down the notification tray. Now you will have the chance to enter the PIN/password, and you ought to continue unlocking your Android phone. Continue to paste until the lock screen UI crashes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Safe Mode Boot (For Android 4.1 or later)
 
@@ -401,6 +397,10 @@ adb reboot
 
 - Your phone will reboot. After it reboots and requests a security pattern, you can utilize any pattern, and it will unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 This guide provides insight into the most common Android issue. Here, we have discussed different techniques to bypass the **pattern lock** on your Android phone. However, we suggest you go for a professional tool while carrying this out. Therefore, you should choose an expert tool like Dr.Fone - Screen Unlock to open the **lock screen pattern**.
@@ -419,24 +419,22 @@ This guide provides insight into the most common Android issue. Here, we have di
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-steps-to-build-a-hidden-snapstory-collection/"><u>[New] 2024 Approved Steps to Build a Hidden Snapstory Collection</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elevate-your-profiles-visual-appeal/"><u>[Updated] In 2024, Elevate Your Profile's Visual Appeal</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g04-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G04 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-honor-100-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor 100 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/cambiar-archivo-de-imagen-pcx-a-formato-jpeg-sin-coste-convertidor-on-line-de-movavi/"><u>Cambiar Archivo De Imagen PCX a Formato JPEG Sin Coste - Convertidor On-Line De Movavi</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-14-pro-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi Note 12T Pro?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-vivo-y200e-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y200e 5G Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-infinix-note-30-pro-easily-by-drfone-android/"><u>How To Unlock a Infinix Note 30 Pro Easily?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-v-purse-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor V Purse Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12 4G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-xiaomi-redmi-12-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Xiaomi Redmi 12 5G Phone that is Locked?</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-converting-your-mov-file-into-an-animated-gif/"><u>Step-by-Step Guide: Converting Your MOV File Into an Animated GIF</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-food-filmmakers-blueprint-techniques-and-tricks-for-2024/"><u>The Food Filmmaker’s Blueprint Techniques and Tricks for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-itel-p40-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Itel P40 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/understanding-and-proficiently-implementing-cc-copyrights/"><u>Understanding and Proficiently Implementing CC Copyrights</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-v30-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Vivo V30 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-maximizing-logic-pro-x-potential-8-must-have-plugins-free-and-paid/"><u>Updated Maximizing Logic Pro X Potential 8 Must-Have Plugins (Free & Paid)</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-is-my-pc-continuously-crashing-troubleshooting-the-new-world-game/"><u>Why Is My PC Continuously Crashing? Troubleshooting the 'New World' Game</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-fix-the-invisible-fb-watch-video-icon-restored-for-2024/"><u>[New] Fix the Invisible FB Watch Video Icon, Restored for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-video-integration-youtube-meets-microsoft-powerpoint/"><u>[Updated] The Art of Video Integration YouTube Meets Microsoft PowerPoint</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-the-magic-for-fbs-10-music-vids-recipe-book/"><u>2024 Approved Unlock the Magic for FB's #10 Music Vids Recipe Book</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/acclaimed-music-archives-for-visual-media/"><u>Acclaimed Music Archives for Visual Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-apex-legends-performance-eliminating-in-game-lag-and-jitters/"><u>Boost Your Apex Legends Performance: Eliminating In-Game Lag and Jitters</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-tecno-spark-20c-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Tecno Spark 20C</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-canon-mx490-printer-drivers-for-windows-computers/"><u>Download and Install the Latest Canon MX490 Printer Drivers for Windows Computers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-spark-10-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Tecno Spark 10 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y28-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y28 5G Bootloader Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-4g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 4G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y100-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y100 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-zte-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On ZTE</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-15-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 15 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-cookiebot-for-advanced-seo-strategies/"><u>Leveraging Cookiebot for Advanced SEO Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-covert-elements-filtering-your-fb-timeline/"><u>The Covert Elements Filtering Your Fb Timeline</u></a></li>
 </ul></div>
 

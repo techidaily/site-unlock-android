@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Show Wi-Fi Password on Tecno Pop 8
-date: 2025-01-09T19:31:39.722Z
-updated: 2025-01-11T21:26:33.530Z
+date: 2025-01-10T23:31:35.477Z
+updated: 2025-01-16T22:40:51.648Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,6 +28,10 @@ Most of the time, we use Android phones, we get faced with the need to access th
 
 ## Part 1: Show Wifi Password on Rooted Android Device
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What is Rooting?
 
 First of all, what does rooting mean? You have probably used a Windows computer or even Linux. For the case of Windows, when installing a new program or software, it always prompts a dialog box saying, "Administrator permission required to run this program." If you don't have the administrator permission, you won't install the program. In Android, this is called rooting. In simple terms, it means having the root permission to your phone. Some Android apps will require you the root permission, e.g., flashing your ROM. In this part, we will explain how you can show the Wi-Fi password on your Android with root.
@@ -45,6 +49,10 @@ Step 1: Install the ES File Explorer
 Download the ES File Explorer from your play store, install it, and open it.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556286507084.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Enable Root Explorer
 
@@ -65,10 +73,6 @@ Go back to ES file explorer, and this time, find the folder named **data**.
 When this folder opens, find another one named **misc**. Open it and find another one named **wifi**. Here, find a file named **wpa\_supplicant.conf**.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556293762552.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Retrieve the wifi password on Android
 
@@ -96,6 +100,10 @@ Tap on this "build number" 5 to 6 times until a message pops up, saying, "You ar
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556303263992.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Enable the debugging.
 
 Go back to Settings. Scroll down for developer options. Turn on the button for "Android/USB debugging".
@@ -107,10 +115,6 @@ Step 3: Install ADB drivers.
 Now, open your Windows desktop. Download and install ADB drivers. (Use this download link [adbdriver.com](http://adbdriver.com/)). You need to download and install platform tools (minimal ADB and fastboot) from [http://forum.xda-developers.com/...](http://forum.xda-developers.com/showthread.php?t=2317790) Now open the folder where you've installed the above tools. By default, it is in the Local disc _C\\windows\\system32\\platform\_tools_ location. However, you might want to locate them by searching on the windows search engine. You have to hold the Shift key and right-click inside the folder to click on"Open Command Window Here."
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556329561742.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Test the ADB
 
@@ -127,10 +131,6 @@ Step 6: Get the wifi passwords.
 Lastly, open the file with a notepad, and there you go.
 
 ![android show wifi password](https://images.wondershare.com/drfone/others/14556331232772.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you learned how to show the wifi password on your Android device.
 
@@ -165,19 +165,11 @@ Download Dr.Fone from the download buttons above. Install and launch it on your 
 
 ![unlock lg phone - launch drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2. Connect your phone.
 
 Connect your Tecno phone to the computer using a USB cable. Click on **Unlock Android Screen** on Dr.Fone.
 
 ![unlock lg phone - connect phone](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3. Select the phone model.
 
@@ -192,6 +184,10 @@ Step 4. Boot the phone in download mode.
 - Keep pressing the Power Up button until the Download Mode appears.
 
 ![unlock lg phone - boot in download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5. Remove the lock screen.
 
@@ -209,16 +205,12 @@ This is probably the most convenient solution to set up a new lock for your Tecn
 
 ![unlock lg forgot password - login android device manager](https://images.wondershare.com/drfone/article/2017/03/14892201986480.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Select your device's icon to get access to various features like ring, lock, erase, and more. Out of all the provided options, click on “**lock**” to change the security lock of your device.
 
 ![unlock lg forgot password - select device](https://images.wondershare.com/drfone/article/2017/03/14892202439511.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3.** Now, a new pop-up window will open. Here, provide the new password for your device, confirm it, and click on the “lock” button again to save these changes.
@@ -238,6 +230,10 @@ If your Tecno device runs on Android 4.4 and previous versions, then you can eas
 - **Step 2.** Select the “Forget pattern” option and provide the correct credentials of your Google account to unlock your phone.
 
 ![unlock lg forgot password - log in google account](https://images.wondershare.com/drfone/article/2017/03/14892203377058.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 4: Unlock the Tecno Phone Using Custom Recovery (SD card needed)
 
@@ -264,10 +260,6 @@ If none of the above-mentioned alternatives work, then you can also try to facto
 - **Step 2.** Choose “Wipe Data/Factory Reset.” You can use the Volume up and down key to navigate the options and the power/home key to select anything. Use these keys and select the “Wipe Data/Factory Reset” option. You might get another pop-up asking to delete all user data. Just agree it reset your device. Sit back and relax as your device will perform a hard reset.
 
 ![unlock lg forgot password - enter in recovery mode](https://images.wondershare.com/drfone/article/2017/03/14892204518630.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3.** Select the “Reboot system now” option to restart it. Your phone will be restarted without any lock screen.
 
@@ -300,15 +292,15 @@ After making your device ready and downloading all the essential software on you
 
 ![unlock lg forgot password - code](https://images.wondershare.com/drfone/article/2017/03/14892205424871.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4.** After restarting your device, if you still get a lock screen, then give a random password to bypass it.
 
 ## Conclusion
 
 You can choose a preferred option and rectify the issue whenever you [forgot the password on the Tecno phone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). Make sure that you meet all the requirements and go through the respective tutorial to attain fruitful results.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Change Tecno Pop 8 Lock Screen Password?
 
@@ -364,6 +356,10 @@ As you are likely aware, every Android device is connected to a Google account. 
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Login in using your Google credentials by going to the official Google Find My Device website.
 2. You will see the gadgets connected to your Google account as you enter the interface, along with a map of where they are.
 3. To wipe the Tecno Pop 8 device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
@@ -376,6 +372,10 @@ As you are likely aware, every Android device is connected to a Google account. 
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. It might be helpful if you discover that your device is functioning strangely. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
 
 However, users can also use it to reset the android password if it is forgotten. The instructions for resetting android devices through recovery mode are different for every android device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Forgot Password Feature (Android 4.4 and Lower)
 
@@ -421,6 +421,10 @@ Then go with the instructions for getting the Android phone into Recovery Mode. 
 
 ![enter into recovery mode](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _(Recovery Mode When the Samsung phone via Bixby)_
 
 ![bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
@@ -436,10 +440,6 @@ _(Recovery Mode When the Samsung phone via Home button)_
 On the page Recovery Mode, you'll see this interface to continue your unlock process.
 
 ![wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can access your Android device without entering any password after the unlock process is well done.
 
@@ -463,16 +463,22 @@ Any of the aforementioned methods can be used to overcome the obstacle of using 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comprerante-guide-to-sierras-cloud-file-accessibility/"><u>[New] Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ssential-insights-for-youtube-content-protection-for-2024/"><u>[New] Essential Insights for YouTube Content Protection for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-extended-physical-action-survey/"><u>[New] Extended Physical Action Survey</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-the-reliability-of-ais-like-chatgptbard-for-savings/"><u>Assessing the Reliability of AIs Like ChatGPT/Bard for Savings</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo V30 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-infinix-smart-8-pro-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Infinix Smart 8 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quick-guide-to-record-google-meet-in-your-browser/"><u>In 2024, Quick Guide to Record Google Meet in Your Browser</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secrets-unveiled-how-to-remove-all-past-chatgpt-sessions/"><u>Secrets Unveiled: How to Remove All Past ChatGPT Sessions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-itel-p40plus-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Itel P40+ Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-redmi-note-13-proplus-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamlined-video-production-youtube-studio-edition/"><u>[New] Streamlined Video Production YouTube Studio Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-understanding-and-applying-auto-hdr-a-windows-11-tutorial-for-2024/"><u>[Updated] Understanding and Applying Auto HDR A Windows 11 Tutorial for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-hidden-pathway-extract-more-filters-for-free-effortlessly/"><u>2024 Approved Instagram’s Hidden Pathway Extract More Filters for Free Effortlessly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comparing-cloud-providers-who-offers-what-price-for-2024/"><u>Comparing Cloud Providers Who Offers What Price for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-10-budget-friendly-alternatives-for-streaming-like-netflix/"><u>Discover 10 Budget-Friendly Alternatives for Streaming Like Netflix</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-go-2024-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark Go (2024)?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-6s-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 6s Plus Unavailable Issue With Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-itel-s23-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Itel S23 to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-hot-40-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Hot 40</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-90-lite-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor 90 Lite Through Google Earth?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-zero-5g-2023-turbo-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Zero 5G 2023 Turbo Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-14-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi 14 Ultra Phone without Any Data Loss</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-12-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi 12 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolve-no-audio-on-zoom-quick-solutions-for-pc-users/"><u>Resolve No Audio on Zoom: Quick Solutions for PC Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-itel-a60s-by-drfone-android/"><u>Top 10 Password Cracking Tools For Itel A60s</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/xboxs-next-big-thing-decode-the-specs-and-price-predictions-for-the-upcoming-virtual-reality-experience/"><u>Xbox's Next Big Thing: Decode the Specs and Price Predictions for the Upcoming Virtual Reality Experience</u></a></li>
 </ul></div>
 
