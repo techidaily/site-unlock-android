@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Honor 100 Phone Password Without Factory Reset?
-date: 2025-01-19T19:47:41.154Z
-updated: 2025-01-23T16:36:10.902Z
+date: 2025-01-26T00:55:13.691Z
+updated: 2025-01-31T03:36:18.106Z
 tags: 
   - unlock
   - remove screen lock
@@ -63,13 +63,13 @@ Follow the following steps to unlock your Android password without factory reset
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** You will see that the icon showing “Remove Password Completed” will pop up. This whole process takes only a few minutes to get your work done without any loss of any data.
 
 ![unlock android password without factory reset](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to unlock Android password without factory reset using Android Device Manager?
 
@@ -78,10 +78,6 @@ With very simple steps and a few minutes at hand, you can get rid of your passwo
 **Step 1.** Your Android phone is always linked to your Google account. So first and foremost, on your computer or on another mobile phone, open the site <www.google.com/Android/devicemanager>.
 
 ![log in android device manager](https://images.wondershare.com/drfone/article/2017/10/15090637241780.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 • Now sign in with your Google credentials. Google will start searching for your device. Here you need to choose the Android phone you want to unlock in case it is already not selected.
 
@@ -159,6 +155,10 @@ Android Device Manager link: <http://www.google.com/android/devicemanager>
 
 8\. Now, simply enter the new passcode on your device, and voila! It will open, and you can get back to your daily routine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Reset Your Google Account on your Android Phone
 
 If you have forgotten your Google Account password, it is still possible to unlock your account and access the information within. Here is how you can unlock your Google account on your Android phone.
@@ -171,9 +171,17 @@ If you have forgotten your Google Account password, it is still possible to unlo
 
 ![android Goodle log in](https://images.wondershare.com/drfone/others/14637535763672.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Choose the “forgot password” option. You will be prompted to enter your email address to proceed.
 
 ![android Google trouble signing in](https://images.wondershare.com/drfone/others/14637535788151.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Two options will then appear: the first is your phone number, and the other asks you for your backup email.
 
@@ -192,12 +200,16 @@ If you have forgotten your Google Account password, it is still possible to unlo
 ![android Google reset password input new password](https://images.wondershare.com/drfone/others/14637552534874.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. How to Remove Locked Screen on Android using Dr.Fone
 
 It supports removing screen lock from mainstream models, such as Samsung, LG, Lenovo, Xiaomi, etc. For some older version Samsung models, you can remove the lock without data loss. It will erase data after unlocking for other models.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Android Lock Screen Removal](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -269,10 +281,6 @@ Remove 4 Types of Android Screen Lock without Data Loss
 
 ![Dr.Fone android Lock Screen Removal](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Follow the instructions on the program to get the Android phone into "Download Mode."
 
 - 1\. Power off the phone.
@@ -334,7 +342,15 @@ If you weren't able to open your Wi-Fi or data connection or enable USB Debuggin
 
 ![arom file manager](https://images.wondershare.com/drfone/article/2016/06/14647610871048.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you have your device booted up, and your Android lock screen is still locked, just gesture in or enter anything. It will be unlocked. And that's how to unlock an Android phone using your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How to Unlock Android Phone Using Minimal ADB and Fastboot (with Data Loss)
 
@@ -350,10 +366,6 @@ If you weren't able to connect to the Internet, but you, fortunately, enabled yo
 
 ![Minimal adb and fastboot downloaded](https://images.wondershare.com/drfone/article/2016/06/14648313521345.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** Open the downloaded Minimal ADB and Fastbootzip file and install it.
 
 ![Minimal adb and fastboot installer zip](https://images.wondershare.com/drfone/article/2016/06/14648313544528.jpg)
@@ -368,13 +380,13 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 ![Local Disk](https://images.wondershare.com/drfone/article/2016/06/14648313589887.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Program Files (x86) folder](https://images.wondershare.com/drfone/article/2016/06/14648313591963.jpg)
 
 ![Minimal adb and fastboot folder](https://images.wondershare.com/drfone/article/2016/06/14648313625020.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5.** Inside the folder, hold the Shift key on your keyboard, then right-click your mouse. An additional "Open command window here" will appear so select that.
 
@@ -397,15 +409,7 @@ This PC \[Win 8& 10\] or My computer \[Windows 7 & below\]> Local Disk (C:) \[pr
 
 ![Minimal adb and fastboot adb shell command](https://images.wondershare.com/drfone/article/2016/06/14648317729484.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This would work if you have your USB debugging turned on before it was locked. That's how to unlock Android using ADB.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Unlock Phone via Find My Device (with Data Loss)
 
@@ -416,6 +420,10 @@ Google Find My Device is another handy way to unlock your locked Android device.
 **Step 2:** After signing in, you will see a list of devices associated with your Google account on the left side of the screen. Select the locked Android device from the list and choose the "Erase Device" option from the menu on the left-hand side.
 
 ![tap on erase device option](https://images.wondershare.com/drfone/article/2023/09/unlock-android-phone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** You will now be asked to confirm your identity through a Google account password or using a pass-key. Afterward, follow the on-screen instructions to erase and unlock your Android device.
 
@@ -439,17 +447,9 @@ If luckily, you left your Wi-Fi open and luckily connected to the internet, this
 
 ![android forgot pattern lock](https://images.wondershare.com/drfone/article/2016/06/14648495587136.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Check ''Enter your Google Account details'' then tap next.
 
 ![Unlock screen enter google account details](https://images.wondershare.com/drfone/article/2016/06/14648495698424.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Input your Google Account details, username, and password. You are done.
 
@@ -471,20 +471,22 @@ You will be given the option to input a new password or pattern right after you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-framefraction-review/"><u>[Updated] In 2024, FrameFraction Review</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-screen-recorder-alternatives-in-depth-review-and-top-picks/"><u>[Updated] In 2024, Screen Recorder Alternatives In-Depth Review & Top Picks</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-review-of-syma-x5c-the-ultimate-drone-guide-for-new-users-for-2024/"><u>[Updated] Review of Syma X5C – The Ultimate Drone Guide for New Users for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-your-complimentary-access-to-50-premium-youtube-banners/"><u>[Updated] Your Complimentary Access to 50 Premium YouTube Banners</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>2024 Approved Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-zoom-videos-with-key-conversion-methods/"><u>2024 Approved Revolutionize Zoom Videos with Key Conversion Methods</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-exploring-samsungs-ue590-4k-gamer-monitor/"><u>In 2024, Exploring Samsung's UE590 4K Gamer Monitor</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-x50-gt-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor X50 GT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-x50i-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor X50i Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10 Pro Bootloader Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-play-7t-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor Play 7T Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-pova-5-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Tecno Pova 5 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-tecno-camon-20-pro-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Tecno Camon 20 Pro 5G Phone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/walking-into-tomorrow-the-premier-vr-treadmills-reviewed/"><u>Walking Into Tomorrow The Premier VR Treadmills Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-the-mystery-writing-hooks-for-vlogger-scripts/"><u>[Updated] In 2024, Unveiling the Mystery Writing Hooks for Vlogger Scripts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-video-capture-a-deep-dive-into-tunefab-products/"><u>[Updated] Mastering Video Capture A Deep Dive Into Tunefab Products</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c300-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C300</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-make-a-fortune-on-reddit-without-experience-top-13-methods/"><u>2024 Approved How to Make a Fortune on Reddit Without Experience - Top 13 Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-your-perfect-setup-elite-gaming-chairs-reviewed-by-tech-experts-at-zdnet/"><u>Find Your Perfect Setup: Elite Gaming Chairs Reviewed by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-redmi-k70-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi Redmi K70 Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-p55plus-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel P55+</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-zte-nubia-z60-ultra-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked ZTE Nubia Z60 Ultra Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y36i-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y36i</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-simplified-methods-to-validate-your-youtube-status/"><u>In 2024, Simplified Methods to Validate Your YouTube Status</u></a></li>
+<li><a href="https://fox-access.techidaily.com/perfecting-your-photos-utilizing-psxs-erase-feature-for-2024/"><u>Perfecting Your Photos Utilizing PSX's Erase Feature for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/secure-your-place-in-the-metaverse-essential-devices-list/"><u>Secure Your Place in the Metaverse Essential Devices List</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solving-davinci-resolve-issues-with-mxf-file-imports-and-edits/"><u>Solving DaVinci Resolve Issues with MXF File Imports & Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-zte-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your ZTE Phone Pattern Lock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-itel-a05s-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Itel A05s</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/wiederherstellung-von-nicht-gespeicherten-office-dateien-unter-libreoffice-professionelle-tipps-und-tricks/"><u>Wiederherstellung Von Nicht Gespeicherten Office-Dateien Unter LibreOffice - Professionelle Tipps Und Tricks</u></a></li>
 </ul></div>
 

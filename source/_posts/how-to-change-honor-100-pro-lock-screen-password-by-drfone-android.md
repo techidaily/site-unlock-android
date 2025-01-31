@@ -1,7 +1,7 @@
 ---
 title: How To Change Honor 100 Pro Lock Screen Password?
-date: 2024-08-29T14:57:20.740Z
-updated: 2024-08-30T14:57:20.740Z
+date: 2025-01-26T22:30:12.296Z
+updated: 2025-01-31T03:11:29.871Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,7 +24,6 @@ Although you might not frequently enter your lock screen pin or password if you 
 You'll need to reset your Google Account password if you forget it or become locked out for some other reason when you try to keep accessing all of your data. You might also need to change lock screen passcode from time to time.
 
 ![lock screen](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-1.jpg)
-
 
 ## How to Change/Set up Lock Screen Password
 
@@ -66,9 +65,6 @@ You may access the passwords saved in the Google Chrome app on a Mac or PC becau
 
 As you are likely aware, every Android device is connected to a Google account. As a result, if you'd like, you may use it to unlock Android as well. You'll need to know your Google account login information for this. When you're ready, use these instructions to find out how to unlock a phone password.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-3.jpg)
 
 1. Login in using your Google credentials by going to the official Google Find My Device website.
@@ -78,9 +74,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 
 ### 2\. Using Recovery Mode
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-4.jpg)
 
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. It might be helpful if you discover that your device is functioning strangely. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
@@ -92,6 +85,10 @@ However, users can also use it to reset the android password if it is forgotten.
 In case you lose your pattern, PIN, or other passwords, older versions of Android, including Android 4.4 KitKat, have an integrated feature to let you continue using your device.
 
 Enter an erroneous pattern or PIN five times on the lock screen to reveal this function. A button with the words "Forgot pattern," "Forgot PIN," or "Forgot password" will show up. Tap it. The username and password for the Google account connected to your Android smartphone will be required.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Using ADB
 
@@ -109,27 +106,24 @@ Turn the phone back on normally. Any pattern will unlock the screen, and you wil
 
 On most Android handsets, you can attempt Dr.Fone to unlock the screen lock easily. It allows you to delete the password, PIN, pattern, and fingerprint from an Android phone.
 
-
 **Step 1. Select Unlock Android Screen**
 
 Please select "Unlock Android Screen."
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Select device model**
 
 On this page, please choose the option fitting your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
 Only when you select the right phone brand so the unlock process will go with success.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock process](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Step 3. Enter into Recovery Mode**
@@ -140,9 +134,6 @@ Then go with the instructions for getting the Android phone into Recovery Mode. 
 
 _(Recovery Mode When the Samsung phone via Bixby)_
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
 _(Recovery Mode When the Samsung phone via Bixby)_
@@ -161,19 +152,14 @@ Now you can access your Android device without entering any password after the u
 
 ![access your android device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Conclusion
 
 Any of the aforementioned methods can be used to overcome the obstacle of using your Android handset. The best thing about this article is that you only need some simple unlock ways to complete the tasks. Dr.Fone - Screen Unlock is the easiest way of restoring your device if you have a stuck password or fingerprint.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Fix OEM Unlock Missing on Honor 100 Pro?
 
 Original Equipment Manufacturer (OEM) Unlock is a function on Android devices. It allows you to unlock your phone bootloader. A bootloader or bootstrap loader gathers the operating system files, loads them into memory, and hands over control, essentially starting your device. Unlocking the bootloader assists you in installing custom ROMs, flashing custom kernels, and rooting your phone.
@@ -184,9 +170,6 @@ If you encounter the **OEM unlock missing** on your Android phone despite wantin
 
 ![using a phone at work](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Why Is OEM Unlock Missing on Your Device?
 
 Finding that OEM Unlock is missing on your Android phones can be frustrating, particularly if you plan to modify your software or install a custom ROM. But don't worry. There are several possible explanations for this. Let's explore some of the most common reasons:
@@ -199,9 +182,6 @@ Bootloader Already Unlocked
 
 In some cases, the **Android OEM Unlock Missing** issue arises [<u>when the bootloader has already been unlocked</u>](https://drfone.wondershare.com/unlock/how-to-unlock-xiaomi-bootloader.html). Relocking the bootloader might make the option reappear. But exercise caution as this process can erase device data.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![oem unlock option greyed out](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-02.jpg)
 
 Developer Options Not Enabled
@@ -225,8 +205,9 @@ Connectivity Issues
 A poor connection between your device and computer can also prevent the OEM Unlocking from showing up. Check your cables and try using different USB ports to ensure a stable connection.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How To Enable Missing OEM Unlock Without a Password?
 
 Unlocking your phone's bootloader (OEM Unlock) varies across models and brands. Some need a passcode or PIN after rebooting the phone, while others don't. Even if your phone doesn't require a separate password, your existing screen lock (password, PIN, pattern) will usually be needed to enable the **missing OEM unlock** option.
@@ -255,23 +236,20 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 ![dr.fone homepage interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** Specify the Honor 100 Pro device type for screen lock removal.
 
 ![select device type interface](https://images.wondershare.com/drfone/guide/select-your-mobile-device-to-unlock.png)
 
 - **Step 3:** Select **Unlock Android Screen** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Choose the brand of your phone from the supported brands.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone screen unlock supported brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
 **Note:**
@@ -280,9 +258,6 @@ Regain control in minutes with Dr.Fone. First, download the app to your desktop 
 
 - **Step 5:** The screen unlock process is underway. If it encounters trouble, click **Try Again**. Once Dr.Fone successfully unlocks your Android device, tap **Done**.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen lock successfully removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 Now that you've regained access to your device thanks to Dr.Fone - Screen Unlock, you can move forward with enabling the **OEM unlock missing** option. Next up, we'll guide you through the steps in several ways. Let's start with the Developer options.
@@ -294,9 +269,6 @@ Developer Options, a hidden menu in Android, offers advanced features like app d
 - **Step 1:** Open the **Settings** app on your Android phone.
 - **Step 2:** Navigate to **About Phone** at the bottom of the list, then tap **Software information**.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![software information settings](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-08.jpg)
 
 - **Step 3:** Tap on the **Build number** repeatedly (7 times) until you see a message saying, "**You are now a developer!**" or similar.
@@ -307,9 +279,6 @@ Developer Options, a hidden menu in Android, offers advanced features like app d
 
 - **Step 6:** A warning message explaining the risks of turning on the OEM unlock will appear. Read it carefully and tap **Enable** if you want to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on oem unlock](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-10.jpg)
 
 - **Step 7:** Enter your PIN or password to confirm the unlock when prompted
@@ -328,6 +297,10 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 
 ![turn off automatic date and time](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Tap on **Set date** and choose the desired older date from the calendar.
 - **Step 6:** Tap on **Set time** and choose the desired time from the clock.
 - **Step 7:** Tap on **Done** to save the changes.
@@ -335,15 +308,16 @@ If you intend to try this method, follow these steps to **enable OEM unlock miss
 
 ![turn off auto update system](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** Go to **Settings** > **Software update**, then turn off **Auto download over Wi-Fi**.
 
 ![turn off auto download over wi-fi](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-13.jpg)
 
 This method should **enable the OEM unlock missing** issue. Otherwise, proceed to the next section for another solution.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 5: How To Fix OEM Unlock Missing by Removing SIM Card?
 
 Certain carriers restrict bootloader unlocking on their devices to ensure compatibility and prevent unauthorized modifications. For these phones, unlocking the SIM card becomes crucial before you can toggle the OEM unlock option. Here are the steps to fix the **OEM Unlock missing** or greyed out using SIM card removal:
@@ -352,6 +326,10 @@ Certain carriers restrict bootloader unlocking on their devices to ensure compat
 - **Step 2:** Go to **Settings** > **General Management** > **Reset**, then select **Factory data reset**. Enter your PIN or password if needed.
 
 ![android factory data reset](https://images.wondershare.com/drfone/article/2024/01/oem-unlock-missing-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Review the warning and tap **Reset** to confirm.
 - **Step 4:** Once the reset is complete, your phone will restart. Connect to Wi-Fi when prompted.
@@ -365,19 +343,17 @@ While these methods provide a solid foundation, it's always wise to research ste
 
 _**Tips:** Forget your device password and can't get access to it? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Unlock Honor 100 Pro  Bootloader Easily
 
 Do you want to unleash the true power of your smart phone? Do you wish to have complete control over your smart phone? If yes, well, here is the answer; unlock bootloader. For people who are already into the tricks of hacking and rooting smart phones, might be aware of this. But still, there are exciting new developments. Bootloader is a code existing in all operating systems which usually comes pre-locked. So, it is important, if you wish to have a custom ROM installed on the Honor 100 Pro device, or if you wish to have other controls like installing applications which are incompatible, to have the Honor 100 Pro device bootloader unlocked. But going through with the process of unlocking bootloader and rooting the Honor 100 Pro device will not help and rather might break the warranty of the Honor 100 Pro device. This definitely calls for a diligent watch on how to unlock HTC bootloader. So, it is imperative as a user to know the process of HTC bootloader unlock. This article serves you with some ways you could follow to unleash the true power of your HTC device. Here’s how you can do it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why We Want to Unlock HTC Bootloader
 
 For people with HTC device, unlocking bootloader would mean complete authority over the smart phone and you have all the power to control the HTC device by all means. Since, bootloader usually comes pre-locked, unlocking the bootloader is the initial step if you would like to have a custom ROM installed in your device. There are various advantages of HTC unlock starting from gaining rights of control to installing latest custom ROMs in the phone and installing incompatible applications. Moreover, HTC unlock bootloader could boost the Honor 100 Pro device speed and battery life and also help in making complete backups of the Honor 100 Pro device. You could also have controls to remove bloatware from the HTC device. So, all in all, while there could be certain side effects, if not done properly, there are various advantages of unlocking HTC bootloader. If the process is carried out properly, the Android device could be the perfect smart phone you would like to have.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Unlock Honor 100 Pro  Bootloader
 
@@ -391,18 +367,12 @@ As one of the initial measures, backup the Honor 100 Pro device completely as bo
 
 Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and once the sign up is done, log in to HTC dev.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
 
 Now, ensure that HTC Sync Manager is installed on the PC.
 
 Step 3: From the bootloader page, select your device using the drop down option as shown in the picture below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578344435.jpg)
 
 After selecting the Honor 100 Pro device, click on “Begin Unlock Bootloader”, and then confirm all the dialogue boxes which come your way on screen.
@@ -429,13 +399,13 @@ fastboot flash unlocktoken Unlock\_code.bin
 
 Step 10: On the Honor 100 Pro , one message will appear asking if you want to unlock the Honor 100 Pro device bootloader.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822585759420.jpg)
 
-Use volume keys to select and power button to confirm. Once this is done, the Honor 100 Pro  device will restart once and it’s done. The device is now bootloader unlocked.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+Use volume keys to select and power button to confirm. Once this is done, the Honor 100 Pro  device will restart once and it’s done. The device is now bootloader unlocked.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -449,11 +419,20 @@ Use volume keys to select and power button to confirm. Once this is done, the Ho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-top-tips-for-zoom-on-chrome-devices/"><u>[Updated] Top Tips for Zoom on Chrome Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fishing-footage-frontier-top-action-cameras-for-the-sea/"><u>2024 Approved Fishing Footage Frontier Top Action Cameras for the Sea</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-nokia-c32-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Nokia C32 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-magic-5-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor Magic 5 Pro Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-tecno-pop-8-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Tecno Pop 8</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-v2-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic V2 Phone without Google Account?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unleash-your-creativity-with-mobile-blur-tools/"><u>In 2024, Unleash Your Creativity with Mobile Blur Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-90-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor 90 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic-6s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic 6s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-premium.techidaily.com/setting-up-dell-apex-backup-solutions-options-and-alternatives/"><u>Setting Up Dell Apex Backup Solutions: Options & Alternatives</u></a></li>
+<li><a href="https://win-answers.techidaily.com/starfield-fixes-implemented-say-goodbye-to-sudden-silences-and-hiccups-in-your-soundtrack/"><u>Starfield Fixes Implemented: Say Goodbye to Sudden Silences and Hiccups in Your Soundtrack</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unifying-data-streams-a-guide-to-merging-excel-columns/"><u>Unifying Data Streams: A Guide to Merging Excel Columns</u></a></li>
+</ul></div>
 
