@@ -1,7 +1,7 @@
 ---
 title: Rootjunky APK To Bypass Google FRP Lock For Honor 90
-date: 2024-12-29T16:22:57.956Z
-updated: 2025-01-05T03:50:02.079Z
+date: 2025-02-08T19:42:05.657Z
+updated: 2025-02-12T18:00:09.087Z
 tags: 
   - unlock
   - remove screen lock
@@ -66,6 +66,10 @@ Here are the general steps to use the **FRP Bypass APK RootJunky** app to bypass
 
 ![android phone security and privacy settings](https://images.wondershare.com/drfone/article/2024/01/rootjunky-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 9:** Click **Send** to establish a connection. Enter the two commands:
 
 - at + creg? \\ r \\ n
@@ -114,6 +118,10 @@ The next steps may vary depending on the brand you selected.
 
 ![remove google frp lock interface](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Access the secret menu on your phone using the on-screen instructions, then click **Next** to proceed to the next step.
 
 ![instructions to access device secret menu](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-5.png)
@@ -125,10 +133,6 @@ The next steps may vary depending on the brand you selected.
 - **Step 7:** You will see the FRP lock being bypassed on your Android device on the next screen.
 
 ![dr.fone bypassing google frp lock](https://images.wondershare.com/drfone/guide/remove-google-frp-unknown-os-7.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 8:** Click **Done** if the FRP lock removal was successful, otherwise, click **Try Again** to repeat the process.
 
@@ -228,6 +232,10 @@ Check the brands list and make sure your unlock process keeps.
 
 ![brands list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Enter into Recovery Mode**
 
 Then follow the instructions on the program to get the Android phone into Recovery Mode. Here we take 3 different models of Samsung phones as example. (Note: Processes are different according to different brands).
@@ -236,6 +244,10 @@ Then follow the instructions on the program to get the Android phone into Recove
 
 ![with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Recovery Mode in Samsung Phone without Bixby**
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
@@ -243,10 +255,6 @@ Then follow the instructions on the program to get the Android phone into Recove
 **Recovery Mode in Samsung Phone with Home Button**
 
 ![with home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5. Instructions to Erase Cache Partition**
 
@@ -258,25 +266,13 @@ Now it's a phone everyone can access without password or pattern.
 
 ![access without password or pattern](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to Back up My Honor 90 Easily?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone-Phone Backup
 
 As we all know, unlocking a **lock screen password** involves a hard reset, which can delete your user data. Therefore, you must back up your files before hard resetting.
 
 There are several tools available to back up your files. You can use Google or your phone manufacturer's cloud services to back up your file. However, none of them are secure enough. So, we suggest Dr.Fone-Phone Backup have a secure and reliable backup experience. Dr.Fone lets you choose the files you need and back them up. Moreover, you can restore those files to your phone once it gets unlocked.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -289,6 +285,10 @@ A **phone lock** acts as your Android phone's shield against unauthorized users.
 However, certain people like to create a PIN and password on their Google account as their **Android screen lock**. It tends to be distressing and tedious when you fail to remember the code of your Android phone. Surprisingly, being fully locked out of your device is awful. Also, it can be hard at first to unlock your Android.
 
 Anyway, no one can escape such a situation. Yet, sit back and relax! We know several techniques on the best way to unlock your phone and **set a screen lock**. You can attempt software like Wondershare Dr.Fone - Screen Unlock for Android to assist you with unlocking your phone in a couple of steps. Besides this, there are various other ways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Your Honor 90 Phone Lock System?
 
@@ -338,7 +338,7 @@ For most Brands, it should be "100% Remove Screen Lock". These two solutions unl
 ![select device model](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the supported device brands list, please find the right one for you.
@@ -357,13 +357,13 @@ Get into Recovery Mode on Samsung phone without Bixby:
 
 ![without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Get into Recovery Mode in Samsung phone with Home Button:
 
 ![home button](https://images.wondershare.com/drfone/guide/unlock-android-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5. Instructions to Wipe Cache Partition**
 
@@ -375,25 +375,13 @@ You're now able to access your Android device again when the whole process is ov
 
 ![finish the process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Solutions to Unlock Android Screen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Google Find My Device
 
 **Step 1:** Open the "Find my Device" webpage from a browser on your PC.
 
 ![find my device](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Click "Erase my device," which you will see on the left half of your screen. After affirming the Delete capability, your phone will boot into recovery and begin playing out a production line reset. It is difficult to stop or drop on your android gadget when you endorse this activity. Regardless of whether you shut down your Android phone - the reboot will continue on startup.
 
@@ -410,6 +398,10 @@ Depending on your phone, the steps for this process might vary a little. Most ph
 ![wipe data](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-3.jpg)
 
 After that, your Android will start the process, which can require a few minutes. However, this process will erase all your user data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Use ADB
 
@@ -430,7 +422,15 @@ With your Android phone connected and the cmd opens, enter:
 
 ![cmd command](https://images.wondershare.com/drfone/article/2022/10/set-screen-lock-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After entering, reboot your phone once more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Boot into Safe Mode
 
@@ -468,17 +468,24 @@ Passwords shield our phones from unapproved access, yet we get locked out unexpe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-2023-streamline-facebook-vids-to-smooth-mp3/"><u>[New] 2024 Approved 2023 Streamline Facebook Vids to Smooth MP3</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-high-end-horizons-the-elite-8k-camera-selection/"><u>[New] 2024 Approved High-End Horizons The Elite 8K Camera Selection</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-art-of-lyric-videos-using-lyric-video-maker-software/"><u>[New] 2024 Approved The Art of Lyric Videos Using Lyric Video Maker Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-your-sound-story-utilizing-auditions-fade-in-for-2024/"><u>Crafting Your Sound Story Utilizing Audition's Fade In for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-100-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor 100 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-itel-a70-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Itel A70</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-y17s-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo Y17s Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-14-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 14 Plus and iPad?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-s23plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel S23+ Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-vivo-y100i-power-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y100i Power 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-and-resolving-display-driver-stopped-responding-issues-on-your-computer/"><u>Understanding and Resolving ‘Display Driver Stopped Responding’ Issues on Your Computer</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlock-instagram-videos-on-pc-and-mac-with-free-conversion-software/"><u>Unlock Instagram Videos on PC & Mac with Free Conversion Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-craft-the-perfect-livestream-on-youtube-and-twitch-with-obs/"><u>[Updated] 2024 Approved Craft the Perfect Livestream on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-game-changer-review-dji-mavic-air-takes-on-spark/"><u>[Updated] Game Changer Review DJI Mavic Air Takes on Spark</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ranking-the-best-ios-videography-tech-for-2024/"><u>[Updated] Ranking the Best iOS Videography Tech for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfect-your-skype-screen-record-with-obs/"><u>2024 Approved Perfect Your Skype Screen Record with OBS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-find-n3-flip-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Find N3 Flip?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-honor-x50i-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Honor X50i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-civi-3-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Civi 3</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-zte-nubia-flip-5g-phone-by-drfone-android/"><u>How to Reset a Locked ZTE Nubia Flip 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-itel-p40-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Itel P40</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>In 2024, Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-14-plus-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone 14 Plus without Apple Account</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-vip-racing-edition-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Note 30 VIP Racing Edition Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-note-30-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Note 30 Pro Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/innovative-solutions-for-windows-10-screen-saver-problems-step-by-step-guide/"><u>Innovative Solutions for Windows 10 Screen Saver Problems - Step by Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-cash-flow-for-steam-gaming-purchases/"><u>Optimizing Cash Flow for Steam Gaming Purchases</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-zte-nubia-z60-ultra-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-your-iphone-from-being-easily-found-disable-discovery-settings-instantly/"><u>Stop Your iPhone From Being Easily Found: Disable Discovery Settings Instantly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-vivo-y100-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y100 5G</u></a></li>
 </ul></div>
 

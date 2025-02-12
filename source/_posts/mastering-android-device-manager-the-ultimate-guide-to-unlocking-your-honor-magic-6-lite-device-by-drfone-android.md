@@ -1,7 +1,7 @@
 ---
 title: Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor Magic 6 Lite Device
-date: 2025-01-29T22:15:04.369Z
-updated: 2025-01-30T18:01:06.920Z
+date: 2025-02-09T18:39:56.402Z
+updated: 2025-02-12T17:05:41.810Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,10 +27,6 @@ _Using the Android Device Manager to track a lost phone_
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is Android Device Manager lock?
 
@@ -104,6 +100,10 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 
 ![select model in the list](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Boot your phone into Download mode:
 
 - • Power off your Android phone.
@@ -115,10 +115,6 @@ You can also use this tool to bypass the locked screen beyond Samsung and LG.Thi
 4\. After you get your phone into the Download mode, it will start downloading a recovery package. Wait for this to be completed.
 
 ![download recovery package](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5\. When the recovery package download is completed, Dr.Fone toolkit will begin removing the screen lock. This process will not cause any data loss on your Android device, so do not worry. Once the whole procedure is over, you can easily access your Android phone without entering any kind of password. Hurrah!
 
@@ -148,7 +144,15 @@ According to you, the most typical or initial option must be factory reset. Howe
 
 ![factory reset phone](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Follow these methods to bypass the fingerprint lock without resetting the phone. It will save you from losing your data. All our methods are very easy and safe.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Useful Methods to Bypass Fingerprint Lock
 
@@ -160,19 +164,11 @@ If your fingerprint is not working or the Honor Magic 6 Lite device prompts you 
 
 When a device restarts, the fingerprint functionality is restored after entering the Honor Magic 6 Lite device pattern, password, or PIN. This is the simplest method to reset your fingerprint hardware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Remove your phone battery
 
 Old android phones have removable batteries. If you can remove your phone battery, remove it and then put it back. Now turn on your phone. Doing so can help solve the fingerprint lock issue if there are bugs or system errors.
 
 ![removable battery](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Dr.Fone - Screen Unlock
 
@@ -202,10 +198,6 @@ _(Get into Recovery Mode in Samsung phone with Bixby)_
 
 ![mode with bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _(Get into Recovery Mode in Samsung phone without Bixby)_
 
 ![mode without bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
@@ -224,10 +216,6 @@ OK, you already passed the unlock process; locks like pattern, password, or fing
 
 ![done](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Hard Reset your Device
 
 Users of Android smartphones and tablets can troubleshoot various issues with their devices using a feature known as Android Recovery Mode. For example, it might be helpful if you discover that your device is functioning strangely. Recovery Mode Android technically refers to a unique bootable partition with a recovery application installed inside it.
@@ -242,10 +230,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Login using your Google credentials by going to the official Google Find My Device website.
 2. You will see the gadgets connected to your Google account as you enter the interface and a map of where they are.
 3. To wipe the Honor Magic 6 Lite device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
@@ -257,6 +241,10 @@ It might be a complicated case if you cannot reset your lock screen fingerprint 
 
 ![mobile repair](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does not Fingerprint Work
 
 ### 1\. Fingerprint Hardware Module Problems
@@ -266,6 +254,10 @@ The fingerprint module should be clean, just like a clean finger is. Unfortunate
 ![fingerprint lock issue](https://images.wondershare.com/drfone/article/2022/11/how-to-bypass-android-fingerprint-lock-8.jpg)
 
 Please inspect the fingerprint module for any fluids or debris and clean it with a dry cloth to resolve this. If the dirt is on the module, clean it with wipes or a moist cloth wet with water.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Software Update
 
@@ -284,10 +276,6 @@ If you have a device with under-display fingerprint scanner, you might need to c
 ### Conclusion
 
 Any method can solve the problems of using your device with your Android handset. The best thing about these solutions is that you don't need difficult professional skills to complete the tasks. Dr.Fone-Screen Unlock is the easiest way to help your device if you have a password or fingerprint problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Full Guide to Unlock Your Honor Magic 6 Lite
 
@@ -309,6 +297,10 @@ Google Find My Device is an inbuilt feature in Honor phones to unlock your phone
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-password-unlock-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Answer Security Questions
 
 This method is for you if you have set security questions while making your Google ID. By addressing those questions, you can unlock the Honor Magic 6 Lite screen lock. In any case, this way is invalid on some old Android phones.
@@ -322,6 +314,10 @@ To unlock this way, you need to press the Forgot Password option. If you can't s
 
 - It will automatically unlock your device if you answer all questions accurately. Then, it will expect you to set another screen lock for your OPPO. Therefore, keep the new PIN to yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Hard Reset
 
 If you wouldn't worry about losing your user data, you can attempt this unlock method for your Honor Magic 6 Lite. You won't require any account or applications. It requires you to have sufficient battery life. It is simple. So let's see how it is done.
@@ -331,6 +327,10 @@ If you wouldn't worry about losing your user data, you can attempt this unlock m
 - Utilize the volume keys to pick the "Wipe Data/Factory Reset" choice, and press the "Side/Power" button to select it. Then, at that point, pick "Yes" to go on. You can reboot your Honor after the reset is finished, and the lock will be no more.
 
 ![wipe data](https://images.wondershare.com/drfone/article/2022/09/oppo-a3s-password-unlock-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: The Efficient Tool for Your Honor Magic 6 Lite Unlock
 
@@ -359,16 +359,12 @@ The following steps are the key to unlocking your Honor device. Attention! The u
 ![](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Great! Now the unlocking progress is done, and you can use your phone without entering password.
 
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tips: The Importance of Backing Up Your Android Data Regularly
 
@@ -377,6 +373,10 @@ The data loss on your Android phone or tablet can be extremely unpleasant. Subse
 - Open the Dr.Fone software on your computer, and connect your phone to the PC through a USB connector and click OK. Then select the "Back up device" option.
 
 ![phone backup](https://images.wondershare.com/drfone/guide/connect-android-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Tap the Backup option to begin the process.
 
@@ -405,22 +405,19 @@ All the best **Honor Magic 6 Lite password unlock tools** are displayed above. T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-insta-cover-chronicles-top-tier-tech-edition/"><u>[Updated] Insta Cover Chronicles Top-Tier Tech Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-rise-in-search-results-mastering-podcast-seo/"><u>[Updated] Rise in Search Results Mastering Podcast SEO</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-strategies-for-sourcing-a-list-cinematography-experts/"><u>[Updated] Strategies for Sourcing A-List Cinematography Experts</u></a></li>
-<li><a href="https://blog-min.techidaily.com/comparing-dvd-conversion-options-determining-the-ideal-method-and-quality/"><u>Comparing DVD Conversion Options: Determining The Ideal Method and Quality</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211133080-9798868942860-el-proximo-paso/"><u>El Próximo Paso | Free Book</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-tecno-spark-20-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Tecno Spark 20</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-google-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Google? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-google-pixel-7a-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Google Pixel 7a Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-google-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Google Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-assessment-the-dji-quadcopter-model-3-for-2024/"><u>In-Depth Assessment The DJI Quadcopter Model 3 for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862660402-laptop-enhancement-for-tech-savvy-morse-coders-slam-the-lid-not-your-sanity-take-care-of-hinges-and-screen/"><u>Laptop Enhancement for Tech Savvy Morse Coders: Slam the Lid, Not Your Sanity - Take Care of Hinges and Screen</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/seamless-conversion-of-acast-files-to-mp3-format-step-by-step-guide-for-pc-and-mac/"><u>Seamless Conversion of Acast Files to MP3 Format - Step-by-Step Guide for PC & Mac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-x7b-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor X7b</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-spark-20-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Spark 20 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-tecno-camon-20-pro-5g-by-drfone-android/"><u>Universal Unlock Pattern for Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-tecno-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Tecno Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-easy-breezy-football-broadcasting-on-a-budget/"><u>[New] 2024 Approved Easy-Breezy Football Broadcasting on a Budget</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-innovative-use-of-instagram-filters-in-your-photo-posts/"><u>[Updated] 2024 Approved Innovative Use of Instagram Filters in Your Photo Posts</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/free-tips-on-how-to-optimize-and-clear-your-computers-storage-yl-technologies/"><u>Free Tips on How to Optimize and Clear Your Computer's Storage - YL Technologies</u></a></li>
+<li><a href="https://article-files.techidaily.com/frontline-designers-in-the-vr-landscape-for-2024/"><u>Frontline Designers in the VR Landscape for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-a70-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Itel A70 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi Note 12 Pro 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-a70-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel A70 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-civi-3-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Civi 3 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-s18-pro-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo S18 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-k70e-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi K70E? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leverage-these-10-underrated-features-for-canva-for-2024/"><u>Leverage These 10 Underrated Features for Canva for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-video-editing-software-pick-of-the-year-best-choices-for-your-pc/"><u>Top 10 Video Editing Software Pick of the Year: Best Choices for Your PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-bring-your-vision-to-life-best-1080p-video-editing-programs/"><u>Updated In 2024, Bring Your Vision to Life Best 1080P Video Editing Programs</u></a></li>
 </ul></div>
 

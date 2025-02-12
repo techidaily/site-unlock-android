@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor 90 Pattern Lock Screen
-date: 2025-01-11T08:14:39.085Z
-updated: 2025-01-16T20:57:37.695Z
+date: 2025-02-05T16:19:22.490Z
+updated: 2025-02-12T20:13:16.498Z
 tags: 
   - unlock
   - remove screen lock
@@ -77,10 +77,6 @@ Save You from Ending up with a Locked Phone After Too Many Pattern Attempts
 
 ![forgot pattern lock - select model details](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Then, enter "confirm" in the box to tell the tool that you agree to proceed.
 
 ![forgot pattern lock - confirm operation](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-3.png)
@@ -123,10 +119,6 @@ All of this can be done by following these steps:
 
 ![enter new password](https://images.wondershare.com/drfone/article/2017/09/15059290882506.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 8.** Save your changes and sign out of your account from Android Device Manager.
 
 This will automatically reset the old pattern on your device to the new password.
@@ -165,6 +157,10 @@ Bypassing a forgotten pattern lock on an Android device using a factory reset is
 
 ![choose wipe data factory reset](https://images.wondershare.com/drfone/article/2023/09/unlock-android-device-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Wrap it up
 
 If you have also forgotten the pattern lock on your device, then you can simply remove or reset it by following these solutions. In this way, you won’t even lose your important data files or cause any harm to your device. Without facing any unwanted setbacks, you would be able to [bypass forgot pattern Android using Dr. Fone - Screen Unlock](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/). It provides a fast, reliable, and secure solution to remove the lock screen security of an Android device in an effortless way.
@@ -181,13 +177,13 @@ Here is the complete guide with five methods to unlock an Honor  device that wor
 
 ## Part 1: Lock System About Honor 90
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1: Lock Types
 
 Before we move towards the **Honor 90  pattern unlock**, let's talk about its lock types and security system. Honor 90  is one of the older versions of Honor  android phones that was released in 2016. At that time, only flagship phones from each brand came with features like fingerprint sensors and facial unlock. Honor 90  doesn't offer these lock types. You can only set up a screen lock as a password, pattern, and PIN. You can also lock apps on Honor 90  with its privacy password settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2: How to Set Them up?
 
@@ -226,10 +222,6 @@ Here is how you can do an **Honor 90  pattern unlock without PC**. You don't nee
 
 ![Honor 90  lock screen](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Enter a random password or PIN on your phone's lock screen five times.
 - Wait for the system to give the alert message after you enter the wrong password five times.
 - Now, wait for 30 seconds until the system asks you to enter your lock screen password.
@@ -237,15 +229,15 @@ Here is how you can do an **Honor 90  pattern unlock without PC**. You don't nee
 - Now the system will ask for your Google account and password.
 - After you verify your Google account, you can enter your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3: Answer Security Questions
 
 If you want to unlock your Honor  phone, you can also answer some security questions and reset the password. This method does not work on all Honor  devices, but you can use it for **Honor 90  screen unlock without PC**. You will see various questions if your Google account is linked with the Honor 90 device. All questions are based on your profile and credentials. You have to answer precisely with proper spaces. Here are the steps to unlock Honor 90  with security questions.
 
 ![Honor 90  forgot pattern interface](https://images.wondershare.com/drfone/article/2022/10/oppo-a37-password-unlock-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Use a random password or PIN five times and wait for the 30 seconds alert message.
 - Tap on the “Forgot Pattern” option and move to the next screen.
@@ -305,7 +297,7 @@ With the button “Unlock Android Screen”, you can unlock your Honor 90  via t
 ![unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3. Select Unlock mode: 100% Remove Screen Lock**
@@ -314,15 +306,15 @@ When you’re on this page, “100% Remove Screen Lock” can unlock most phone 
 
 ![select brands](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4. Now, it's time to start removing the lock screen**
 
 Follow the guide step by step to complete all steps, these steps are important to unlock your Honor 90  .
 
 ![oppo logo](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, no password or pattern to stop you from using your Honor 90  !
 
@@ -331,6 +323,10 @@ Now, no password or pattern to stop you from using your Honor 90  !
 ## Conclusion
 
 If you know your Google account password, then you can easily unlock your phone after verification. If you don't know the password, you can use a hard reset to erase all data and settings from your device. Use the [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) if you don't want to lose your data. Dr.Fone allows you to unlock your Honor 90  within minutes with easy-to-follow steps. It works for all old and new Honor  models, and the procedure is the same for every device. You can also use Dr.Fone to recover data, repair android software problems, and fix other issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Change Honor 90 Lock Screen Password?
 
@@ -391,6 +387,10 @@ As you are likely aware, every Android device is connected to a Google account. 
 3. To wipe the Honor 90 device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
 4. Once more, select "Erase." This will reset the Honor 90 device and get rid of the forgot pattern lock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Using Recovery Mode
 
 ![recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-4.jpg)
@@ -405,10 +405,6 @@ In case you lose your pattern, PIN, or other passwords, older versions of Androi
 
 Enter an erroneous pattern or PIN five times on the lock screen to reveal this function. A button with the words "Forgot pattern," "Forgot PIN," or "Forgot password" will show up. Tap it. The username and password for the Google account connected to your Android smartphone will be required.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Using ADB
 
 Launch Recovery mode and restart the phone. Turn off your phone. Then to access the Bootloader, simultaneously press the Power button and the Volume Down key. Then select Recovery mode.
@@ -422,7 +418,7 @@ Rm /data/system/gesture.key using the adb shell
 Turn the phone back on normally. Any pattern will unlock the screen, and you will be prompted to enter one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus Method: Dr.Fone - Screen Unlock
@@ -434,6 +430,10 @@ On most Android handsets, you can attempt Dr.Fone to unlock the screen lock easi
 Please select "Unlock Android Screen."
 
 ![select unlock android screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2. Select device model**
 
@@ -468,7 +468,7 @@ On the page Recovery Mode, you'll see this interface to continue your unlock pro
 ![wipe cache partition](https://images.wondershare.com/drfone/guide/unlock-android-screen-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can access your Android device without entering any password after the unlock process is well done.
@@ -493,15 +493,22 @@ Any of the aforementioned methods can be used to overcome the obstacle of using 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-maximizing-your-gaming-with-xbox-screenshots/"><u>[New] 2024 Approved Maximizing Your Gaming with Xbox Screenshots</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-hidden-layers-behind-facebooks-emblematic-blue-icon-in-messages/"><u>[New] 2024 Approved The Hidden Layers Behind Facebook's Emblematic Blue Icon in Messages</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-essential-guide-to-twitter-video-posting/"><u>[New] The Essential Guide to Twitter Video Posting</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-cutting-edge-tactics-for-grabbing-your-favorite-fb-vids-for-2024/"><u>[Updated] Cutting Edge Tactics for Grabbing Your Favorite FB Vids for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-itel-a05s-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Itel A05s Face Lock?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-13-ultra-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a60-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Itel A60 Phone with Broken Screen</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-perfect-your-videos-first-impression-20-best-fonts/"><u>In 2024, Perfect Your Video's First Impression 20 Best Fonts</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-13t-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi 13T Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-the-microsoft-edge-crashes-on-windows-11-tips-and-tricks-applied/"><u>Resolving the Microsoft Edge Crashes on Windows 11: Tips and Tricks Applied</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-immediate-capture-in-zoom-conferences-via-snap-for-2024/"><u>[Updated] Immediate Capture in Zoom Conferences via Snap for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-zoom-meetings-effectively-utilizing-whiteboard-on-various-devices/"><u>[Updated] In 2024, Zoom Meetings Effectively Utilizing Whiteboard on Various Devices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-list-of-8-best-free-and-paid-movie-apps-for-iphone/"><u>[Updated] List of 8 Best Free and Paid Movie Apps for iPhone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-essential-guide-to-crafting-engaging-haul-videos-for-2024/"><u>[Updated] The Essential Guide to Crafting Engaging Haul Videos for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-review-center/"><u>Exploring Gadgets with Tom's Hardware Review Center</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-note-30-vip-racing-edition-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Note 30 VIP Racing Edition Face Lock?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-etape-par-etape-pour-convertir-des-videos-flv-en-mp3flac-gratuitement-services-en-ligne-de-movavi/"><u>Guidé Étape Par Étape Pour Convertir Des Vidéos FLV en MP3/FLAC Gratuitement - Services en Ligne De Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-smart-8-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Smart 8 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-note-13-pro-5g-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi Note 13 Pro 5G Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-xiaomi-civi-3-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Xiaomi Civi 3? Try These Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M14 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 5G Phone without PIN</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tread-lightly-in-the-digital-jungle-vr-fitness-machines-examined/"><u>In 2024, Tread Lightly in the Digital Jungle VR Fitness Machines Examined</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-12-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi 12 Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-13t-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi 13T Pro Users</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-resolve-non-bootable-device-drivers-on-win11/"><u>Methods to Resolve Non-Bootable Device Drivers on Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-itel-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Itel Phone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Honor 70 Lite 5G Phone with Broken Screen
-date: 2024-12-29T00:10:52.914Z
-updated: 2025-01-04T19:56:13.382Z
+date: 2025-02-09T16:56:10.113Z
+updated: 2025-02-12T19:56:26.811Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,10 +27,6 @@ In this article, we are going to look at a few simple ways you can unlock an And
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 1: Using Android Debug Bridge (ADB)
 
@@ -76,18 +72,18 @@ Before we begin, it is a good idea to ensure your device is sufficiently charged
 
 ![connect broken screen android phone](https://images.wondershare.com/drfone/others/14531933625473.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** As soon as the Honor 70 Lite 5G devices are connected, you will be able to see a pointer on your screen. You can then use the pointer to unlock the pattern or enter the Honor 70 Lite 5G device’s password lock.
 
 ![unlock android with broken screen](https://images.wondershare.com/drfone/others/14531933791903.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can then go about backing up the contents of your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Using your Samsung Account
@@ -103,10 +99,6 @@ This method is a reliable way to unlock a Samsung device that has a broken scree
 **Step 3:** You should see the option “Unlock my screen” on the sidebar. Click on it and you will get instructions on how to access your device.
 
 ![unlock android using samsung account](https://images.wondershare.com/drfone/others/14531934188479.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -130,6 +122,10 @@ All Honor devices come with the "Find My Mobile" feature. To bypass the Honor lo
 
 ![how to unlock samsung phone lock password-find my mobile](https://images.wondershare.com/drfone/others/14623529847658.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2. Use Android Device Manager to Bypass Honor Password
 
 To know how to unlock a Honor phone lock password with Android device manager, make sure the Android Device Manager is enabled on your device.
@@ -145,10 +141,6 @@ To know how to unlock a Honor phone lock password with Android device manager, m
 
 ![how to unlock samsung phone lock password-android device manager](https://images.wondershare.com/drfone/others/14623531102514.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3. Google Login (Supports Only Android 4.4 or Lower)
 
 If your device is still running on Android 4.4 or lower, here's how to bypass the Honor lock screen fast.
@@ -159,6 +151,10 @@ If your device is still running on Android 4.4 or lower, here's how to bypass th
 - Step 4. Now your phone would be unlocked.
 
 ![how to unlock a samsung phone without the code-google login](https://images.wondershare.com/drfone/others/14623533542919.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 4. 'Pattern Password Disable' and Custom Recovery (SD Card needed)
 
@@ -179,6 +175,10 @@ It is yet another option that will work only when you have enabled USB Debugging
 
 ![how to unlock a samsung phone without the code-adb command](https://images.wondershare.com/drfone/others/14623546208288.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 6. Factory Reset to Bypass Honor Lock Screen
 
 A factory reset is the best option in almost any case if one of these solutions couldn't work. According to your device type, the process may vary. In most devices, you have to turn off the Honor 70 Lite 5G device completely to start the process. But this method will delete all the precious data on the Honor 70 Lite 5G device after the factory reset.
@@ -194,6 +194,10 @@ A factory reset is the best option in almost any case if one of these solutions 
 
 [Backup your Honor phone](https://drfone.wondershare.com/samsung/samsung-backup.html) regularly in case of any data loss in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 7. Boot into Safe Mode
 
 Chances may be that you are using a third-party lock screen app. Then lucky for you, this way works best to bypass the Honor lock screen. Specifically, you can boot your Honor device into [Android Safe Mode](https://drfone.wondershare.com/android-tips/safe-mode-in-android.html).
@@ -208,7 +212,7 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 ![how to unlock a samsung phone without the code-android safe mode](https://images.wondershare.com/drfone/others/14623549778321.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 8. Other Methods
@@ -222,7 +226,7 @@ Chances may be that you are using a third-party lock screen app. Then lucky for 
 To avoid forgetting your password or PIN next time, be sure to write the pattern or numbers on a text file or paper to keep them safe. If you have to bypass the Honor lock screen pattern, PIN, password, and fingerprint, you may consider using Dr.Fone - Screen Unlock (Android). It is a professional tool that can remove all the fingerprints, pattern, and password lock screens without losing any data on your phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unlock Honor 70 Lite 5G  Bootloader Easily
@@ -232,6 +236,10 @@ Do you want to unleash the true power of your smart phone? Do you wish to have c
 ## Part 1: Why We Want to Unlock HTC Bootloader
 
 For people with HTC device, unlocking bootloader would mean complete authority over the smart phone and you have all the power to control the HTC device by all means. Since, bootloader usually comes pre-locked, unlocking the bootloader is the initial step if you would like to have a custom ROM installed in your device. There are various advantages of HTC unlock starting from gaining rights of control to installing latest custom ROMs in the phone and installing incompatible applications. Moreover, HTC unlock bootloader could boost the Honor 70 Lite 5G device speed and battery life and also help in making complete backups of the Honor 70 Lite 5G device. You could also have controls to remove bloatware from the HTC device. So, all in all, while there could be certain side effects, if not done properly, there are various advantages of unlocking HTC bootloader. If the process is carried out properly, the Android device could be the perfect smart phone you would like to have.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Unlock Honor 70 Lite 5G  Bootloader
 
@@ -247,10 +255,6 @@ Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now, ensure that HTC Sync Manager is installed on the PC.
 
 Step 3: From the bootloader page, select your device using the drop down option as shown in the picture below.
@@ -263,17 +267,9 @@ Step 4: Now, you will be presented with four steps to put the Honor 70 Lite 5G d
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822589729198.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Use the volume keys of the Honor 70 Lite 5G device to select Fastboot option along with pressing power button to confirm, after the Honor 70 Lite 5G device is in bootloader mode. Now, connect the Honor 70 Lite 5G device to the computer using a USB cable.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822588941681.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 6: Go to Fastboot folder on the PC and holding down the shift key, click on any empty space followed by a click on “Open command window here”.
 
@@ -291,6 +287,10 @@ Step 10: On the Honor 70 Lite 5G , one message will appear asking if you want to
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822585759420.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use volume keys to select and power button to confirm. Once this is done, the Honor 70 Lite 5G  device will restart once and it’s done. The device is now bootloader unlocked.
 
 <ins class="adsbygoogle"
@@ -307,22 +307,21 @@ Use volume keys to select and power button to confirm. Once this is done, the Ho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-dramatically-rewind-your-snaps-the-snapchat-way/"><u>[Updated] 2024 Approved Dramatically Rewind Your Snaps The Snapchat Way</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-live-streaming-for-peak-engagement/"><u>[Updated] Mastering Live Streaming for Peak Engagement</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-pro-monitor-snapshot-software-w10/"><u>[Updated] Pro Monitor Snapshot Software W10</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y100i-power-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-pop-8-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Pop 8 Phone?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-15-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 15 Plus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-infinix-note-30-vip-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Infinix Note 30 VIP Lock Screen Password?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-infinix-smart-8-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Infinix Smart 8 Pro Lock Screen Password</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-modern-readers-pathway-to-capturing-internet-television/"><u>In 2024, The Modern Reader's Pathway to Capturing Internet Television</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-zero-5g-2023-turbo-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Zero 5G 2023 Turbo Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-go-2023-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark Go (2023) Phone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-how-to-acquire-authentic-rumbles-sighs-and-gaseous-effects-audio-files/"><u>New In 2024, How to Acquire Authentic Rumbles, Sighs, and Gaseous Effects Audio Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-rotated-video-conundrum-in-instagrams-feed/"><u>The Rotated Video Conundrum in Instagram's Feed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-vivo-y36i-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y36i</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unveiling-the-capabilities-of-springs-advanced-screenscape-for-2024/"><u>Unveiling the Capabilities of Spring's Advanced Screenscape for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capture-every-moment-premium-no-cost-windowsmac-tools-for-2024/"><u>[New] Capture Every Moment Premium, No-Cost Windows/Mac Tools for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rom-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile/"><u>[New] From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-travel-narratives-top-ios-techniques-for-podcasting/"><u>[New] Streamline Your Travel Narratives Top iOS Techniques for Podcasting</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-exploring-copyright-policy-instantaneous-removal-of-personal-videos-for-2024/"><u>[Updated] Exploring Copyright Policy Instantaneous Removal of Personal Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-lenovos-easy-pathway-to-screen-recording/"><u>[Updated] Lenovo's Easy Pathway to Screen Recording</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-k70e-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Note 30 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-a2-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Xiaomi Redmi A2 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-m54-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy M54 5G without App | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-vivo-y100t-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Vivo Y100t Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-13t-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi 13T Phone?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Infinix Hot 40 Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-connoisseurs-guide-to-youtube-music-orchestration/"><u>In 2024, The Connoisseur's Guide to YouTube Music Orchestration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel Device</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/online-raw-to-jpg-conversion-free-and-easy-with-movavi/"><u>Online RAW-to-JPG Conversion - Free & Easy with Movavi</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-platform-question-whos-the-best-vimeo-or-youtubeplusdailymotion-in-2024/"><u>The Ultimate Platform Question Who's the Best - Vimeo or YouTube+Dailymotion, In 2024</u></a></li>
 </ul></div>
 

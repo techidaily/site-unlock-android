@@ -1,7 +1,7 @@
 ---
 title: In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Play 8T
-date: 2025-01-14T17:13:30.053Z
-updated: 2025-01-17T05:49:18.223Z
+date: 2025-02-06T16:49:16.413Z
+updated: 2025-02-12T19:24:55.181Z
 tags: 
   - unlock
   - remove screen lock
@@ -53,6 +53,10 @@ A little pricey, but worth it.
 
 You can easily download it from Dr.Fone's official website within one minute and use it with our detailed instructions. Even if you don't know the specific model of your Samsung device, Dr.Fone - Screen Unlock will provide you with quality service and assistance. Check [the bypass FRP lock guide](https://drfone.wondershare.com/guide/google-frp-bypass.html) in detail to help you disable your Google account on your Android smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Bypass Android FRP Lock without Google Account or a PIN Code.
@@ -63,10 +67,6 @@ Bypass Android FRP Lock without Google Account or a PIN Code.
 - Work also for Xiaomi, Redmi, Oppo, Realme, Vivo devices.
 
 **4,926,978** people have downloaded it
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tool 2: Samsung Reactivation/FRP Lock Removal Service
 
@@ -112,10 +112,6 @@ One of the best tools that cover almost all the latest versions of Android phone
 
 **Cons**: Currently not tested with Android versions 5.1.1 and 6.0.1.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Tool 4: FRP Bypass Solutions
 
 FRP Bypass Solutions is tested and updated for the process of bypassing Google verification if you forget the credentials of your account.
@@ -135,10 +131,6 @@ FRP Bypass Solutions is tested and updated for the process of bypassing Google v
 **Pros**: The tool has been tested and verified to work for Android 7.0 and 7.1.
 
 **Cons**: You need to purchase the tool to use all its features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Tool 5: D&G Password Unlocker
 
@@ -183,10 +175,6 @@ The processing time is just about 10 minutes. This facility is for the Authorize
 This is a kind of software program that is innovative and through this unlocker tool, additional protection for the Android devices can get bypassed.
 
 ![frp bypass tools-Tool 8](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-8.jpg "Tool 8")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Features
 
@@ -253,6 +241,10 @@ FRP Bypass helps to overcome the security feature of the Honor Play 8T device so
 
 ![frp bypass tools-Tool 3](https://images.wondershare.com/drfone/article/2017/07/factory-reset-protection-5-3.jpg "Tool 3")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Features
 
 - A useful tool for Samsung Galaxy devices.
@@ -288,6 +280,10 @@ If you have forgotten your Google Account ID/ password, this tool will come in h
 | GSM Flasher ADB Bypass FRP Tool | Works with all OS types | Free | Can also act as a reactivator for lock removers |
 | FRP Bypass APK Download Samsung for Android | Effective on Samsung devices | Free | Play Store users cannot access this tool |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 The article above gives useful information on some of the important tools for the FRP bypass process. The information available is to assist the original users only who have somehow forgotten their user GoogleID/password. We hope that using any of the above methods will definitely resolve your FRP bypass issue with ease. If you also want to bypass the iCloud activation lock, Dr.Fone is of help.
@@ -310,9 +306,17 @@ As one of the initial measures, backup the Honor Play 8T device completely as bo
 
 ![unlock bootloader htc](https://images.wondershare.com/drfone/article/2016/12/14822577889251.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to htcdev.com/bootloader. Ensure that you are registered with HTC and once the sign up is done, log in to HTC dev.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822578154999.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, ensure that HTC Sync Manager is installed on the PC.
 
@@ -345,10 +349,6 @@ fastboot flash unlocktoken Unlock\_code.bin
 Step 10: On the Honor Play 8T , one message will appear asking if you want to unlock the Honor Play 8T device bootloader.
 
 ![htc unlock bootloader](https://images.wondershare.com/drfone/article/2016/12/14822585759420.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Use volume keys to select and power button to confirm. Once this is done, the Honor Play 8T  device will restart once and it’s done. The device is now bootloader unlocked.
 
@@ -392,17 +392,9 @@ You can also set your favorite picture as the ****Android lock screen wallpaper*
 
 ![tap on three dots](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ****Step 3:**** On selecting the option of “Set as wallpaper,” you will apply the particular image from the Gallery as your lock screen wallpaper.
 
 ![choose set as wallpaper option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change Lock Screen Wallpaper on Different Brands of Android Phones
 
@@ -417,7 +409,7 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 ![tap on wallpaper icon](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ****Step 2:**** Choose the option of “My wallpapers” or “Gallery” from the available list and select the wallpaper of your choice. As you select one, you will have to set it as your “Home screen,” “Lock screen,” or wallpaper for both screens.
@@ -462,6 +454,10 @@ For this part, we will bring a guide explaining ****how to change the lock scree
 
 ![select the wallpapers option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ****Step 3:**** As you select a particular wallpaper and continue to the preview screen, select the “Apply” button and proceed to choose “Lock Screen” from the pop-up menu.
 
 ![tap on lock screen option](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-17.jpg)
@@ -481,6 +477,10 @@ Zedge is one of the most premium websites for accessing wallpapers for Android d
 For exclusive access to free wallpapers of multiple categories, Interfacelift provides some impressive and high-quality results. This intuitive wallpaper site provides some captivating options. Along with that, it asserts a special force on photographs of landscapes, which makes it a great site.
 
 ![interfacelift android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. [<u>Unsplash</u>](https://unsplash.com/s/photos/Android-wallpapers)
 
@@ -519,7 +519,7 @@ Who won’t have heard of Pixabay as a haven for lock screen wallpapers? This pl
 ![pixabay android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-25.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 9\. [<u>500px</u>](https://500px.com/)
@@ -534,6 +534,10 @@ From desktop to Android wallpapers, Wallpaperswide holds a diverse set of option
 
 ![wallpaperswide android wallpapers](https://images.wondershare.com/drfone/article/2023/03/lock-screen-wallpaper-on-android-27.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Part: How To Unlock Android Screen if Forgotten the Password
 
 Although you have learned ****how to change the lock screen wallpaper on Android,**** multiple complications can arise. One such problem that can occur on your device involves it getting locked. If the Honor Play 8T device gets locked, you cannot use it. For an Android whose password is locked, you will require a platform to amend the problem.
@@ -547,10 +551,6 @@ Such options make it the finest platform to resolve issues with the Android devi
 You need to download and launch Dr.Fone on your computer and continue to the “Screen Unlock” tool. On accessing the tool, connect your Android device with a cable.
 
 ![choose the screen unlock tool](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ****Step 2: Start Unlocking the Android****
 
@@ -600,19 +600,20 @@ The details provided are comprehensive in helping you change ****the lockscreen 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/mplify-your-videos-impact-increasing-view-count-on-youtube-shorts-for-2024/"><u>[New] Amplify Your Video's Impact Increasing View Count on YouTube Shorts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-process-for-aesthetic-and-engaging-instagram-video-content/"><u>[New] In 2024, Step-by-Step Process for Aesthetic and Engaging Instagram Video Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-essential-tips-for-instagram-photos-with-custom-watermarks/"><u>[Updated] 2024 Approved Essential Tips for Instagram Photos with Custom Watermarks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/avoid-expensive-macbook-fixes-and-embrace-savings-with-this-ultimate-laptop-sleeve-expert-review-by-zdnet/"><u>Avoid Expensive MacBook Fixes and Embrace Savings with This Ultimate Laptop Sleeve | Expert Review by ZDNET</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/elevate-your-communication-a-whatsapp-tone-customization-journey-for-2024/"><u>Elevate Your Communication A WhatsApp Tone Customization Journey for 2024</u></a></li>
-<li><a href="https://win-premium.techidaily.com/guide-comment-faire-le-transfert-des-cles-usb-sur-itunes-ios-pour-linux-ubuntu-wikifilez-les-facilement/"><u>Guide : Comment Faire Le Transfert Des Clés USB Sur iTunes iOS Pour Linux Ubuntu | Wikifilez-Les Facilement !</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-phantom-v-fold-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Tecno Phantom V Fold Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-pop-7-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Tecno Pop 7 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-infinix-hot-40-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Infinix Hot 40</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-tecno-pop-7-pro-phone-by-drfone-android/"><u>How to Reset a Locked Tecno Pop 7 Pro Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-spark-10-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Spark 10 Pro Through Google Earth?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nubia-red-magic-9-pro-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nubia Red Magic 9 Pro Phone Screen?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-zte-axon-40-lite-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your ZTE Axon 40 Lite Phone Now with These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/turbocharge-your-watching-youtube-performance-in-chrome/"><u>Turbocharge Your Watching: YouTube Performance in Chrome</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-seamlessly-stream-your-laptops-dvd-library/"><u>[New] Seamlessly Stream Your Laptop's DVD Library</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-your-daily-dose-of-humor-and-heartbreak-from-instagram-memes/"><u>2024 Approved Your Daily Dose of Humor & Heartbreak From Instagram Memes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-itel-p55-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Itel P55 Fingerprint Lock</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/discovering-hidden-gems-in-vlc-player-functions-for-2024/"><u>Discovering Hidden Gems in VLC Player Functions for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/capture-to-air-expert-tips-for-streaming-upside-down-videos-on-youtube-for-2024/"><u>From Capture to Air Expert Tips for Streaming Upside-Down Videos on Youtube for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-12-mini-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 12 mini SIM Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-itel-lock-screen-password-by-drfone-android/"><u>How to Reset your Itel Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Hot 40i Phone with Broken Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-xiaomi-redmi-note-12t-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Xiaomi Redmi Note 12T Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Itel P40 Phone Without Password?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-redmi-note-13-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Redmi Note 13 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-v30-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme V30 Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-vivo-y200e-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo Y200e 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-offices-with-style-the-power-and-efficiency-of-the-x-chair-x4-executive-chair-explored/"><u>Transforming Offices with Style: The Power and Efficiency of the X-Chair X4 Executive Chair Explored</u></a></li>
 </ul></div>
 

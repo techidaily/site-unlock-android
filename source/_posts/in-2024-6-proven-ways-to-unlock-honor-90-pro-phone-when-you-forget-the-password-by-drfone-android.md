@@ -1,7 +1,7 @@
 ---
 title: In 2024, 6 Proven Ways to Unlock Honor 90 Pro Phone When You Forget the Password
-date: 2025-01-19T19:28:58.031Z
-updated: 2025-01-23T18:59:51.810Z
+date: 2025-02-06T17:13:46.791Z
+updated: 2025-02-12T16:14:27.459Z
 tags: 
   - unlock
   - remove screen lock
@@ -49,6 +49,10 @@ However, you must use the face or fingerprint unlock correctly on your Android p
 
 If you are still unable to unlock your device, you may need to follow the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Way 2. Unlocking Forgotten Password on Android Phones Using Dr.Fone Screen Unlock
 
 Dr.Fone is an all-in-one tool that allows you to completely recover lost files from your Android device and unlock Android forgotten passwords. This cross-platform software can unlock a phone on which you forgot the Android password. This inbuilt feature allows you to remove the Android forgotten password while safeguarding your Android device's data files. Above all, as the best [phone unlocking software](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/), it is cost-effective and easy to use.
@@ -60,7 +64,7 @@ Dr.Fone is an all-in-one tool that allows you to completely recover lost files f
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
@@ -115,6 +119,10 @@ You can use Google Find My Device to unlock your Android phone remotely with ano
 
 ![google find my device](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Please remember that this feature is only available for Android 5 and above in case **Android forgot password**.
 
 ## Way 4. Reset Your Android and Remove the Password Using "Forgot Pattern" (Android 4.0)
@@ -143,7 +151,7 @@ You can unlock your Android phone, i.e., Samsung, Oppo, or Vivo, by factory rese
 ![wipe data](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-android-phone-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 1.** Turn off your Android phone.
@@ -188,6 +196,10 @@ No, there is no universal code for unlocking Android phones. They are different 
 - **Step 4:** Choose the "Fingerprints" or "Face unlock" option.
 - **Step 5:** Follow the instructions on your screen to set up the desired unlock feature.
 - **Step 6:** When you're finished, you'll be able to unlock your phone using either your fingerprint or your face.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. How to unlock an Android phone without data loss?
 
@@ -257,6 +269,10 @@ Cain & Abel can use techniques of Dictionary Attack, Brute-Force and Cryptanalys
 
 [http://www.oxid.it](http://www.oxid.it/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. John the Ripper : Multi-platform, Powerful, Flexible password cracking tool
 
 John the Ripper is a free multi or cross platform password cracking software. Its called multi platform as it combines different password cracking features into one package.
@@ -264,6 +280,10 @@ John the Ripper is a free multi or cross platform password cracking software. It
 It’s primarily used to crack weak UNIX passwords but also available for Linux, Mac, and Windows. We can run this software against different password encryptions including many password hashes normally found in different UNIX versions. These hashes are DES, LM hash of Windows NT/2000/XP/2003, MD5, and AFS.
 
 ![john the ripper00](https://images.wondershare.com/images/utilities/john-the-ripper00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features of John the Ripper**
 
@@ -284,10 +304,6 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 
 ![aircrack](https://images.wondershare.com/images/utilities/aircrack.gif)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features of Aircrack**
 
 - Supportive with both Brute force and [dictionary attacks](http://en.wikipedia.org/wiki/Dictionary_attack) cracking techniques
@@ -297,10 +313,6 @@ Brute force, FMS attack, and [dictionary attacks](http://en.wikipedia.org/wiki/D
 **Site for Download:**
 
 [http://www.aircrack-ng.org/](http://www.aircrack-ng.org/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. THC Hydra : Multiple services supportive, Network authentication cracker
 
@@ -331,6 +343,10 @@ Password cracking using rainbow table is faster than the normal brute force atta
 
 ![rainbowcrack](https://images.wondershare.com/images/utilities/rainbowcrack_1236.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features of Rainbow Crack**
 
 - Support verity of Rainbow tables
@@ -340,6 +356,10 @@ Password cracking using rainbow table is faster than the normal brute force atta
 Site for Download:
 
 [http://project-rainbowcrack.com/](http://project-rainbowcrack.com/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. OphCrack : Tool for Windows password cracking
 
@@ -360,10 +380,6 @@ Ophcrack is completely free to download, Windows based password cracker that use
 
 [http://ophcrack.sourceforge.net/](http://ophcrack.sourceforge.net/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Brutus : A brute force attack cracker for remote systems
 
 Brutus is the fastest, most flexible, and most popular software used to crack remote system passwords. It guess password through applying different permutations or by using a dictionary.
@@ -373,10 +389,6 @@ It can be used for different network protocols including HTTP, FTP, IMAP, NNTP a
 It is only available for windows operation systems. Tool has a limitation that it has not been updated since 2000.
 
 ![brutus](https://images.wondershare.com/images/utilities/brutus_38.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features of Brutus**
 
@@ -491,17 +503,9 @@ Remove Pattern Locks on Android Screen at Ease
 
 ![boot phone in download mode](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4.** You will be notified when the process is completed. Simply disconnect your Honor 90 Pro and access it without any pattern lock.
 
 ![pattern lock removed](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Unlock Pattern Lock with Android Device Manager?
 
@@ -529,6 +533,10 @@ If your device is running on Android 4.4 or older versions, then you can also ta
 
 ![forgot pattern](https://images.wondershare.com/drfone/article/2017/09/15057372111138.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Select the option to unlock your device with your Google credentials.
 
 ![enter google account details](https://images.wondershare.com/drfone/article/2017/09/15057372279692.jpg)
@@ -543,10 +551,6 @@ Just like Android, Samsung has also developed a dedicated feature for finding a 
 - **Step 1.** Go to Samsung’s Find my Mobile official website <https://findmymobile.samsung.com/> and log in using your Samsung account credentials.
 
 ![find my mobile](https://images.wondershare.com/drfone/article/2017/09/15057372744992.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** You can select your device from the left panel. By default, it will provide its location on the map.
 
@@ -574,10 +578,6 @@ This is a simple and effective solution to knowing how to unlock patterns on an 
 ![android safe mode](https://images.wondershare.com/drfone/article/2017/09/15057373753769.jpg)
 
 - **Step 5.** Later, you can go to the Honor 90 Pro device’s Settings > Apps and remove the third-party app as well. In this way, you would be able to learn how to unlock pattern lock for any other app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 6: How to Unlock Pattern Lock with the Factory Reset?
 
@@ -617,18 +617,18 @@ By following this guide, you would certainly be able to learn how to unlock the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-premier-chillout-pc-game-hits/"><u>[Updated] Premier Chillout PC Game Hits</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/happiness-transcends-language-on-74/"><u>Happiness Transcends Language on 7/4</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-x50-gt-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Honor X50 GT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-tecno-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Tecno</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-google-pixel-7a-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Google Pixel 7a Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-proplus-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro+ Bootloader Easily</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/lightweight-travel-bags-with-camera-integration-for-2024/"><u>Lightweight Travel Bags with Camera Integration for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-x50iplus-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor X50i+ Device</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-v-purse-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor V Purse Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-pickup-game-systems-the-ultimate-guide-to-the-best-handheld-consoles/"><u>Top Pickup Game Systems: The Ultimate Guide to the Best Handheld Consoles</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/turbo-speed-photo-browser-for-windows-10-for-2024/"><u>Turbo Speed Photo Browser for Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-mixing-made-easy-free-luts-bundle-includes-dji-miniair-2-for-2024/"><u>[New] Mixing Made Easy Free LUTS Bundle Includes DJI Mini/Air 2 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-methods-for-smooth-volume-diminishment-in-lumafusion/"><u>[Updated] In 2024, Methods for Smooth Volume Diminishment in Lumafusion</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-fraps-experience-for-game-capture/"><u>[Updated] In 2024, The Ultimate Fraps Experience for Game Capture</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/abbyy-secures-top-position-in-peak-matrix-by-everest-group-winning-title-iv-as-industry-development-planning-idp-champion-2022/"><u>ABBYY Secures Top Position in PEAK Matrix® by Everest Group - Winning Title IV as Industry Development Planning (IDP) Champion, 2022</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Xiaomi Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Xiaomi Redmi Note 12 4G Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/novices-companion-to-av1-technology/"><u>Novice’s Companion to AV1 Technology</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-y100a-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y100A Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-redmi-note-13-pro-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Redmi Note 13 Pro 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-zte-axon-40-lite-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your ZTE Axon 40 Lite Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-reality-more-than-meets-the-eye/"><u>Virtual Reality More than Meets the Eye</u></a></li>
 </ul></div>
 
