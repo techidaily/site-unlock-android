@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove a Previously Synced Google Account from Your Honor 100 Pro
-date: 2025-02-09T18:34:46.588Z
-updated: 2025-02-12T18:06:06.508Z
+date: 2025-02-24T14:15:07.511Z
+updated: 2025-03-02T22:23:48.326Z
 tags: 
   - unlock
   - remove screen lock
@@ -93,27 +93,15 @@ Steps to remove FRP lock using Dr. Fone-Screen Unlock (Android)
 
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_homepage_1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Next, choose the OS version of your device from the given options, and then using a USB cable, connect your phone to your system.
 
 ![drfone screen unlock homepage](https://images.wondershare.com/drfone/guide/bypass-google-frp-on-android-6-9-10.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** After the Honor 100 Pro device is connected, the Honor 100 Pro device information will appear on the software for you to confirm and the notification for the same will be sent to your Android phone.
 
 **Step 5:** Now follow the notifications for removing the FRP lock and in the browser enter drfonetoolkit.com.
 
 ![screen unlock bypass google frp](https://images.wondershare.com/drfone/drfone/screen_unlock_frp_android10_1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 6:** Next, click on the Android 6/9/10 button, choose Open Settings and select the PIN option to set a PIN to be used in the further steps.
 
@@ -186,10 +174,6 @@ Follow these steps to unlock the Honor lock screen password without losing data:
 
 ![google find my device](https://images.wondershare.com/drfone/article/2022/10/unlock-nokia-screen-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2**: Sign in with your Google account, which you used on your locked Honor phone.
 - **Step 3**: The Android Device Manager dashboard will show your locked Honor with three options: Ring, Lock, and Erase.
 - **Step 4**: Simply click on "Lock".
@@ -257,10 +241,6 @@ You could reset your Honor lock screen phone using the default security code, ev
 
 `o 12345.`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you have a classic-style keypad phone or an Android device, unlocking a locked Honor phone keypad is not easy. However, we believe that every problem has a solution. You can unlock Honor Android phones using any of the methods listed above.
@@ -272,10 +252,6 @@ _**Tips:** [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone
 Pattern locks have been available for about as long as people can remember, and they have been hugely popular with people thanks to how easy it is to simply swipe your screen and unlock your smartphone, as against, say, keying in the 4-digit PIN/ 6-digit PIN. However, pattern locks are easy to crack, and today, we bring you all you want to know about pattern locks and how to create a **hard pattern lock**. Further to this, we also tell you how to move beyond pattern locks and what to do in case you forgot the hard pattern lock you just set and are unable to unlock your smartphone.
 
 ![creating more secure pattern locks](https://images.wondershare.com/drfone/article/2023/09/hard-pattern-lock-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What You Need to Know About Pattern Locks
 
@@ -360,10 +336,6 @@ Just in case you set a hard pattern lock and promptly forgot that abstruse patte
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 Remove the Hard Pattern Lock on Your Honor 100 Pro If You Forgot!
@@ -387,10 +359,6 @@ Step 2: Click Unlock Android Screen.
 
 ![drfone screen unlock android](https://images.wondershare.com/drfone/guide/android-screen-unlock-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3: Select your device manufacturer.
 
 ![drfone screen unlock manufacturer selection](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -399,17 +367,9 @@ Step 4: Prepare your device to unlock the screen.
 
 ![wipe partition cache instructions](https://images.wondershare.com/drfone/guide/unlock-android-screen-google.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When the greyed Next button becomes available, click it and wait for your device to be unlocked.
 
 ![screen unlock successful](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 All data on the Honor 100 Pro device is wiped under this method. Select Samsung phones may be unlocked without data loss. Check [this](https://drfone.wondershare.com/reference/android-lock-screen-removal.html) list for devices that may be unlocked without data loss.
 
@@ -431,22 +391,22 @@ Whether it is an easy pattern lock or a hard pattern lock, the fact is that patt
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-audio-capture-essentials-mastering-mac-setup/"><u>[New] 2024 Approved Audio Capture Essentials Mastering Mac Setup</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-get-save-and-enjoy-discover-these-6-excellent-linkedin-downloader-tools-for-2024/"><u>[Updated] Get, Save, and Enjoy Discover These 6 Excellent LinkedIn Downloader Tools for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-live-video-venue-verdict-the-best-between-obs-and-twitch-studios/"><u>[Updated] In 2024, Live Video Venue Verdict The Best Between OBS and Twitch Studios</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-pros-pathway-to-professionalism-making-videos-using-a-phone/"><u>[Updated] The Pro's Pathway to Professionalism Making Videos Using a Phone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-unveiling-video-capabilities-dslr-or-mirrorless-in-2024/"><u>[Updated] Unveiling Video Capabilities DSLR or Mirrorless, In 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/comenzar-a-conocer-el-tiempo-en-espanol/"><u>Comenzar a Conocer El Tiempo en Español</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/evite-errores-con-archivos-grandes-en-windows-tecnicas-para-disminuir-el-tamano-en-solo-cuatro-pasos/"><u>Evite Errores Con Archivos Grandes en Windows: Técnicas Para Disminuir El Tamaño en Solo Cuatro Pasos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-mix-fold-3-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi Mix Fold 3? Try These Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A70 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-itel-a60s-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Itel A60s Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Device</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/trustworthiness-of-ai-assistants-like-chatgpt-and-bard-suitable-for-money-matters/"><u>Trustworthiness of AI Assistants Like ChatGPT and Bard: Suitable for Money Matters?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/king-the-secrets-of-effective-youtube-thumbnails/"><u>Unlocking the Secrets of Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-25-ultimate-android-and-ios-downloading-tools-reviewed/"><u>[New] 2024 Approved 25 Ultimate Android & iOS Downloading Tools Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-curating-the-best-video-game-openers-on-yt-no-money-max-impact-in-2024/"><u>[New] Curating the Best Video Game Openers on YT No Money, Max Impact, In 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/itting-the-sweet-spot-top-5-tips-for-channel-growth-for-2024/"><u>[New] Hitting the Sweet Spot Top 5 Tips for Channel Growth for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-price-to-performance-laptops-under-500-gaming-edition/"><u>[Updated] 2024 Approved Best Price-to-Performance Laptops Under $500 (Gaming Edition)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-20-youtube-bards-for-unforgettable-tales-for-2024/"><u>[Updated] Top 20 YouTube Bards for Unforgettable Tales for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-s23plus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel S23+</u></a></li>
+<li><a href="https://win-bits.techidaily.com/deciphering-club-culture-a-guide-to-understanding-customer-song-choices-for-proficient-djs/"><u>Deciphering Club Culture: A Guide to Understanding Customer Song Choices for Proficient DJs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel Phone Screen?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-v30-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo V30</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-90-gt-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor 90 GT Lock Screen Password</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-itel-p40-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Itel P40 Face Lock?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-g2-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo G2?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-plus-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Infinix Smart 8 Plus Bootloader Easily</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-redefine-gaming-radeons-latest-release/"><u>In 2024, Redefine Gaming Radeon's Latest Release</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-note-12-pro-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/top-free-file-transfer-apps-compatible-with-windows-10/"><u>Top Free File Transfer Apps Compatible with Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Honor X8b Lock Screen Password?
-date: 2025-02-11T20:10:37.032Z
-updated: 2025-02-12T18:26:29.472Z
+date: 2025-02-24T21:09:04.392Z
+updated: 2025-03-03T07:02:44.119Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,10 +36,6 @@ Select Screen Lock Type under Settings > Lock Screen. From there, you may select
 
 ![how to set up password](https://images.wondershare.com/drfone/article/2022/11/how-to-change-lock-screen-password-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Swipe:** This lock type allows you to swipe in any direction on your screen to unlock your phone.
 
 **Pattern:** If you opt to unlock your phone in this manner, you must create a pattern on a 3-by-3-dot grid.
@@ -70,10 +66,6 @@ You may access the passwords saved in the Google Chrome app on a Mac or PC becau
 
 ## How to Change your Password when you forget it?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Google Find My Device
 
 As you are likely aware, every Android device is connected to a Google account. As a result, if you'd like, you may use it to unlock Android as well. You'll need to know your Google account login information for this. When you're ready, use these instructions to find out how to unlock a phone password.
@@ -84,10 +76,6 @@ As you are likely aware, every Android device is connected to a Google account. 
 2. You will see the gadgets connected to your Google account as you enter the interface, along with a map of where they are.
 3. To wipe the Honor X8b device, click the ERASE DEVICE option on the left side panel. You will then be required for your password.
 4. Once more, select "Erase." This will reset the Honor X8b device and get rid of the forgot pattern lock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Using Recovery Mode
 
@@ -144,10 +132,6 @@ Then go with the instructions for getting the Android phone into Recovery Mode. 
 _(Recovery Mode When the Samsung phone via Bixby)_
 
 ![bixby](https://images.wondershare.com/drfone/guide/unlock-android-screen-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _(Recovery Mode When the Samsung phone via Bixby)_
 
@@ -292,10 +276,6 @@ Blu
  |
 | --- | --- | --- |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Pros of Techeligible
 
 In general, **Techeligible FRP tools** can provide the convenience for users below:
@@ -351,15 +331,7 @@ Now check out below the steps on how to use the **Techeligible FRP Bypass** feat
 
 ![techeligible select frp brand](https://images.wondershare.com/drfone/article/2024/01/techelegible-frp-bypass-guide-07.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** A full guide will appear on the screen. Download the tools required for your specific phone model according to the guide. Then, follow the instructions for removing your specific device’s FRP lock.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part III. Wondershare Dr.Fone: Best Alternative to Techeligible FRP
 
@@ -404,10 +376,6 @@ Dr.Fone - Screen Unlock simplifies the daunting task of unlocking an Android dev
 - **Step 7:** Once you’ve identified your Android device’s model, Dr.Fone will guide you through entering **Download Mode**. Following the on-screen directions will take you to the next steps, where you may complete the operation. The following screens show the status of the screen unlocking procedure, which includes downloading the platform’s required drivers and configuration files.
 
 ![drfone screen unlock enter download mode](https://images.wondershare.com/drfone/guide/android-screen-unlock-without-data-loss-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 8:** A new screen will appear, signaling the operation is finished. If your device’s screen unlock problem has been resolved, click **Done**. If this is not the case, click the **Try Again** button.
 
@@ -499,18 +467,10 @@ Without a factory reset, Android phone passwords may also be unlocked using the 
 
 ![activate USB debugging from settings](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Launch the command prompt in the ADB installation directory after your device is connected to the system.
 - Press enter after typing "ADB shell rm /data/system/gesture.key" into the command line.
 
 ![go to system and enter command line](https://images.wondershare.com/drfone/article/2022/10/howt-to-unlock-your-phone-without-password-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Finally, just restart your smartphone and use it as normal.
 
@@ -653,16 +613,14 @@ It would be best if you had been able to answer the question, "How to unlock an 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-initiate-a-collaborative-skype-group-discussion-for-2024/"><u>[Updated] How to Initiate a Collaborative Skype Group Discussion for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unveiling-the-dynamics-an-in-depth-look-at-luminances-hdr-for-2024/"><u>[Updated] Unveiling the Dynamics An In-Depth Look at Luminance's HDR for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-quickcapture-pro-efficient-win11-video-recorder/"><u>2024 Approved QuickCapture Pro - Efficient Win11 Video Recorder</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advanced-ai-techniques-for-peak-performance/"><u>Advanced AI Techniques for Peak Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-performance-boosted-tips-and-tricks-to-overcome-latency-issues/"><u>Fortnite Performance Boosted: Tips and Tricks to Overcome Latency Issues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-tecno-camon-20-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Tecno Camon 20 Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-program-window-settings-in-windows-11/"><u>Mastering Program Window Settings in Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-itel-p55-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Itel P55 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-xiaomi-13t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Xiaomi 13T Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-s18e-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo S18e Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/win11-screen-quenched-issue-solved/"><u>Win11 Screen Quenched Issue Solved</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-discovering-the-superiority-of-apples-m1-macbooks/"><u>[New] Discovering the Superiority of Apple's M1 MacBooks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-seamless-cutting-techniques-5-top-tips-to-trim-and-edit-vimeo-videos-flawlessly-for-2024/"><u>[New] Seamless Cutting Techniques 5 Top Tips to Trim & Edit Vimeo Videos Flawlessly for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-art-of-online-recording/"><u>[Updated] In 2024, The Art of Online Recording</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-tecno-pova-6-pro-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Tecno Pova 6 Pro 5G Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-zte-blade-a73-5g-easily-by-drfone-android/"><u>How To Unlock a ZTE Blade A73 5G Easily?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-be-bold-on-igtv-the-10-cutting-edge-video-concepts-for-your-brand/"><u>In 2024, Be Bold on IGTV The 10 Cutting-Edge Video Concepts for Your Brand</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-note-30-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Note 30 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-future-of-advertising-on-youtube-shorts/"><u>In 2024, The Future of Advertising on YouTube Shorts</u></a></li>
 </ul></div>
 
